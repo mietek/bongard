@@ -53,18 +53,17 @@ def add_zoom(page):
     for image in main.iter("img"):
         image.set("loading", "lazy")
         image.set("decoding", "async")
-    for index, child in reversed(list(enumerate(main))):
-        if child.tag != "table":
+    for index, record in enumerate(main):
+        if record.get("class") != "record":
             continue
-        cell = child.find(".//td[object]")
+        cell = record.find(".//td[object]")
         if cell is None:
             continue
         heading = main[index - 1]
         if index == 0 or heading.tag != "h2":
             raise ValueError("Missing problem heading before derived sheet")
-        details = ET.Element("div", {"class": "details"})
+        details = ET.SubElement(record, "div", {"class": "details"})
         zoom_sheet(cell, details, heading.attrib["id"])
-        main.insert(index + 1, details)
         details.tail = "\n"
     return head + ET.tostring(main, method="html", encoding="unicode") + foot
 

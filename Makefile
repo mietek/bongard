@@ -8,13 +8,14 @@ all: $(pages)
 
 problems.html: tools/zoom.py $(wildcard img/derived/*D.svg)
 problems.html: zoom := --variable=zoom
+problems.html flagged.html: catalog := --variable=catalog --lua-filter=tools/record.lua
 
 define render
 	@set -e; tmp='$@.tmp'; trap 'rm -f "$$tmp"' EXIT; \
 	  title=$$(sed -n '1s/^# //p' '$<'); \
 	  $(PANDOC) --from=markdown-smart --to=html5 --wrap=none \
-	    --template=tools/page.tpl --lua-filter=tools/omit-alt.lua --metadata="title:$$title" $(zoom) \
-	    '$<' -o "$$tmp"; \
+	    --template=tools/page.tpl --lua-filter=tools/omit-alt.lua --metadata="title:$$title" \
+	    $(catalog) $(zoom) '$<' -o "$$tmp"; \
 	  if [ '$@' = problems.html ]; then $(PYTHON) tools/zoom.py "$$tmp"; fi; \
 	  mv "$$tmp" '$@'
 endef
@@ -22,5 +23,5 @@ endef
 index.html: README.md Makefile tools/page.tpl tools/omit-alt.lua
 	$(render)
 
-problems.html flagged.html: %.html: %.md Makefile tools/page.tpl tools/omit-alt.lua
+problems.html flagged.html: %.html: %.md Makefile tools/page.tpl tools/omit-alt.lua tools/record.lua
 	$(render)

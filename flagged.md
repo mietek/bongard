@@ -4,31 +4,40 @@
 
 ## BP159
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP159F][img/BP159F]  | [![BP159E][img/BP159E]  | Foundalis shows         |
-| ][img/BP159F]           | ][img/BP159E]           | isolated black bars,    |
-|                         |                         | while OEBP shows groups |
-|                         |                         | of two and three        |
-|                         |                         | objects. The published  |
-|                         |                         | grouping rule applies   |
-|                         |                         | to the OEBP             |
-|                         |                         | presentation.           |
-+-------------------------+-------------------------+-------------------------+
-| “Two clusters of 2+3,   | “Two clusters of 2+3,   | Treating the middle bar |
-| middle shape must be    | middle shape must be    | as a rectangle on the   |
-| seen as rectangle; Two  | seen as rectangle (AND  | left and as a line on   |
-| clusters of 2+3, middle | only one linelike       | the right gives two     |
-| shape must be seen as   | shape) vs. two clusters | groups of two and       |
-| piece of straight line” | of 2+3, middle shape    | three. Only one object  |
-|                         | must be seen as piece   | looks like a line on    |
-|                         | of straight line (AND   | the left, while several |
-|                         | more than one linelike  | do on the right.        |
-|                         | shape).”                |                         |
-+-------------------------+-------------------------+-------------------------+
-| [BP159F][url/BP159F]    | [BP159E][url/BP159E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP159F][img/BP159F] | “Two clusters of 2+3,  | [BP159F       |
+|           | ][img/BP159F]          | middle shape must be   | ][url/BP159F] |
+|           |                        | seen as rectangle; Two |               |
+|           |                        | clusters of 2+3,       |               |
+|           |                        | middle shape must be   |               |
+|           |                        | seen as piece of       |               |
+|           |                        | straight line”         |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP159E][img/BP159E] | “Two clusters of 2+3,  | [BP159E       |
+|           | ][img/BP159E]          | middle shape must be   | ][url/BP159E] |
+|           |                        | seen as rectangle (AND |               |
+|           |                        | only one linelike      |               |
+|           |                        | shape) vs. two         |               |
+|           |                        | clusters of 2+3,       |               |
+|           |                        | middle shape must be   |               |
+|           |                        | seen as piece of       |               |
+|           |                        | straight line (AND     |               |
+|           |                        | more than one linelike |               |
+|           |                        | shape).”               |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | Foundalis shows        | Treating the middle    |               |
+|           | isolated black bars,   | bar as a rectangle on  |               |
+|           | while OEBP shows       | the left and as a line |               |
+|           | groups of two and      | on the right gives two |               |
+|           | three objects. The     | groups of two and      |               |
+|           | published grouping     | three. Only one object |               |
+|           | rule applies to the    | looks like a line on   |               |
+|           | OEBP presentation.     | the left, while        |               |
+|           |                        | several do on the      |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP159F]: img/corrected/BP159F.png
 [img/BP159E]: img/original/BP159E.png
@@ -39,25 +48,29 @@
 
 ## BP171
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP171F][img/BP171F]  | [![BP171E][img/BP171E]  | Both sources call the   |
-| ][img/BP171F]           | ][img/BP171E]           | intersection of the     |
-|                         |                         | perpendicular bisectors |
-|                         |                         | the orthocenter. The    |
-|                         |                         | right drawings place    |
-|                         |                         | the circumcenter there. |
-+-------------------------+-------------------------+-------------------------+
-| “Angle bisectors meet   | “Angle bisectors meet   | The left lines bisect   |
-| at the incenter;        | at the incenter vs.     | the triangle’s angles   |
-| Perpendicular bisectors | perpendicular bisectors | at the incenter. The    |
-| meet at the             | meet at the             | right lines bisect its  |
-| orthocenter”            | orthocenter.”           | sides perpendicularly   |
-|                         |                         | at the circumcenter.    |
-+-------------------------+-------------------------+-------------------------+
-| [BP171F][url/BP171F]    | [BP171E][url/BP171E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP171F][img/BP171F] | “Angle bisectors meet  | [BP171F       |
+|           | ][img/BP171F]          | at the incenter;       | ][url/BP171F] |
+|           |                        | Perpendicular          |               |
+|           |                        | bisectors meet at the  |               |
+|           |                        | orthocenter”           |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP171E][img/BP171E] | “Angle bisectors meet  | [BP171E       |
+|           | ][img/BP171E]          | at the incenter vs.    | ][url/BP171E] |
+|           |                        | perpendicular          |               |
+|           |                        | bisectors meet at the  |               |
+|           |                        | orthocenter.”          |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | Both sources call the  | The left lines bisect  |               |
+|           | intersection of the    | the triangle’s angles  |               |
+|           | perpendicular          | at the incenter. The   |               |
+|           | bisectors the          | right lines bisect its |               |
+|           | orthocenter. The right | sides perpendicularly  |               |
+|           | drawings place the     | at the circumcenter.   |               |
+|           | circumcenter there.    |                        |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP171F]: img/corrected/BP171F.png
 [img/BP171E]: img/original/BP171E.png
@@ -68,25 +81,23 @@
 
 ## BP172
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP172F][img/BP172F]  | [![BP172E][img/BP172E]  | After the correction,   |
-| ][img/BP172F]           | ][img/BP172E]           | R3 is an empty square.  |
-|                         |                         | Losing its interior     |
-|                         |                         | strokes gives it the    |
-|                         |                         | rotational symmetry     |
-|                         |                         | reserved for the left.  |
-+-------------------------+-------------------------+-------------------------+
-| “Radially symmetric;    | “Rotationally symmetric | A rotation through less |
-| Not radially symmetric” | vs. not.”               | than a full turn        |
-|                         |                         | reproduces the left     |
-|                         |                         | figure. Only a full     |
-|                         |                         | turn restores the right |
-|                         |                         | figure.                 |
-+-------------------------+-------------------------+-------------------------+
-| [BP172F][url/BP172F]    | [BP172E][url/BP172E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP172F][img/BP172F] | “Radially symmetric;   | [BP172F       |
+|           | ][img/BP172F]          | Not radially           | ][url/BP172F] |
+|           |                        | symmetric”             |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP172E][img/BP172E] | “Rotationally          | [BP172E       |
+|           | ][img/BP172E]          | symmetric vs. not.”    | ][url/BP172E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | After the correction,  | A rotation through     |               |
+|           | R3 is an empty square. | less than a full turn  |               |
+|           | Losing its interior    | reproduces the left    |               |
+|           | strokes gives it the   | figure. Only a full    |               |
+|           | rotational symmetry    | turn restores the      |               |
+|           | reserved for the left. | right figure.          |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP172F]: img/corrected/BP172F.png
 [img/BP172E]: img/original/BP172E.png
@@ -97,25 +108,22 @@
 
 ## BP197
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP197F][img/BP197F]  | [![BP197E][img/BP197E]  | Fine strokes disappear  |
-| ][img/BP197F]           | ][img/BP197E]           | from both typefaces in  |
-|                         |                         | the redraw, so the      |
-|                         |                         | lettering no longer     |
-|                         |                         | shows the distinction   |
-|                         |                         | reliably.               |
-+-------------------------+-------------------------+-------------------------+
-| “Some style (font);     | “Some style (font) vs.  | The same six words or   |
-| Another style (font)”   | another style (font).”  | phrases appear on both  |
-|                         |                         | sides. The typeface     |
-|                         |                         | distinguishes the left  |
-|                         |                         | examples from the right |
-|                         |                         | examples.               |
-+-------------------------+-------------------------+-------------------------+
-| [BP197F][url/BP197F]    | [BP197E][url/BP197E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP197F][img/BP197F] | “Some style (font);    | [BP197F       |
+|           | ][img/BP197F]          | Another style (font)”  | ][url/BP197F] |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP197E][img/BP197E] | “Some style (font) vs. | [BP197E       |
+|           | ][img/BP197E]          | another style (font).” | ][url/BP197E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | Fine strokes disappear | The same six words or  |               |
+|           | from both typefaces in | phrases appear on both |               |
+|           | the redraw, so the     | sides. The typeface    |               |
+|           | lettering no longer    | distinguishes the left |               |
+|           | shows the distinction  | examples from the      |               |
+|           | reliably.              | right examples.        |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP197F]: img/corrected/BP197F.png
 [img/BP197E]: img/original/BP197E.png
@@ -126,19 +134,19 @@
 
 ## BP202
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP202F][img/BP202F]  | [![BP202E][img/BP202E]  | OEBP omits one of       |
-| ][img/BP202F]           | ][img/BP202E]           | Foundalis’s six right   |
-|                         |                         | examples.               |
-+-------------------------+-------------------------+-------------------------+
-| “Even number; Odd       | “Even number vs. odd    | The number of objects   |
-| number”                 | number.”                | is even on the left and |
-|                         |                         | odd on the right.       |
-+-------------------------+-------------------------+-------------------------+
-| [BP202F][url/BP202F]    | [BP202E][url/BP202E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP202F][img/BP202F] | “Even number; Odd      | [BP202F       |
+|           | ][img/BP202F]          | number”                | ][url/BP202F] |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP202E][img/BP202E] | “Even number vs. odd   | [BP202E       |
+|           | ][img/BP202E]          | number.”               | ][url/BP202E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP omits one of      | The number of objects  |               |
+|           | Foundalis’s six right  | is even on the left    |               |
+|           | examples.              | and odd on the right.  |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP202F]: img/corrected/BP202F.png
 [img/BP202E]: img/original/BP202E.png
@@ -149,20 +157,20 @@
 
 ## BP203
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP203F][img/BP203F]  | [![BP203E][img/BP203E]  | OEBP omits one of       |
-| ][img/BP203F]           | ][img/BP203E]           | Foundalis’s left        |
-|                         |                         | examples and three of   |
-|                         |                         | his right examples.     |
-+-------------------------+-------------------------+-------------------------+
-| “Prime number;          | “Prime number vs.       | The object count is     |
-| Composite number”       | composite number.”      | prime on the left and   |
-|                         |                         | composite on the right. |
-+-------------------------+-------------------------+-------------------------+
-| [BP203F][url/BP203F]    | [BP203E][url/BP203E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP203F][img/BP203F] | “Prime number;         | [BP203F       |
+|           | ][img/BP203F]          | Composite number”      | ][url/BP203F] |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP203E][img/BP203E] | “Prime number vs.      | [BP203E       |
+|           | ][img/BP203E]          | composite number.”     | ][url/BP203E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP omits one of      | The object count is    |               |
+|           | Foundalis’s left       | prime on the left and  |               |
+|           | examples and three of  | composite on the       |               |
+|           | his right examples.    | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP203F]: img/corrected/BP203F.png
 [img/BP203E]: img/original/BP203E.png
@@ -173,22 +181,25 @@
 
 ## BP210
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP210F][img/BP210F]  | [![BP210E][img/BP210E]  | One of Foundalis’s      |
-| ][img/BP210F]           | ][img/BP210E]           | right examples is       |
-|                         |                         | missing from the OEBP   |
-|                         |                         | presentation.           |
-+-------------------------+-------------------------+-------------------------+
-| “Part of at least one   | “Part of at least one   | At least one shape      |
-| object is out of box;   | object is out of box    | extends beyond the      |
-| All objects are within  | vs. all objects are     | frame on the left. The  |
-| the box”                | within the box.”        | frame contains all the  |
-|                         |                         | shapes on the right.    |
-+-------------------------+-------------------------+-------------------------+
-| [BP210F][url/BP210F]    | [BP210E][url/BP210E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP210F][img/BP210F] | “Part of at least one  | [BP210F       |
+|           | ][img/BP210F]          | object is out of box;  | ][url/BP210F] |
+|           |                        | All objects are within |               |
+|           |                        | the box”               |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP210E][img/BP210E] | “Part of at least one  | [BP210E       |
+|           | ][img/BP210E]          | object is out of box   | ][url/BP210E] |
+|           |                        | vs. all objects are    |               |
+|           |                        | within the box.”       |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | One of Foundalis’s     | At least one shape     |               |
+|           | right examples is      | extends beyond the     |               |
+|           | missing from the OEBP  | frame on the left. The |               |
+|           | presentation.          | frame contains all the |               |
+|           |                        | shapes on the right.   |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP210F]: img/corrected/BP210F.png
 [img/BP210E]: img/original/BP210E.png
@@ -199,24 +210,24 @@
 
 ## BP211
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP211F][img/BP211F]  | [![BP211E][img/BP211E]  | OEBP expands both       |
-| ][img/BP211F]           | ][img/BP211E]           | collections, and its    |
-|                         |                         | six displayed examples  |
-|                         |                         | on each side differ     |
-|                         |                         | from Foundalis’s        |
-|                         |                         | selection.              |
-+-------------------------+-------------------------+-------------------------+
-| “More black than white; | “More black than white  | Black covers more area  |
-| More white than black”  | vs. more white than     | than white on the left  |
-|                         | black.”                 | and less area on the    |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP211F][url/BP211F]    | [BP211E (6+6            |                         |
-|                         | more)][url/BP211E]      |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP211F][img/BP211F] | “More black than       | [BP211F       |
+|           | ][img/BP211F]          | white; More white than | ][url/BP211F] |
+|           |                        | black”                 |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP211E][img/BP211E] | “More black than white | [BP211E (6+6  |
+|           | ][img/BP211E]          | vs. more white than    | more)         |
+|           |                        | black.”                | ][url/BP211E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP expands both      | Black covers more area |               |
+|           | collections, and its   | than white on the left |               |
+|           | six displayed examples | and less area on the   |               |
+|           | on each side differ    | right.                 |               |
+|           | from Foundalis’s       |                        |               |
+|           | selection.             |                        |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP211F]: img/corrected/BP211F.png
 [img/BP211E]: img/original/BP211E.png
@@ -227,21 +238,21 @@
 
 ## BP214
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP214F][img/BP214F]  | [![BP214E][img/BP214E]  | One of Foundalis’s six  |
-| ][img/BP214F]           | ][img/BP214E]           | right examples is       |
-|                         |                         | missing from OEBP.      |
-+-------------------------+-------------------------+-------------------------+
-| ““Smiley face”; Not a   | “Smiley face vs. not a  | The marks read as a     |
-| "smiley face””          | smiley face.”           | smiling face on the     |
-|                         |                         | left and lack that      |
-|                         |                         | arrangement on the      |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP214F][url/BP214F]    | [BP214E][url/BP214E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP214F][img/BP214F] | ““Smiley face”; Not a  | [BP214F       |
+|           | ][img/BP214F]          | "smiley face””         | ][url/BP214F] |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP214E][img/BP214E] | “Smiley face vs. not a | [BP214E       |
+|           | ][img/BP214E]          | smiley face.”          | ][url/BP214E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | One of Foundalis’s six | The marks read as a    |               |
+|           | right examples is      | smiling face on the    |               |
+|           | missing from OEBP.     | left and lack that     |               |
+|           |                        | arrangement on the     |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP214F]: img/corrected/BP214F.png
 [img/BP214E]: img/original/BP214E.png
@@ -252,27 +263,28 @@
 
 ## BP233
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP233F][img/BP233F]  | [![BP233E][img/BP233E]  | The average is 8% after |
-| ][img/BP233F]           | ][img/BP233E]           | the redraw. The         |
-|                         |                         | black-ink comparison    |
-|                         |                         | drops most of the       |
-|                         |                         | original’s pale         |
-|                         |                         | strokes.                |
-+-------------------------+-------------------------+-------------------------+
-| “Lines plus triangles   | “Lines plus triangles   | Adding the number of    |
-| equal stars; Lines      | equal stars vs. lines   | triangles to the number |
-| minus triangles equal   | minus triangles equal   | of lines gives the      |
-| stars”                  | stars.”                 | number of stars on the  |
-|                         |                         | left. Subtracting the   |
-|                         |                         | triangles from the      |
-|                         |                         | lines gives it on the   |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP233F][url/BP233F]    | [BP233E][url/BP233E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP233F][img/BP233F] | “Lines plus triangles  | [BP233F       |
+|           | ][img/BP233F]          | equal stars; Lines     | ][url/BP233F] |
+|           |                        | minus triangles equal  |               |
+|           |                        | stars”                 |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP233E][img/BP233E] | “Lines plus triangles  | [BP233E       |
+|           | ][img/BP233E]          | equal stars vs. lines  | ][url/BP233E] |
+|           |                        | minus triangles equal  |               |
+|           |                        | stars.”                |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The average is 8%      | Adding the number of   |               |
+|           | after the redraw. The  | triangles to the       |               |
+|           | black-ink comparison   | number of lines gives  |               |
+|           | drops most of the      | the number of stars on |               |
+|           | original’s pale        | the left. Subtracting  |               |
+|           | strokes.               | the triangles from the |               |
+|           |                        | lines gives it on the  |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP233F]: img/corrected/BP233F.png
 [img/BP233E]: img/original/BP233E.png
@@ -283,26 +295,34 @@
 
 ## BP234
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP234F][img/BP234F]  | [![BP234E][img/BP234E]  | The average is 16%      |
-| ][img/BP234F]           | ][img/BP234E]           | after the redraw. The   |
-|                         |                         | black-ink comparison    |
-|                         |                         | drops most of the       |
-|                         |                         | original’s pale         |
-|                         |                         | strokes.                |
-+-------------------------+-------------------------+-------------------------+
-| “Circle falls by        | “Circle falls by        | Under gravity the       |
-| gravity on the right    | gravity on the right of | circle would clear the  |
-| half of box if let      | all other objects if    | other objects on their  |
-| loose; Circle falls by  | let loose vs. circle    | right in a left example |
-| gravity on the left     | falls by gravity on the | and on their left in a  |
-| half of box if let      | left of all other       | right example.          |
-| loose”                  | objects if let loose.”  |                         |
-+-------------------------+-------------------------+-------------------------+
-| [BP234F][url/BP234F]    | [BP234E][url/BP234E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP234F][img/BP234F] | “Circle falls by       | [BP234F       |
+|           | ][img/BP234F]          | gravity on the right   | ][url/BP234F] |
+|           |                        | half of box if let     |               |
+|           |                        | loose; Circle falls by |               |
+|           |                        | gravity on the left    |               |
+|           |                        | half of box if let     |               |
+|           |                        | loose”                 |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP234E][img/BP234E] | “Circle falls by       | [BP234E       |
+|           | ][img/BP234E]          | gravity on the right   | ][url/BP234E] |
+|           |                        | of all other objects   |               |
+|           |                        | if let loose vs.       |               |
+|           |                        | circle falls by        |               |
+|           |                        | gravity on the left of |               |
+|           |                        | all other objects if   |               |
+|           |                        | let loose.”            |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The average is 16%     | Under gravity the      |               |
+|           | after the redraw. The  | circle would clear the |               |
+|           | black-ink comparison   | other objects on their |               |
+|           | drops most of the      | right in a left        |               |
+|           | original’s pale        | example and on their   |               |
+|           | strokes.               | left in a right        |               |
+|           |                        | example.               |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP234F]: img/corrected/BP234F.png
 [img/BP234E]: img/original/BP234E.png
@@ -313,25 +333,30 @@
 
 ## BP235
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP235F][img/BP235F]  | [![BP235E][img/BP235E]  | The average is 3% after |
-| ][img/BP235F]           | ][img/BP235E]           | the redraw. The         |
-|                         |                         | black-ink comparison    |
-|                         |                         | drops most of the       |
-|                         |                         | original’s pale         |
-|                         |                         | strokes.                |
-+-------------------------+-------------------------+-------------------------+
-| “The “rope”, if         | “The rope, if extended, | Straightening the rope  |
-| extended, reaches the   | reaches the other ball  | would let the attached  |
-| other ball; The “rope”, | vs. the rope, if        | ball reach the other    |
-| if extended, does not   | extended, does not      | ball on the left. The   |
-| reach the other ball”   | reach the other ball.”  | rope falls short on the |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP235F][url/BP235F]    | [BP235E][url/BP235E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP235F][img/BP235F] | “The “rope”, if        | [BP235F       |
+|           | ][img/BP235F]          | extended, reaches the  | ][url/BP235F] |
+|           |                        | other ball; The        |               |
+|           |                        | “rope”, if extended,   |               |
+|           |                        | does not reach the     |               |
+|           |                        | other ball”            |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP235E][img/BP235E] | “The rope, if          | [BP235E       |
+|           | ][img/BP235E]          | extended, reaches the  | ][url/BP235E] |
+|           |                        | other ball vs. the     |               |
+|           |                        | rope, if extended,     |               |
+|           |                        | does not reach the     |               |
+|           |                        | other ball.”           |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The average is 3%      | Straightening the rope |               |
+|           | after the redraw. The  | would let the attached |               |
+|           | black-ink comparison   | ball reach the other   |               |
+|           | drops most of the      | ball on the left. The  |               |
+|           | original’s pale        | rope falls short on    |               |
+|           | strokes.               | the right.             |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP235F]: img/corrected/BP235F.png
 [img/BP235E]: img/original/BP235E.png
@@ -342,25 +367,30 @@
 
 ## BP237
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP237F][img/BP237F]  | [![BP237E][img/BP237E]  | The average is 12%      |
-| ][img/BP237F]           | ][img/BP237E]           | after the redraw. The   |
-|                         |                         | black-ink comparison    |
-|                         |                         | drops most of the       |
-|                         |                         | original’s pale         |
-|                         |                         | strokes.                |
-+-------------------------+-------------------------+-------------------------+
-| “Upper central line     | “Upper central line     | The upper central       |
-| appears shorter than    | APPEARS shorter than    | segment looks shorter   |
-| lower central line;     | lower central line vs.  | than the lower one on   |
-| Upper central line      | upper central line      | the left and longer on  |
-| appears longer than     | APPEARS longer than     | the right.              |
-| lower central line”     | lower central line.”    |                         |
-+-------------------------+-------------------------+-------------------------+
-| [BP237F][url/BP237F]    | [BP237E][url/BP237E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP237F][img/BP237F] | “Upper central line    | [BP237F       |
+|           | ][img/BP237F]          | appears shorter than   | ][url/BP237F] |
+|           |                        | lower central line;    |               |
+|           |                        | Upper central line     |               |
+|           |                        | appears longer than    |               |
+|           |                        | lower central line”    |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP237E][img/BP237E] | “Upper central line    | [BP237E       |
+|           | ][img/BP237E]          | APPEARS shorter than   | ][url/BP237E] |
+|           |                        | lower central line vs. |               |
+|           |                        | upper central line     |               |
+|           |                        | APPEARS longer than    |               |
+|           |                        | lower central line.”   |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The average is 12%     | The upper central      |               |
+|           | after the redraw. The  | segment looks shorter  |               |
+|           | black-ink comparison   | than the lower one on  |               |
+|           | drops most of the      | the left and longer on |               |
+|           | original’s pale        | the right.             |               |
+|           | strokes.               |                        |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP237F]: img/corrected/BP237F.png
 [img/BP237E]: img/original/BP237E.png
@@ -371,21 +401,23 @@
 
 ## BP242
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP242F][img/BP242F]  | [![BP242E][img/BP242E]  | OEBP changes a left     |
-| ][img/BP242F]           | ][img/BP242E]           | drawing and omits one   |
-|                         |                         | of the right drawings.  |
-+-------------------------+-------------------------+-------------------------+
-| “Convex hull is a       | “Convex hull is a       | The convex hull of the  |
-| square; Convex hull is  | square vs. convex hull  | figure is a square on   |
-| not a square”           | is not a square.”       | the left and has a      |
-|                         |                         | different shape on the  |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP242F][url/BP242F]    | [BP242E][url/BP242E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP242F][img/BP242F] | “Convex hull is a      | [BP242F       |
+|           | ][img/BP242F]          | square; Convex hull is | ][url/BP242F] |
+|           |                        | not a square”          |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP242E][img/BP242E] | “Convex hull is a      | [BP242E       |
+|           | ][img/BP242E]          | square vs. convex hull | ][url/BP242E] |
+|           |                        | is not a square.”      |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP changes a left    | The convex hull of the |               |
+|           | drawing and omits one  | figure is a square on  |               |
+|           | of the right drawings. | the left and has a     |               |
+|           |                        | different shape on the |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP242F]: img/corrected/BP242F.png
 [img/BP242E]: img/original/BP242E.png
@@ -396,28 +428,35 @@
 
 ## BP244
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP244F][img/BP244F]  | [![BP244E][img/BP244E]  | The redrawn grid lines  |
-| ][img/BP244F]           | ][img/BP244E]           | in L1 stop short of the |
-|                         |                         | frame. Its outer cells  |
-|                         |                         | run together, making    |
-|                         |                         | the spacing of the      |
-|                         |                         | black squares           |
-|                         |                         | ambiguous.              |
-+-------------------------+-------------------------+-------------------------+
-| “Scanning               | “Scanning               | In reading order the    |
-| left-to-right,          | left-to-right,          | black squares are       |
-| top-to-bottom, each     | top-to-bottom, each     | equally spaced in the   |
-| filled box is separated | filled box is separated | sequence of cells on    |
-| from the next filled    | from the next filled    | the left. The gaps vary |
-| box by the same number  | box by the same number  | on the right.           |
-| of empty boxes; Not so” | of empty boxes vs. not  |                         |
-|                         | so.”                    |                         |
-+-------------------------+-------------------------+-------------------------+
-| [BP244F][url/BP244F]    | [BP244E][url/BP244E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP244F][img/BP244F] | “Scanning              | [BP244F       |
+|           | ][img/BP244F]          | left-to-right,         | ][url/BP244F] |
+|           |                        | top-to-bottom, each    |               |
+|           |                        | filled box is          |               |
+|           |                        | separated from the     |               |
+|           |                        | next filled box by the |               |
+|           |                        | same number of empty   |               |
+|           |                        | boxes; Not so”         |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP244E][img/BP244E] | “Scanning              | [BP244E       |
+|           | ][img/BP244E]          | left-to-right,         | ][url/BP244E] |
+|           |                        | top-to-bottom, each    |               |
+|           |                        | filled box is          |               |
+|           |                        | separated from the     |               |
+|           |                        | next filled box by the |               |
+|           |                        | same number of empty   |               |
+|           |                        | boxes vs. not so.”     |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The redrawn grid lines | In reading order the   |               |
+|           | in L1 stop short of    | black squares are      |               |
+|           | the frame. Its outer   | equally spaced in the  |               |
+|           | cells run together,    | sequence of cells on   |               |
+|           | making the spacing of  | the left. The gaps     |               |
+|           | the black squares      | vary on the right.     |               |
+|           | ambiguous.             |                        |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP244F]: img/corrected/BP244F.png
 [img/BP244E]: img/original/BP244E.png
@@ -428,25 +467,24 @@
 
 ## BP252
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP252F][img/BP252F]  | [![BP252E][img/BP252E]  | In L2 the redraw fills  |
-| ][img/BP252F]           | ][img/BP252E]           | the two beam joints     |
-|                         |                         | with black triangles,   |
-|                         |                         | obscuring the           |
-|                         |                         | connections that make   |
-|                         |                         | the object impossible.  |
-+-------------------------+-------------------------+-------------------------+
-| “Impossible solid in    | “Impossible solid in    | The apparent            |
-| 3-D; Possible solid in  | 3-D vs. possible solid  | three-dimensional       |
-| 3-D”                    | in 3-D.”                | object is impossible to |
-|                         |                         | build on the left and   |
-|                         |                         | geometrically possible  |
-|                         |                         | on the right.           |
-+-------------------------+-------------------------+-------------------------+
-| [BP252F][url/BP252F]    | [BP252E][url/BP252E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP252F][img/BP252F] | “Impossible solid in   | [BP252F       |
+|           | ][img/BP252F]          | 3-D; Possible solid in | ][url/BP252F] |
+|           |                        | 3-D”                   |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP252E][img/BP252E] | “Impossible solid in   | [BP252E       |
+|           | ][img/BP252E]          | 3-D vs. possible solid | ][url/BP252E] |
+|           |                        | in 3-D.”               |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | In L2 the redraw fills | The apparent           |               |
+|           | the two beam joints    | three-dimensional      |               |
+|           | with black triangles,  | object is impossible   |               |
+|           | obscuring the          | to build on the left   |               |
+|           | connections that make  | and geometrically      |               |
+|           | the object impossible. | possible on the right. |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP252F]: img/corrected/BP252F.png
 [img/BP252E]: img/original/BP252E.png
@@ -457,25 +495,27 @@
 
 ## BP260
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP260F][img/BP260F]  | [![BP260E][img/BP260E]  | Several redrawn squares |
-| ][img/BP260F]           | ][img/BP260E]           | lose sides, including   |
-|                         |                         | the squares in L3. The  |
-|                         |                         | open outlines make it   |
-|                         |                         | unclear which objects   |
-|                         |                         | occupy squares.         |
-+-------------------------+-------------------------+-------------------------+
-| “Squares are either all | “Squares are either all | The squares are either  |
-| empty or all contain    | empty or all contain    | all empty or all        |
-| something; Not so”      | something vs. not so.”  | occupied on the left.   |
-|                         |                         | Empty and occupied      |
-|                         |                         | squares occur together  |
-|                         |                         | on the right.           |
-+-------------------------+-------------------------+-------------------------+
-| [BP260F][url/BP260F]    | [BP260E][url/BP260E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP260F][img/BP260F] | “Squares are either    | [BP260F       |
+|           | ][img/BP260F]          | all empty or all       | ][url/BP260F] |
+|           |                        | contain something; Not |               |
+|           |                        | so”                    |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP260E][img/BP260E] | “Squares are either    | [BP260E       |
+|           | ][img/BP260E]          | all empty or all       | ][url/BP260E] |
+|           |                        | contain something vs.  |               |
+|           |                        | not so.”               |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | Several redrawn        | The squares are either |               |
+|           | squares lose sides,    | all empty or all       |               |
+|           | including the squares  | occupied on the left.  |               |
+|           | in L3. The open        | Empty and occupied     |               |
+|           | outlines make it       | squares occur together |               |
+|           | unclear which objects  | on the right.          |               |
+|           | occupy squares.        |                        |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP260F]: img/corrected/BP260F.png
 [img/BP260E]: img/original/BP260E.png
@@ -486,24 +526,26 @@
 
 ## BP293
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP293F][img/BP293F]  | [![BP293E][img/BP293E]  | The redraw loses the    |
-| ][img/BP293F]           | ][img/BP293E]           | diagonal subdivisions   |
-|                         |                         | in R5. Its square has   |
-|                         |                         | only two enclosed       |
-|                         |                         | parts, although the     |
-|                         |                         | rule requires four.     |
-+-------------------------+-------------------------+-------------------------+
-| “Square divided into    | “Square divided into    | The four parts of the   |
-| four areas of the same  | four areas of the same  | square are congruent on |
-| size and shape; Not so” | size and shape vs. not  | the left and differ in  |
-|                         | so.”                    | size or shape on the    |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP293F][url/BP293F]    | [BP293E][url/BP293E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP293F][img/BP293F] | “Square divided into   | [BP293F       |
+|           | ][img/BP293F]          | four areas of the same | ][url/BP293F] |
+|           |                        | size and shape; Not    |               |
+|           |                        | so”                    |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP293E][img/BP293E] | “Square divided into   | [BP293E       |
+|           | ][img/BP293E]          | four areas of the same | ][url/BP293E] |
+|           |                        | size and shape vs. not |               |
+|           |                        | so.”                   |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The redraw loses the   | The four parts of the  |               |
+|           | diagonal subdivisions  | square are congruent   |               |
+|           | in R5. Its square has  | on the left and differ |               |
+|           | only two enclosed      | in size or shape on    |               |
+|           | parts, although the    | the right.             |               |
+|           | rule requires four.    |                        |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP293F]: img/original/BP293F.png
 [img/BP293E]: img/original/BP293E.png
@@ -514,22 +556,23 @@
 
 ## BP300
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP300F][img/BP300F]  | [![BP300E][img/BP300E]  | The rule depends on     |
-| ][img/BP300F]           | ][img/BP300E]           | changes in speed. Both  |
-|                         |                         | sources use animated    |
-|                         |                         | examples.               |
-+-------------------------+-------------------------+-------------------------+
-| “Acceleration and       | “Acceleration and       | The moving object       |
-| deceleration; Constant  | deceleration vs.        | changes speed on the    |
-| speed”                  | constant speed.”        | left and travels at     |
-|                         |                         | constant speed on the   |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP300F][url/BP300F]    | [BP300E][url/BP300E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP300F][img/BP300F] | “Acceleration and      | [BP300F       |
+|           | ][img/BP300F]          | deceleration; Constant | ][url/BP300F] |
+|           |                        | speed”                 |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP300E][img/BP300E] | “Acceleration and      | [BP300E       |
+|           | ][img/BP300E]          | deceleration vs.       | ][url/BP300E] |
+|           |                        | constant speed.”       |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The rule depends on    | The moving object      |               |
+|           | changes in speed. Both | changes speed on the   |               |
+|           | sources use animated   | left and travels at    |               |
+|           | examples.              | constant speed on the  |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP300F]: img/corrected/BP300F.png
 [img/BP300E]: img/original/BP300E.png
@@ -540,25 +583,33 @@
 
 ## BP301
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP301F][img/BP301F]  | [![BP301E][img/BP301E]  | OEBP omits a Foundalis  |
-| ][img/BP301F]           | ][img/BP301E]           | left example and places |
-|                         |                         | one of his right        |
-|                         |                         | examples in its         |
-|                         |                         | undecided group.        |
-+-------------------------+-------------------------+-------------------------+
-| “Large and medium-sized | “Large and medium-sized | Each example contains a |
-| square, the latter can  | square, the latter can  | large square and a      |
-| be hidden; Large and    | be hidden vs. large and | second square that may  |
-| small-sized square, the | small-sized square, the | be hidden. The second   |
-| latter can be hidden”   | latter can be hidden.”  | square is medium-sized  |
-|                         |                         | on the left and small   |
-|                         |                         | on the right.           |
-+-------------------------+-------------------------+-------------------------+
-| [BP301F][url/BP301F]    | [BP301E][url/BP301E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP301F][img/BP301F] | “Large and             | [BP301F       |
+|           | ][img/BP301F]          | medium-sized square,   | ][url/BP301F] |
+|           |                        | the latter can be      |               |
+|           |                        | hidden; Large and      |               |
+|           |                        | small-sized square,    |               |
+|           |                        | the latter can be      |               |
+|           |                        | hidden”                |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP301E][img/BP301E] | “Large and             | [BP301E       |
+|           | ][img/BP301E]          | medium-sized square,   | ][url/BP301E] |
+|           |                        | the latter can be      |               |
+|           |                        | hidden vs. large and   |               |
+|           |                        | small-sized square,    |               |
+|           |                        | the latter can be      |               |
+|           |                        | hidden.”               |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP omits a Foundalis | Each example contains  |               |
+|           | left example and       | a large square and a   |               |
+|           | places one of his      | second square that may |               |
+|           | right examples in its  | be hidden. The second  |               |
+|           | undecided group.       | square is medium-sized |               |
+|           |                        | on the left and small  |               |
+|           |                        | on the right.          |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP301F]: img/original/BP301F.png
 [img/BP301E]: img/original/BP301E.png
@@ -569,26 +620,29 @@
 
 ## BP315
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP315F][img/BP315F]  | [![BP315E][img/BP315E]  | In the corrected L5     |
-| ][img/BP315F]           | ][img/BP315E]           | every region is         |
-|                         |                         | reachable from a marked |
-|                         |                         | place. The rule         |
-|                         |                         | requires a region that  |
-|                         |                         | neither mark can reach. |
-+-------------------------+-------------------------+-------------------------+
-| “One area unreachable   | “One area unreachable   | One region of the maze  |
-| by the marked           | by the marked locations | is unreachable from     |
-| locations; All areas    | vs. all areas reachable | either marked place on  |
-| reachable by the marked | by the marked           | the left. Every region  |
-| locations”              | locations.”             | is reachable from a     |
-|                         |                         | marked place on the     |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP315F][url/BP315F]    | [BP315E][url/BP315E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP315F][img/BP315F] | “One area unreachable  | [BP315F       |
+|           | ][img/BP315F]          | by the marked          | ][url/BP315F] |
+|           |                        | locations; All areas   |               |
+|           |                        | reachable by the       |               |
+|           |                        | marked locations”      |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP315E][img/BP315E] | “One area unreachable  | [BP315E       |
+|           | ][img/BP315E]          | by the marked          | ][url/BP315E] |
+|           |                        | locations vs. all      |               |
+|           |                        | areas reachable by the |               |
+|           |                        | marked locations.”     |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | In the corrected L5    | One region of the maze |               |
+|           | every region is        | is unreachable from    |               |
+|           | reachable from a       | either marked place on |               |
+|           | marked place. The rule | the left. Every region |               |
+|           | requires a region that | is reachable from a    |               |
+|           | neither mark can       | marked place on the    |               |
+|           | reach.                 | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP315F]: img/original/BP315F.png
 [img/BP315E]: img/original/BP315E.png
@@ -599,23 +653,23 @@
 
 ## BP316
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP316F][img/BP316F]  | [![BP316E][img/BP316E]  | In the corrected R1 a   |
-| ][img/BP316F]           | ][img/BP316E]           | gap in a maze wall      |
-|                         |                         | creates a circuit.      |
-|                         |                         | Right examples must     |
-|                         |                         | have no circuit.        |
-+-------------------------+-------------------------+-------------------------+
-| “At least one path is a | “At least one path is a | The maze contains a     |
-| cycle; No path is a     | cycle vs. no path is a  | route that makes a      |
-| cycle”                  | cycle.”                 | circuit on the left.    |
-|                         |                         | All routes are free of  |
-|                         |                         | circuits on the right.  |
-+-------------------------+-------------------------+-------------------------+
-| [BP316F][url/BP316F]    | [BP316E][url/BP316E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP316F][img/BP316F] | “At least one path is  | [BP316F       |
+|           | ][img/BP316F]          | a cycle; No path is a  | ][url/BP316F] |
+|           |                        | cycle”                 |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP316E][img/BP316E] | “At least one path is  | [BP316E       |
+|           | ][img/BP316E]          | a cycle vs. no path is | ][url/BP316E] |
+|           |                        | a cycle.”              |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | In the corrected R1 a  | The maze contains a    |               |
+|           | gap in a maze wall     | route that makes a     |               |
+|           | creates a circuit.     | circuit on the left.   |               |
+|           | Right examples must    | All routes are free of |               |
+|           | have no circuit.       | circuits on the right. |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP316F]: img/original/BP316F.png
 [img/BP316E]: img/original/BP316E.png
@@ -626,26 +680,27 @@
 
 ## BP344
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP344F][img/BP344F]  | [![BP344E][img/BP344E]  | OEBP replaces a right   |
-| ][img/BP344F]           | ][img/BP344E]           | drawing and describes   |
-|                         |                         | self-tiling. Foundalis  |
-|                         |                         | specifically requires a |
-|                         |                         | tiling that forms a     |
-|                         |                         | parallelogram.          |
-+-------------------------+-------------------------+-------------------------+
-| “Shape can tile with    | “Shape can tile itself  | Under Foundalis’s rule, |
-| itself so as to create  | vs. shape cannot tile   | copies of a left shape  |
-| a parallelogram; Shape  | itself.”                | can tile a              |
-| cannot tile with itself |                         | parallelogram, and      |
-| so as to create a       |                         | copies of a right shape |
-| parallelogram”          |                         | cannot.                 |
-+-------------------------+-------------------------+-------------------------+
-| [BP344F][url/BP344F]    | [BP344E (0+1            |                         |
-|                         | more)][url/BP344E]      |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP344F][img/BP344F] | “Shape can tile with   | [BP344F       |
+|           | ][img/BP344F]          | itself so as to create | ][url/BP344F] |
+|           |                        | a parallelogram; Shape |               |
+|           |                        | cannot tile with       |               |
+|           |                        | itself so as to create |               |
+|           |                        | a parallelogram”       |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP344E][img/BP344E] | “Shape can tile itself | [BP344E (0+1  |
+|           | ][img/BP344E]          | vs. shape cannot tile  | more)         |
+|           |                        | itself.”               | ][url/BP344E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP replaces a right  | Under Foundalis’s      |               |
+|           | drawing and describes  | rule, copies of a left |               |
+|           | self-tiling. Foundalis | shape can tile a       |               |
+|           | specifically requires  | parallelogram, and     |               |
+|           | a tiling that forms a  | copies of a right      |               |
+|           | parallelogram.         | shape cannot.          |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP344F]: img/corrected/BP344F.png
 [img/BP344E]: img/original/BP344E.png
@@ -656,27 +711,32 @@
 
 ## BP346
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP346F][img/BP346F]  | [![BP346E][img/BP346E]  | Foundalis leaves a gap  |
-| ][img/BP346F]           | ][img/BP346E]           | at each end of the      |
-|                         |                         | internal divider. OEBP  |
-|                         |                         | extends the divider to  |
-|                         |                         | the edges of the        |
-|                         |                         | example.                |
-+-------------------------+-------------------------+-------------------------+
-| “Object on the right    | “Object on the right    | The item beyond the     |
-| fits in category on the | fits in pattern on the  | divider shares the      |
-| left; Object on the     | left vs. object on the  | defining property of    |
-| right does not fit in   | right does not fit in   | the group on the left   |
-| category on the left”   | pattern on the left.”   | side of the divider in  |
-|                         |                         | left examples. It falls |
-|                         |                         | outside that category   |
-|                         |                         | in right examples.      |
-+-------------------------+-------------------------+-------------------------+
-| [BP346F][url/BP346F]    | [BP346E][url/BP346E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP346F][img/BP346F] | “Object on the right   | [BP346F       |
+|           | ][img/BP346F]          | fits in category on    | ][url/BP346F] |
+|           |                        | the left; Object on    |               |
+|           |                        | the right does not fit |               |
+|           |                        | in category on the     |               |
+|           |                        | left”                  |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP346E][img/BP346E] | “Object on the right   | [BP346E       |
+|           | ][img/BP346E]          | fits in pattern on the | ][url/BP346E] |
+|           |                        | left vs. object on the |               |
+|           |                        | right does not fit in  |               |
+|           |                        | pattern on the left.”  |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | Foundalis leaves a gap | The item beyond the    |               |
+|           | at each end of the     | divider shares the     |               |
+|           | internal divider. OEBP | defining property of   |               |
+|           | extends the divider to | the group on the left  |               |
+|           | the edges of the       | side of the divider in |               |
+|           | example.               | left examples. It      |               |
+|           |                        | falls outside that     |               |
+|           |                        | category in right      |               |
+|           |                        | examples.              |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP346F]: img/corrected/BP346F.png
 [img/BP346E]: img/original/BP346E.png
@@ -687,22 +747,27 @@
 
 ## BP349
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP349F][img/BP349F]  | [![BP349E][img/BP349E]  | The sources draw        |
-| ][img/BP349F]           | ][img/BP349E]           | several members of the  |
-|                         |                         | sets differently on     |
-|                         |                         | both sides.             |
-+-------------------------+-------------------------+-------------------------+
-| “One object does not    | “One object does not    | One item breaks the     |
-| belong to the category  | belong to the pattern   | common pattern on the   |
-| of the rest; All        | of the rest vs. all     | left. All the items     |
-| objects form one        | objects form one        | share the pattern on    |
-| category”               | pattern.”               | the right.              |
-+-------------------------+-------------------------+-------------------------+
-| [BP349F][url/BP349F]    | [BP349E][url/BP349E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP349F][img/BP349F] | “One object does not   | [BP349F       |
+|           | ][img/BP349F]          | belong to the category | ][url/BP349F] |
+|           |                        | of the rest; All       |               |
+|           |                        | objects form one       |               |
+|           |                        | category”              |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP349E][img/BP349E] | “One object does not   | [BP349E       |
+|           | ][img/BP349E]          | belong to the pattern  | ][url/BP349E] |
+|           |                        | of the rest vs. all    |               |
+|           |                        | objects form one       |               |
+|           |                        | pattern.”              |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The sources draw       | One item breaks the    |               |
+|           | several members of the | common pattern on the  |               |
+|           | sets differently on    | left. All the items    |               |
+|           | both sides.            | share the pattern on   |               |
+|           |                        | the right.             |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP349F]: img/corrected/BP349F.png
 [img/BP349E]: img/original/BP349E.png
@@ -713,25 +778,29 @@
 
 ## BP352
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP352F][img/BP352F]  | [![BP352E][img/BP352E]  | OEBP changes the        |
-| ][img/BP352F]           | ][img/BP352E]           | markings in the second  |
-|                         |                         | displayed left          |
-|                         |                         | sequence.               |
-+-------------------------+-------------------------+-------------------------+
-| “Quantity has no lower  | “Increasing quantity    | The progression can     |
-| bound; Quantity has     | has no lower (or upper) | extend below any        |
-| lower bound”            | bound (and gives a      | proposed lower bound on |
-|                         | representation of       | the left. Its quantity  |
-|                         | negative numbers) vs.   | has a lower bound on    |
-|                         | increasing quantity has | the right.              |
-|                         | lower bound.”           |                         |
-+-------------------------+-------------------------+-------------------------+
-| [BP352F][url/BP352F]    | [BP352E (1+0            |                         |
-|                         | more)][url/BP352E]      |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP352F][img/BP352F] | “Quantity has no lower | [BP352F       |
+|           | ][img/BP352F]          | bound; Quantity has    | ][url/BP352F] |
+|           |                        | lower bound”           |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP352E][img/BP352E] | “Increasing quantity   | [BP352E (1+0  |
+|           | ][img/BP352E]          | has no lower (or       | more)         |
+|           |                        | upper) bound (and      | ][url/BP352E] |
+|           |                        | gives a representation |               |
+|           |                        | of negative numbers)   |               |
+|           |                        | vs. increasing         |               |
+|           |                        | quantity has lower     |               |
+|           |                        | bound.”                |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP changes the       | The progression can    |               |
+|           | markings in the second | extend below any       |               |
+|           | displayed left         | proposed lower bound   |               |
+|           | sequence.              | on the left. Its       |               |
+|           |                        | quantity has a lower   |               |
+|           |                        | bound on the right.    |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP352F]: img/corrected/BP352F.png
 [img/BP352E]: img/original/BP352E.png
@@ -742,21 +811,31 @@
 
 ## BP353
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP353F][img/BP353F]  | [![BP353E][img/BP353E]  | OEBP replaces one       |
-| ][img/BP353F]           | ][img/BP353E]           | drawing on each side.   |
-+-------------------------+-------------------------+-------------------------+
-| “Increasing quantity    | “Increasing quantity    | The increasing quantity |
-| may loop back to        | loops back to starting  | can cycle back to its   |
-| starting value;         | value vs. increasing    | starting value on the   |
-| Increasing quantity     | quantity cannot loop    | left. Its progression   |
-| cannot loop back to     | back to starting        | cannot return to that   |
-| starting value”         | value.”                 | value on the right.     |
-+-------------------------+-------------------------+-------------------------+
-| [BP353F][url/BP353F]    | [BP353E][url/BP353E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP353F][img/BP353F] | “Increasing quantity   | [BP353F       |
+|           | ][img/BP353F]          | may loop back to       | ][url/BP353F] |
+|           |                        | starting value;        |               |
+|           |                        | Increasing quantity    |               |
+|           |                        | cannot loop back to    |               |
+|           |                        | starting value”        |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP353E][img/BP353E] | “Increasing quantity   | [BP353E       |
+|           | ][img/BP353E]          | loops back to starting | ][url/BP353E] |
+|           |                        | value vs. increasing   |               |
+|           |                        | quantity cannot loop   |               |
+|           |                        | back to starting       |               |
+|           |                        | value.”                |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP replaces one      | The increasing         |               |
+|           | drawing on each side.  | quantity can cycle     |               |
+|           |                        | back to its starting   |               |
+|           |                        | value on the left. Its |               |
+|           |                        | progression cannot     |               |
+|           |                        | return to that value   |               |
+|           |                        | on the right.          |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP353F]: img/corrected/BP353F.png
 [img/BP353E]: img/original/BP353E.png
@@ -767,27 +846,32 @@
 
 ## BP356
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP356F][img/BP356F]  | [![BP356E][img/BP356E]  | The internal dividers   |
-| ][img/BP356F]           | ][img/BP356E]           | separating the          |
-|                         |                         | sequence, index and     |
-|                         |                         | candidate differ        |
-|                         |                         | between the two         |
-|                         |                         | presentations.          |
-+-------------------------+-------------------------+-------------------------+
-| “Object at lower-right  | “Object at lower-right  | The dot count indexes   |
-| fits as n-th item in    | fits as n-th item in    | an item in the upper    |
-| the top row of objects, | the top row of objects, | sequence. That item     |
-| where n is the number   | where n is the number   | matches the candidate   |
-| of dots at lower-left;  | of dots at lower-left   | below on the left and   |
-| Not so”                 | vs. not so.”            | differs from it on the  |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP356F][url/BP356F]    | [BP356E (1+0            |                         |
-|                         | more)][url/BP356E]      |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP356F][img/BP356F] | “Object at lower-right | [BP356F       |
+|           | ][img/BP356F]          | fits as n-th item in   | ][url/BP356F] |
+|           |                        | the top row of         |               |
+|           |                        | objects, where n is    |               |
+|           |                        | the number of dots at  |               |
+|           |                        | lower-left; Not so”    |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP356E][img/BP356E] | “Object at lower-right | [BP356E (1+0  |
+|           | ][img/BP356E]          | fits as n-th item in   | more)         |
+|           |                        | the top row of         | ][url/BP356E] |
+|           |                        | objects, where n is    |               |
+|           |                        | the number of dots at  |               |
+|           |                        | lower-left vs. not     |               |
+|           |                        | so.”                   |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The internal dividers  | The dot count indexes  |               |
+|           | separating the         | an item in the upper   |               |
+|           | sequence, index and    | sequence. That item    |               |
+|           | candidate differ       | matches the candidate  |               |
+|           | between the two        | below on the left and  |               |
+|           | presentations.         | differs from it on the |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP356F]: img/corrected/BP356F.png
 [img/BP356E]: img/original/BP356E.png
@@ -798,23 +882,24 @@
 
 ## BP359
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP359F][img/BP359F]  | [![BP359E][img/BP359E]  | The average is 54%      |
-| ][img/BP359F]           | ][img/BP359E]           | after the redraw. The   |
-|                         |                         | redrawn dot textures    |
-|                         |                         | differ in the placement |
-|                         |                         | of individual marks.    |
-+-------------------------+-------------------------+-------------------------+
-| “Random arrangement of  | “Random arrangement of  | The left textures       |
-| dots; Non-random        | pixels vs. not so.”     | scatter dots at random. |
-| (patterned) arrangement |                         | The right textures      |
-| of dots”                |                         | impose a pattern on     |
-|                         |                         | their positions.        |
-+-------------------------+-------------------------+-------------------------+
-| [BP359F][url/BP359F]    | [BP359E][url/BP359E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP359F][img/BP359F] | “Random arrangement of | [BP359F       |
+|           | ][img/BP359F]          | dots; Non-random       | ][url/BP359F] |
+|           |                        | (patterned)            |               |
+|           |                        | arrangement of dots”   |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP359E][img/BP359E] | “Random arrangement of | [BP359E       |
+|           | ][img/BP359E]          | pixels vs. not so.”    | ][url/BP359E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The average is 54%     | The left textures      |               |
+|           | after the redraw. The  | scatter dots at        |               |
+|           | redrawn dot textures   | random. The right      |               |
+|           | differ in the          | textures impose a      |               |
+|           | placement of           | pattern on their       |               |
+|           | individual marks.      | positions.             |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP359F]: img/corrected/BP359F.png
 [img/BP359E]: img/original/BP359E.png
@@ -825,23 +910,24 @@
 
 ## BP361
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP361F][img/BP361F]  | [![BP361E][img/BP361E]  | The sources use         |
-| ][img/BP361F]           | ][img/BP361E]           | different drawings      |
-|                         |                         | within the analogies on |
-|                         |                         | both sides.             |
-+-------------------------+-------------------------+-------------------------+
-| “Analogy makes sense;   | “Analogy makes sense    | The relation in the     |
-| Analogy does not make   | vs. analogy does not    | first pair also holds   |
-| sense”                  | make sense.”            | in the second pair on   |
-|                         |                         | the left. The second    |
-|                         |                         | pair breaks the analogy |
-|                         |                         | on the right.           |
-+-------------------------+-------------------------+-------------------------+
-| [BP361F][url/BP361F]    | [BP361E][url/BP361E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP361F][img/BP361F] | “Analogy makes sense;  | [BP361F       |
+|           | ][img/BP361F]          | Analogy does not make  | ][url/BP361F] |
+|           |                        | sense”                 |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP361E][img/BP361E] | “Analogy makes sense   | [BP361E       |
+|           | ][img/BP361E]          | vs. analogy does not   | ][url/BP361E] |
+|           |                        | make sense.”           |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The sources use        | The relation in the    |               |
+|           | different drawings     | first pair also holds  |               |
+|           | within the analogies   | in the second pair on  |               |
+|           | on both sides.         | the left. The second   |               |
+|           |                        | pair breaks the        |               |
+|           |                        | analogy on the right.  |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP361F]: img/corrected/BP361F.png
 [img/BP361E]: img/original/BP361E.png
@@ -852,24 +938,28 @@
 
 ## BP362
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP362F][img/BP362F]  | [![BP362E][img/BP362E]  | The sources use         |
-| ][img/BP362F]           | ][img/BP362E]           | different arrangements  |
-|                         |                         | of the analogy and its  |
-|                         |                         | possible answers.       |
-+-------------------------+-------------------------+-------------------------+
-| “Choice that solves the | “Image that solves the  | One of the available    |
-| analogy exists; Choice  | analogy exists vs.      | choices completes the   |
-| that solves the analogy | image that solves the   | analogy on the left.    |
-| does not exist”         | analogy does not        | None of the choices     |
-|                         | exist.”                 | completes it on the     |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP362F][url/BP362F]    | [BP362E (1+0            |                         |
-|                         | more)][url/BP362E]      |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP362F][img/BP362F] | “Choice that solves    | [BP362F       |
+|           | ][img/BP362F]          | the analogy exists;    | ][url/BP362F] |
+|           |                        | Choice that solves the |               |
+|           |                        | analogy does not       |               |
+|           |                        | exist”                 |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP362E][img/BP362E] | “Image that solves the | [BP362E (1+0  |
+|           | ][img/BP362E]          | analogy exists vs.     | more)         |
+|           |                        | image that solves the  | ][url/BP362E] |
+|           |                        | analogy does not       |               |
+|           |                        | exist.”                |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The sources use        | One of the available   |               |
+|           | different arrangements | choices completes the  |               |
+|           | of the analogy and its | analogy on the left.   |               |
+|           | possible answers.      | None of the choices    |               |
+|           |                        | completes it on the    |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP362F]: img/corrected/BP362F.png
 [img/BP362E]: img/original/BP362E.png
@@ -880,24 +970,24 @@
 
 ## BP364
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP364F][img/BP364F]  | [![BP364E][img/BP364E]  | The selected examples   |
-| ][img/BP364F]           | ][img/BP364E]           | differ on both sides,   |
-|                         |                         | including the spacing   |
-|                         |                         | that defines the        |
-|                         |                         | groups.                 |
-+-------------------------+-------------------------+-------------------------+
-| “Two clearly separable  | “Two clearly separable  | The elements divide     |
-| groups; No clearly      | groups vs. not so.”     | into two clearly        |
-| separable groups”       |                         | separated groups on the |
-|                         |                         | left and lack a clear   |
-|                         |                         | two-group separation on |
-|                         |                         | the right.              |
-+-------------------------+-------------------------+-------------------------+
-| [BP364F][url/BP364F]    | [BP364E][url/BP364E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP364F][img/BP364F] | “Two clearly separable | [BP364F       |
+|           | ][img/BP364F]          | groups; No clearly     | ][url/BP364F] |
+|           |                        | separable groups”      |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP364E][img/BP364E] | “Two clearly separable | [BP364E       |
+|           | ][img/BP364E]          | groups vs. not so.”    | ][url/BP364E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The selected examples  | The elements divide    |               |
+|           | differ on both sides,  | into two clearly       |               |
+|           | including the spacing  | separated groups on    |               |
+|           | that defines the       | the left and lack a    |               |
+|           | groups.                | clear two-group        |               |
+|           |                        | separation on the      |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP364F]: img/corrected/BP364F.png
 [img/BP364E]: img/original/BP364E.png
@@ -908,24 +998,28 @@
 
 ## BP365
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP365F][img/BP365F]  | [![BP365E][img/BP365E]  | OEBP changes examples   |
-| ][img/BP365F]           | ][img/BP365E]           | on both sides,          |
-|                         |                         | including the final     |
-|                         |                         | sequences.              |
-+-------------------------+-------------------------+-------------------------+
-| “Two independent        | “Two independent        | Two quantities vary     |
-| quantities changing     | quantities changing     | independently on the    |
-| simultaneously; A       | simultaneously vs.      | left. One changing      |
-| single quantity is      | determined by just one  | quantity accounts for   |
-| changing”               | changing quantity.”     | the sequence on the     |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP365F][url/BP365F]    | [BP365E (1+0            |                         |
-|                         | more)][url/BP365E]      |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP365F][img/BP365F] | “Two independent       | [BP365F       |
+|           | ][img/BP365F]          | quantities changing    | ][url/BP365F] |
+|           |                        | simultaneously; A      |               |
+|           |                        | single quantity is     |               |
+|           |                        | changing”              |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP365E][img/BP365E] | “Two independent       | [BP365E (1+0  |
+|           | ][img/BP365E]          | quantities changing    | more)         |
+|           |                        | simultaneously vs.     | ][url/BP365E] |
+|           |                        | determined by just one |               |
+|           |                        | changing quantity.”    |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP changes examples  | Two quantities vary    |               |
+|           | on both sides,         | independently on the   |               |
+|           | including the final    | left. One changing     |               |
+|           | sequences.             | quantity accounts for  |               |
+|           |                        | the sequence on the    |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP365F]: img/corrected/BP365F.png
 [img/BP365E]: img/original/BP365E.png
@@ -936,24 +1030,24 @@
 
 ## BP371
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP371F][img/BP371F]  | [![BP371E][img/BP371E]  | OEBP adds a subdivision |
-| ][img/BP371F]           | ][img/BP371E]           | to the tall column of   |
-|                         |                         | one right-hand figure.  |
-|                         |                         | The crease changes the  |
-|                         |                         | proposed net.           |
-+-------------------------+-------------------------+-------------------------+
-| “Net (folding along     | “Net (folding along     | Folding along the       |
-| edges can make a 3D     | edges can make a 3D     | indicated edges can     |
-| solid); No net”         | solid) vs. not a net.”  | produce a solid on the  |
-|                         |                         | left. The crease        |
-|                         |                         | pattern on the right    |
-|                         |                         | cannot form a solid.    |
-+-------------------------+-------------------------+-------------------------+
-| [BP371F][url/BP371F]    | [BP371E][url/BP371E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP371F][img/BP371F] | “Net (folding along    | [BP371F       |
+|           | ][img/BP371F]          | edges can make a 3D    | ][url/BP371F] |
+|           |                        | solid); No net”        |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP371E][img/BP371E] | “Net (folding along    | [BP371E       |
+|           | ][img/BP371E]          | edges can make a 3D    | ][url/BP371E] |
+|           |                        | solid) vs. not a net.” |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP adds a            | Folding along the      |               |
+|           | subdivision to the     | indicated edges can    |               |
+|           | tall column of one     | produce a solid on the |               |
+|           | right-hand figure. The | left. The crease       |               |
+|           | crease changes the     | pattern on the right   |               |
+|           | proposed net.          | cannot form a solid.   |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP371F]: img/corrected/BP371F.png
 [img/BP371E]: img/original/BP371E.png
@@ -964,23 +1058,28 @@
 
 ## BP372
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP372F][img/BP372F]  | [![BP372E][img/BP372E]  | The sources draw the    |
-| ][img/BP372F]           | ][img/BP372E]           | separators between the  |
-|                         |                         | two categories and the  |
-|                         |                         | candidate differently.  |
-+-------------------------+-------------------------+-------------------------+
-| “Object belongs to the  | “Shape below fits on    | The candidate below the |
-| left-hand side          | the left vs. shape      | divider fits the        |
-| category; Object        | below fits on the       | upper-left category on  |
-| belongs to the          | right.”                 | the left and the        |
-| right-hand side         |                         | upper-right category on |
-| category”               |                         | the right.              |
-+-------------------------+-------------------------+-------------------------+
-| [BP372F][url/BP372F]    | [BP372E][url/BP372E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP372F][img/BP372F] | “Object belongs to the | [BP372F       |
+|           | ][img/BP372F]          | left-hand side         | ][url/BP372F] |
+|           |                        | category; Object       |               |
+|           |                        | belongs to the         |               |
+|           |                        | right-hand side        |               |
+|           |                        | category”              |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP372E][img/BP372E] | “Shape below fits on   | [BP372E       |
+|           | ][img/BP372E]          | the left vs. shape     | ][url/BP372E] |
+|           |                        | below fits on the      |               |
+|           |                        | right.”                |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The sources draw the   | The candidate below    |               |
+|           | separators between the | the divider fits the   |               |
+|           | two categories and the | upper-left category on |               |
+|           | candidate differently. | the left and the       |               |
+|           |                        | upper-right category   |               |
+|           |                        | on the right.          |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP372F]: img/corrected/BP372F.png
 [img/BP372E]: img/original/BP372E.png
@@ -991,27 +1090,27 @@
 
 ## BP376
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP376F][img/BP376F]  | [![BP376E][img/BP376E]  | Foundalis marks the     |
-| ][img/BP376F]           | ][img/BP376E]           | starting square with    |
-|                         |                         | hatching and gives the  |
-|                         |                         | board a heavy border.   |
-|                         |                         | OEBP shows an empty     |
-|                         |                         | starting square and a   |
-|                         |                         | thin border.            |
-+-------------------------+-------------------------+-------------------------+
-| “A “chess” piece moving | “A "chess piece" that   | Repeating the           |
-| as shown may reach      | moves as shown may      | illustrated move can    |
-| every square; Not so”   | reach every square vs.  | reach every square of   |
-|                         | not so.”                | the board on the left   |
-|                         |                         | and only a subset of    |
-|                         |                         | the squares on the      |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP376F][url/BP376F]    | [BP376E][url/BP376E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP376F][img/BP376F] | “A “chess” piece       | [BP376F       |
+|           | ][img/BP376F]          | moving as shown may    | ][url/BP376F] |
+|           |                        | reach every square;    |               |
+|           |                        | Not so”                |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP376E][img/BP376E] | “A "chess piece" that  | [BP376E       |
+|           | ][img/BP376E]          | moves as shown may     | ][url/BP376E] |
+|           |                        | reach every square vs. |               |
+|           |                        | not so.”               |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | Foundalis marks the    | Repeating the          |               |
+|           | starting square with   | illustrated move can   |               |
+|           | hatching and gives the | reach every square of  |               |
+|           | board a heavy border.  | the board on the left  |               |
+|           | OEBP shows an empty    | and only a subset of   |               |
+|           | starting square and a  | the squares on the     |               |
+|           | thin border.           | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP376F]: img/corrected/BP376F.png
 [img/BP376E]: img/original/BP376E.png
@@ -1022,24 +1121,24 @@
 
 ## BP379
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP379F][img/BP379F]  | [![BP379E][img/BP379E]  | The two presentations   |
-| ][img/BP379F]           | ][img/BP379E]           | show different members  |
-|                         |                         | of the collections on   |
-|                         |                         | both sides.             |
-+-------------------------+-------------------------+-------------------------+
-| “Complete set;          | “Complete finite        | The displayed objects   |
-| Incomplete set”         | collection vs.          | exhaust their finite    |
-|                         | incomplete finite       | collection on the left. |
-|                         | collection.”            | Some members of the     |
-|                         |                         | collection are missing  |
-|                         |                         | on the right.           |
-+-------------------------+-------------------------+-------------------------+
-| [BP379F][url/BP379F]    | [BP379E (2+0            |                         |
-|                         | more)][url/BP379E]      |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP379F][img/BP379F] | “Complete set;         | [BP379F       |
+|           | ][img/BP379F]          | Incomplete set”        | ][url/BP379F] |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP379E][img/BP379E] | “Complete finite       | [BP379E (2+0  |
+|           | ][img/BP379E]          | collection vs.         | more)         |
+|           |                        | incomplete finite      | ][url/BP379E] |
+|           |                        | collection.”           |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The two presentations  | The displayed objects  |               |
+|           | show different members | exhaust their finite   |               |
+|           | of the collections on  | collection on the      |               |
+|           | both sides.            | left. Some members of  |               |
+|           |                        | the collection are     |               |
+|           |                        | missing on the right.  |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP379F]: img/corrected/BP379F.png
 [img/BP379E]: img/original/BP379E.png
@@ -1050,21 +1149,29 @@
 
 ## BP380
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP380F][img/BP380F]  | [![BP380E][img/BP380E]  | OEBP replaces one of    |
-| ][img/BP380F]           | ][img/BP380E]           | the left collections.   |
-+-------------------------+-------------------------+-------------------------+
-| “The set indicated by   | “The completed version  | Completing the          |
-| the objects is finite;  | of the collection is    | illustrated collection  |
-| The set indicated by    | finite vs. the          | gives a finite set on   |
-| the objects is          | completed version of    | the left and an         |
-| infinite”               | the collection is       | infinite set on the     |
-|                         | infinite.”              | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP380F][url/BP380F]    | [BP380E][url/BP380E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP380F][img/BP380F] | “The set indicated by  | [BP380F       |
+|           | ][img/BP380F]          | the objects is finite; | ][url/BP380F] |
+|           |                        | The set indicated by   |               |
+|           |                        | the objects is         |               |
+|           |                        | infinite”              |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP380E][img/BP380E] | “The completed version | [BP380E       |
+|           | ][img/BP380E]          | of the collection is   | ][url/BP380E] |
+|           |                        | finite vs. the         |               |
+|           |                        | completed version of   |               |
+|           |                        | the collection is      |               |
+|           |                        | infinite.”             |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP replaces one of   | Completing the         |               |
+|           | the left collections.  | illustrated collection |               |
+|           |                        | gives a finite set on  |               |
+|           |                        | the left and an        |               |
+|           |                        | infinite set on the    |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP380F]: img/corrected/BP380F.png
 [img/BP380E]: img/original/BP380E.png
@@ -1075,22 +1182,24 @@
 
 ## BP384
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP384F][img/BP384F]  | [![BP384E][img/BP384E]  | The two presentations   |
-| ][img/BP384F]           | ][img/BP384E]           | use different dot       |
-|                         |                         | configurations in       |
-|                         |                         | several examples.       |
-+-------------------------+-------------------------+-------------------------+
-| “Square number of dots; | “Square number of dots  | The number of dots is a |
-| Not a square number of  | vs. non-square number   | perfect square on the   |
-| dots”                   | of dots.”               | left and lies between   |
-|                         |                         | consecutive perfect     |
-|                         |                         | squares on the right.   |
-+-------------------------+-------------------------+-------------------------+
-| [BP384F][url/BP384F]    | [BP384E][url/BP384E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP384F][img/BP384F] | “Square number of      | [BP384F       |
+|           | ][img/BP384F]          | dots; Not a square     | ][url/BP384F] |
+|           |                        | number of dots”        |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP384E][img/BP384E] | “Square number of dots | [BP384E       |
+|           | ][img/BP384E]          | vs. non-square number  | ][url/BP384E] |
+|           |                        | of dots.”              |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The two presentations  | The number of dots is  |               |
+|           | use different dot      | a perfect square on    |               |
+|           | configurations in      | the left and lies      |               |
+|           | several examples.      | between consecutive    |               |
+|           |                        | perfect squares on the |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP384F]: img/corrected/BP384F.png
 [img/BP384E]: img/original/BP384E.png
@@ -1101,21 +1210,21 @@
 
 ## BP392
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP392F][img/BP392F]  | [![BP392E][img/BP392E]  | OEBP omits one of       |
-| ][img/BP392F]           | ][img/BP392E]           | Foundalis’s right-hand  |
-|                         |                         | examples.               |
-+-------------------------+-------------------------+-------------------------+
-| “Exponential increase;  | “Exponential increase   | The illustrated         |
-| Linear increase”        | vs. linear increase.”   | quantity grows          |
-|                         |                         | exponentially on the    |
-|                         |                         | left and linearly on    |
-|                         |                         | the right.              |
-+-------------------------+-------------------------+-------------------------+
-| [BP392F][url/BP392F]    | [BP392E][url/BP392E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP392F][img/BP392F] | “Exponential increase; | [BP392F       |
+|           | ][img/BP392F]          | Linear increase”       | ][url/BP392F] |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP392E][img/BP392E] | “Exponential increase  | [BP392E       |
+|           | ][img/BP392E]          | vs. linear increase.”  | ][url/BP392E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP omits one of      | The illustrated        |               |
+|           | Foundalis’s right-hand | quantity grows         |               |
+|           | examples.              | exponentially on the   |               |
+|           |                        | left and linearly on   |               |
+|           |                        | the right.             |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP392F]: img/corrected/BP392F.png
 [img/BP392E]: img/original/BP392E.png
@@ -1126,25 +1235,32 @@
 
 ## BP400
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-| [![BP400F][img/BP400F]  | [![BP400E][img/BP400E]  | The rule distinguishes  |
-| ][img/BP400F]           | ][img/BP400E]           | warm hues from cool     |
-|                         |                         | hues. A black-and-white |
-|                         |                         | drawing cannot show     |
-|                         |                         | that distinction.       |
-+-------------------------+-------------------------+-------------------------+
-| “Inner objects from red | “Inner objects from red | Warm-colored objects    |
-| to yellow; outer from   | to yellow; outer from   | lie inside the boundary |
-| green to violet; Inner  | green to violet vs.     | and cool-colored        |
-| objects from green to   | inner objects from      | objects outside on the  |
-| violet; outer from red  | green to violet; outer  | left. The color ranges  |
-| to yellow”              | from red to yellow.”    | exchange places on the  |
-|                         |                         | right.                  |
-+-------------------------+-------------------------+-------------------------+
-| [BP400F][url/BP400F]    | [BP400E][url/BP400E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis | [![BP400F][img/BP400F] | “Inner objects from    | [BP400F       |
+|           | ][img/BP400F]          | red to yellow; outer   | ][url/BP400F] |
+|           |                        | from green to violet;  |               |
+|           |                        | Inner objects from     |               |
+|           |                        | green to violet; outer |               |
+|           |                        | from red to yellow”    |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      | [![BP400E][img/BP400E] | “Inner objects from    | [BP400E       |
+|           | ][img/BP400E]          | red to yellow; outer   | ][url/BP400E] |
+|           |                        | from green to violet   |               |
+|           |                        | vs. inner objects from |               |
+|           |                        | green to violet; outer |               |
+|           |                        | from red to yellow.”   |               |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | The rule distinguishes | Warm-colored objects   |               |
+|           | warm hues from cool    | lie inside the         |               |
+|           | hues. A                | boundary and           |               |
+|           | black-and-white        | cool-colored objects   |               |
+|           | drawing cannot show    | outside on the left.   |               |
+|           | that distinction.      | The color ranges       |               |
+|           |                        | exchange places on the |               |
+|           |                        | right.                 |               |
++-----------+------------------------+------------------------+---------------+
 
 [img/BP400F]: img/corrected/BP400F.png
 [img/BP400E]: img/original/BP400E.png
@@ -1155,21 +1271,20 @@
 
 ## BP404
 
-+-------------------------+-------------------------+-------------------------+
-| Foundalis               | OEBP                    | Flagged                 |
-+=========================+=========================+=========================+
-|                         |                         | OEBP uses this number   |
-|                         |                         | for its missing-problem |
-|                         |                         | entry. Foundalis also   |
-|                         |                         | skips the number.       |
-+-------------------------+-------------------------+-------------------------+
-|                         | “404: Bongard Problem   | The placeholder         |
-|                         | not found”              | supplies no examples    |
-|                         |                         | from which to derive a  |
-|                         |                         | rule.                   |
-+-------------------------+-------------------------+-------------------------+
-|                         | [BP404E][url/BP404E]    |                         |
-+-------------------------+-------------------------+-------------------------+
++-----------+------------------------+------------------------+---------------+
+| Version   | Image                  | Rule                   | Link          |
++===========+========================+========================+===============+
+| Foundalis |                        |                        |               |
++-----------+------------------------+------------------------+---------------+
+| OEBP      |                        | “404: Bongard Problem  | [BP404E       |
+|           |                        | not found”             | ][url/BP404E] |
++-----------+------------------------+------------------------+---------------+
+| Flagged   | OEBP uses this number  | The placeholder        |               |
+|           | for its                | supplies no examples   |               |
+|           | missing-problem entry. | from which to derive a |               |
+|           | Foundalis also skips   | rule.                  |               |
+|           | the number.            |                        |               |
++-----------+------------------------+------------------------+---------------+
 
 [url/BP404E]: https://oebp.org/BP404
 
