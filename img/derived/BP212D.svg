@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP212, linked examples">
-  <title>BP212 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP212D-L1.svg" target="_parent" aria-label="Open BP212, left example 1">
-    <title>BP212, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="63.12" y="88.12" width="4.75" height="4.75" fill="black"/>
       <rect x="25.12" y="82.12" width="4.75" height="4.75" fill="black"/>
@@ -38,12 +36,13 @@
       <rect x="44.12" y="10.12" width="4.75" height="4.75" fill="black"/>
       <rect x="78.12" y="8.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-L2.svg" target="_parent" aria-label="Open BP212, left example 2">
-    <title>BP212, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="45.12" y="84.12" width="4.75" height="4.75" fill="black"/>
       <rect x="37.12" y="84.12" width="4.75" height="4.75" fill="black"/>
@@ -80,12 +79,13 @@
       <rect x="46.12" y="19.12" width="4.75" height="4.75" fill="black"/>
       <rect x="38.12" y="19.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-L2.svg" target="_parent">
+    <rect x="115" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-L3.svg" target="_parent" aria-label="Open BP212, left example 3">
-    <title>BP212, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="65.12" y="81.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <rect x="38.12" y="80.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -129,12 +129,13 @@
       <rect x="30.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <rect x="22.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-L3.svg" target="_parent">
+    <rect x="7.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-L4.svg" target="_parent" aria-label="Open BP212, left example 4">
-    <title>BP212, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="63.88,77.12 59.12,77.12 59.12,83.12 53.12,83.12 53.12,88.12 49.12,88.12 49.12,92.88 53.88,92.88 53.88,87.88 59.88,87.88 59.88,82.88 63.88,82.88" fill="black"/>
       <path d="M63.38 71.12C62.93 73.14 62.46 76.27 65.12 76.38C64.13 79.66 67.48 78.83 69.62 78.88C70.07 76.86 70.54 73.73 67.88 73.62C68.87 70.34 65.52 71.17 63.38 71.12Z" fill="black"/>
@@ -182,12 +183,13 @@
       <rect x="80.12" y="0.12" width="4.75" height="1.75" fill="black"/>
       <rect x="74.12" y="0.12" width="4.75" height="2.75" fill="black"/>
     </svg>
-    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-L4.svg" target="_parent">
+    <rect x="115.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-L5.svg" target="_parent" aria-label="Open BP212, left example 5">
-    <title>BP212, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="27.12" y="50.12" width="4.75" height="4.75" fill="black"/>
       <rect x="20.12" y="50.12" width="4.75" height="4.75" fill="black"/>
@@ -198,24 +200,26 @@
       <rect x="57.12" y="47.12" width="4.75" height="4.75" fill="black"/>
       <rect x="64.12" y="46.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-L5.svg" target="_parent">
+    <rect x="7" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-L6.svg" target="_parent" aria-label="Open BP212, left example 6">
-    <title>BP212, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="35.12" y="46.12" width="4.75" height="4.75" fill="black"/>
       <rect x="36.12" y="38.12" width="4.75" height="4.75" fill="black"/>
       <rect x="37.12" y="31.12" width="4.75" height="4.75" fill="black"/>
       <rect x="37.12" y="24.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-R1.svg" target="_parent" aria-label="Open BP212, right example 1">
-    <title>BP212, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="11.12" y="67.12" width="4.75" height="4.75" fill="black"/>
       <rect x="19.12" y="57.12" width="4.75" height="4.75" fill="black"/>
@@ -225,12 +229,13 @@
       <rect x="56.12" y="24.12" width="4.75" height="4.75" fill="black"/>
       <rect x="65.12" y="16.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-R2.svg" target="_parent" aria-label="Open BP212, right example 2">
-    <title>BP212, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="44.12" y="76.12" width="4.75" height="4.75" fill="black"/>
       <rect x="32.12" y="76.12" width="4.75" height="4.75" fill="black"/>
@@ -251,12 +256,13 @@
       <rect x="8.12" y="18.12" width="4.75" height="4.75" fill="black"/>
       <rect x="8.12" y="6.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-R2.svg" target="_parent">
+    <rect x="408" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-R3.svg" target="_parent" aria-label="Open BP212, right example 3">
-    <title>BP212, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="52.12" y="90.12" width="4.75" height="4.75" fill="black"/>
       <rect x="41.12" y="86.12" width="4.75" height="4.75" fill="black"/>
@@ -279,12 +285,13 @@
       <rect x="53.12" y="19.12" width="4.75" height="4.75" fill="black"/>
       <rect x="40.12" y="19.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-R3.svg" target="_parent">
+    <rect x="300.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-R4.svg" target="_parent" aria-label="Open BP212, right example 4">
-    <title>BP212, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="13.12" y="91.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <rect x="19.12" y="81.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -316,12 +323,13 @@
       <rect x="89.12" y="2.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <rect x="29.12" y="1.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-R4.svg" target="_parent">
+    <rect x="408.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-R5.svg" target="_parent" aria-label="Open BP212, right example 5">
-    <title>BP212, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="32.12" y="85.12" width="4.75" height="4.75" fill="black"/>
       <rect x="44.12" y="82.12" width="4.75" height="4.75" fill="black"/>
@@ -381,12 +389,13 @@
       <rect x="52.12" y="6.12" width="4.75" height="4.75" fill="black"/>
       <rect x="64.12" y="5.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-R5.svg" target="_parent">
+    <rect x="300" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP212D-R6.svg" target="_parent" aria-label="Open BP212, right example 6">
-    <title>BP212, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="36.12" y="81.12" width="4.75" height="4.75" fill="black"/>
       <rect x="18.12" y="81.12" width="4.75" height="4.75" fill="black"/>
@@ -414,6 +423,8 @@
       <rect x="18.12" y="7.12" width="4.75" height="4.75" fill="black"/>
       <rect x="62.12" y="4.12" width="4.75" height="4.75" fill="black"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP212D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

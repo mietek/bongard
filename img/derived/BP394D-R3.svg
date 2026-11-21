@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP394, right example 3</title>
   <rect width="98" height="98" fill="white"/>
   <path d="M15.12 22.12L15.12 52.88L45.88 52.88L45.88 33.12L54.88 32.88L55.12 72.88L85.88 72.88L85.88 62.12L65.88 61.88L65.88 22.12L35.12 22.12L35.12 41.88L26.12 42.12L25.88 22.12L15.12 22.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
   <circle cx="74.5" cy="71.5" r="0.69" fill="white"/>

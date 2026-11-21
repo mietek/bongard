@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP195, left example 4</title>
   <rect width="98" height="98" fill="white"/>
   <rect x="67.12" y="53.12" width="10.75" height="10.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
   <path d="M68.38 53.88C69.33 54.07 71.44 53.25 71.12 54.88L71.88 54.88C71.45 53.35 75.55 53.35 75.12 54.88L75.88 54.88C75.67 54.15 76.15 53.67 76.88 53.88L76.88 63.12C76.15 63.33 75.67 62.85 75.88 62.12L75.12 62.12C75.55 63.65 71.45 63.65 71.88 62.12L71.12 62.12C71.4 63.82 69.14 62.89 68.12 63.12L67.88 54.12L68.38 53.88Z" fill="white"/>

@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP320, linked examples">
-  <title>BP320 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP320D-L1.svg" target="_parent" aria-label="Open BP320, left example 1">
-    <title>BP320, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="33.1" cy="83.1" rx="1.78" ry="2.09" transform="rotate(135 33.1 83.1)" fill="black"/>
       <ellipse cx="43.12" cy="78.96" rx="1.69" ry="1.9" transform="rotate(157.61 43.12 78.96)" fill="black"/>
@@ -29,12 +27,13 @@
       <ellipse cx="78.59" cy="31.16" rx="1.5" ry="2.1" transform="rotate(12.63 78.59 31.16)" fill="black"/>
       <ellipse cx="70" cy="28.5" rx="1.33" ry="2.06" transform="rotate(63.96 70 28.5)" fill="black"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-L2.svg" target="_parent" aria-label="Open BP320, left example 2">
-    <title>BP320, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="64" cy="65.22" r="2.02" fill="black"/>
       <ellipse cx="72.1" cy="61.1" rx="1.78" ry="2.09" transform="rotate(135 72.1 61.1)" fill="black"/>
@@ -43,12 +42,13 @@
       <circle cx="28" cy="23.22" r="2.02" fill="black"/>
       <ellipse cx="18.9" cy="17.1" rx="1.78" ry="2.09" transform="rotate(45 18.9 17.1)" fill="black"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-L2.svg" target="_parent">
+    <rect x="115" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-L3.svg" target="_parent" aria-label="Open BP320, left example 3">
-    <title>BP320, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="40.63" cy="54.37" rx="1.36" ry="1.64" transform="rotate(135 40.63 54.37)" fill="black"/>
       <ellipse cx="16.63" cy="54.37" rx="1.36" ry="1.64" transform="rotate(135 16.63 54.37)" fill="black"/>
@@ -129,12 +129,13 @@
       <ellipse cx="21.5" cy="24.5" rx="1.07" ry="1.74" transform="rotate(45 21.5 24.5)" fill="black"/>
       <ellipse cx="16.63" cy="24.63" rx="1.36" ry="1.64" transform="rotate(45 16.63 24.63)" fill="black"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-L3.svg" target="_parent">
+    <rect x="7" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-L4.svg" target="_parent" aria-label="Open BP320, left example 4">
-    <title>BP320, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="33.1" cy="65.1" rx="1.78" ry="2.09" transform="rotate(135 33.1 65.1)" fill="black"/>
       <ellipse cx="72" cy="63" rx="1.73" ry="2.28" transform="rotate(135 72 63)" fill="black"/>
@@ -150,12 +151,13 @@
       <ellipse cx="72.11" cy="23.11" rx="1.97" ry="2.22" transform="rotate(45 72.11 23.11)" fill="black"/>
       <ellipse cx="34" cy="20" rx="1.73" ry="2.28" transform="rotate(135 34 20)" fill="black"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-L4.svg" target="_parent">
+    <rect x="115" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-L5.svg" target="_parent" aria-label="Open BP320, left example 5">
-    <title>BP320, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="74" cy="63" r="1.85" fill="black"/>
       <ellipse cx="64.5" cy="63" rx="1.94" ry="2.36" transform="rotate(90 64.5 63)" fill="black"/>
@@ -172,35 +174,38 @@
       <ellipse cx="19.77" cy="36.08" rx="1.64" ry="2.11" transform="rotate(33.25 19.77 36.08)" fill="black"/>
       <ellipse cx="27.9" cy="34.9" rx="1.78" ry="2.09" transform="rotate(135 27.9 34.9)" fill="black"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-L5.svg" target="_parent">
+    <rect x="7" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-L6.svg" target="_parent" aria-label="Open BP320, left example 6">
-    <title>BP320, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="77.92" cy="64.38" rx="1.96" ry="2.51" transform="rotate(164.65 77.92 64.38)" fill="black"/>
       <circle cx="69.65" cy="60.32" r="2.5" fill="black"/>
       <ellipse cx="19" cy="23" rx="1.73" ry="2.28" transform="rotate(135 19 23)" fill="black"/>
       <circle cx="22.45" cy="13.59" r="2.42" fill="black"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-R1.svg" target="_parent" aria-label="Open BP320, right example 1">
-    <title>BP320, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="25.08" cy="62.62" rx="1.96" ry="2.51" transform="rotate(164.65 25.08 62.62)" fill="black"/>
       <ellipse cx="75.1" cy="28.1" rx="1.78" ry="2.09" transform="rotate(135 75.1 28.1)" fill="black"/>
       <ellipse cx="68.1" cy="23.9" rx="1.78" ry="2.09" transform="rotate(45 68.1 23.9)" fill="black"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-R2.svg" target="_parent" aria-label="Open BP320, right example 2">
-    <title>BP320, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="44.63" cy="85.37" rx="1.36" ry="1.64" transform="rotate(135 44.63 85.37)" fill="black"/>
       <ellipse cx="40.5" cy="85.5" rx="1.07" ry="1.74" transform="rotate(135 40.5 85.5)" fill="black"/>
@@ -311,12 +316,13 @@
       <ellipse cx="85.63" cy="11.37" rx="1.36" ry="1.64" transform="rotate(135 85.63 11.37)" fill="black"/>
       <ellipse cx="80.63" cy="11.37" rx="1.36" ry="1.64" transform="rotate(135 80.63 11.37)" fill="black"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-R2.svg" target="_parent">
+    <rect x="408" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-R3.svg" target="_parent" aria-label="Open BP320, right example 3">
-    <title>BP320, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="28.55" cy="85.68" rx="2.29" ry="2.71" transform="rotate(126.33 28.55 85.68)" fill="black"/>
       <circle cx="26.22" cy="77" r="2.02" fill="black"/>
@@ -331,24 +337,26 @@
       <circle cx="28.78" cy="26" r="2.02" fill="black"/>
       <ellipse cx="27.89" cy="17.89" rx="1.97" ry="2.22" transform="rotate(45 27.89 17.89)" fill="black"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-R3.svg" target="_parent">
+    <rect x="300" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-R4.svg" target="_parent" aria-label="Open BP320, right example 4">
-    <title>BP320, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="23.1" cy="79.1" rx="1.78" ry="2.09" transform="rotate(135 23.1 79.1)" fill="black"/>
       <ellipse cx="29.92" cy="75.38" rx="1.96" ry="2.51" transform="rotate(164.65 29.92 75.38)" fill="black"/>
       <ellipse cx="23.89" cy="69.89" rx="1.97" ry="2.22" transform="rotate(45 23.89 69.89)" fill="black"/>
       <ellipse cx="74.5" cy="32.5" rx="2.19" ry="2.57" transform="rotate(27.27 74.5 32.5)" fill="black"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-R4.svg" target="_parent">
+    <rect x="408" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-R5.svg" target="_parent" aria-label="Open BP320, right example 5">
-    <title>BP320, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="72.31" cy="61.5" rx="1.49" ry="1.91" transform="rotate(90 72.31 61.5)" fill="black"/>
       <circle cx="77.09" cy="57.56" r="2" fill="black"/>
@@ -357,12 +365,13 @@
       <ellipse cx="31.1" cy="35.9" rx="1.78" ry="2.09" transform="rotate(45 31.1 35.9)" fill="black"/>
       <circle cx="25.22" cy="36" r="2.02" fill="black"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-R5.svg" target="_parent">
+    <rect x="300" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP320D-R6.svg" target="_parent" aria-label="Open BP320, right example 6">
-    <title>BP320, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="30" cy="60.22" r="2.02" fill="black"/>
       <circle cx="25" cy="56.78" r="2.02" fill="black"/>
@@ -376,6 +385,8 @@
       <circle cx="69" cy="21" r="1.85" fill="black"/>
       <ellipse cx="63" cy="21" rx="1.73" ry="2.28" transform="rotate(135 63 21)" fill="black"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP320D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

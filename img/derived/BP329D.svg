@@ -1,127 +1,138 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP329, linked examples">
-  <title>BP329 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP329D-L1.svg" target="_parent" aria-label="Open BP329, left example 1">
-    <title>BP329, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M70.62 66.88C64.66 52.57 58.78 37.25 51.62 23.12C42.28 35.5 33.58 48.54 23.12 60.38L24.38 61.88C40.29 62.66 54.85 65.85 70.62 66.88Z" fill="black"/>
       <path d="M51.62 26.88C56.86 38.81 61.41 50.81 67.12 62.38L67.12 64.62C54.51 63.71 40.7 61.2 27.38 60.12L26.88 59.38L51.62 26.88Z" fill="white"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-L2.svg" target="_parent" aria-label="Open BP329, left example 2">
-    <title>BP329, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="27.43,21.84 25.53,66.88 33.77,66.88 34.05,67.4 69.67,69 72,24.48 29.24,22.69" fill="black"/>
       <path d="M26.88 64.62L27.88 62.62C27.43 49.49 28.64 37.47 29.38 24.88C43.49 24.46 56.43 25.81 70.12 26.38C68.84 39.73 69.43 53.94 67.62 67.12C54.23 65.9 39.86 66.78 26.88 64.62Z" fill="white"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-L2.svg" target="_parent">
+    <rect x="115" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-L3.svg" target="_parent" aria-label="Open BP329, left example 3">
-    <title>BP329, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="46.5,30.15 29.15,47.5 46.5,64.85 63.85,47.5" fill="black"/>
       <polygon points="46.5,32.85 61.15,47.5 46.5,62.15 31.85,47.5" fill="white"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-L3.svg" target="_parent">
+    <rect x="7" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-L4.svg" target="_parent" aria-label="Open BP329, left example 4">
-    <title>BP329, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="57.42,22.55 28.09,26.97 22.12,41.38 19.12,51.62 17.41,54.6 36.11,77.69 65.14,73.15 70.88,57.38 75.87,45.8 73.79,42.45 69.88,38.62" fill="black"/>
       <path d="M19.88 53.38C23.45 45.4 26.43 37.3 29.38 28.88C38.39 27.43 47.19 25.59 56.62 24.88C62.63 31.22 66.65 38.38 73.12 44.38L73.12 48.62C68.99 55.62 67.55 63.92 63.62 71.12L61.62 72.12C52.67 72.16 45.6 75.56 36.38 75.12C31.4 67.46 23.95 61.47 19.88 53.38Z" fill="white"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-L4.svg" target="_parent">
+    <rect x="115" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-L5.svg" target="_parent" aria-label="Open BP329, left example 5">
-    <title>BP329, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="66.5,36.39 60.38,34.12 36.49,21.88 13.1,46.05 29.37,76.31 29.89,75.48 46.92,72.46 46.98,72.33 56.81,70.77 61.74,69.56 62.88,66.62" fill="black"/>
       <polygon points="36.28,24.88 37.82,24.88 64.49,37.95 60.61,65.82 59.7,68.29 30.28,73.48 25.88,66.62 15.52,46.21" fill="white"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-L5.svg" target="_parent">
+    <rect x="7" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-L6.svg" target="_parent" aria-label="Open BP329, left example 6">
-    <title>BP329, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M27.38 32.12C24.46 38.24 20.84 43.8 17.12 49.38C17.04 58.1 21.18 64.46 22.12 72.62C28.93 75.84 34.97 80.11 41.38 83.88C47.94 81.89 54.45 79.8 61.62 78.88C67.01 73.43 68.92 66.21 73.88 60.62C73.4 52.21 70.07 45.4 68.88 37.38C62.65 33.73 56.31 30.57 50.62 26.12C42.98 27.37 36.24 30.25 28.38 31.12L27.38 32.12Z" fill="black"/>
       <polygon points="49.36,28.27 67.12,38.76 72.06,58.81 61.24,77.12 57.38,77.12 44.62,81.12 40.71,81.12 23.95,70.96 18.59,51.16 29.46,33.3" fill="white"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-R1.svg" target="_parent" aria-label="Open BP329, right example 1">
-    <title>BP329, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="51.7,23.23 17.62,44.12 14.38,45.12 11.12,47.73 11.12,48.47 48.49,70.84 49.22,71.59 52.81,73.05 93.78,48.52" fill="black"/>
       <polygon points="14.84,47.69 49.51,26.84 50.43,25.88 52.17,25.88 89.88,48.5 52.5,70.92 18.62,50.12 14.93,48.35" fill="white"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-R2.svg" target="_parent" aria-label="Open BP329, right example 2">
-    <title>BP329, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="50.58,19.11 27.12,65.99 27.12,66.65 22.63,76.42 68.91,61.56 62.88,47.52 62.88,47.37 59.88,40.66 59.88,40.37 56.88,33.66 56.88,33.68" fill="black"/>
       <polygon points="50.49,23.78 65.95,59.72 64.82,60.85 27.02,72.95 26.9,72.12 28.88,67.79 28.88,66.95" fill="white"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-R2.svg" target="_parent">
+    <rect x="408" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-R3.svg" target="_parent" aria-label="Open BP329, right example 3">
-    <title>BP329, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="74.85,20.02 41.69,35.12 41.16,35.12 30.88,40.12 30.16,40.12 19.88,45.12 19.18,45.12 10.98,49.08 25.93,81.85 89.75,52.93" fill="black"/>
       <polygon points="73.8,22.75 87.19,51.92 26.99,79.18 23.88,72.96 23.88,72.44 13.64,50.08 20.04,46.88 20.84,46.88 31.12,41.88 31.84,41.88 42.12,36.88 42.59,36.88" fill="white"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-R3.svg" target="_parent">
+    <rect x="300" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-R4.svg" target="_parent" aria-label="Open BP329, right example 4">
-    <title>BP329, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="51.73,12.38 26.92,34.12 26.12,34.12 26.12,35.65 48.56,82.33 56.55,50.33 53.5,22.11 52.88,21.77 52.88,13.53" fill="black"/>
       <polygon points="50.76,15.89 52.57,30.93 53.12,31.23 53.12,39.69 54.12,40.23 54.12,48.61 55.47,49.59 54.69,50.01 48.53,74.13 47.35,75.37 28.88,36.61 28.88,34.93" fill="white"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-R4.svg" target="_parent">
+    <rect x="408" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-R5.svg" target="_parent" aria-label="Open BP329, right example 5">
-    <title>BP329, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M47.38 19.12L24.12 48.38C27.42 57.36 33.57 64.76 37.12 73.62L39.38 75.88L58.62 76.88L60.62 77.88C62.75 67.51 65.14 57.45 65.88 46.38C59.41 37.5 53.94 27.86 47.38 19.12Z" fill="black"/>
       <polygon points="47.46,22.42 64.38,48.01 60.44,69.14 60.12,69.31 60.12,73.54 58.23,75.44 39.91,73.67 26.62,49.99 27.73,47.24" fill="white"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-R5.svg" target="_parent">
+    <rect x="300" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP329D-R6.svg" target="_parent" aria-label="Open BP329, right example 6">
-    <title>BP329, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="81.4,49.56 54.11,31.12 53.73,31.12 21.55,45.72 19.64,61.03 19.45,61.13 17.52,77.99 28.62,73.88 55.38,60.88 66.62,56.88 76.12,51.88 77.05,51.88" fill="black"/>
       <path d="M77.12 49.62L74.38 50.12C59.37 58.46 42.74 63.93 27.62 72.12L25.38 72.12L22.62 74.12L19.88 73.62C20.54 64.68 22.71 56.59 22.88 47.38C33.13 42.32 43.76 38.47 53.62 32.88C61.04 39.21 69.96 43.01 77.12 49.62Z" fill="white"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP329D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

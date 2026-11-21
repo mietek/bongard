@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP205, linked examples">
-  <title>BP205 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP205D-L1.svg" target="_parent" aria-label="Open BP205, left example 1">
-    <title>BP205, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M97.88 97.88L97.88 67.12C97.05 67.09 95.51 67.47 95.88 66.12L86.12 66.12L85.88 67.12L82.12 67.12L81.88 68.12C79.86 67.53 80.22 69.74 78.12 69.12C78.49 70.47 76.95 70.09 76.12 70.12C76.33 70.85 75.85 71.33 75.12 71.12C75.49 72.47 73.95 72.09 73.12 72.12C72.49 73.49 71.49 74.49 70.12 75.12L70.12 76.88C68.84 76.82 69.47 78.35 68.12 78.12C68.09 78.95 68.47 80.49 67.12 80.12C67.09 80.95 67.47 82.49 66.12 82.12L66.12 85.88L65.12 86.12L65.12 94.88L66.12 95.12L66.12 97.88L97.88 97.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M29.12 43.12L29.12 44.88L30.12 45.12L30.12 46.88L31.12 47.12L31.12 48.88L32.12 49.12L32.12 50.88L33.12 51.12L33.12 52.88L34.12 53.12L34.12 54.88L35.12 55.12L35.12 56.88L36.12 57.12C35.53 59.14 37.74 58.78 37.12 60.88C38.47 60.51 38.09 62.05 38.12 62.88C38.85 62.67 39.33 63.15 39.12 63.88L40.88 63.88C41.8 61.69 44.06 61.02 45.12 58.88L45.88 58.88L45.88 57.12L46.88 56.88L46.88 56.12L47.88 55.88C49.14 53.37 51.72 52.34 53.12 49.88L53.88 49.88L54.12 48.88L54.88 48.88L54.88 46.12C53.03 45.64 49.35 47.2 48.88 45.12C47.03 44.64 43.35 46.2 42.88 44.12L36.12 44.12L35.88 43.12L29.12 43.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -24,12 +22,13 @@
       <circle cx="16.5" cy="8.5" r="0.69" fill="white"/>
       <path d="M10.12 5.88C12.57 5.17 12.57 7.83 10.12 7.12C10.33 7.85 9.85 8.33 9.12 8.12C8.09 7.02 9.49 3.06 10.12 5.88Z" fill="white"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-L2.svg" target="_parent" aria-label="Open BP205, left example 2">
-    <title>BP205, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M10.12 70.88L10.12 71.88C11.39 72.23 14.19 70.99 14.12 72.88L18.88 72.88C19.02 74.68 21.47 73.57 22.88 73.88L23.12 74.88C24.39 75.23 27.19 73.99 27.12 75.88C28.39 76.23 31.19 74.99 31.12 76.88L34.88 76.88L35.12 77.88L38.88 77.88L39.12 78.88L43.88 78.88L44.12 79.88L47.88 79.88C47.91 81.45 49.66 80.72 50.88 80.88C51.48 79.11 49.89 79.43 49.88 78.12L44.12 78.12C43.98 76.32 41.53 77.43 40.12 77.12C39.98 75.32 37.53 76.43 36.12 76.12L35.88 75.12L31.12 75.12C30.98 73.32 28.53 74.43 27.12 74.12L26.88 73.12C25.61 72.77 22.81 74.01 22.88 72.12C21.61 71.77 18.81 73.01 18.88 71.12C17.61 70.77 14.81 72.01 14.88 70.12L10.12 70.12L10.12 70.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M51.88 76.88L51.88 74.12C51.15 74.33 50.67 73.85 50.88 73.12C49.86 72.89 47.6 73.82 47.88 72.12L44.12 72.12C44.09 70.55 42.34 71.28 41.12 71.12L40.88 70.12L37.12 70.12L36.88 69.12C35.86 68.89 33.6 69.82 33.88 68.12L30.12 68.12C30.09 66.55 28.34 67.28 27.12 67.12L26.88 66.12C25.61 65.77 22.81 67.01 22.88 65.12C21.86 64.89 19.6 65.82 19.88 64.12L16.12 64.12C16.09 62.55 14.34 63.28 13.12 63.12L12.88 62.12L9.12 62.12L9.12 63.88L11.88 63.88L12.12 64.88C13.14 65.11 15.4 64.18 15.12 65.88L18.88 65.88C18.91 67.45 20.66 66.72 21.88 66.88L22.12 67.88C23.39 68.23 26.19 66.99 26.12 68.88L29.88 68.88C29.91 70.45 31.66 69.72 32.88 69.88L33.12 70.88C34.39 71.23 37.19 69.99 37.12 71.88C38.14 72.11 40.4 71.18 40.12 72.88L43.88 72.88C43.91 74.45 45.66 73.72 46.88 73.88L47.12 74.88L49.88 74.88C50.2 76.16 49.97 77.41 51.88 76.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -44,12 +43,13 @@
       <path d="M84.62 45.88C85 45.2 85.36 42.76 83.88 42.88L83.88 36.12L82.88 35.88L82.88 29.12L81.88 28.88L81.88 22.12L80.88 21.88L80.88 15.12L79.88 14.88L79.88 8.12L78.88 7.88L78.88 0.12L77.12 0.12L77.12 7.88L78.12 8.12L78.12 14.88L79.12 15.12L79.12 21.88L80.12 22.12L80.12 28.88L81.12 29.12L81.12 35.88L82.12 36.12L82.12 42.88C83.82 42.6 82.89 44.86 83.12 45.88L84.62 45.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M70.88 46.88L71.88 46.88L71.88 42.12L70.88 41.88L70.88 37.12L69.88 36.88L69.88 32.12L68.88 31.88L68.88 27.12C66.88 26.93 68.31 23.67 67.88 22.12C65.88 21.93 67.31 18.67 66.88 17.12L65.88 16.88C65.48 15.23 66.82 12.21 64.88 11.88L64.88 6.12C62.8 5.65 64.36 1.97 63.88 0.12L61.12 0.12C60.8 1.14 61.68 0.66 62.12 1.12C62.52 2.77 61.18 5.79 63.12 6.12L63.12 11.88C65.12 12.07 63.69 15.33 64.12 16.88C66.12 17.07 64.69 20.33 65.12 21.88L66.12 22.12L66.12 26.88C68.12 27.07 66.69 30.33 67.12 31.88L68.12 32.12L68.12 37.88L69.12 38.12L69.12 42.88C71.01 42.81 69.77 45.61 70.12 46.88L70.88 46.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-L2.svg" target="_parent">
+    <rect x="115" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-L3.svg" target="_parent" aria-label="Open BP205, left example 3">
-    <title>BP205, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="7.12" y="11.12" width="80.75" height="82.75" fill="black"/>
       <rect x="9.88" y="14.88" width="73.25" height="76.25" fill="white"/>
@@ -59,12 +59,13 @@
       <path d="M45.12 34.88C43.36 37.61 39.02 37.72 36.62 40.12L35.88 39.62L36.38 30.88C39.06 32.56 42.82 32.99 45.12 34.88Z" fill="white"/>
       <path d="M34.38 17.88C35.75 21.01 35.31 26.58 34.62 30.12C30.92 28.73 27.94 26.76 23.88 25.62C25.34 21.36 31.21 20.92 34.38 17.88Z" fill="white"/>
     </svg>
-    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-L3.svg" target="_parent">
+    <rect x="7.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-L4.svg" target="_parent" aria-label="Open BP205, left example 4">
-    <title>BP205, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="47.12" y="69.12" width="4.75" height="4.75" fill="black"/>
       <rect x="56.12" y="35.12" width="9.75" height="9.75" fill="black"/>
@@ -74,12 +75,13 @@
       <rect x="32.12" y="27.12" width="9.75" height="9.75" fill="black"/>
       <rect x="32.88" y="27.88" width="8.25" height="8.25" fill="white"/>
     </svg>
-    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-L4.svg" target="_parent">
+    <rect x="115.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-L5.svg" target="_parent" aria-label="Open BP205, left example 5">
-    <title>BP205, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M62.88 62.88C63.3 61.85 61.7 61.85 62.12 62.88C62.85 62.67 63.33 63.15 63.12 63.88C61.26 63.63 63.03 66.47 61.12 66.12C61.33 66.85 60.85 67.33 60.12 67.12L60.12 67.88C61.98 67.85 61.53 72.36 59.12 71.12L59.12 71.88L59.88 71.88C61.26 74.63 57.42 74.26 58.12 76.88L56.12 77.12C56.49 78.47 54.95 78.09 54.12 78.12C54.49 79.47 52.95 79.09 52.12 79.12C52.49 80.47 50.95 80.09 50.12 80.12C50.49 81.47 48.95 81.09 48.12 81.12L47.88 82.12L46.12 82.12L45.88 83.12L44.12 83.12L43.88 84.12L42.12 84.12L41.88 85.12L40.12 85.12L39.88 86.12L38.12 86.12L37.88 87.12L36.12 87.12L35.88 88.12L34.12 88.12L33.88 89.12L32.12 89.12L31.88 90.12L30.12 90.12L29.88 91.12L28.12 91.12L27.88 92.12L26.12 92.12L25.88 93.12L24.12 93.12C23.69 92.48 23.52 90.46 24.88 90.88C24.94 90.12 22.63 89.05 24.88 88.88L24.88 85.12C26.04 85.02 25.95 84.23 25.88 83.12C27.45 83.09 26.72 81.34 26.88 80.12L25.88 79.88L25.88 79.12C27.04 79.02 26.95 78.23 26.88 77.12C29.01 76.53 26.82 76.38 26.88 75.12C28.16 75.18 27.53 73.65 28.88 73.88C28.91 73.05 28.53 71.51 29.88 71.88L29.88 71.12C28.35 71.55 28.35 67.45 29.88 67.88C30.11 66.86 29.18 64.6 30.88 64.88C31.31 63.67 29.38 64.49 29.88 63.12L31.88 62.88L31.88 59.12L33.88 58.88C33.51 57.53 35.05 57.91 35.88 57.88C35.51 56.53 37.05 56.91 37.88 56.88C37.51 55.53 39.05 55.91 39.88 55.88C39.51 54.53 41.05 54.91 41.88 54.88L42.12 53.88L43.88 53.88L44.12 52.88L45.88 52.88L46.12 51.88L47.88 51.88L48.12 50.88L49.88 50.88L50.12 49.88L51.88 49.88L52.12 48.88L53.88 48.88L54.12 47.88L55.88 47.88L56.12 46.88L57.88 46.88L58.12 45.88L59.88 45.88L60.12 44.88L61.88 44.88L62.12 43.88L63.88 43.88L64.12 42.88L65.88 42.88L66.12 41.88L67.88 41.88C67.82 43.16 69.35 42.53 69.12 43.88C67.84 43.82 68.47 45.35 67.12 45.12C66.78 47 68.3 50.93 65.12 50.12L65.12 50.88C67.37 51.05 65.06 52.12 65.12 52.88C67.24 52.9 65.52 54.83 64.12 54.12C63.89 55.14 64.82 57.4 63.12 57.12L63.12 57.88C65.73 58.51 61.98 59.74 62.12 60.88L64.88 60.88L64.88 56.12L65.88 55.88C65.91 55.05 65.53 53.51 66.88 53.88C66.67 53.15 67.15 52.67 67.88 52.88L67.88 49.12L68.88 48.88L68.88 48.12C67.41 48.68 67.41 45.32 68.88 45.88C68.91 45.05 68.53 43.51 69.88 43.88L69.88 43.12C68.54 43.63 68.54 41.37 69.88 41.88C69.3 40.21 70.77 40.14 70.88 39.12L69.12 39.12L68.88 40.12L67.12 40.12L66.88 41.12L65.12 41.12L64.88 42.12L63.12 42.12L62.88 43.12L61.12 43.12L60.88 44.12L59.12 44.12L58.88 45.12L57.12 45.12L56.88 46.12L55.12 46.12L54.88 47.12L53.12 47.12L52.88 48.12L51.12 48.12L50.88 49.12L49.12 49.12L48.88 50.12L47.12 50.12L46.88 51.12L45.12 51.12L44.88 52.12L43.12 52.12L42.88 53.12L41.12 53.12L40.88 54.12C38.86 53.53 39.22 55.74 37.12 55.12C37.49 56.47 35.95 56.09 35.12 56.12C35.49 57.47 33.95 57.09 33.12 57.12C33.49 58.47 31.95 58.09 31.12 58.12C31.09 58.95 31.47 60.49 30.12 60.12C30.33 60.85 29.85 61.33 29.12 61.12L29.12 65.88L27.12 66.12L27.12 68.88C29.01 68.81 27.77 71.61 28.12 72.88L26.12 73.12C25.89 74.14 26.82 76.4 25.12 76.12L25.12 82.88L24.12 83.12C23.89 84.14 24.82 86.4 23.12 86.12L23.12 88.88L22.12 89.12L22.12 91.88C22.85 91.67 23.33 92.15 23.12 92.88C21.96 92.98 22.05 93.77 22.12 94.88C20.96 94.98 21.05 95.77 21.12 96.88L22.88 96.88L23.12 95.88L24.88 95.88L25.12 94.88L26.88 94.88L27.12 93.88L28.88 93.88L29.12 92.88L30.88 92.88L31.12 91.88L32.88 91.88L33.12 90.88L34.88 90.88L35.12 89.88L36.88 89.88L37.12 88.88L38.88 88.88L39.12 87.88L40.88 87.88L41.12 86.88L42.88 86.88L43.12 85.88L44.88 85.88L45.12 84.88L46.88 84.88L47.12 83.88L48.88 83.88L49.12 82.88L50.88 82.88L51.12 81.88C53.14 82.47 52.78 80.26 54.88 80.88C54.51 79.53 56.05 79.91 56.88 79.88C56.51 78.53 58.05 78.91 58.88 78.88C58.51 77.53 60.05 77.91 60.88 77.88L60.88 77.12C59.41 77.68 59.41 74.32 60.88 74.88C60.67 74.15 61.15 73.67 61.88 73.88C62.23 72.61 60.99 69.81 62.88 69.88C62.3 68.21 63.77 68.14 63.88 67.12L62.88 66.88L62.88 66.12C64.38 66.19 64.38 62.81 62.88 62.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M7.12 20.12C7.33 20.85 6.85 21.33 6.12 21.12L6.12 38.88L7.12 39.12L7.12 60.88L8.12 61.12L8.12 69.88L8.88 69.88C9.21 71.82 12.23 70.48 13.88 70.88C13.67 70.15 14.15 69.67 14.88 69.88L14.88 58.12L13.88 57.88L13.88 35.12L12.88 34.88L12.88 21.12L12.12 21.12C11.79 19.18 8.77 20.52 7.12 20.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -87,12 +89,13 @@
       <path d="M64.12 30.38L63.88 31.12L36.12 31.12L35.88 30.12L35.12 30.12C33.72 27.66 31.14 26.63 29.88 24.12L28.88 23.88L28.88 23.12L27.88 22.88L27.88 21.12L27.12 21.12L26.88 20.12L26.12 20.12L25.88 19.12C23.37 17.86 22.34 15.28 19.88 13.88L19.88 13.12L18.88 12.88L18.88 11.12L47.88 10.88L48.12 11.88C50.31 12.8 50.98 15.06 53.12 16.12L53.12 17.88C55.31 18.8 55.98 21.06 58.12 22.12L58.12 23.88C60.63 25.14 61.66 27.72 64.12 29.12L64.12 30.38Z" fill="white"/>
       <path d="M74.12 9.62L74.12 11.88L75.88 11.88C76.57 13.01 77.04 14.16 78.88 13.88C78.82 15.16 80.35 14.53 80.12 15.88C80.95 15.91 82.49 15.53 82.12 16.88C82.95 16.91 84.49 16.53 84.12 17.88C84.85 17.67 85.33 18.15 85.12 18.88C85.95 18.91 87.49 18.53 87.12 19.88C87.85 19.67 88.33 20.15 88.12 20.88C88.95 20.91 90.49 20.53 90.12 21.88C90.85 21.67 91.33 22.15 91.12 22.88L93.88 22.88L93.88 19.12L92.12 19.12C92.18 17.84 90.65 18.47 90.88 17.12L89.12 17.12C89.18 15.84 87.65 16.47 87.88 15.12C87.05 15.09 85.51 15.47 85.88 14.12C83.13 14.77 83.76 11.51 81.12 12.12C80.43 10.99 79.96 9.84 78.12 10.12L77.88 9.12C76.74 9.41 74.44 8.53 74.12 9.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-L5.svg" target="_parent">
+    <rect x="7" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-L6.svg" target="_parent" aria-label="Open BP205, left example 6">
-    <title>BP205, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="9.5" cy="61.5" r="3.68" fill="black"/>
       <polygon points="59.27,12.12 54.12,17.27 54.12,25.73 59.27,30.88 67.73,30.88 72.88,25.73 72.88,17.27 67.73,12.12" fill="black"/>
@@ -100,12 +103,13 @@
       <path d="M38.62 30.88C48.37 49.89 57.85 68.75 68.12 87.38L67.62 89.12L14.88 88.62L14.88 86.38L16.88 83.62L16.88 81.38C24.4 65.93 29.34 49.04 36.88 33.62L36.88 31.38L38.62 30.88Z" fill="white"/>
       <path d="M37.62 21.12C34.61 16.95 33.69 11.44 29.88 7.62L30.38 5.88L43.12 6.38C42.03 11.74 39.46 16.08 37.62 21.12Z" fill="white"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-R1.svg" target="_parent" aria-label="Open BP205, right example 1">
-    <title>BP205, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="51.12" y="59.12" width="4.75" height="4.75" fill="black"/>
       <path d="M35.38 36.12C35.48 37.85 34.07 38.01 33.12 38.62C35.54 38.3 34.74 40.85 35.62 41.88C35.92 40.33 35.73 38.48 37.88 38.62C36.65 38.22 35.78 37.35 35.38 36.12Z" fill="black"/>
@@ -114,12 +118,13 @@
       <rect x="20.88" y="11.88" width="11.25" height="11.25" fill="white"/>
       <path d="M20.38 11.12L20.12 22.62L14.38 23.12L13.88 16.38L14.38 4.88L31.62 4.88L31.62 11.12L20.38 11.12Z" fill="white"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-R2.svg" target="_parent" aria-label="Open BP205, right example 2">
-    <title>BP205, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M36.12 58.62C38.36 60.2 39.71 62.6 42.12 64.12L42.12 64.88L43.12 65.12L43.12 65.88C40.66 67.28 39.63 69.86 37.12 71.12L36.88 72.12L36.12 72.12L36.12 72.88L36.88 72.88L36.88 72.12L37.88 71.88C39.14 69.37 41.72 68.34 43.12 65.88L43.88 65.88L44.12 66.88C46.63 68.14 47.66 70.72 50.12 72.12L50.12 72.88L50.88 72.88L50.88 72.12L50.12 72.12C48.72 69.66 46.14 68.63 44.88 66.12L43.88 65.88L43.88 65.12L44.88 64.88C46.14 62.37 48.72 61.34 50.12 58.88L50.88 58.88L50.88 58.12L50.12 58.12L50.12 58.88L49.12 59.12C47.86 61.63 45.28 62.66 43.88 65.12L43.12 65.12L42.88 64.12C40.37 62.86 39.34 60.28 36.88 58.88L36.88 58.12C36.44 58.11 35.92 58 36.12 58.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <circle cx="75.5" cy="57.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -127,12 +132,13 @@
       <path d="M67.12 22.62C69.36 24.2 70.71 26.6 73.12 28.12L73.12 28.88L74.12 29.12L74.12 29.88C71.66 31.28 70.63 33.86 68.12 35.12L67.88 36.12L67.12 36.12L67.12 36.88L67.88 36.88L67.88 36.12C70.34 34.72 71.37 32.14 73.88 30.88L74.12 29.88L74.88 29.88C76.28 32.34 78.86 33.37 80.12 35.88L81.12 36.12L81.12 36.88L81.88 36.88L81.88 36.12L81.12 36.12C79.72 33.66 77.14 32.63 75.88 30.12L74.88 29.88L74.88 29.12L75.88 28.88C77.14 26.37 79.72 25.34 81.12 22.88L81.88 22.88L81.88 22.12L81.12 22.12L81.12 22.88C78.66 24.28 77.63 26.86 75.12 28.12L74.88 29.12L74.12 29.12L73.88 28.12C71.37 26.86 70.34 24.28 67.88 22.88L67.88 22.12C67.44 22.11 66.92 22 67.12 22.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <circle cx="25.5" cy="25.5" r="3.71" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-R2.svg" target="_parent">
+    <rect x="408" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-R3.svg" target="_parent" aria-label="Open BP205, right example 3">
-    <title>BP205, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="9.12" y="9.12" width="77.75" height="74.75" fill="black"/>
       <rect x="9.88" y="9.88" width="76.25" height="73.25" fill="white"/>
@@ -142,12 +148,13 @@
       <rect x="23.88" y="22.88" width="39.25" height="38.25" fill="white"/>
       <circle cx="36.5" cy="33.5" r="3.68" fill="black"/>
     </svg>
-    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-R3.svg" target="_parent">
+    <rect x="300.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-R4.svg" target="_parent" aria-label="Open BP205, right example 4">
-    <title>BP205, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="47.12" y="51.12" width="38.75" height="30.75" fill="black"/>
       <rect x="49.88" y="53.88" width="33.25" height="25.25" fill="white"/>
@@ -158,12 +165,13 @@
       <polygon points="38.12,5.53 38.12,9.67 40.62,10.88 61.01,31.36 66.18,33.88 94.48,33.88 95.88,32.48 95.88,28.52 71.48,4.12 39.53,4.12" fill="black"/>
       <path d="M52.12 11.12L67.62 10.88L83.12 26.62L68.38 27.12C62.69 22.53 56.38 16.7 52.12 11.12Z" fill="white"/>
     </svg>
-    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-R4.svg" target="_parent">
+    <rect x="408.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-R5.svg" target="_parent" aria-label="Open BP205, right example 5">
-    <title>BP205, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="18.5" cy="53.5" r="7.73" fill="black"/>
       <rect x="72.12" y="36.12" width="9.75" height="9.75" fill="black"/>
@@ -172,12 +180,13 @@
       <polygon points="31.88,83.41 36.88,75.62 40.65,67.69 41.14,67.21 44.88,59.38 50.38,50.97 75.53,85.12 31.98,85.12" fill="white"/>
       <path d="M70.12 8.38C63.51 19.94 56.86 31.26 50.62 43.12C48.69 43.45 48.28 41.38 46.88 40.62L46.88 39.38L23.88 8.62L24.38 7.88L70.12 8.38Z" fill="white"/>
     </svg>
-    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-R5.svg" target="_parent">
+    <rect x="300" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP205D-R6.svg" target="_parent" aria-label="Open BP205, right example 6">
-    <title>BP205, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="56.12" y="64.12" width="19.75" height="19.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <rect x="56.88" y="64.88" width="18.25" height="18.25" fill="white"/>
@@ -186,6 +195,8 @@
       <rect x="12.88" y="3.88" width="18.25" height="18.25" fill="white"/>
       <path d="M16.12 7.62C17.54 8.92 19.21 10.05 20.12 11.88C18.3 12.59 17.99 14.55 16.12 15.12L16.12 15.88L16.88 15.88C17.45 14.01 19.41 13.7 20.12 11.88C22.21 12.68 22.93 15.03 24.88 15.88L24.88 15.12C23.01 14.55 22.7 12.59 20.88 11.88C21.68 9.79 24.03 9.07 24.88 7.12C22.93 7.97 22.21 10.32 20.12 11.12C19.41 9.3 17.45 8.99 16.88 7.12C16.44 7.11 15.92 7 16.12 7.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP205D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

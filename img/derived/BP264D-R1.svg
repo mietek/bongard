@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP264, right example 1</title>
   <rect width="98" height="98" fill="white"/>
-  <g aria-label="5" transform="translate(37 67) scale(0.0225711 -0.0244927) translate(-63 20)">
+  <g transform="translate(37 67) scale(0.0225711 -0.0244927) translate(-63 20)">
   <path transform="translate(0 0)" d="M1082 469Q1082 245 942.5 112.5Q803 -20 560 -20Q348 -20 220.5 75.5Q93 171 63 352L344 375Q366 285 422.0 244.0Q478 203 563 203Q668 203 730.5 270.0Q793 337 793 463Q793 574 734.0 640.5Q675 707 569 707Q452 707 378 616H104L153 1409H1000V1200H408L385 844Q487 934 640 934Q841 934 961.5 809.0Q1082 684 1082 469Z"/>
   </g>
 </svg>

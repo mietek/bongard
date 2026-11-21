@@ -13,14 +13,14 @@ define render
 	@set -e; tmp='$@.tmp'; trap 'rm -f "$$tmp"' EXIT; \
 	  title=$$(sed -n '1s/^# //p' '$<'); \
 	  $(PANDOC) --from=markdown-smart --to=html5 --wrap=none \
-	    --template=tools/page.tpl --metadata="title:$$title" $(zoom) \
+	    --template=tools/page.tpl --lua-filter=tools/omit-alt.lua --metadata="title:$$title" $(zoom) \
 	    '$<' -o "$$tmp"; \
 	  if [ '$@' = problems.html ]; then $(PYTHON) tools/zoom.py "$$tmp"; fi; \
 	  mv "$$tmp" '$@'
 endef
 
-index.html: README.md Makefile tools/page.tpl
+index.html: README.md Makefile tools/page.tpl tools/omit-alt.lua
 	$(render)
 
-problems.html flagged.html: %.html: %.md Makefile tools/page.tpl
+problems.html flagged.html: %.html: %.md Makefile tools/page.tpl tools/omit-alt.lua
 	$(render)

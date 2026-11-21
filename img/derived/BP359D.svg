@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP359, linked examples">
-  <title>BP359 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP359D-L1.svg" target="_parent" aria-label="Open BP359, left example 1">
-    <title>BP359, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="1.03" cy="0.84" r="0.56" fill="black"/>
       <circle cx="3.03" cy="0.82" r="0.98" fill="black"/>
@@ -2284,12 +2282,13 @@
       <circle cx="92.76" cy="97.08" r="0.8" fill="black"/>
       <circle cx="96.8" cy="97" r="0.56" fill="black"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-L2.svg" target="_parent" aria-label="Open BP359, left example 2">
-    <title>BP359, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="1.22" cy="0.93" r="0.98" fill="black"/>
       <circle cx="2.86" cy="0.94" r="0.8" fill="black"/>
@@ -4685,12 +4684,13 @@
       <circle cx="94.76" cy="96.96" r="0.98" fill="black"/>
       <circle cx="96.97" cy="97.07" r="0.98" fill="black"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-L2.svg" target="_parent">
+    <rect x="115" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-L3.svg" target="_parent" aria-label="Open BP359, left example 3">
-    <title>BP359, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="0.93" cy="1.25" r="0.56" fill="black"/>
       <circle cx="2.78" cy="0.73" r="0.56" fill="black"/>
@@ -6353,12 +6353,13 @@
       <circle cx="93.18" cy="96.82" r="0.56" fill="black"/>
       <circle cx="97.15" cy="96.86" r="0.8" fill="black"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-L3.svg" target="_parent">
+    <rect x="7" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-L4.svg" target="_parent" aria-label="Open BP359, left example 4">
-    <title>BP359, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="0.8" cy="1.19" r="0.56" fill="black"/>
       <circle cx="2.76" cy="1" r="0.56" fill="black"/>
@@ -8433,12 +8434,13 @@
       <circle cx="92.95" cy="96.77" r="0.56" fill="black"/>
       <circle cx="96.8" cy="96.78" r="0.56" fill="black"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-L4.svg" target="_parent">
+    <rect x="115" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-L5.svg" target="_parent" aria-label="Open BP359, left example 5">
-    <title>BP359, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="1.13" cy="1.13" r="0.56" fill="black"/>
       <circle cx="2.95" cy="1.05" r="0.8" fill="black"/>
@@ -9428,12 +9430,13 @@
       <circle cx="90.99" cy="96.75" r="0.8" fill="black"/>
       <circle cx="93.18" cy="96.76" r="0.56" fill="black"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-L5.svg" target="_parent">
+    <rect x="7" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-L6.svg" target="_parent" aria-label="Open BP359, left example 6">
-    <title>BP359, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="7.02" cy="1.26" r="0.56" fill="black"/>
       <circle cx="14.85" cy="0.74" r="0.56" fill="black"/>
@@ -10019,12 +10022,13 @@
       <circle cx="62.8" cy="97.1" r="0.56" fill="black"/>
       <circle cx="91.21" cy="96.78" r="0.56" fill="black"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-R1.svg" target="_parent" aria-label="Open BP359, right example 1">
-    <title>BP359, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <g id="BP359DR1Field">
         <circle cx="1.11" cy="0.86" r="0.8" fill="black"/>
@@ -10612,12 +10616,13 @@
       <use href="#BP359DR1Field" transform="translate(0 98) scale(1 -1)"/>
       <use href="#BP359DR1Field" transform="translate(98 98) scale(-1 -1)"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-R2.svg" target="_parent" aria-label="Open BP359, right example 2">
-    <title>BP359, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP359DR2Tile" patternUnits="userSpaceOnUse" width="1" height="1">
@@ -10626,12 +10631,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP359DR2Tile)"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-R2.svg" target="_parent">
+    <rect x="408" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-R3.svg" target="_parent" aria-label="Open BP359, right example 3">
-    <title>BP359, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <g id="BP359DR3Field">
         <circle cx="0.78" cy="0.75" r="0.8" fill="black"/>
@@ -11771,12 +11777,13 @@
       </g>
       <use href="#BP359DR3Field" transform="translate(98 0) scale(-1 1)"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-R3.svg" target="_parent">
+    <rect x="300" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-R4.svg" target="_parent" aria-label="Open BP359, right example 4">
-    <title>BP359, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP359DR4Tile" patternUnits="userSpaceOnUse" width="20" height="20">
@@ -11885,12 +11892,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP359DR4Tile)"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-R4.svg" target="_parent">
+    <rect x="408" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-R5.svg" target="_parent" aria-label="Open BP359, right example 5">
-    <title>BP359, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <g id="BP359DR5Field">
         <circle cx="3.11" cy="1.04" r="0.56" fill="black"/>
@@ -12420,12 +12428,13 @@
       </g>
       <use href="#BP359DR5Field" transform="translate(0 98) scale(1 -1)"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-R5.svg" target="_parent">
+    <rect x="300" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP359D-R6.svg" target="_parent" aria-label="Open BP359, right example 6">
-    <title>BP359, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP359DR6Tile" patternUnits="userSpaceOnUse" width="1" height="1">
@@ -12434,6 +12443,8 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP359DR6Tile)"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP359D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

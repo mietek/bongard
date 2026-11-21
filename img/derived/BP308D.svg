@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP308, linked examples">
-  <title>BP308 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP308D-L1.svg" target="_parent" aria-label="Open BP308, left example 1">
-    <title>BP308, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="77.12" y="83.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="78.5" cy="84.5" r="0.61" fill="white"/>
@@ -46,12 +44,13 @@
       <rect x="43.12" y="12.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="44.5" cy="13.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-L2.svg" target="_parent" aria-label="Open BP308, left example 2">
-    <title>BP308, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="65.12" y="84.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="66.5" cy="85.5" r="0.61" fill="white"/>
@@ -104,12 +103,13 @@
       <rect x="69.12" y="11.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="70.5" cy="12.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-L2.svg" target="_parent">
+    <rect x="115" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-L3.svg" target="_parent" aria-label="Open BP308, left example 3">
-    <title>BP308, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="73.12" y="89.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="74.5" cy="90.5" r="0.61" fill="white"/>
@@ -157,12 +157,13 @@
       <rect x="50.12" y="8.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="51.5" cy="9.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-L3.svg" target="_parent">
+    <rect x="7" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-L4.svg" target="_parent" aria-label="Open BP308, left example 4">
-    <title>BP308, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="6.12" y="87.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="7.5" cy="88.5" r="0.61" fill="white"/>
@@ -207,12 +208,13 @@
       <rect x="36.12" y="9.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="37.5" cy="10.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-L4.svg" target="_parent">
+    <rect x="115" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-L5.svg" target="_parent" aria-label="Open BP308, left example 5">
-    <title>BP308, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="62.12" y="86.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="63.5" cy="87.5" r="0.61" fill="white"/>
@@ -255,12 +257,13 @@
       <rect x="25.12" y="16.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="26.5" cy="17.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-L5.svg" target="_parent">
+    <rect x="7" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-L6.svg" target="_parent" aria-label="Open BP308, left example 6">
-    <title>BP308, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="44.12" y="87.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="45.5" cy="88.5" r="0.61" fill="white"/>
@@ -303,12 +306,13 @@
       <rect x="28.12" y="16.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="29.5" cy="17.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-R1.svg" target="_parent" aria-label="Open BP308, right example 1">
-    <title>BP308, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="33.12" y="88.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="34.5" cy="89.5" r="0.61" fill="white"/>
@@ -347,12 +351,13 @@
       <rect x="51.12" y="6.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="52.5" cy="7.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-R2.svg" target="_parent" aria-label="Open BP308, right example 2">
-    <title>BP308, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="41.12" y="88.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="42.5" cy="89.5" r="0.61" fill="white"/>
@@ -395,12 +400,13 @@
       <rect x="84.12" y="5.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="85.5" cy="6.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-R2.svg" target="_parent">
+    <rect x="408" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-R3.svg" target="_parent" aria-label="Open BP308, right example 3">
-    <title>BP308, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="67.12" y="88.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="68.5" cy="89.5" r="0.61" fill="white"/>
@@ -439,12 +445,13 @@
       <rect x="71.12" y="7.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="72.5" cy="8.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-R3.svg" target="_parent">
+    <rect x="300" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-R4.svg" target="_parent" aria-label="Open BP308, right example 4">
-    <title>BP308, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="71.12" y="90.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="72.5" cy="91.5" r="0.61" fill="white"/>
@@ -479,12 +486,13 @@
       <rect x="23.12" y="7.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="24.5" cy="8.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-R4.svg" target="_parent">
+    <rect x="408" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-R5.svg" target="_parent" aria-label="Open BP308, right example 5">
-    <title>BP308, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="87.12" y="87.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="88.5" cy="88.5" r="0.61" fill="white"/>
@@ -525,12 +533,13 @@
       <rect x="82.12" y="6.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="83.5" cy="7.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-R5.svg" target="_parent">
+    <rect x="300" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP308D-R6.svg" target="_parent" aria-label="Open BP308, right example 6">
-    <title>BP308, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="77.12" y="86.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="78.5" cy="87.5" r="0.61" fill="white"/>
@@ -563,6 +572,8 @@
       <rect x="42.12" y="6.12" width="2.75" height="2.75" fill="black"/>
       <circle cx="43.5" cy="7.5" r="0.61" fill="white"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP308D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

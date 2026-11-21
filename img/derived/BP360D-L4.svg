@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP360, left example 4</title>
   <rect width="98" height="98" fill="white"/>
   <polygon points="86.12,82.12 86.12,96.88 90.46,96.88 94.88,92.46 94.88,86.54 90.46,82.12" fill="black"/>
   <path d="M13.62 90.88L14.88 81.38L6.38 79.12C5.77 80.49 3.74 80.81 4.12 82.62C-0.28 85.15 5.02 88.58 5.38 91.88C7.07 91.58 9.51 92.67 10.38 90.88L13.62 90.88Z" fill="black"/>

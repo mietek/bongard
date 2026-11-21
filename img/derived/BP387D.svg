@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP387, linked examples">
-  <title>BP387 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP387D-L1.svg" target="_parent" aria-label="Open BP387, left example 1">
-    <title>BP387, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="77.32" cy="51.35" rx="3.48" ry="4.24" transform="rotate(47.88 77.32 51.35)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M34.88 76.88L34.88 60.12L35.88 59.88L35.88 46.12C34.53 46.49 34.91 44.95 34.88 44.12C33.61 43.77 30.81 45.01 30.88 43.12L24.12 43.12L23.88 44.12L21.12 44.12C21.33 44.85 20.85 45.33 20.12 45.12L20.12 47.88C18.18 48.21 19.52 51.23 19.12 52.88C17.84 52.82 18.47 54.35 17.12 54.12L17.12 59.88L18.12 60.12L18.12 73.88L18.88 73.88C18.63 75.74 21.47 73.97 21.12 75.88C21.95 75.91 23.49 75.53 23.12 76.88C24.14 77.11 26.4 76.18 26.12 77.88C26.95 77.91 28.49 77.53 28.12 78.88L29.88 78.88C29.77 76.45 34.18 79.28 34.12 76.88L34.88 76.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -16,12 +14,13 @@
       <path d="M52.88 39.12L61.88 38.88L62.12 40.88C64.12 41.07 62.69 44.33 63.12 45.88L64.12 46.12L64.12 57.88L65.12 58.12L65.12 62.88C64.22 63.45 62.87 62.64 62.88 64.12L55.12 64.12C54.86 63.26 54.74 63.14 53.88 62.88L53.88 57.12C51.88 56.93 53.31 53.67 52.88 52.12L51.88 51.88L51.88 40.12C52.32 39.66 53.2 40.14 52.88 39.12Z" fill="white"/>
       <circle cx="30.4" cy="31.81" r="3.64" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-L2.svg" target="_parent" aria-label="Open BP387, left example 2">
-    <title>BP387, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="72.72" cy="80.57" r="3.49" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="17.32" cy="66.35" rx="3.48" ry="4.24" transform="rotate(47.88 17.32 66.35)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -33,12 +32,13 @@
       <path d="M16.88 22.12L25.88 21.88L26.12 22.88L27.12 23.12L27.12 34.88L26.12 35.12C25.69 36.67 27.12 39.93 25.12 40.12L25.12 45.88C24.26 46.14 24.14 46.26 23.88 47.12L16.12 47.12L15.88 46.12L13.88 45.88L13.88 41.12L14.88 40.88L14.88 29.12L15.88 28.88C16.31 27.33 14.88 24.07 16.88 23.88L16.88 22.12Z" fill="white"/>
       <circle cx="53.4" cy="20.81" r="3.64" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-L2.svg" target="_parent">
+    <rect x="115" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-L3.svg" target="_parent" aria-label="Open BP387, left example 3">
-    <title>BP387, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="18.87" cy="66.68" r="3.69" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="81.4" cy="47.84" rx="2.88" ry="3.6" transform="rotate(66.09 81.4 47.84)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -49,24 +49,26 @@
       <circle cx="74.45" cy="20.57" r="3.67" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="44.72" cy="17.57" rx="3.74" ry="4.23" transform="rotate(78.63 44.72 17.57)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-L3.svg" target="_parent">
+    <rect x="7" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-L4.svg" target="_parent" aria-label="Open BP387, left example 4">
-    <title>BP387, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="67.04" cy="66.96" rx="3.42" ry="3.89" transform="rotate(170.14 67.04 66.96)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M37.88 60.88L37.88 44.12L38.88 43.88L38.88 30.12C37.53 30.49 37.91 28.95 37.88 28.12C36.61 27.77 33.81 29.01 33.88 27.12L27.12 27.12L26.88 28.12L24.12 28.12C24.33 28.85 23.85 29.33 23.12 29.12L23.12 31.88C21.18 32.21 22.52 35.23 22.12 36.88C20.84 36.82 21.47 38.35 20.12 38.12L20.12 43.88L21.12 44.12L21.12 57.88L21.88 57.88C21.63 59.74 24.47 57.97 24.12 59.88C24.95 59.91 26.49 59.53 26.12 60.88C27.14 61.11 29.4 60.18 29.12 61.88C29.95 61.91 31.49 61.53 31.12 62.88L32.88 62.88C32.77 60.45 37.18 63.28 37.12 60.88L37.88 60.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M35.88 60.12C34.33 59.69 31.07 61.12 30.88 59.12C29.61 58.77 26.81 60.01 26.88 58.12C25.86 57.89 23.6 58.82 23.88 57.12L22.88 56.88L22.88 52.12L21.88 51.88L21.88 40.12L22.88 39.88L22.88 33.12L23.88 32.88C24.11 31.86 23.18 29.6 24.88 29.88L25.12 28.88L34.88 28.88L35.12 29.88L37.12 30.12L37.12 33.88L38.12 34.12L38.12 40.88L37.12 41.12L37.12 55.88C35.1 56.01 36.79 58.88 35.88 60.12Z" fill="white"/>
       <circle cx="61.41" cy="28.7" r="3.58" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-L4.svg" target="_parent">
+    <rect x="115" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-L5.svg" target="_parent" aria-label="Open BP387, left example 5">
-    <title>BP387, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="81.87" cy="78.22" rx="3.1" ry="3.82" transform="rotate(91.72 81.87 78.22)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="14.63" cy="64.54" rx="3.37" ry="3.71" transform="rotate(31.29 14.63 64.54)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -81,12 +83,13 @@
       <ellipse cx="46.72" cy="19.22" rx="3.06" ry="3.89" transform="rotate(103.51 46.72 19.22)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <circle cx="78.87" cy="14.68" r="3.69" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-L5.svg" target="_parent">
+    <rect x="7" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-L6.svg" target="_parent" aria-label="Open BP387, left example 6">
-    <title>BP387, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M77.38 55.12C76.07 55.36 73.95 54.42 73.88 56.12L70.12 56.12C70.33 56.85 69.85 57.33 69.12 57.12L69.12 59.88C67.26 59.63 69.03 62.47 67.12 62.12L67.12 72.88L68.12 73.12L68.12 83.88C68.85 83.67 69.33 84.15 69.12 84.88C71.04 84.42 74.54 85.92 75.12 83.88L79.88 83.88C79.51 82.53 81.05 82.91 81.88 82.88L81.88 62.12C80.53 62.49 80.91 60.95 80.88 60.12C79.53 60.49 79.91 58.95 79.88 58.12C78.53 58.49 78.91 56.95 78.88 56.12C77.61 56.64 78.25 54.93 77.38 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M69.12 83.12L68.88 65.12C68.15 65.33 67.67 64.85 67.88 64.12L68.88 63.88C69.11 62.86 68.18 60.6 69.88 60.88C69.91 60.05 69.53 58.51 70.88 58.88C70.6 57.18 72.86 58.11 73.88 57.88C73.81 55.99 76.61 57.23 77.88 56.88L78.12 58.88C79.47 58.65 78.84 60.18 80.12 60.12L80.12 62.88L81.12 63.12L81.12 72.88L80.12 73.12L80.12 81.88L79.12 82.12L78.88 83.12L69.12 83.12Z" fill="white"/>
@@ -97,12 +100,13 @@
       <path d="M29.88 42.88L29.88 36.12L30.88 35.88L30.88 28.12L29.88 27.88L29.88 19.12L28.88 18.88L28.88 15.12C27.18 15.4 28.11 13.14 27.88 12.12L22.12 12.12L21.88 13.12C18.42 12.33 18.39 15.43 16.12 16.12C16.09 16.95 16.47 18.49 15.12 18.12L15.12 31.12L15.12 32.88L14.12 33.12L14.12 38.88C15.47 38.51 15.09 40.05 15.12 40.88C15.85 40.67 16.33 41.15 16.12 41.88C16.85 41.67 17.33 42.15 17.12 42.88L18.88 42.88L19.12 43.88L25.88 43.88L26.12 42.88L29.88 42.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M27.12 14.12L27.12 15.88C29.12 16.07 27.69 19.33 28.12 20.88L29.12 21.12L29.12 38.88L28.12 39.12L28.12 41.88L17.12 42.12L16.88 40.12L15.88 39.88L15.88 26.12L16.88 25.88L16.88 23.12L17.88 22.88C18.23 21.61 16.99 18.81 18.88 18.88C19.11 17.86 18.18 15.6 19.88 15.88C19.67 15.15 20.15 14.67 20.88 14.88C21.38 12.95 25.41 14.04 27.12 14.12Z" fill="white"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-R1.svg" target="_parent" aria-label="Open BP387, right example 1">
-    <title>BP387, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="36" cy="72.5" rx="2.96" ry="3.69" transform="rotate(11.77 36 72.5)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M67.88 72.88L67.88 41.12C67.15 41.33 66.67 40.85 66.88 40.12L64.12 40.12C63.79 38.18 60.77 39.52 59.12 39.12C59.47 41.03 56.63 39.26 56.88 41.12L54.12 41.12C54.49 42.47 52.95 42.09 52.12 42.12C52.33 42.85 51.85 43.33 51.12 43.12L51.12 44.88L50.12 45.12L50.12 63.88L51.12 64.12L51.12 66.88L52.12 67.12L52.12 70.88C53.47 70.51 53.09 72.05 53.12 72.88L55.88 72.88C55.98 74.04 56.77 73.95 57.88 73.88C57.92 75.43 62.08 75.43 62.12 73.88L65.88 73.88C65.51 72.53 67.05 72.91 67.88 72.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -112,12 +116,13 @@
       <path d="M34.12 48.88C34.59 50.79 32.25 49.95 31.12 50.12L30.88 51.12L24.12 51.12C23.55 50.22 24.36 48.87 22.88 48.88L22.88 43.12C20.88 42.93 22.31 39.67 21.88 38.12L20.88 37.88L20.88 27.12L21.88 26.88C21.53 24.97 24.37 26.74 24.12 24.88C25.67 25.31 28.93 23.88 29.12 25.88C29.95 25.91 31.49 25.53 31.12 26.88C33.12 27.07 31.69 30.33 32.12 31.88L33.12 32.12L33.12 44.88L34.12 45.12L34.12 48.88Z" fill="white"/>
       <circle cx="46.45" cy="22.57" r="3.67" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-R2.svg" target="_parent" aria-label="Open BP387, right example 2">
-    <title>BP387, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="65.58" cy="64.07" rx="2.46" ry="3.37" transform="rotate(21.45 65.58 64.07)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M47.88 52.12C46.66 52.28 44.91 51.55 44.88 53.12C42.41 52.91 40.47 53.09 39.88 55.12L38.12 55.12L38.12 55.88C36.26 55.63 38.03 58.47 36.12 58.12L36.12 73.88L35.12 74.12L35.12 79.88C35.85 79.67 36.33 80.15 36.12 80.88C38.03 80.53 36.26 83.37 38.12 83.12L38.12 83.88L49.88 83.88C49.67 83.15 50.15 82.67 50.88 82.88L50.88 76.12L51.88 75.88L51.88 68.12L50.88 67.88L50.88 59.12L49.88 58.88C49.57 57.47 50.68 55.02 48.88 54.88C49.48 53.11 47.89 53.43 47.88 52.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -128,12 +133,13 @@
       <path d="M44.12 35.88C44.85 35.67 45.33 36.15 45.12 36.88L47.88 36.88L48.12 37.88L57.88 37.88L57.88 35.12L58.88 34.88C59.11 33.86 58.18 31.6 59.88 31.88L59.88 25.12L60.88 24.88L60.88 13.12C60.15 13.33 59.67 12.85 59.88 12.12C58.53 12.49 58.91 10.95 58.88 10.12L49.12 10.12L49.12 10.88C47.26 10.63 49.03 13.47 47.12 13.12L47.12 19.88L46.12 20.12L46.12 30.88L45.12 31.12L45.12 33.88L44.12 34.12L44.12 35.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M45.88 34.88C46.11 33.86 45.18 31.6 46.88 31.88L46.88 23.12C48.92 22.54 47.42 19.04 47.88 17.12C49.82 16.79 48.48 13.77 48.88 12.12C49.91 11.34 52.13 12.7 52.12 10.88L56.88 10.88L57.12 11.88L58.88 11.88L59.12 13.88L60.12 14.12L60.12 20.88C58.32 21.02 59.43 23.47 59.12 24.88L58.12 25.12L58.12 33.88L57.12 34.12C57.64 35.95 56.19 35.9 55.88 37.12C54.03 36.64 50.35 38.2 49.88 36.12C48.86 35.89 46.6 36.82 46.88 35.12L45.88 34.88Z" fill="white"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-R2.svg" target="_parent">
+    <rect x="408" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-R3.svg" target="_parent" aria-label="Open BP387, right example 3">
-    <title>BP387, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="36.07" cy="80.54" rx="3.74" ry="4.21" transform="rotate(83.11 36.07 80.54)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <circle cx="15.87" cy="66.68" r="3.69" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -145,12 +151,13 @@
       <circle cx="71.45" cy="20.57" r="3.67" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="41.87" cy="17.45" rx="3.42" ry="4.09" transform="rotate(116.78 41.87 17.45)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-R3.svg" target="_parent">
+    <rect x="300" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-R4.svg" target="_parent" aria-label="Open BP387, right example 4">
-    <title>BP387, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M72.88 74.88L72.88 72.12L71.88 71.88L71.88 60.12L70.88 59.88C70.48 58.23 71.82 55.21 69.88 54.88L69.88 51.12C68.53 51.49 68.91 49.95 68.88 49.12L59.12 49.12C59.33 49.85 58.85 50.33 58.12 50.12C58.33 50.85 57.85 51.33 57.12 51.12L57.12 65.88L58.12 66.12L58.12 71.88L59.12 72.12L59.12 75.88L59.88 75.88L60.12 76.88L68.88 76.88L69.12 75.88L71.88 75.88C71.67 75.15 72.15 74.67 72.88 74.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M71.12 73.88C71.59 75.79 69.25 74.95 68.12 75.12L67.88 76.12L61.12 76.12C60.55 75.22 61.36 73.87 59.88 73.88L59.88 68.12C57.88 67.93 59.31 64.67 58.88 63.12L57.88 62.88L57.88 52.12L58.88 51.88C58.53 49.97 61.37 51.74 61.12 49.88C62.67 50.31 65.93 48.88 66.12 50.88C66.95 50.91 68.49 50.53 68.12 51.88C70.12 52.07 68.69 55.33 69.12 56.88L70.12 57.12L70.12 69.88L71.12 70.12L71.12 73.88Z" fill="white"/>
@@ -158,12 +165,13 @@
       <path d="M32.88 66.12C31.86 65.89 29.6 66.82 29.88 65.12C28.61 64.77 25.81 66.01 25.88 64.12C25.05 64.09 23.51 64.47 23.88 63.12C22.05 63.64 22.1 62.19 20.88 61.88L20.88 58.12L19.88 57.88L19.88 45.12C21.92 44.54 20.42 41.04 20.88 39.12L21.88 38.88L21.88 35.12C22.78 34.55 24.13 35.36 24.12 33.88L32.88 33.88L33.12 34.88L35.12 35.12L35.12 39.88L36.12 40.12L36.12 46.88L35.12 47.12L35.12 60.88C32.72 60.82 35.55 65.23 33.12 65.12L32.88 66.12Z" fill="white"/>
       <ellipse cx="55.24" cy="28.5" rx="3" ry="3.44" transform="rotate(0 55.24 28.5)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-R4.svg" target="_parent">
+    <rect x="408" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-R5.svg" target="_parent" aria-label="Open BP387, right example 5">
-    <title>BP387, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="25.4" cy="76.81" r="3.64" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="45.12" cy="61.66" rx="3.03" ry="3.6" transform="rotate(16.45 45.12 61.66)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -176,12 +184,13 @@
       <path d="M60.12 41.88L59.12 42.12C59.4 43.82 57.14 42.89 56.12 43.12C55.65 45.2 51.97 43.64 50.12 44.12C49.81 42.9 48.36 42.95 48.88 41.12L47.88 40.88L47.88 32.12L46.88 31.88C46.57 30.47 47.68 28.02 45.88 27.88L45.88 21.12L46.88 20.88L47.12 18.88L48.88 18.88L49.12 17.88L53.88 17.88C53.87 19.7 56.09 18.34 57.12 19.12C57.52 20.77 56.18 23.79 58.12 24.12C58.58 26.04 57.08 29.54 59.12 30.12L59.12 38.88C60.82 38.6 59.89 40.86 60.12 41.88Z" fill="white"/>
       <ellipse cx="37.95" cy="16.37" rx="3.58" ry="4.06" transform="rotate(110.25 37.95 16.37)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-R5.svg" target="_parent">
+    <rect x="300" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP387D-R6.svg" target="_parent" aria-label="Open BP387, right example 6">
-    <title>BP387, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="37.57" cy="67.55" r="3.67" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M64.88 89.88L64.88 83.12L65.88 82.88L65.88 75.12L64.88 74.88L64.88 66.12L63.88 65.88L63.88 62.12C62.18 62.4 63.11 60.14 62.88 59.12L57.12 59.12L56.88 60.12C53.42 59.33 53.39 62.43 51.12 63.12C51.09 63.95 51.47 65.49 50.12 65.12L50.12 78.12L50.12 79.88L49.12 80.12L49.12 85.88C50.47 85.51 50.09 87.05 50.12 87.88C50.85 87.67 51.33 88.15 51.12 88.88C51.85 88.67 52.33 89.15 52.12 89.88L53.88 89.88L54.12 90.88L60.88 90.88L61.12 89.88L64.88 89.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
@@ -197,6 +206,8 @@
       <path d="M41.88 45.88L41.88 29.12L42.88 28.88L42.88 15.12C41.53 15.49 41.91 13.95 41.88 13.12C41.05 13.09 39.51 13.47 39.88 12.12C38.86 11.89 36.6 12.82 36.88 11.12L33.12 11.12L32.88 12.12C31.66 12.28 29.91 11.55 29.88 13.12C28.01 12.94 26.94 14.01 27.12 15.88C25.18 16.21 26.52 19.23 26.12 20.88C24.96 20.98 25.05 21.77 25.12 22.88C23.08 23.46 24.58 26.96 24.12 28.88L25.12 29.12L25.12 41.88C25.85 41.67 26.33 42.15 26.12 42.88C26.85 42.67 27.33 43.15 27.12 43.88C27.95 43.91 29.49 43.53 29.12 44.88C29.95 44.91 31.49 44.53 31.12 45.88L33.88 45.88C34.02 47.68 36.47 46.57 37.88 46.88L38.12 45.88L41.88 45.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M38.88 45.12C37.86 44.89 35.6 45.82 35.88 44.12C34.61 43.77 31.81 45.01 31.88 43.12C31.05 43.09 29.51 43.47 29.88 42.12C28.05 42.64 28.1 41.19 26.88 40.88L26.88 37.12L25.88 36.88L25.88 24.12C27.92 23.54 26.42 20.04 26.88 18.12L27.88 17.88L27.88 14.12C28.78 13.55 30.13 14.36 30.12 12.88L38.88 12.88L39.12 13.88L41.12 14.12L41.12 18.88L42.12 19.12L42.12 25.88L41.12 26.12L41.12 39.88C38.72 39.82 41.55 44.23 39.12 44.12L38.88 45.12Z" fill="white"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP387D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

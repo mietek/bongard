@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP271, left example 3</title>
   <rect width="98" height="98" fill="white"/>
-  <g aria-label="M" transform="translate(36 65) scale(0.0230447 -0.0248403) translate(-137 0)">
+  <g transform="translate(36 65) scale(0.0230447 -0.0248403) translate(-137 0)">
   <path transform="translate(0 0)" d="M1307 0V854Q1307 883 1307.5 912.0Q1308 941 1317 1161Q1246 892 1212 786L958 0H748L494 786L387 1161Q399 929 399 854V0H137V1409H532L784 621L806 545L854 356L917 582L1176 1409H1569V0Z"/>
   </g>
 </svg>

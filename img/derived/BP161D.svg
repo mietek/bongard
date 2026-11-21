@@ -1,139 +1,150 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP161, linked examples">
-  <title>BP161 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP161D-L1.svg" target="_parent" aria-label="Open BP161, left example 1">
-    <title>BP161, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M16.12 72.62L18.62 72.88C37.05 64.01 56.98 57.83 75.38 48.88L80.62 47.88C80.97 46.3 83.57 47.5 82.88 45.38L80.38 45.12C61.98 54.03 42.05 60.22 23.62 69.12L21.38 69.12L18.62 71.12L16.38 71.12L16.12 72.62Z" fill="black"/>
       <path d="M17.12 47.62L19.62 47.88C31.61 41.95 43.88 36.5 56.62 31.88L56.88 30.38L54.38 30.12C43.25 36.26 30.77 40 19.62 46.12L17.38 46.12L17.12 47.62Z" fill="black"/>
       <path d="M37.88 14.38L35.38 14.12C29.87 17.33 23.34 18.7 17.38 21.12L17.12 22.62C23.97 21.28 30.48 17.44 37.62 15.88L37.88 14.38Z" fill="black"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-L2.svg" target="_parent" aria-label="Open BP161, left example 2">
-    <title>BP161, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M42.88 45.88C45.87 43.08 41.75 38.47 42.88 34.38L41.38 34.12C40.1 38.33 42.92 41.28 42.12 45.62L42.88 45.88Z" fill="black"/>
       <polygon points="62.87,19.12 66.66,49.98 67.12,50.23 67.12,54.88 68.98,54.88 65.35,25.03 64.88,24.77 64.88,19.12" fill="black"/>
       <path d="M25.62 72.88C23.9 54.24 20.89 35.26 18.88 16.38L17.38 16.12L17.12 20.62L18.12 21.38C19.28 38.93 22.18 55.5 24.12 72.62L25.62 72.88Z" fill="black"/>
     </svg>
-    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-L2.svg" target="_parent">
+    <rect x="115" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-L3.svg" target="_parent" aria-label="Open BP161, left example 3">
-    <title>BP161, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="54.12" y="81.12" width="17.75" height="1.75" fill="black"/>
       <rect x="12.12" y="50.12" width="73.75" height="1.75" fill="black"/>
       <rect x="18.12" y="19.12" width="28.75" height="1.75" fill="black"/>
     </svg>
-    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-L3.svg" target="_parent">
+    <rect x="7.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-L4.svg" target="_parent" aria-label="Open BP161, left example 4">
-    <title>BP161, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="49.88,44.12 48.47,44.12 44.15,69.88 45.53,69.88 46.88,66.62 46.88,61.23 47.88,60.69 47.88,55.38 49.88,48.62" fill="black"/>
       <path d="M52.38 84.88L53.88 84.62C55.93 70.38 59.53 57.01 60.88 42.38L61.88 41.62L61.62 38.12L60.12 38.38C58.07 54.1 54.19 69.44 52.38 84.88Z" fill="black"/>
       <path d="M13.38 69.88L14.88 69.62C16.75 57.46 19.54 45.82 20.88 33.38L21.88 32.62L21.88 27.38L22.88 26.62L22.88 21.38L23.88 20.62L23.62 17.12L22.12 17.38C19.67 35.06 15.58 52.47 13.38 69.88Z" fill="black"/>
     </svg>
-    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-L4.svg" target="_parent">
+    <rect x="115.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-L5.svg" target="_parent" aria-label="Open BP161, left example 5">
-    <title>BP161, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="13.12" y="35.12" width="1.75" height="9.75" fill="black"/>
       <rect x="42.12" y="26.12" width="1.75" height="26.75" fill="black"/>
       <rect x="61.12" y="2.12" width="1.75" height="76.75" fill="black"/>
     </svg>
-    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-L5.svg" target="_parent">
+    <rect x="7" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-L6.svg" target="_parent" aria-label="Open BP161, left example 6">
-    <title>BP161, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M36.88 65.38L36.88 64.12L36.12 64.12L35.88 63.12L35.12 63.12L34.88 62.12L34.12 62.12L33.88 61.12C31.37 59.86 30.34 57.28 27.88 55.88L27.88 55.12L26.88 54.88L26.88 54.12L25.88 53.88L25.88 53.12L24.12 53.12L24.12 53.88L24.88 53.88L25.12 54.88L25.88 54.88L26.12 55.88L26.88 55.88L27.12 56.88L27.88 56.88L28.12 57.88C30.63 59.14 31.66 61.72 34.12 63.12L34.12 63.88L35.12 64.12L35.12 64.88L36.12 65.12L36.12 65.88C36.56 65.89 37.08 66 36.88 65.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M57.88 47.38L57.88 46.12L57.12 46.12L56.88 45.12L56.12 45.12L55.88 44.12L55.12 44.12L54.88 43.12L54.12 43.12L53.88 42.12L53.12 42.12C51.72 39.66 49.14 38.63 47.88 36.12L46.88 35.88L46.88 35.12L45.12 35.12L45.12 35.88L45.88 35.88L46.12 36.88L46.88 36.88L47.12 37.88L47.88 37.88L48.12 38.88L48.88 38.88L49.12 39.88L49.88 39.88L50.12 40.88C52.63 42.14 53.66 44.72 56.12 46.12L56.12 46.88L57.12 47.12L57.12 47.88C57.56 47.89 58.08 48 57.88 47.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <path d="M78.88 29.38L78.88 28.12L78.12 28.12L77.88 27.12L77.12 27.12L76.88 26.12L76.12 26.12C74.72 23.66 72.14 22.63 70.88 20.12L69.88 19.88L69.88 19.12L68.88 18.88L68.88 18.12L67.88 17.88L67.88 17.12L66.12 17.12L66.12 17.88L66.88 17.88L67.12 18.88L67.88 18.88C69.28 21.34 71.86 22.37 73.12 24.88L74.12 25.12L74.12 25.88L75.12 26.12L75.12 26.88L76.12 27.12L76.12 27.88L77.12 28.12L77.12 28.88L78.12 29.12L78.12 29.88C78.56 29.89 79.08 30 78.88 29.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-R1.svg" target="_parent" aria-label="Open BP161, right example 1">
-    <title>BP161, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M25.12 63.88L25.38 64.88C44.34 65.49 62.13 69.36 80.88 69.62L80.62 68.12C61.74 67.29 44.35 63.79 25.38 63.12L25.12 63.88Z" fill="black"/>
       <path d="M11.12 44.88L11.38 45.88C18.55 45.98 24.21 43.37 31.62 43.88L31.88 42.38C24.57 41.23 18.6 44.38 11.38 44.12L11.12 44.88Z" fill="black"/>
       <polygon points="63.88,5.78 44.12,25.53 44.12,27.22 63.88,7.47" fill="black"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-R2.svg" target="_parent" aria-label="Open BP161, right example 2">
-    <title>BP161, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M33.62 47.12L32.12 47.38L32.12 49.62C26.41 59.3 23.85 70.73 18.12 80.38L18.38 81.88L19.88 81.62C24.71 71.04 28.32 59.78 33.88 49.62L33.62 47.12Z" fill="black"/>
       <polygon points="48.6,38.12 50.21,41 62.12,56.38 74.21,73.47 75.88,74.7 75.88,72.58 71.88,68.62 63.88,56.38 52.27,41.46 50.21,38.12" fill="black"/>
       <path d="M80.88 28.62L80.62 27.12C62.19 23.82 44.24 18.5 26.12 15.38L27.38 17.88L32.62 17.88L33.38 18.88L37.62 18.88L38.38 19.88C51.51 21.88 63.47 25.95 76.62 27.88L77.38 28.88L80.88 28.62Z" fill="black"/>
     </svg>
-    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-R2.svg" target="_parent">
+    <rect x="408" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-R3.svg" target="_parent" aria-label="Open BP161, right example 3">
-    <title>BP161, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="45.12" y="35.12" width="23.75" height="1.75" fill="black"/>
       <path d="M31.38 40.88L32.88 40.62C33.73 34.5 35.55 28.27 35.62 22.12L34.12 22.38C33.54 28.65 31.72 34.88 31.38 40.88Z" fill="black"/>
       <path d="M80.62 35.88L80.88 34.38C76.61 29.4 72.38 24.38 69.88 18.38L68.38 18.12C69.39 24.37 76.06 28.52 78.12 34.62L80.62 35.88Z" fill="black"/>
     </svg>
-    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-R3.svg" target="_parent">
+    <rect x="300.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-R4.svg" target="_parent" aria-label="Open BP161, right example 4">
-    <title>BP161, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M34.12 68.88L34.38 69.88C53.21 68.96 70.72 65.67 89.62 64.88L89.88 63.38C70.99 63.4 53.32 67.47 34.38 68.12L34.12 68.88Z" fill="black"/>
       <path d="M30.12 47.88L30.38 48.88C37.55 48.98 43.21 46.37 50.62 46.88L50.88 45.38C43.57 44.23 37.6 47.38 30.38 47.12L30.12 47.88Z" fill="black"/>
       <path d="M27.12 27.88L27.38 28.88C38.18 27.65 48.46 25.47 59.62 24.88L59.88 23.38C48.66 23.07 38.33 26.22 27.38 27.12L27.12 27.88Z" fill="black"/>
     </svg>
-    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-R4.svg" target="_parent">
+    <rect x="408.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-R5.svg" target="_parent" aria-label="Open BP161, right example 5">
-    <title>BP161, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M91.88 40.12L91.62 39.12L89.62 40.12C80.54 39.6 73.01 41.84 64.38 42.12L64.12 43.62C72.97 43.94 81.11 41.1 90.62 41.88L91.88 40.12Z" fill="black"/>
       <path d="M53.62 59.88C52.67 45.99 49.05 32.55 47.88 18.38L46.38 18.12L46.12 23.62L47.12 24.38C48.12 36.5 50.77 47.7 52.12 59.62L53.62 59.88Z" fill="black"/>
       <path d="M29.62 79.88L29.88 76.38L28.88 75.62L28.88 69.38L27.88 68.62C26.42 50.05 22.88 32.64 20.88 14.38L19.38 14.12L19.12 18.62L20.12 19.38L20.12 25.62L21.12 26.38L21.12 32.62L22.12 33.38C23.35 49.22 26.16 64.18 28.12 79.62L29.62 79.88Z" fill="black"/>
     </svg>
-    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-R5.svg" target="_parent">
+    <rect x="300" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP161D-R6.svg" target="_parent" aria-label="Open BP161, right example 6">
-    <title>BP161, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="24.12" y="19.12" width="1.75" height="38.75" fill="black"/>
       <path d="M24.12 70.38L25.62 70.88L77.88 15.62L77.62 14.12L76.38 14.12L76.12 15.62L25.62 69.12L24.12 69.38L24.12 70.38Z" fill="black"/>
       <rect x="34.12" y="14.12" width="29.75" height="1.75" fill="black"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP161D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

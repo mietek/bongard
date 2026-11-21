@@ -1,116 +1,127 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP335, linked examples">
-  <title>BP335 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP335D-L1.svg" target="_parent" aria-label="Open BP335, left example 1">
-    <title>BP335, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="28.12" y="32.12" width="36.75" height="36.75" fill="black"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-L2.svg" target="_parent" aria-label="Open BP335, left example 2">
-    <title>BP335, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M71.62 73.88C71.12 71.75 65.04 68.89 69.88 66.62L70.88 65.38L63.88 58.62C64.03 54.3 74.48 51.61 68.88 47.62L68.88 46.38L71.88 43.38L67.88 39.38L71.88 35.62L71.88 34.38C67 32.12 70 28.63 72.88 26.38L29.38 26.12C26.52 28.68 23.06 31.86 28.12 34.38L28.12 35.62L24.12 39.62L28.12 43.38C26.31 45.14 23.4 47.59 27.12 49.38L27.12 50.62L20.12 57.38C21.1 60.79 24.85 62.65 27.12 65.38L24.12 68.38L24.12 69.62L28.38 73.88L71.62 73.88Z" fill="black"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-L2.svg" target="_parent">
+    <rect x="115" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-L3.svg" target="_parent" aria-label="Open BP335, left example 3">
-    <title>BP335, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M22.12 73.62C25.95 73.28 30.08 76.66 33.38 73.88L35.62 73.88L38.88 71.62L37.88 69.38L35.88 66.62C34.79 56.41 54.93 55.73 53.12 66.62L50.12 70.38L51.38 72.88L52.62 72.88C56.31 76.84 62.17 73.87 66.88 73.62L66.88 71.38C69.83 67.3 63.91 60.31 68.88 56.62C68.49 55.19 69.77 54.84 70.38 53.88L71.62 53.88C77.14 61.17 85.51 53.55 82.88 45.38C81.24 40.58 74.85 37.91 71.62 43.12L70.38 43.12C66.06 38.95 67.05 32.61 67.62 27.12C61.2 27.48 54.42 29.81 49.88 24.62L49.88 23.38C54.42 20.57 53.27 13.73 48.62 12.12C40.84 9.75 31.4 17.56 39.12 23.38L38.12 25.62C36.46 27 34.1 26.6 32.62 28.12L28.12 28.12C26.74 27.38 25.34 26.81 23.38 27.12C21.77 32.4 21.19 40.57 26.62 42.88L28.38 40.88L30.38 39.88L33.62 39.88L37.12 43.38C38.45 45.88 38.13 49.36 38.12 52.62C36.55 57.38 29.46 58.82 26.62 54.12L25.38 54.12L24.12 56.62C19.16 60.34 25.08 67.28 22.12 71.38L22.12 73.62Z" fill="black"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-L3.svg" target="_parent">
+    <rect x="7" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-L4.svg" target="_parent" aria-label="Open BP335, left example 4">
-    <title>BP335, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M27.38 65.88L65.88 65.62L65.62 27.12L27.38 65.88Z" fill="black"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-L4.svg" target="_parent">
+    <rect x="115" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-L5.svg" target="_parent" aria-label="Open BP335, left example 5">
-    <title>BP335, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="45.57,23.12 29.12,56.03 29.12,81.88 62.88,81.88 62.88,56.02 46.42,23.12" fill="black"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-L5.svg" target="_parent">
+    <rect x="7" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-L6.svg" target="_parent" aria-label="Open BP335, left example 6">
-    <title>BP335, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="10.12,49.53 10.12,50.47 28.53,68.88 64.47,68.88 82.88,50.47 82.88,49.53 64.47,31.12 28.53,31.12" fill="black"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-R1.svg" target="_parent" aria-label="Open BP335, right example 1">
-    <title>BP335, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="41.53,22.12 25.12,38.53 25.12,58.47 41.53,74.88 61.47,74.88 77.88,58.47 77.88,38.53 61.47,22.12" fill="black"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-R2.svg" target="_parent" aria-label="Open BP335, right example 2">
-    <title>BP335, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <polygon points="40.7,17.95 11.95,46.7 17.69,58.05 18.63,58.95 30.56,82.91 70.48,76.55 71.88,70.62 76.87,36.81" fill="black"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-R2.svg" target="_parent">
+    <rect x="408" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-R3.svg" target="_parent" aria-label="Open BP335, right example 3">
-    <title>BP335, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <circle cx="48.5" cy="48.5" r="18.47" fill="black"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-R3.svg" target="_parent">
+    <rect x="300" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-R4.svg" target="_parent" aria-label="Open BP335, right example 4">
-    <title>BP335, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="32.12" y="34.12" width="35.75" height="36.75" fill="black"/>
       <polygon points="50.07,43.85 55.29,45.38 58.12,51.04 58.12,52.9 55.35,58.51 49.93,60.15 44.71,58.62 41.88,52.96 41.88,51.1 44.65,45.49" fill="white"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-R4.svg" target="_parent">
+    <rect x="408" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-R5.svg" target="_parent" aria-label="Open BP335, right example 5">
-    <title>BP335, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M26.12 30.38C27.32 35.34 27.4 40.29 25.12 44.62C24.16 45.23 23.81 46.51 22.38 46.12C21.43 45.26 20.95 43.8 19.38 44.12L18.62 43.12C8.72 41.99 8.05 61.72 18.62 59.88L22.38 56.88C23.81 56.49 24.16 57.77 25.12 58.38L27.12 62.38L27.12 68.12C24.81 70.69 26.92 74.09 27.38 76.88C32.86 78.19 38.71 78.31 42.88 74.62C42.6 72.57 40.8 71.35 39.88 69.62L39.88 66.38L42.38 63.88C44.73 61.36 48.84 61.86 52.62 61.88C57.38 63.45 58.82 70.54 54.12 73.38L54.12 74.62C58.44 79.1 65.05 77.8 70.88 76.62L70.88 74.38C73.83 70.3 67.91 63.31 72.88 59.62C72.49 58.19 73.77 57.84 74.38 56.88L75.62 56.88C78.43 61.42 85.27 60.27 86.88 55.62C89.25 47.84 81.44 38.4 75.62 46.12L74.38 46.12C70.4 41.99 70.55 35.93 71.88 30.38C66.75 29.1 60.61 33.64 56.62 29.12L55.38 29.12C54.77 28.16 53.49 27.81 53.88 26.38L56.88 22.62C58.72 12.05 38.99 12.72 40.12 22.62L41.12 23.38C40.8 24.95 42.26 25.43 43.12 26.38C43.51 27.81 42.23 28.16 41.62 29.12C36.91 32.1 31.51 30.35 26.12 30.38Z" fill="black"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-R5.svg" target="_parent">
+    <rect x="300" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP335D-R6.svg" target="_parent" aria-label="Open BP335, right example 6">
-    <title>BP335, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M52.12 75.38C56.8 79.32 63.65 79.21 69.88 77.62C67.36 71.44 73.23 61.27 65.38 58.12L61.62 61.12L59.12 61.12L55.38 59.12C53.36 56.6 53.91 52.9 53.88 49.38L58.38 43.88L61.62 43.88L63.62 44.88L65.38 46.88C70.81 44.57 70.23 36.4 68.62 31.12C66.66 30.81 65.26 31.38 63.88 32.12L59.38 32.12C57.68 30.9 55.68 30.24 53.38 30.12C52.77 29.16 51.49 28.81 51.88 27.38C59.17 21.86 51.55 13.49 43.38 16.12C38.58 17.76 35.91 24.15 41.12 27.38L41.12 28.62C36.99 32.6 30.93 32.45 25.38 31.12C23.64 36.54 23.69 42.67 27.38 46.88L28.62 46.88C31.89 41.49 38.5 44.53 40.12 49.38C40.13 52.64 40.45 56.12 39.12 58.62C36.42 61.98 30.92 61.83 28.62 58.12L27.38 58.12L26.12 60.62C21.16 64.34 27.08 71.28 24.12 75.38L24.12 77.62C30.01 78.93 36.36 79.73 40.88 75.62L40.88 74.38C36.79 71.86 37.17 66.2 41.38 63.88C43.88 62.55 47.36 62.87 50.62 62.88L51.38 63.88C56.91 64.68 57.57 72.09 52.38 74.12L52.12 75.38Z" fill="black"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP335D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

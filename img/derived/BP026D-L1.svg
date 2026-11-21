@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP026, left example 1</title>
   <rect width="98" height="98" fill="white" />
   <polygon points="23.1,19.2 35.5,32.8 17.7,35.3" fill="black" />
   <circle cx="68.5" cy="32.8" r="7.7" fill="none" stroke="black" stroke-width="2.1" />

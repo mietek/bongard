@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP399, right example 2</title>
   <rect width="98" height="98" fill="white"/>
   <rect x="16.12" y="83.12" width="20.75" height="1.75" fill="black"/>
   <ellipse cx="59.41" cy="83.59" rx="2.41" ry="2.67" transform="rotate(45 59.41 83.59)" fill="black"/>

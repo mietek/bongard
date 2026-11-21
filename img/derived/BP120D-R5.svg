@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP120, right example 5</title>
   <rect width="98" height="98" fill="white"/>
   <polygon points="29.88,73.12 29.77,73.12 27.59,74.88 29.88,74.88" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
   <polygon points="68.88,69.12 51.12,69.12 51.12,74.12 31.12,74.12 31.12,74.88 51.88,74.88 51.88,70.88 52.88,70.88 52.88,69.88 68.88,69.88" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>

@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP387, right example 6</title>
   <rect width="98" height="98" fill="white"/>
   <circle cx="37.57" cy="67.55" r="3.67" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
   <path d="M64.88 89.88L64.88 83.12L65.88 82.88L65.88 75.12L64.88 74.88L64.88 66.12L63.88 65.88L63.88 62.12C62.18 62.4 63.11 60.14 62.88 59.12L57.12 59.12L56.88 60.12C53.42 59.33 53.39 62.43 51.12 63.12C51.09 63.95 51.47 65.49 50.12 65.12L50.12 78.12L50.12 79.88L49.12 80.12L49.12 85.88C50.47 85.51 50.09 87.05 50.12 87.88C50.85 87.67 51.33 88.15 51.12 88.88C51.85 88.67 52.33 89.15 52.12 89.88L53.88 89.88L54.12 90.88L60.88 90.88L61.12 89.88L64.88 89.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>

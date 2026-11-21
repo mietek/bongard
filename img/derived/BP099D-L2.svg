@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP099, left example 2</title>
   <rect width="98" height="98" fill="white"/>
   <path d="M50.12 88.88L60.88 88.88L60.88 86.12C59.53 86.49 59.91 84.95 59.88 84.12C58.53 84.49 58.91 82.95 58.88 82.12C57.53 82.49 57.91 80.95 57.88 80.12C57.15 80.33 56.67 79.85 56.88 79.12L56.12 79.12C56.33 79.85 55.85 80.33 55.12 80.12C54.94 81.88 52.55 81.57 53.12 83.88C51.99 84.57 50.84 85.04 51.12 86.88C49.96 86.98 50.05 87.77 50.12 88.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
   <ellipse cx="55.7" cy="85.39" rx="2.27" ry="2.61" transform="rotate(64.55 55.7 85.39)" fill="white"/>

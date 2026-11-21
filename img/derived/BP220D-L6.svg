@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP220, left example 6</title>
   <rect width="98" height="98" fill="white"/>
   <path d="M41.38 59.88L42.12 60.12L42.12 71.88L56.12 72.12L56.12 84.88L63.88 84.88L64.12 88.88L75.12 89.12L75.12 90.88L94.88 90.88L94.88 71.12L84.12 71.12L83.88 69.12L76.12 69.12L75.88 65.12L61.88 64.88L61.88 56.12L62.88 55.88L62.88 36.12L48.12 36.12L47.88 19.12L28.12 19.12L28.12 35.88L21.12 36.12L21.12 71.88L40.88 71.88L40.88 60.12L41.38 59.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
   <rect x="64.88" y="84.88" width="10.25" height="3.25" fill="white"/>

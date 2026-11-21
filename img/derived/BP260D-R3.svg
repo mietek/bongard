@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <title>BP260, right example 3</title>
   <rect width="98" height="98" fill="white"/>
   <path d="M66.38 69.88C67 70.08 66.89 69.56 66.88 69.12C65.61 68.77 62.81 70.01 62.88 68.12L56.12 68.12L55.88 67.12L48.12 67.12L47.88 66.12L41.12 66.12C40.98 64.32 38.53 65.43 37.12 65.12L37.12 65.88C38.39 66.23 41.19 64.99 41.12 66.88L47.88 66.88L48.12 67.88L55.88 67.88L56.12 68.88L62.88 68.88C62.95 70.58 65.07 69.64 66.38 69.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
   <path d="M31.12 53.38L31.12 53.88L50.88 53.88L50.88 34.12L50.12 34.12L50.12 52.88L31.12 53.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>

@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP298, linked examples">
-  <title>BP298 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP298D-L1.svg" target="_parent" aria-label="Open BP298, left example 1">
-    <title>BP298, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="83.12" y="79.12" width="9.75" height="9.75" fill="black"/>
       <rect x="39.12" y="79.12" width="27.75" height="7.75" fill="black"/>
@@ -18,12 +16,13 @@
       <rect x="66.12" y="16.12" width="22.75" height="22.75" fill="black"/>
       <path d="M11.38 5.12L7.12 13.62L15.62 13.88L11.38 5.12Z" fill="black"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-L2.svg" target="_parent" aria-label="Open BP298, left example 2">
-    <title>BP298, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="76.12" y="83.12" width="9.75" height="9.75" fill="black"/>
       <rect x="44.12" y="68.12" width="22.75" height="22.75" fill="black"/>
@@ -34,12 +33,13 @@
       <rect x="69.12" y="17.12" width="22.75" height="22.75" fill="black"/>
       <polygon points="22.47,11.7 15.12,23.38 9.03,34.88 35.04,34.88" fill="black"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-L2.svg" target="_parent">
+    <rect x="115" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-L3.svg" target="_parent" aria-label="Open BP298, left example 3">
-    <title>BP298, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="76.12" y="84.12" width="9.75" height="9.75" fill="black"/>
       <rect x="8.12" y="79.12" width="27.75" height="7.75" fill="black"/>
@@ -50,12 +50,13 @@
       <rect x="7.12" y="7.12" width="22.75" height="22.75" fill="black"/>
       <rect x="67.12" y="4.12" width="22.75" height="22.75" fill="black"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-L3.svg" target="_parent">
+    <rect x="7" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-L4.svg" target="_parent" aria-label="Open BP298, left example 4">
-    <title>BP298, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="80.12" y="78.12" width="9.75" height="9.75" fill="black"/>
       <path d="M13.38 77.12L9.12 85.62L17.62 85.88L13.38 77.12Z" fill="black"/>
@@ -66,12 +67,13 @@
       <polygon points="52.47,8.7 45.12,20.38 39.03,31.88 65.04,31.88" fill="black"/>
       <rect x="6.12" y="8.12" width="22.75" height="22.75" fill="black"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-L4.svg" target="_parent">
+    <rect x="115" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-L5.svg" target="_parent" aria-label="Open BP298, left example 5">
-    <title>BP298, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="81.12" y="77.12" width="9.75" height="9.75" fill="black"/>
       <path d="M57.38 74.12L53.12 82.62L61.62 82.88L57.38 74.12Z" fill="black"/>
@@ -82,12 +84,13 @@
       <rect x="63.12" y="21.12" width="22.75" height="22.75" fill="black"/>
       <rect x="62.12" y="6.12" width="27.75" height="7.75" fill="black"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-L5.svg" target="_parent">
+    <rect x="7" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-L6.svg" target="_parent" aria-label="Open BP298, left example 6">
-    <title>BP298, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="71.12" y="78.12" width="9.75" height="9.75" fill="black"/>
       <rect x="35.12" y="68.12" width="9.75" height="9.75" fill="black"/>
@@ -98,12 +101,13 @@
       <rect x="24.12" y="20.12" width="27.75" height="7.75" fill="black"/>
       <rect x="65.12" y="16.12" width="22.75" height="22.75" fill="black"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-R1.svg" target="_parent" aria-label="Open BP298, right example 1">
-    <title>BP298, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="11.12" y="81.12" width="27.75" height="7.75" fill="black"/>
       <path d="M70.38 67.12L66.12 75.62L74.62 75.88L70.38 67.12Z" fill="black"/>
@@ -114,12 +118,13 @@
       <rect x="77.12" y="6.12" width="9.75" height="9.75" fill="black"/>
       <rect x="6.12" y="6.12" width="22.75" height="22.75" fill="black"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-R2.svg" target="_parent" aria-label="Open BP298, right example 2">
-    <title>BP298, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="33.12" y="71.12" width="27.75" height="7.75" fill="black"/>
       <rect x="65.12" y="66.12" width="22.75" height="22.75" fill="black"/>
@@ -130,12 +135,13 @@
       <path d="M39.38 19.12L35.12 27.62L43.62 27.88L39.38 19.12Z" fill="black"/>
       <rect x="81.12" y="7.12" width="9.75" height="9.75" fill="black"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-R2.svg" target="_parent">
+    <rect x="408" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-R3.svg" target="_parent" aria-label="Open BP298, right example 3">
-    <title>BP298, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="38.12" y="68.12" width="22.75" height="22.75" fill="black"/>
       <rect x="67.12" y="55.12" width="9.75" height="9.75" fill="black"/>
@@ -146,12 +152,13 @@
       <rect x="83.12" y="10.12" width="9.75" height="9.75" fill="black"/>
       <rect x="10.12" y="9.12" width="22.75" height="22.75" fill="black"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-R3.svg" target="_parent">
+    <rect x="300" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-R4.svg" target="_parent" aria-label="Open BP298, right example 4">
-    <title>BP298, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="39.12" y="75.12" width="27.75" height="7.75" fill="black"/>
       <path d="M20.38 74.12L16.12 82.62L24.62 82.88L20.38 74.12Z" fill="black"/>
@@ -162,12 +169,13 @@
       <rect x="78.12" y="6.12" width="9.75" height="9.75" fill="black"/>
       <polygon points="52.47,3.7 45.12,15.38 39.03,26.88 65.04,26.88" fill="black"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-R4.svg" target="_parent">
+    <rect x="408" y="113" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-R5.svg" target="_parent" aria-label="Open BP298, right example 5">
-    <title>BP298, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <path d="M65.38 74.12L61.12 82.62L69.62 82.88L65.38 74.12Z" fill="black"/>
       <path d="M44.38 74.12L40.12 82.62L48.62 82.88L44.38 74.12Z" fill="black"/>
@@ -178,12 +186,13 @@
       <rect x="30.12" y="20.12" width="9.75" height="9.75" fill="black"/>
       <rect x="79.12" y="7.12" width="9.75" height="9.75" fill="black"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-R5.svg" target="_parent">
+    <rect x="300" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP298D-R6.svg" target="_parent" aria-label="Open BP298, right example 6">
-    <title>BP298, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <rect x="7.12" y="69.12" width="22.75" height="22.75" fill="black"/>
       <polygon points="80.47,65.7 73.12,77.38 67.03,88.88 93.04,88.88" fill="black"/>
@@ -194,6 +203,8 @@
       <rect x="83.12" y="9.12" width="9.75" height="9.75" fill="black"/>
       <rect x="7.12" y="7.12" width="22.75" height="22.75" fill="black"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP298D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>

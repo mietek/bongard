@@ -1,13 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP196, linked examples">
-  <title>BP196 · derived examples</title>
-  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <style>a { cursor: pointer; } a:hover &gt; rect, a:focus-visible &gt; rect { stroke: black; stroke-width: 2; }</style>
   <rect width="515" height="326" fill="white"/>
   <rect x="257" y="0" width="1" height="326" fill="black"/>
-  <a href="BP196D-L1.svg" target="_parent" aria-label="Open BP196, left example 1">
-    <title>BP196, left example 1</title>
+  <g>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DL1Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -30,12 +28,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DL1Tile)"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-L1.svg" target="_parent">
+    <rect x="7" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-L2.svg" target="_parent" aria-label="Open BP196, left example 2">
-    <title>BP196, left example 2</title>
+  <g>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DL2Tile" patternUnits="userSpaceOnUse" width="4" height="4">
@@ -45,12 +44,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DL2Tile)"/>
     </svg>
-    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-L2.svg" target="_parent">
+    <rect x="115" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-L3.svg" target="_parent" aria-label="Open BP196, left example 3">
-    <title>BP196, left example 3</title>
+  <g>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DL3Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -61,12 +61,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DL3Tile)"/>
     </svg>
-    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-L3.svg" target="_parent">
+    <rect x="7.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-L4.svg" target="_parent" aria-label="Open BP196, left example 4">
-    <title>BP196, left example 4</title>
+  <g>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DL4Tile" patternUnits="userSpaceOnUse" width="4" height="2">
@@ -77,12 +78,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DL4Tile)"/>
     </svg>
-    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-L4.svg" target="_parent">
+    <rect x="115.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-L5.svg" target="_parent" aria-label="Open BP196, left example 5">
-    <title>BP196, left example 5</title>
+  <g>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DL5Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -102,12 +104,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DL5Tile)"/>
     </svg>
-    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-L5.svg" target="_parent">
+    <rect x="7" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-L6.svg" target="_parent" aria-label="Open BP196, left example 6">
-    <title>BP196, left example 6</title>
+  <g>
     <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DL6Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -135,12 +138,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DL6Tile)"/>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-L6.svg" target="_parent">
+    <rect x="115" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-R1.svg" target="_parent" aria-label="Open BP196, right example 1">
-    <title>BP196, right example 1</title>
+  <g>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DR1Tile" patternUnits="userSpaceOnUse" width="4" height="4">
@@ -154,12 +158,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DR1Tile)"/>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-R1.svg" target="_parent">
+    <rect x="300" y="5" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-R2.svg" target="_parent" aria-label="Open BP196, right example 2">
-    <title>BP196, right example 2</title>
+  <g>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DR2Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -175,12 +180,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DR2Tile)"/>
     </svg>
-    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-R2.svg" target="_parent">
+    <rect x="408" y="5.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-R3.svg" target="_parent" aria-label="Open BP196, right example 3">
-    <title>BP196, right example 3</title>
+  <g>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DR3Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -203,12 +209,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DR3Tile)"/>
     </svg>
-    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-R3.svg" target="_parent">
+    <rect x="300.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-R4.svg" target="_parent" aria-label="Open BP196, right example 4">
-    <title>BP196, right example 4</title>
+  <g>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DR4Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -235,12 +242,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DR4Tile)"/>
     </svg>
-    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-R4.svg" target="_parent">
+    <rect x="408.0" y="113.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-R5.svg" target="_parent" aria-label="Open BP196, right example 5">
-    <title>BP196, right example 5</title>
+  <g>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DR5Tile" patternUnits="userSpaceOnUse" width="4" height="4">
@@ -250,12 +258,13 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DR5Tile)"/>
     </svg>
-    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-R5.svg" target="_parent">
+    <rect x="300" y="221.0" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
-  <a href="BP196D-R6.svg" target="_parent" aria-label="Open BP196, right example 6">
-    <title>BP196, right example 6</title>
+  <g>
     <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98">
       <rect width="98" height="98" fill="white"/>
       <defs>
         <pattern id="BP196DR6Tile" patternUnits="userSpaceOnUse" width="8" height="8">
@@ -266,6 +275,8 @@
       </defs>
       <rect x="0" y="0" width="98" height="98" fill="url(#BP196DR6Tile)"/>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </g>
+  <a href="BP196D-R6.svg" target="_parent">
+    <rect x="408" y="221" width="100" height="100" fill="none" pointer-events="all"/>
   </a>
 </svg>
