@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <ellipse cx="62.36" cy="72.88" rx="3.18" ry="3.56" transform="rotate(98.21 62.36 72.88)" fill="black"/>
-  <ellipse cx="85.1" cy="38.5" rx="3.28" ry="3.57" transform="rotate(0 85.1 38.5)" fill="black"/>
-  <path d="M13.12 21.88L13.38 22.88C18.6 21.33 18.03 25.85 19.38 28.88C21.8 27.56 20.04 19.82 24.62 23.88L25.88 22.62L25.62 21.12C21.4 22.25 20.35 19.71 20.62 16.12C18.08 15.82 17.89 18.57 18.12 20.62C16.97 22.09 13.64 20.01 13.12 21.88Z" fill="black"/>
-</svg>

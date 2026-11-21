@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <ellipse cx="55.47" cy="75.09" rx="2.53" ry="2.92" transform="rotate(171.42 55.47 75.09)" fill="black"/>
-  <path d="M35.12 35.38C37.21 36.08 37.21 36.92 35.12 37.62C36.77 38.21 38.89 38.06 39.88 36.62C41.72 33.34 34.47 31.69 37.12 34.62L35.12 35.38Z" fill="black"/>
-  <ellipse cx="18.67" cy="22.95" rx="2" ry="2.52" transform="rotate(139.39 18.67 22.95)" fill="black"/>
-  <circle cx="18.5" cy="23.5" r="0.61" fill="white"/>
-</svg>

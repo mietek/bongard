@@ -91,10 +91,10 @@
 | OEBP      | [![BP172E][img/BP172E] | “Rotationally          | [BP172E       |
 |           | ][img/BP172E]          | symmetric vs. not.”    | ][url/BP172E] |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | After the correction,  | A rotation through     |               |
-|           | R3 is an empty square. | less than a full turn  |               |
-|           | Losing its interior    | reproduces the left    |               |
-|           | strokes gives it the   | figure. Only a full    |               |
+| Flagged   | In the previous        | A rotation through     |               |
+|           | redraw, R3 lost its    | less than a full turn  |               |
+|           | interior strokes. The  | reproduces the left    |               |
+|           | empty square had the   | figure. Only a full    |               |
 |           | rotational symmetry    | turn restores the      |               |
 |           | reserved for the left. | right figure.          |               |
 +-----------+------------------------+------------------------+---------------+
@@ -117,12 +117,13 @@
 | OEBP      | [![BP197E][img/BP197E] | “Some style (font) vs. | [BP197E       |
 |           | ][img/BP197E]          | another style (font).” | ][url/BP197E] |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | Fine strokes disappear | The same six words or  |               |
-|           | from both typefaces in | phrases appear on both |               |
-|           | the redraw, so the     | sides. The typeface    |               |
-|           | lettering no longer    | distinguishes the left |               |
-|           | shows the distinction  | examples from the      |               |
-|           | reliably.              | right examples.        |               |
+| Flagged   | Fine strokes           | The same six words or  |               |
+|           | disappeared from both  | phrases appear on both |               |
+|           | typefaces in the       | sides. The typeface    |               |
+|           | previous redraw, so    | distinguishes the left |               |
+|           | the lettering no       | examples from the      |               |
+|           | longer showed the      | right examples.        |               |
+|           | distinction reliably.  |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP197F]: img/corrected/BP197F.png
@@ -276,13 +277,13 @@
 |           |                        | minus triangles equal  |               |
 |           |                        | stars.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 8%      | Adding the number of   |               |
-|           | after the redraw. The  | triangles to the       |               |
-|           | black-ink comparison   | number of lines gives  |               |
-|           | drops most of the      | the number of stars on |               |
-|           | original’s pale        | the left. Subtracting  |               |
-|           | strokes.               | the triangles from the |               |
-|           |                        | lines gives it on the  |               |
+| Flagged   | The previous redraw    | Adding the number of   |               |
+|           | scored below the       | triangles to the       |               |
+|           | similarity threshold   | number of lines gives  |               |
+|           | because the black-ink  | the number of stars on |               |
+|           | comparison dropped     | the left. Subtracting  |               |
+|           | most of the original’s | the triangles from the |               |
+|           | pale strokes.          | lines gives it on the  |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
@@ -315,13 +316,13 @@
 |           |                        | all other objects if   |               |
 |           |                        | let loose.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 16%     | Under gravity the      |               |
-|           | after the redraw. The  | circle would clear the |               |
-|           | black-ink comparison   | other objects on their |               |
-|           | drops most of the      | right in a left        |               |
-|           | original’s pale        | example and on their   |               |
-|           | strokes.               | left in a right        |               |
-|           |                        | example.               |               |
+| Flagged   | The previous redraw    | Under gravity the      |               |
+|           | scored below the       | circle would clear the |               |
+|           | similarity threshold   | other objects on their |               |
+|           | because the black-ink  | right in a left        |               |
+|           | comparison dropped     | example and on their   |               |
+|           | most of the original’s | left in a right        |               |
+|           | pale strokes.          | example.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP234F]: img/corrected/BP234F.png
@@ -350,12 +351,13 @@
 |           |                        | does not reach the     |               |
 |           |                        | other ball.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 3%      | Straightening the rope |               |
-|           | after the redraw. The  | would let the attached |               |
-|           | black-ink comparison   | ball reach the other   |               |
-|           | drops most of the      | ball on the left. The  |               |
-|           | original’s pale        | rope falls short on    |               |
-|           | strokes.               | the right.             |               |
+| Flagged   | The previous redraw    | Straightening the rope |               |
+|           | scored below the       | would let the attached |               |
+|           | similarity threshold   | ball reach the other   |               |
+|           | because the black-ink  | ball on the left. The  |               |
+|           | comparison dropped     | rope falls short on    |               |
+|           | most of the original’s | the right.             |               |
+|           | pale strokes.          |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP235F]: img/corrected/BP235F.png
@@ -384,12 +386,13 @@
 |           |                        | APPEARS longer than    |               |
 |           |                        | lower central line.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 12%     | The upper central      |               |
-|           | after the redraw. The  | segment looks shorter  |               |
-|           | black-ink comparison   | than the lower one on  |               |
-|           | drops most of the      | the left and longer on |               |
-|           | original’s pale        | the right.             |               |
-|           | strokes.               |                        |               |
+| Flagged   | The previous redraw    | The upper central      |               |
+|           | scored below the       | segment looks shorter  |               |
+|           | similarity threshold   | than the lower one on  |               |
+|           | because the black-ink  | the left and longer on |               |
+|           | comparison dropped     | the right.             |               |
+|           | most of the original’s |                        |               |
+|           | pale strokes.          |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP237F]: img/corrected/BP237F.png
@@ -449,12 +452,13 @@
 |           |                        | same number of empty   |               |
 |           |                        | boxes vs. not so.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The redrawn grid lines | In reading order the   |               |
-|           | in L1 stop short of    | black squares are      |               |
-|           | the frame. Its outer   | equally spaced in the  |               |
-|           | cells run together,    | sequence of cells on   |               |
-|           | making the spacing of  | the left. The gaps     |               |
-|           | the black squares      | vary on the right.     |               |
+| Flagged   | In the previous        | In reading order the   |               |
+|           | redraw, the grid lines | black squares are      |               |
+|           | in L1 stopped short of | equally spaced in the  |               |
+|           | the frame. Its outer   | sequence of cells on   |               |
+|           | cells ran together,    | the left. The gaps     |               |
+|           | making the spacing of  | vary on the right.     |               |
+|           | the black squares      |                        |               |
 |           | ambiguous.             |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
@@ -478,12 +482,13 @@
 |           | ][img/BP252E]          | 3-D vs. possible solid | ][url/BP252E] |
 |           |                        | in 3-D.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | In L2 the redraw fills | The apparent           |               |
-|           | the two beam joints    | three-dimensional      |               |
-|           | with black triangles,  | object is impossible   |               |
-|           | obscuring the          | to build on the left   |               |
-|           | connections that make  | and geometrically      |               |
-|           | the object impossible. | possible on the right. |               |
+| Flagged   | In L2 the previous     | The apparent           |               |
+|           | redraw filled the two  | three-dimensional      |               |
+|           | beam joints with black | object is impossible   |               |
+|           | triangles, obscuring   | to build on the left   |               |
+|           | the connections that   | and geometrically      |               |
+|           | make the object        | possible on the right. |               |
+|           | impossible.            |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP252F]: img/corrected/BP252F.png
@@ -508,13 +513,13 @@
 |           |                        | contain something vs.  |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | Several redrawn        | The squares are either |               |
-|           | squares lose sides,    | all empty or all       |               |
-|           | including the squares  | occupied on the left.  |               |
-|           | in L3. The open        | Empty and occupied     |               |
-|           | outlines make it       | squares occur together |               |
+| Flagged   | Several squares in the | The squares are either |               |
+|           | previous redraw lost   | all empty or all       |               |
+|           | sides, including the   | occupied on the left.  |               |
+|           | squares in L3. The     | Empty and occupied     |               |
+|           | open outlines made it  | squares occur together |               |
 |           | unclear which objects  | on the right.          |               |
-|           | occupy squares.        |                        |               |
+|           | occupied squares.      |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP260F]: img/corrected/BP260F.png
@@ -539,12 +544,13 @@
 |           |                        | size and shape vs. not |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The redraw loses the   | The four parts of the  |               |
-|           | diagonal subdivisions  | square are congruent   |               |
-|           | in R5. Its square has  | on the left and differ |               |
-|           | only two enclosed      | in size or shape on    |               |
-|           | parts, although the    | the right.             |               |
-|           | rule requires four.    |                        |               |
+| Flagged   | The previous redraw    | The four parts of the  |               |
+|           | lost the diagonal      | square are congruent   |               |
+|           | subdivisions in R5.    | on the left and differ |               |
+|           | Its square had only    | in size or shape on    |               |
+|           | two enclosed parts,    | the right.             |               |
+|           | although the rule      |                        |               |
+|           | requires four.         |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP293F]: img/original/BP293F.png
@@ -635,9 +641,9 @@
 |           |                        | areas reachable by the |               |
 |           |                        | marked locations.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | In the corrected L5    | One region of the maze |               |
-|           | every region is        | is unreachable from    |               |
-|           | reachable from a       | either marked place on |               |
+| Flagged   | In L5 of the previous  | One region of the maze |               |
+|           | redraw, every region   | is unreachable from    |               |
+|           | was reachable from a   | either marked place on |               |
 |           | marked place. The rule | the left. Every region |               |
 |           | requires a region that | is reachable from a    |               |
 |           | neither mark can       | marked place on the    |               |
@@ -664,11 +670,12 @@
 |           | ][img/BP316E]          | a cycle vs. no path is | ][url/BP316E] |
 |           |                        | a cycle.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | In the corrected R1 a  | The maze contains a    |               |
-|           | gap in a maze wall     | route that makes a     |               |
-|           | creates a circuit.     | circuit on the left.   |               |
-|           | Right examples must    | All routes are free of |               |
-|           | have no circuit.       | circuits on the right. |               |
+| Flagged   | In R1 of the previous  | The maze contains a    |               |
+|           | redraw, a gap in a     | route that makes a     |               |
+|           | maze wall created a    | circuit on the left.   |               |
+|           | circuit. Right         | All routes are free of |               |
+|           | examples must have no  | circuits on the right. |               |
+|           | circuit.               |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP316F]: img/original/BP316F.png
@@ -893,12 +900,13 @@
 | OEBP      | [![BP359E][img/BP359E] | “Random arrangement of | [BP359E       |
 |           | ][img/BP359E]          | pixels vs. not so.”    | ][url/BP359E] |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 54%     | The left textures      |               |
-|           | after the redraw. The  | scatter dots at        |               |
-|           | redrawn dot textures   | random. The right      |               |
-|           | differ in the          | textures impose a      |               |
-|           | placement of           | pattern on their       |               |
-|           | individual marks.      | positions.             |               |
+| Flagged   | The previous redraw    | The left textures      |               |
+|           | scored below the       | scatter dots at        |               |
+|           | similarity threshold   | random. The right      |               |
+|           | because its dot        | textures impose a      |               |
+|           | textures differed in   | pattern on their       |               |
+|           | the placement of       | positions.             |               |
+|           | individual marks.      |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP359F]: img/corrected/BP359F.png

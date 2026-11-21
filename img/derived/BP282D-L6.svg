@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <ellipse cx="1.5" cy="97.5" rx="0.42" ry="1.64" transform="rotate(90 1.5 97.5)" fill="black"/>
-  <polygon points="53.25,17.29 34.12,44.77 34.12,46.11 25.24,74.39 25.91,75.3 34.69,79.69 36.53,77.8 43.88,66.38 53.75,52.78 55.88,44.38 59.88,34.62 63.33,22.26" fill="black"/>
-  <polygon points="36.16,50.85 40.38,53.88 48.05,57.51 48.12,58 35.39,76.29 34.22,77.15 27.22,73.8 30.88,63.62 34.44,50.94" fill="white"/>
-  <rect x="97.12" y="0.12" width="0.75" height="97.75" fill="black"/>
-</svg>

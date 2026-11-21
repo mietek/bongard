@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white" />
-  <circle cx="32.2" cy="29.1" r="7.1" fill="none" stroke="black" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
-  <rect x="-5.5" y="-6.4" width="11" height="12.9" transform="translate(67.5 36.5) rotate(0)" fill="none" stroke="black" stroke-width="2.1" stroke-linejoin="miter" stroke-linecap="round" />
-  <polygon points="43.5,57.2 51.6,69.5 35.9,69.5" fill="none" stroke="black" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="round" />
-</svg>

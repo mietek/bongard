@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <rect x="55.12" y="57.12" width="18.75" height="18.75" fill="black"/>
-  <rect x="23.12" y="57.12" width="19.75" height="19.75" fill="black"/>
-  <rect x="23.88" y="57.88" width="18.25" height="18.25" fill="white"/>
-  <rect x="55.12" y="22.12" width="18.75" height="18.75" fill="black"/>
-  <rect x="23.12" y="22.12" width="18.75" height="18.75" fill="black"/>
-  <path d="M48.38 15.12L48.12 48.62L17.12 49.38L48.12 50.38L48.62 82.88L48.88 50.38L78.88 49.38L48.88 48.62L48.38 15.12Z" fill="black"/>
-</svg>

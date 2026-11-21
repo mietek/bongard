@@ -13,17 +13,14 @@
 | OEBP      | [![BP001E][img/BP001E] | “Empty image vs.       | [BP001E       |
 |           | ][img/BP001E]          | non-empty image.”      | ][url/BP001E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Every left panel is    |               |
-| (85%)     | img/derived/BP001D.svg | empty, and every right |               |
-|           | type="image/svg+xml"   | panel contains at      |               |
-|           | style="width:100%">    | least one mark.        |               |
-|           | [![BP001D][img/BP001D] |                        |               |
-|           | ][img/BP001D]</object> |                        |               |
+| Derived   |                        | Every left panel is    |               |
+|           |                        | empty, and every right |               |
+|           |                        | panel contains at      |               |
+|           |                        | least one mark.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP001F]: img/corrected/BP001F.png
 [img/BP001E]: img/corrected/BP001E.png
-[img/BP001D]: img/derived/BP001D.svg
 [url/BP001F]: https://www.foundalis.com/res/bps/bongard/p001.htm
 [url/BP001E]: https://oebp.org/BP1
 
@@ -40,17 +37,15 @@
 | OEBP      | [![BP002E][img/BP002E] | “Big vs. small.”       | [BP002E       |
 |           | ][img/BP002E]          |                        | ][url/BP002E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figure occupies a  |               |
-| (88%)     | img/derived/BP002D.svg | large part of its      |               |
-|           | type="image/svg+xml"   | panel on the left and  |               |
-|           | style="width:100%">    | a small part on the    |               |
-|           | [![BP002D][img/BP002D] | right.                 |               |
-|           | ][img/BP002D]</object> |                        |               |
+| Derived   |                        | The figure occupies a  |               |
+|           |                        | large part of its      |               |
+|           |                        | panel on the left and  |               |
+|           |                        | a small part on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP002F]: img/corrected/BP002F.png
 [img/BP002E]: img/corrected/BP002E.png
-[img/BP002D]: img/derived/BP002D.svg
 [url/BP002F]: https://www.foundalis.com/res/bps/bongard/p002.htm
 [url/BP002E]: https://oebp.org/BP2
 
@@ -67,17 +62,14 @@
 | OEBP      | [![BP003E][img/BP003E] | “Hollow outline vs.    | [BP003E       |
 |           | ][img/BP003E]          | filled in solid.”      | ][url/BP003E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left-hand figures  |               |
-| (92%)     | img/derived/BP003D.svg | are outlines, and the  |               |
-|           | type="image/svg+xml"   | right-hand figures are |               |
-|           | style="width:100%">    | filled solid.          |               |
-|           | [![BP003D][img/BP003D] |                        |               |
-|           | ][img/BP003D]</object> |                        |               |
+| Derived   |                        | The left-hand figures  |               |
+|           |                        | are outlines, and the  |               |
+|           |                        | right-hand figures are |               |
+|           |                        | filled solid.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP003F]: img/corrected/BP003F.png
 [img/BP003E]: img/corrected/BP003E.png
-[img/BP003D]: img/derived/BP003D.svg
 [url/BP003F]: https://www.foundalis.com/res/bps/bongard/p003.htm
 [url/BP003E]: https://oebp.org/BP3
 
@@ -94,17 +86,14 @@
 | OEBP      | [![BP004E][img/BP004E] | “Convex vs. concave.”  | [BP004E       |
 |           | ][img/BP004E]          |                        | ][url/BP004E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left-hand figures  |               |
-| (86%)     | img/derived/BP004D.svg | are convex, and each   |               |
-|           | type="image/svg+xml"   | right-hand figure has  |               |
-|           | style="width:100%">    | an inward indentation. |               |
-|           | [![BP004D][img/BP004D] |                        |               |
-|           | ][img/BP004D]</object> |                        |               |
+| Derived   |                        | The left-hand figures  |               |
+|           |                        | are convex, and each   |               |
+|           |                        | right-hand figure has  |               |
+|           |                        | an inward indentation. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP004F]: img/corrected/BP004F.png
 [img/BP004E]: img/corrected/BP004E.png
-[img/BP004D]: img/derived/BP004D.svg
 [url/BP004F]: https://www.foundalis.com/res/bps/bongard/p004.htm
 [url/BP004E]: https://oebp.org/BP4
 
@@ -123,17 +112,16 @@
 |           |                        | straight lines or      |               |
 |           |                        | corners.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Straight edges meet at |               |
-| (85%)     | img/derived/BP005D.svg | corners in the         |               |
-|           | type="image/svg+xml"   | left-hand outlines,    |               |
-|           | style="width:100%">    | while the right-hand   |               |
-|           | [![BP005D][img/BP005D] | outlines curve         |               |
-|           | ][img/BP005D]</object> | smoothly throughout.   |               |
+| Derived   |                        | Straight edges meet at |               |
+|           |                        | corners in the         |               |
+|           |                        | left-hand outlines,    |               |
+|           |                        | while the right-hand   |               |
+|           |                        | outlines curve         |               |
+|           |                        | smoothly throughout.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP005F]: img/corrected/BP005F.png
 [img/BP005E]: img/corrected/BP005E.png
-[img/BP005D]: img/derived/BP005D.svg
 [url/BP005F]: https://www.foundalis.com/res/bps/bongard/p005.htm
 [url/BP005E]: https://oebp.org/BP5
 
@@ -150,17 +138,14 @@
 | OEBP      | [![BP006E][img/BP006E] | “Triangle vs.          | [BP006E       |
 |           | ][img/BP006E]          | quadrilateral.”        | ][url/BP006E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each figure on the     |               |
-| (92%)     | img/derived/BP006D.svg | left has three sides,  |               |
-|           | type="image/svg+xml"   | and each figure on the |               |
-|           | style="width:100%">    | right has four.        |               |
-|           | [![BP006D][img/BP006D] |                        |               |
-|           | ][img/BP006D]</object> |                        |               |
+| Derived   |                        | Each figure on the     |               |
+|           |                        | left has three sides,  |               |
+|           |                        | and each figure on the |               |
+|           |                        | right has four.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP006F]: img/corrected/BP006F.png
 [img/BP006E]: img/corrected/BP006E.png
-[img/BP006D]: img/derived/BP006D.svg
 [url/BP006F]: https://www.foundalis.com/res/bps/bongard/p006.htm
 [url/BP006E]: https://oebp.org/BP6
 
@@ -179,17 +164,14 @@
 | OEBP      | [![BP007E][img/BP007E] | “Taller than wide vs.  | [BP007E       |
 |           | ][img/BP007E]          | wider than tall.”      | ][url/BP007E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each figure is taller  |               |
-| (82%)     | img/derived/BP007D.svg | than it is wide on the |               |
-|           | type="image/svg+xml"   | left and wider than it |               |
-|           | style="width:100%">    | is tall on the right.  |               |
-|           | [![BP007D][img/BP007D] |                        |               |
-|           | ][img/BP007D]</object> |                        |               |
+| Derived   |                        | Each figure is taller  |               |
+|           |                        | than it is wide on the |               |
+|           |                        | left and wider than it |               |
+|           |                        | is tall on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP007F]: img/corrected/BP007F.png
 [img/BP007E]: img/corrected/BP007E.png
-[img/BP007D]: img/derived/BP007D.svg
 [url/BP007F]: https://www.foundalis.com/res/bps/bongard/p007.htm
 [url/BP007E]: https://oebp.org/BP7
 
@@ -207,17 +189,16 @@
 | OEBP      | [![BP008E][img/BP008E] | “Positioned right vs.  | [BP008E       |
 |           | ][img/BP008E]          | positioned left.”      | ][url/BP008E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Within each panel, the |               |
-| (84%)     | img/derived/BP008D.svg | figure lies toward the |               |
-|           | type="image/svg+xml"   | right edge in the left |               |
-|           | style="width:100%">    | group and toward the   |               |
-|           | [![BP008D][img/BP008D] | left edge in the right |               |
-|           | ][img/BP008D]</object> | group.                 |               |
+| Derived   |                        | Within each panel, the |               |
+|           |                        | figure lies toward the |               |
+|           |                        | right edge in the left |               |
+|           |                        | group and toward the   |               |
+|           |                        | left edge in the right |               |
+|           |                        | group.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP008F]: img/corrected/BP008F.png
 [img/BP008E]: img/corrected/BP008E.png
-[img/BP008D]: img/derived/BP008D.svg
 [url/BP008F]: https://www.foundalis.com/res/bps/bongard/p008.htm
 [url/BP008E]: https://oebp.org/BP8
 
@@ -235,17 +216,16 @@
 | OEBP      | [![BP009E][img/BP009E] | “Non-wiggly outline    | [BP009E       |
 |           | ][img/BP009E]          | vs. wiggly outline.”   | ][url/BP009E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left-hand outlines |               |
-| (83%)     | img/derived/BP009D.svg | follow simple lines or |               |
-|           | type="image/svg+xml"   | curves, while small    |               |
-|           | style="width:100%">    | repeated bends run     |               |
-|           | [![BP009D][img/BP009D] | around the right-hand  |               |
-|           | ][img/BP009D]</object> | outlines.              |               |
+| Derived   |                        | The left-hand outlines |               |
+|           |                        | follow simple lines or |               |
+|           |                        | curves, while small    |               |
+|           |                        | repeated bends run     |               |
+|           |                        | around the right-hand  |               |
+|           |                        | outlines.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP009F]: img/corrected/BP009F.png
 [img/BP009E]: img/corrected/BP009E.png
-[img/BP009D]: img/derived/BP009D.svg
 [url/BP009F]: https://www.foundalis.com/res/bps/bongard/p009.htm
 [url/BP009E]: https://oebp.org/BP9
 
@@ -265,18 +245,17 @@
 |           |                        | quadrilateral          |               |
 |           |                        | outline.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Even when the edges    |               |
-| (83%)     | img/derived/BP010D.svg | are jagged, the        |               |
-|           | type="image/svg+xml"   | overall outline        |               |
-|           | style="width:100%">    | resembles a triangle   |               |
-|           | [![BP010D][img/BP010D] | on the left and a      |               |
-|           | ][img/BP010D]</object> | convex quadrilateral   |               |
+| Derived   |                        | Even when the edges    |               |
+|           |                        | are jagged, the        |               |
+|           |                        | overall outline        |               |
+|           |                        | resembles a triangle   |               |
+|           |                        | on the left and a      |               |
+|           |                        | convex quadrilateral   |               |
 |           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP010F]: img/corrected/BP010F.png
 [img/BP010E]: img/corrected/BP010E.png
-[img/BP010D]: img/derived/BP010D.svg
 [url/BP010F]: https://www.foundalis.com/res/bps/bongard/p010.htm
 [url/BP010E]: https://oebp.org/BP10
 
@@ -293,17 +272,15 @@
 | OEBP      | [![BP011E][img/BP011E] | “Thin and elongated    | [BP011E       |
 |           | ][img/BP011E]          | vs. compact.”          | ][url/BP011E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each figure on the     |               |
-| (88%)     | img/derived/BP011D.svg | left is long and thin, |               |
-|           | type="image/svg+xml"   | even when it bends,    |               |
-|           | style="width:100%">    | while each figure on   |               |
-|           | [![BP011D][img/BP011D] | the right is compact.  |               |
-|           | ][img/BP011D]</object> |                        |               |
+| Derived   |                        | Each figure on the     |               |
+|           |                        | left is long and thin, |               |
+|           |                        | even when it bends,    |               |
+|           |                        | while each figure on   |               |
+|           |                        | the right is compact.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP011F]: img/corrected/BP011F.png
 [img/BP011E]: img/corrected/BP011E.png
-[img/BP011D]: img/derived/BP011D.svg
 [url/BP011F]: https://www.foundalis.com/res/bps/bongard/p011.htm
 [url/BP011E]: https://oebp.org/BP11
 
@@ -322,17 +299,15 @@
 |           | ][img/BP012E]          | hull vs. compact       | ][url/BP012E] |
 |           |                        | convex hull.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The convex hull of     |               |
-| (88%)     | img/derived/BP012D.svg | each figure is long    |               |
-|           | type="image/svg+xml"   | and narrow on the left |               |
-|           | style="width:100%">    | and compact on the     |               |
-|           | [![BP012D][img/BP012D] | right.                 |               |
-|           | ][img/BP012D]</object> |                        |               |
+| Derived   |                        | The convex hull of     |               |
+|           |                        | each figure is long    |               |
+|           |                        | and narrow on the left |               |
+|           |                        | and compact on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP012F]: img/corrected/BP012F.png
 [img/BP012E]: img/corrected/BP012E.png
-[img/BP012D]: img/derived/BP012D.svg
 [url/BP012F]: https://www.foundalis.com/res/bps/bongard/p012.htm
 [url/BP012E]: https://oebp.org/BP12
 
@@ -354,18 +329,17 @@
 |           |                        | rectangle OR tall      |               |
 |           |                        | ellipse.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The rectangles are     |               |
-| (91%)     | img/derived/BP013D.svg | tall and the ellipses  |               |
-|           | type="image/svg+xml"   | are wide on the left,  |               |
-|           | style="width:100%">    | while the rectangles   |               |
-|           | [![BP013D][img/BP013D] | are wide and the       |               |
-|           | ][img/BP013D]</object> | ellipses are tall on   |               |
+| Derived   |                        | The rectangles are     |               |
+|           |                        | tall and the ellipses  |               |
+|           |                        | are wide on the left,  |               |
+|           |                        | while the rectangles   |               |
+|           |                        | are wide and the       |               |
+|           |                        | ellipses are tall on   |               |
 |           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP013F]: img/corrected/BP013F.png
 [img/BP013E]: img/corrected/BP013E.png
-[img/BP013D]: img/derived/BP013D.svg
 [url/BP013F]: https://www.foundalis.com/res/bps/bongard/p013.htm
 [url/BP013E]: https://oebp.org/BP13
 
@@ -384,19 +358,18 @@
 |           | ][img/BP014E]          | figures vs. all small  | ][url/BP014E] |
 |           |                        | individual figures.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left panels        |               |
-| (86%)     | img/derived/BP014D.svg | contain large figures  |               |
-|           | type="image/svg+xml"   | with a long combined   |               |
-|           | style="width:100%">    | line length, while the |               |
-|           | [![BP014D][img/BP014D] | right panels contain   |               |
-|           | ][img/BP014D]</object> | small figures with a   |               |
+| Derived   |                        | The left panels        |               |
+|           |                        | contain large figures  |               |
+|           |                        | with a long combined   |               |
+|           |                        | line length, while the |               |
+|           |                        | right panels contain   |               |
+|           |                        | small figures with a   |               |
 |           |                        | shorter combined line  |               |
 |           |                        | length.                |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP014F]: img/corrected/BP014F.png
 [img/BP014E]: img/corrected/BP014E.png
-[img/BP014D]: img/derived/BP014D.svg
 [url/BP014F]: https://www.foundalis.com/res/bps/bongard/p014.htm
 [url/BP014E]: https://oebp.org/BP14
 
@@ -413,17 +386,15 @@
 | OEBP      | [![BP015E][img/BP015E] | “Closed shape outline  | [BP015E       |
 |           | ][img/BP015E]          | vs. non-closed curve.” | ][url/BP015E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The line closes on     |               |
-| (87%)     | img/derived/BP015D.svg | itself in each left    |               |
-|           | type="image/svg+xml"   | panel and has two      |               |
-|           | style="width:100%">    | distinct ends in each  |               |
-|           | [![BP015D][img/BP015D] | right panel.           |               |
-|           | ][img/BP015D]</object> |                        |               |
+| Derived   |                        | The line closes on     |               |
+|           |                        | itself in each left    |               |
+|           |                        | panel and has two      |               |
+|           |                        | distinct ends in each  |               |
+|           |                        | right panel.           |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP015F]: img/corrected/BP015F.png
 [img/BP015E]: img/corrected/BP015E.png
-[img/BP015D]: img/derived/BP015D.svg
 [url/BP015F]: https://www.foundalis.com/res/bps/bongard/p015.htm
 [url/BP015E]: https://oebp.org/BP15
 
@@ -444,18 +415,17 @@
 |           |                        | counter-clockwise      |               |
 |           |                        | spiraling curve.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Following each spiral  |               |
-| (87%)     | img/derived/BP016D.svg | from its inner end     |               |
-|           | type="image/svg+xml"   | outward, the curve     |               |
-|           | style="width:100%">    | winds clockwise on the |               |
-|           | [![BP016D][img/BP016D] | left and               |               |
-|           | ][img/BP016D]</object> | counterclockwise on    |               |
+| Derived   |                        | Following each spiral  |               |
+|           |                        | from its inner end     |               |
+|           |                        | outward, the curve     |               |
+|           |                        | winds clockwise on the |               |
+|           |                        | left and               |               |
+|           |                        | counterclockwise on    |               |
 |           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP016F]: img/corrected/BP016F.png
 [img/BP016E]: img/corrected/BP016E.png
-[img/BP016D]: img/derived/BP016D.svg
 [url/BP016F]: https://www.foundalis.com/res/bps/bongard/p016.htm
 [url/BP016E]: https://oebp.org/BP16
 
@@ -475,17 +445,15 @@
 |           |                        | without a reflex       |               |
 |           |                        | corner.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left outline has  |               |
-| (87%)     | img/derived/BP017D.svg | an inward-pointing     |               |
-|           | type="image/svg+xml"   | corner, while any      |               |
-|           | style="width:100%">    | inward bend on the     |               |
-|           | [![BP017D][img/BP017D] | right is smooth.       |               |
-|           | ][img/BP017D]</object> |                        |               |
+| Derived   |                        | Each left outline has  |               |
+|           |                        | an inward-pointing     |               |
+|           |                        | corner, while any      |               |
+|           |                        | inward bend on the     |               |
+|           |                        | right is smooth.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP017F]: img/corrected/BP017F.png
 [img/BP017E]: img/corrected/BP017E.png
-[img/BP017D]: img/derived/BP017D.svg
 [url/BP017F]: https://www.foundalis.com/res/bps/bongard/p017.htm
 [url/BP017E]: https://oebp.org/BP17
 
@@ -506,17 +474,16 @@
 |           |                        | ends) vs. non-pinched  |               |
 |           |                        | shape.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left figure       |               |
-| (89%)     | img/derived/BP018D.svg | narrows to a neck      |               |
-|           | type="image/svg+xml"   | between two wider      |               |
-|           | style="width:100%">    | parts, while the right |               |
-|           | [![BP018D][img/BP018D] | figures have no such   |               |
-|           | ][img/BP018D]</object> | neck.                  |               |
+| Derived   |                        | Each left figure       |               |
+|           |                        | narrows to a neck      |               |
+|           |                        | between two wider      |               |
+|           |                        | parts, while the right |               |
+|           |                        | figures have no such   |               |
+|           |                        | neck.                  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP018F]: img/corrected/BP018F.png
 [img/BP018E]: img/corrected/BP018E.png
-[img/BP018D]: img/derived/BP018D.svg
 [url/BP018F]: https://www.foundalis.com/res/bps/bongard/p018.htm
 [url/BP018E]: https://oebp.org/BP18
 
@@ -533,17 +500,16 @@
 | OEBP      | [![BP019E][img/BP019E] | “Horizontal pinch vs.  | [BP019E       |
 |           | ][img/BP019E]          | vertical pinch.”       | ][url/BP019E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The narrow passage     |               |
-| (90%)     | img/derived/BP019D.svg | connecting the two     |               |
-|           | type="image/svg+xml"   | wider parts runs       |               |
-|           | style="width:100%">    | horizontally on the    |               |
-|           | [![BP019D][img/BP019D] | left and vertically on |               |
-|           | ][img/BP019D]</object> | the right.             |               |
+| Derived   |                        | The narrow passage     |               |
+|           |                        | connecting the two     |               |
+|           |                        | wider parts runs       |               |
+|           |                        | horizontally on the    |               |
+|           |                        | left and vertically on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP019F]: img/corrected/BP019F.png
 [img/BP019E]: img/corrected/BP019E.png
-[img/BP019D]: img/derived/BP019D.svg
 [url/BP019F]: https://www.foundalis.com/res/bps/bongard/p019.htm
 [url/BP019E]: https://oebp.org/BP19
 
@@ -563,17 +529,15 @@
 |           | ][img/BP020E]          | same bulb vs. dots on  | ][url/BP020E] |
 |           |                        | opposite bulbs.”       |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two dots touch the |               |
-| (89%)     | img/derived/BP020D.svg | same lobe of the       |               |
-|           | type="image/svg+xml"   | figure on the left and |               |
-|           | style="width:100%">    | opposite lobes on the  |               |
-|           | [![BP020D][img/BP020D] | right.                 |               |
-|           | ][img/BP020D]</object> |                        |               |
+| Derived   |                        | The two dots touch the |               |
+|           |                        | same lobe of the       |               |
+|           |                        | figure on the left and |               |
+|           |                        | opposite lobes on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP020F]: img/corrected/BP020F.png
 [img/BP020E]: img/corrected/BP020E.png
-[img/BP020D]: img/derived/BP020D.svg
 [url/BP020F]: https://www.foundalis.com/res/bps/bongard/p020.htm
 [url/BP020E]: https://oebp.org/BP20
 
@@ -591,17 +555,15 @@
 | OEBP      | [![BP021E][img/BP021E] | “Small shape present   | [BP021E       |
 |           | ][img/BP021E]          | vs. all shapes large.” | ][url/BP021E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Every left example     |               |
-| (88%)     | img/derived/BP021D.svg | contains at least one  |               |
-|           | type="image/svg+xml"   | small figure, while    |               |
-|           | style="width:100%">    | every figure on the    |               |
-|           | [![BP021D][img/BP021D] | right is large.        |               |
-|           | ][img/BP021D]</object> |                        |               |
+| Derived   |                        | Every left example     |               |
+|           |                        | contains at least one  |               |
+|           |                        | small figure, while    |               |
+|           |                        | every figure on the    |               |
+|           |                        | right is large.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP021F]: img/corrected/BP021F.png
 [img/BP021E]: img/corrected/BP021E.png
-[img/BP021D]: img/derived/BP021D.svg
 [url/BP021F]: https://www.foundalis.com/res/bps/bongard/p021.htm
 [url/BP021E]: https://oebp.org/BP21
 
@@ -622,18 +584,17 @@
 |           |                        | size vs. shapes of     |               |
 |           |                        | different size.”       |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figures in each    |               |
-| (89%)     | img/derived/BP022D.svg | left example enclose   |               |
-|           | type="image/svg+xml"   | roughly equal areas,   |               |
-|           | style="width:100%">    | while each right       |               |
-|           | [![BP022D][img/BP022D] | example contains       |               |
-|           | ][img/BP022D]</object> | figures with markedly  |               |
+| Derived   |                        | The figures in each    |               |
+|           |                        | left example enclose   |               |
+|           |                        | roughly equal areas,   |               |
+|           |                        | while each right       |               |
+|           |                        | example contains       |               |
+|           |                        | figures with markedly  |               |
 |           |                        | different areas.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP022F]: img/corrected/BP022F.png
 [img/BP022E]: img/corrected/BP022E.png
-[img/BP022D]: img/derived/BP022D.svg
 [url/BP022F]: https://www.foundalis.com/res/bps/bongard/p022.htm
 [url/BP022E]: https://oebp.org/BP22
 
@@ -650,17 +611,14 @@
 | OEBP      | [![BP023E][img/BP023E] | “One vs. two figures.” | [BP023E       |
 |           | ][img/BP023E]          |                        | ][url/BP023E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left example      |               |
-| (89%)     | img/derived/BP023D.svg | contains one figure,   |               |
-|           | type="image/svg+xml"   | and each right example |               |
-|           | style="width:100%">    | contains two.          |               |
-|           | [![BP023D][img/BP023D] |                        |               |
-|           | ][img/BP023D]</object> |                        |               |
+| Derived   |                        | Each left example      |               |
+|           |                        | contains one figure,   |               |
+|           |                        | and each right example |               |
+|           |                        | contains two.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP023F]: img/corrected/BP023F.png
 [img/BP023E]: img/corrected/BP023E.png
-[img/BP023D]: img/derived/BP023D.svg
 [url/BP023F]: https://www.foundalis.com/res/bps/bongard/p023.htm
 [url/BP023E]: https://oebp.org/BP23
 
@@ -677,17 +635,14 @@
 | OEBP      | [![BP024E][img/BP024E] | “A circle vs. no       | [BP024E       |
 |           | ][img/BP024E]          | circle.”               | ][url/BP024E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A circle appears in    |               |
-| (91%)     | img/derived/BP024D.svg | every left example and |               |
-|           | type="image/svg+xml"   | in none of the right   |               |
-|           | style="width:100%">    | examples.              |               |
-|           | [![BP024D][img/BP024D] |                        |               |
-|           | ][img/BP024D]</object> |                        |               |
+| Derived   |                        | A circle appears in    |               |
+|           |                        | every left example and |               |
+|           |                        | in none of the right   |               |
+|           |                        | examples.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP024F]: img/corrected/BP024F.png
 [img/BP024E]: img/corrected/BP024E.png
-[img/BP024D]: img/derived/BP024D.svg
 [url/BP024F]: https://www.foundalis.com/res/bps/bongard/p024.htm
 [url/BP024E]: https://oebp.org/BP24
 
@@ -706,17 +661,14 @@
 |           | ][img/BP025E]          | triangle vs. black     | ][url/BP025E] |
 |           |                        | figure is a circle.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The single solid       |               |
-| (91%)     | img/derived/BP025D.svg | figure is a triangle   |               |
-|           | type="image/svg+xml"   | on the left and a      |               |
-|           | style="width:100%">    | circle on the right.   |               |
-|           | [![BP025D][img/BP025D] |                        |               |
-|           | ][img/BP025D]</object> |                        |               |
+| Derived   |                        | The single solid       |               |
+|           |                        | figure is a triangle   |               |
+|           |                        | on the left and a      |               |
+|           |                        | circle on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP025F]: img/corrected/BP025F.png
 [img/BP025E]: img/corrected/BP025E.png
-[img/BP025D]: img/derived/BP025D.svg
 [url/BP025F]: https://www.foundalis.com/res/bps/bongard/p025.htm
 [url/BP025E]: https://oebp.org/BP25
 
@@ -735,17 +687,15 @@
 |           | ][img/BP026E]          | vs. no solid black     | ][url/BP026E] |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Every left example     |               |
-| (92%)     | img/derived/BP026D.svg | contains a solid       |               |
-|           | type="image/svg+xml"   | triangle, while none   |               |
-|           | style="width:100%">    | of the right examples  |               |
-|           | [![BP026D][img/BP026D] | contains one.          |               |
-|           | ][img/BP026D]</object> |                        |               |
+| Derived   |                        | Every left example     |               |
+|           |                        | contains a solid       |               |
+|           |                        | triangle, while none   |               |
+|           |                        | of the right examples  |               |
+|           |                        | contains one.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP026F]: img/corrected/BP026F.png
 [img/BP026E]: img/corrected/BP026E.png
-[img/BP026D]: img/derived/BP026D.svg
 [url/BP026F]: https://www.foundalis.com/res/bps/bongard/p026.htm
 [url/BP026E]: https://oebp.org/BP26
 
@@ -764,17 +714,16 @@
 |           | ][img/BP027E]          | figures vs. more       | ][url/BP027E] |
 |           |                        | outline figures.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Solid figures          |               |
-| (93%)     | img/derived/BP027D.svg | outnumber outline      |               |
-|           | type="image/svg+xml"   | figures on the left,   |               |
-|           | style="width:100%">    | and outline figures    |               |
-|           | [![BP027D][img/BP027D] | outnumber solid        |               |
-|           | ][img/BP027D]</object> | figures on the right.  |               |
+| Derived   |                        | Solid figures          |               |
+|           |                        | outnumber outline      |               |
+|           |                        | figures on the left,   |               |
+|           |                        | and outline figures    |               |
+|           |                        | outnumber solid        |               |
+|           |                        | figures on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP027F]: img/corrected/BP027F.png
 [img/BP027E]: img/corrected/BP027E.png
-[img/BP027D]: img/derived/BP027D.svg
 [url/BP027F]: https://www.foundalis.com/res/bps/bongard/p027.htm
 [url/BP027E]: https://oebp.org/BP27
 
@@ -793,17 +742,16 @@
 |           | ][img/BP028E]          | circles vs. more       | ][url/BP028E] |
 |           |                        | outline circles.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Solid circles          |               |
-| (93%)     | img/derived/BP028D.svg | outnumber outline      |               |
-|           | type="image/svg+xml"   | circles on the left,   |               |
-|           | style="width:100%">    | and outline circles    |               |
-|           | [![BP028D][img/BP028D] | outnumber solid        |               |
-|           | ][img/BP028D]</object> | circles on the right.  |               |
+| Derived   |                        | Solid circles          |               |
+|           |                        | outnumber outline      |               |
+|           |                        | circles on the left,   |               |
+|           |                        | and outline circles    |               |
+|           |                        | outnumber solid        |               |
+|           |                        | circles on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP028F]: img/corrected/BP028F.png
 [img/BP028E]: img/corrected/BP028E.png
-[img/BP028D]: img/derived/BP028D.svg
 [url/BP028F]: https://www.foundalis.com/res/bps/bongard/p028.htm
 [url/BP028E]: https://oebp.org/BP28
 
@@ -830,17 +778,16 @@
 |           |                        | inside the figure      |               |
 |           |                        | outline than outside.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | More small circles lie |               |
-| (88%)     | img/derived/BP029D.svg | inside the large       |               |
-|           | type="image/svg+xml"   | outline than outside   |               |
-|           | style="width:100%">    | it on the left, and    |               |
-|           | [![BP029D][img/BP029D] | more lie outside than  |               |
-|           | ][img/BP029D]</object> | inside on the right.   |               |
+| Derived   |                        | More small circles lie |               |
+|           |                        | inside the large       |               |
+|           |                        | outline than outside   |               |
+|           |                        | it on the left, and    |               |
+|           |                        | more lie outside than  |               |
+|           |                        | inside on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP029F]: img/corrected/BP029F.png
 [img/BP029E]: img/corrected/BP029E.png
-[img/BP029D]: img/derived/BP029D.svg
 [url/BP029F]: https://www.foundalis.com/res/bps/bongard/p029.htm
 [url/BP029E]: https://oebp.org/BP29
 
@@ -861,17 +808,15 @@
 |           |                        | curve without a        |               |
 |           |                        | self-crossing.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The curve crosses      |               |
-| (88%)     | img/derived/BP030D.svg | itself once in each    |               |
-|           | type="image/svg+xml"   | left example and never |               |
-|           | style="width:100%">    | crosses itself in the  |               |
-|           | [![BP030D][img/BP030D] | right examples.        |               |
-|           | ][img/BP030D]</object> |                        |               |
+| Derived   |                        | The curve crosses      |               |
+|           |                        | itself once in each    |               |
+|           |                        | left example and never |               |
+|           |                        | crosses itself in the  |               |
+|           |                        | right examples.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP030F]: img/corrected/BP030F.png
 [img/BP030E]: img/corrected/BP030E.png
-[img/BP030D]: img/derived/BP030D.svg
 [url/BP030F]: https://www.foundalis.com/res/bps/bongard/p030.htm
 [url/BP030E]: https://oebp.org/BP30
 
@@ -888,17 +833,15 @@
 | OEBP      | [![BP031E][img/BP031E] | “One line vs. two      | [BP031E       |
 |           | ][img/BP031E]          | lines.”                | ][url/BP031E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Following a stroke     |               |
-| (91%)     | img/derived/BP031D.svg | from end to end gives  |               |
-|           | type="image/svg+xml"   | one line on the left   |               |
-|           | style="width:100%">    | and two lines on the   |               |
-|           | [![BP031D][img/BP031D] | right.                 |               |
-|           | ][img/BP031D]</object> |                        |               |
+| Derived   |                        | Following a stroke     |               |
+|           |                        | from end to end gives  |               |
+|           |                        | one line on the left   |               |
+|           |                        | and two lines on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP031F]: img/corrected/BP031F.png
 [img/BP031E]: img/corrected/BP031E.png
-[img/BP031D]: img/derived/BP031D.svg
 [url/BP031F]: https://www.foundalis.com/res/bps/bongard/p031.htm
 [url/BP031E]: https://oebp.org/BP31
 
@@ -916,17 +859,15 @@
 |           | ][img/BP032E]          | vs. no sharp           | ][url/BP032E] |
 |           |                        | projection.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A sharp point projects |               |
-| (91%)     | img/derived/BP032D.svg | from each left         |               |
-|           | type="image/svg+xml"   | outline. The right     |               |
-|           | style="width:100%">    | outlines have no such  |               |
-|           | [![BP032D][img/BP032D] | projection.            |               |
-|           | ][img/BP032D]</object> |                        |               |
+| Derived   |                        | A sharp point projects |               |
+|           |                        | from each left         |               |
+|           |                        | outline. The right     |               |
+|           |                        | outlines have no such  |               |
+|           |                        | projection.            |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP032F]: img/corrected/BP032F.png
 [img/BP032E]: img/corrected/BP032E.png
-[img/BP032D]: img/derived/BP032D.svg
 [url/BP032F]: https://www.foundalis.com/res/bps/bongard/p032.htm
 [url/BP032E]: https://oebp.org/BP32
 
@@ -943,17 +884,15 @@
 | OEBP      | [![BP033E][img/BP033E] | “Acute angle vs. no    | [BP033E       |
 |           | ][img/BP033E]          | acute angle.”          | ][url/BP033E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left outline has  |               |
-| (92%)     | img/derived/BP033D.svg | an acute corner. Every |               |
-|           | type="image/svg+xml"   | corner on the right is |               |
-|           | style="width:100%">    | at least a right       |               |
-|           | [![BP033D][img/BP033D] | angle.                 |               |
-|           | ][img/BP033D]</object> |                        |               |
+| Derived   |                        | Each left outline has  |               |
+|           |                        | an acute corner. Every |               |
+|           |                        | corner on the right is |               |
+|           |                        | at least a right       |               |
+|           |                        | angle.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP033F]: img/corrected/BP033F.png
 [img/BP033E]: img/corrected/BP033E.png
-[img/BP033D]: img/derived/BP033D.svg
 [url/BP033F]: https://www.foundalis.com/res/bps/bongard/p033.htm
 [url/BP033E]: https://oebp.org/BP33
 
@@ -970,17 +909,15 @@
 | OEBP      | [![BP034E][img/BP034E] | “A large hole vs. a    | [BP034E       |
 |           | ][img/BP034E]          | small hole.”           | ][url/BP034E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The hole occupies a    |               |
-| (98%)     | img/derived/BP034D.svg | large part of the      |               |
-|           | type="image/svg+xml"   | black figure on the    |               |
-|           | style="width:100%">    | left and a small part  |               |
-|           | [![BP034D][img/BP034D] | on the right.          |               |
-|           | ][img/BP034D]</object> |                        |               |
+| Derived   |                        | The hole occupies a    |               |
+|           |                        | large part of the      |               |
+|           |                        | black figure on the    |               |
+|           |                        | left and a small part  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP034F]: img/corrected/BP034F.png
 [img/BP034E]: img/corrected/BP034E.png
-[img/BP034D]: img/derived/BP034D.svg
 [url/BP034F]: https://www.foundalis.com/res/bps/bongard/p034.htm
 [url/BP034E]: https://oebp.org/BP34
 
@@ -1005,17 +942,15 @@
 |           |                        | perpendicular to the   |               |
 |           |                        | figure axis.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The long axis of the   |               |
-| (99%)     | img/derived/BP035D.svg | hole runs along the    |               |
-|           | type="image/svg+xml"   | black figure on the    |               |
-|           | style="width:100%">    | left and across it on  |               |
-|           | [![BP035D][img/BP035D] | the right.             |               |
-|           | ][img/BP035D]</object> |                        |               |
+| Derived   |                        | The long axis of the   |               |
+|           |                        | hole runs along the    |               |
+|           |                        | black figure on the    |               |
+|           |                        | left and across it on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP035F]: img/corrected/BP035F.png
 [img/BP035E]: img/corrected/BP035E.png
-[img/BP035D]: img/derived/BP035D.svg
 [url/BP035F]: https://www.foundalis.com/res/bps/bongard/p035.htm
 [url/BP035E]: https://oebp.org/BP35
 
@@ -1034,17 +969,14 @@
 |           | ][img/BP036E]          | vs. circle above       | ][url/BP036E] |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The triangle is higher |               |
-| (93%)     | img/derived/BP036D.svg | than the circle on the |               |
-|           | type="image/svg+xml"   | left and lower on the  |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP036D][img/BP036D] |                        |               |
-|           | ][img/BP036D]</object> |                        |               |
+| Derived   |                        | The triangle is higher |               |
+|           |                        | than the circle on the |               |
+|           |                        | left and lower on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP036F]: img/corrected/BP036F.png
 [img/BP036E]: img/corrected/BP036E.png
-[img/BP036D]: img/derived/BP036D.svg
 [url/BP036F]: https://www.foundalis.com/res/bps/bongard/p036.htm
 [url/BP036E]: https://oebp.org/BP36
 
@@ -1063,17 +995,15 @@
 |           | ][img/BP037E]          | vs. circle above       | ][url/BP037E] |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Among the three        |               |
-| (95%)     | img/derived/BP037D.svg | shapes, the triangle   |               |
-|           | type="image/svg+xml"   | lies above the circle  |               |
-|           | style="width:100%">    | on the left and below  |               |
-|           | [![BP037D][img/BP037D] | it on the right.       |               |
-|           | ][img/BP037D]</object> |                        |               |
+| Derived   |                        | Among the three        |               |
+|           |                        | shapes, the triangle   |               |
+|           |                        | lies above the circle  |               |
+|           |                        | on the left and below  |               |
+|           |                        | it on the right.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP037F]: img/corrected/BP037F.png
 [img/BP037E]: img/corrected/BP037E.png
-[img/BP037D]: img/derived/BP037D.svg
 [url/BP037F]: https://www.foundalis.com/res/bps/bongard/p037.htm
 [url/BP037E]: https://oebp.org/BP37
 
@@ -1092,17 +1022,15 @@
 |           | ][img/BP038E]          | circle vs. triangle    | ][url/BP038E] |
 |           |                        | smaller than circle.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | On the left the        |               |
-| (93%)     | img/derived/BP038D.svg | triangle is larger     |               |
-|           | type="image/svg+xml"   | than the circle. On    |               |
-|           | style="width:100%">    | the right the circle   |               |
-|           | [![BP038D][img/BP038D] | is larger.             |               |
-|           | ][img/BP038D]</object> |                        |               |
+| Derived   |                        | On the left the        |               |
+|           |                        | triangle is larger     |               |
+|           |                        | than the circle. On    |               |
+|           |                        | the right the circle   |               |
+|           |                        | is larger.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP038F]: img/corrected/BP038F.png
 [img/BP038E]: img/corrected/BP038E.png
-[img/BP038D]: img/derived/BP038D.svg
 [url/BP038F]: https://www.foundalis.com/res/bps/bongard/p038.htm
 [url/BP038E]: https://oebp.org/BP38
 
@@ -1124,17 +1052,16 @@
 |           |                        | large angles between   |               |
 |           |                        | segments.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The segments point in  |               |
-| (94%)     | img/derived/BP039D.svg | nearly parallel        |               |
-|           | type="image/svg+xml"   | directions on the left |               |
-|           | style="width:100%">    | and form large angles  |               |
-|           | [![BP039D][img/BP039D] | with one another on    |               |
-|           | ][img/BP039D]</object> | the right.             |               |
+| Derived   |                        | The segments point in  |               |
+|           |                        | nearly parallel        |               |
+|           |                        | directions on the left |               |
+|           |                        | and form large angles  |               |
+|           |                        | with one another on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP039F]: img/corrected/BP039F.png
 [img/BP039E]: img/corrected/BP039E.png
-[img/BP039D]: img/derived/BP039D.svg
 [url/BP039F]: https://www.foundalis.com/res/bps/bongard/p039.htm
 [url/BP039E]: https://oebp.org/BP39
 
@@ -1155,17 +1082,15 @@
 |           |                        | three points on a      |               |
 |           |                        | straight line.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A straight line passes |               |
-| (95%)     | img/derived/BP040D.svg | through three dots on  |               |
-|           | type="image/svg+xml"   | the left. Every triple |               |
-|           | style="width:100%">    | on the right departs   |               |
-|           | [![BP040D][img/BP040D] | from a straight line.  |               |
-|           | ][img/BP040D]</object> |                        |               |
+| Derived   |                        | A straight line passes |               |
+|           |                        | through three dots on  |               |
+|           |                        | the left. Every triple |               |
+|           |                        | on the right departs   |               |
+|           |                        | from a straight line.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP040F]: img/corrected/BP040F.png
 [img/BP040E]: img/corrected/BP040E.png
-[img/BP040D]: img/derived/BP040D.svg
 [url/BP040F]: https://www.foundalis.com/res/bps/bongard/p040.htm
 [url/BP040E]: https://oebp.org/BP40
 
@@ -1186,17 +1111,15 @@
 |           |                        | outline circles not on |               |
 |           |                        | one straight line.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The hollow dots lie on |               |
-| (94%)     | img/derived/BP041D.svg | one line on the left   |               |
-|           | type="image/svg+xml"   | and depart from a      |               |
-|           | style="width:100%">    | common line on the     |               |
-|           | [![BP041D][img/BP041D] | right.                 |               |
-|           | ][img/BP041D]</object> |                        |               |
+| Derived   |                        | The hollow dots lie on |               |
+|           |                        | one line on the left   |               |
+|           |                        | and depart from a      |               |
+|           |                        | common line on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP041F]: img/corrected/BP041F.png
 [img/BP041E]: img/corrected/BP041E.png
-[img/BP041D]: img/derived/BP041D.svg
 [url/BP041F]: https://www.foundalis.com/res/bps/bongard/p041.htm
 [url/BP041E]: https://oebp.org/BP41
 
@@ -1221,17 +1144,15 @@
 |           |                        | figure outline are not |               |
 |           |                        | on a straight line.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots inside the    |               |
-| (93%)     | img/derived/BP042D.svg | boundary are collinear |               |
-|           | type="image/svg+xml"   | on the left and form a |               |
-|           | style="width:100%">    | noncollinear set on    |               |
-|           | [![BP042D][img/BP042D] | the right.             |               |
-|           | ][img/BP042D]</object> |                        |               |
+| Derived   |                        | The dots inside the    |               |
+|           |                        | boundary are collinear |               |
+|           |                        | on the left and form a |               |
+|           |                        | noncollinear set on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP042F]: img/corrected/BP042F.png
 [img/BP042E]: img/corrected/BP042E.png
-[img/BP042D]: img/derived/BP042D.svg
 [url/BP042F]: https://www.foundalis.com/res/bps/bongard/p042.htm
 [url/BP042E]: https://oebp.org/BP42
 
@@ -1256,17 +1177,16 @@
 |           |                        | amplitude decreases    |               |
 |           |                        | from left to right.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Reading from left to   |               |
-| (93%)     | img/derived/BP043D.svg | right, the             |               |
-|           | type="image/svg+xml"   | oscillations grow in   |               |
-|           | style="width:100%">    | amplitude in the left  |               |
-|           | [![BP043D][img/BP043D] | examples and shrink in |               |
-|           | ][img/BP043D]</object> | the right examples.    |               |
+| Derived   |                        | Reading from left to   |               |
+|           |                        | right, the             |               |
+|           |                        | oscillations grow in   |               |
+|           |                        | amplitude in the left  |               |
+|           |                        | examples and shrink in |               |
+|           |                        | the right examples.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP043F]: img/corrected/BP043F.png
 [img/BP043E]: img/corrected/BP043E.png
-[img/BP043D]: img/derived/BP043D.svg
 [url/BP043F]: https://www.foundalis.com/res/bps/bongard/p043.htm
 [url/BP043E]: https://oebp.org/BP43
 
@@ -1286,17 +1206,14 @@
 |           |                        | small circles on one   |               |
 |           |                        | arc.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The small circles mark |               |
-| (92%)     | img/derived/BP044D.svg | different arcs on the  |               |
-|           | type="image/svg+xml"   | left and the same arc  |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP044D][img/BP044D] |                        |               |
-|           | ][img/BP044D]</object> |                        |               |
+| Derived   |                        | The small circles mark |               |
+|           |                        | different arcs on the  |               |
+|           |                        | left and the same arc  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP044F]: img/corrected/BP044F.png
 [img/BP044E]: img/corrected/BP044E.png
-[img/BP044D]: img/derived/BP044D.svg
 [url/BP044F]: https://www.foundalis.com/res/bps/bongard/p044.htm
 [url/BP044E]: https://oebp.org/BP44
 
@@ -1318,18 +1235,17 @@
 |           |                        | top of outline         |               |
 |           |                        | figure.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The hollow shape       |               |
-| (98%)     | img/derived/BP045D.svg | obscures part of the   |               |
-|           | type="image/svg+xml"   | solid one on the left. |               |
-|           | style="width:100%">    | The solid shape        |               |
-|           | [![BP045D][img/BP045D] | obscures part of the   |               |
-|           | ][img/BP045D]</object> | hollow one on the      |               |
+| Derived   |                        | The hollow shape       |               |
+|           |                        | obscures part of the   |               |
+|           |                        | solid one on the left. |               |
+|           |                        | The solid shape        |               |
+|           |                        | obscures part of the   |               |
+|           |                        | hollow one on the      |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP045F]: img/corrected/BP045F.png
 [img/BP045E]: img/corrected/BP045E.png
-[img/BP045D]: img/derived/BP045D.svg
 [url/BP045F]: https://www.foundalis.com/res/bps/bongard/p045.htm
 [url/BP045E]: https://oebp.org/BP45
 
@@ -1349,17 +1265,15 @@
 |           |                        | on top of the          |               |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Where the shapes       |               |
-| (96%)     | img/derived/BP046D.svg | overlap, the triangle  |               |
-|           | type="image/svg+xml"   | is in front on the     |               |
-|           | style="width:100%">    | left and the circle is |               |
-|           | [![BP046D][img/BP046D] | in front on the right. |               |
-|           | ][img/BP046D]</object> |                        |               |
+| Derived   |                        | Where the shapes       |               |
+|           |                        | overlap, the triangle  |               |
+|           |                        | is in front on the     |               |
+|           |                        | left and the circle is |               |
+|           |                        | in front on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP046F]: img/corrected/BP046F.png
 [img/BP046E]: img/corrected/BP046E.png
-[img/BP046D]: img/derived/BP046D.svg
 [url/BP046F]: https://www.foundalis.com/res/bps/bongard/p046.htm
 [url/BP046E]: https://oebp.org/BP46
 
@@ -1380,17 +1294,15 @@
 |           |                        | inside of the          |               |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A circle encloses a    |               |
-| (93%)     | img/derived/BP047D.svg | triangle on the left,  |               |
-|           | type="image/svg+xml"   | and a triangle         |               |
-|           | style="width:100%">    | encloses a circle on   |               |
-|           | [![BP047D][img/BP047D] | the right.             |               |
-|           | ][img/BP047D]</object> |                        |               |
+| Derived   |                        | A circle encloses a    |               |
+|           |                        | triangle on the left,  |               |
+|           |                        | and a triangle         |               |
+|           |                        | encloses a circle on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP047F]: img/corrected/BP047F.png
 [img/BP047E]: img/corrected/BP047E.png
-[img/BP047D]: img/derived/BP047D.svg
 [url/BP047F]: https://www.foundalis.com/res/bps/bongard/p047.htm
 [url/BP047E]: https://oebp.org/BP47
 
@@ -1413,17 +1325,16 @@
 |           |                        | figures above the      |               |
 |           |                        | solid dark figures.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The solid shapes sit   |               |
-| (96%)     | img/derived/BP048D.svg | above the hollow       |               |
-|           | type="image/svg+xml"   | shapes on the left.    |               |
-|           | style="width:100%">    | Their vertical order   |               |
-|           | [![BP048D][img/BP048D] | is reversed on the     |               |
-|           | ][img/BP048D]</object> | right.                 |               |
+| Derived   |                        | The solid shapes sit   |               |
+|           |                        | above the hollow       |               |
+|           |                        | shapes on the left.    |               |
+|           |                        | Their vertical order   |               |
+|           |                        | is reversed on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP048F]: img/corrected/BP048F.png
 [img/BP048E]: img/corrected/BP048E.png
-[img/BP048D]: img/derived/BP048D.svg
 [url/BP048F]: https://www.foundalis.com/res/bps/bongard/p048.htm
 [url/BP048E]: https://oebp.org/BP48
 
@@ -1454,17 +1365,15 @@
 |           |                        | more densely than      |               |
 |           |                        | inside the contour.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Dots are more closely  |               |
-| (92%)     | img/derived/BP049D.svg | spaced inside the      |               |
-|           | type="image/svg+xml"   | boundary on the left   |               |
-|           | style="width:100%">    | and outside it on the  |               |
-|           | [![BP049D][img/BP049D] | right.                 |               |
-|           | ][img/BP049D]</object> |                        |               |
+| Derived   |                        | Dots are more closely  |               |
+|           |                        | spaced inside the      |               |
+|           |                        | boundary on the left   |               |
+|           |                        | and outside it on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP049F]: img/corrected/BP049F.png
 [img/BP049E]: img/corrected/BP049E.png
-[img/BP049D]: img/derived/BP049D.svg
 [url/BP049F]: https://www.foundalis.com/res/bps/bongard/p049.htm
 [url/BP049E]: https://oebp.org/BP49
 
@@ -1482,17 +1391,15 @@
 |           | ][img/BP050E]          | symmetry vs. no axis   | ][url/BP050E] |
 |           |                        | of symmetry.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A vertical mirror      |               |
-| (95%)     | img/derived/BP050D.svg | would reproduce each   |               |
-|           | type="image/svg+xml"   | left arrangement. The  |               |
-|           | style="width:100%">    | right arrangements     |               |
-|           | [![BP050D][img/BP050D] | lack mirror symmetry.  |               |
-|           | ][img/BP050D]</object> |                        |               |
+| Derived   |                        | A vertical mirror      |               |
+|           |                        | would reproduce each   |               |
+|           |                        | left arrangement. The  |               |
+|           |                        | right arrangements     |               |
+|           |                        | lack mirror symmetry.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP050F]: img/corrected/BP050F.png
 [img/BP050E]: img/corrected/BP050E.png
-[img/BP050D]: img/derived/BP050D.svg
 [url/BP050F]: https://www.foundalis.com/res/bps/bongard/p050.htm
 [url/BP050E]: https://oebp.org/BP50
 
@@ -1513,17 +1420,15 @@
 |           |                        | circles close to each  |               |
 |           |                        | other.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left drawing has  |               |
-| (91%)     | img/derived/BP051D.svg | a close pair of        |               |
-|           | type="image/svg+xml"   | circles. The circles   |               |
-|           | style="width:100%">    | on the right are       |               |
-|           | [![BP051D][img/BP051D] | spaced apart.          |               |
-|           | ][img/BP051D]</object> |                        |               |
+| Derived   |                        | Each left drawing has  |               |
+|           |                        | a close pair of        |               |
+|           |                        | circles. The circles   |               |
+|           |                        | on the right are       |               |
+|           |                        | spaced apart.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP051F]: img/corrected/BP051F.png
 [img/BP051E]: img/corrected/BP051E.png
-[img/BP051D]: img/derived/BP051D.svg
 [url/BP051F]: https://www.foundalis.com/res/bps/bongard/p051.htm
 [url/BP051E]: https://oebp.org/BP51
 
@@ -1544,17 +1449,16 @@
 |           |                        | vs. arrows pointing in |               |
 |           |                        | the same direction.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two arrowheads     |               |
-| (92%)     | img/derived/BP052D.svg | point in different     |               |
-|           | type="image/svg+xml"   | directions on the left |               |
-|           | style="width:100%">    | and in the same        |               |
-|           | [![BP052D][img/BP052D] | direction on the       |               |
-|           | ][img/BP052D]</object> | right.                 |               |
+| Derived   |                        | The two arrowheads     |               |
+|           |                        | point in different     |               |
+|           |                        | directions on the left |               |
+|           |                        | and in the same        |               |
+|           |                        | direction on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP052F]: img/corrected/BP052F.png
 [img/BP052E]: img/corrected/BP052E.png
-[img/BP052D]: img/derived/BP052D.svg
 [url/BP052F]: https://www.foundalis.com/res/bps/bongard/p052.htm
 [url/BP052E]: https://oebp.org/BP52
 
@@ -1578,17 +1482,15 @@
 |           |                        | angles than outside    |               |
 |           |                        | figure.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The enclosed figure    |               |
-| (93%)     | img/derived/BP053D.svg | has fewer corners than |               |
-|           | type="image/svg+xml"   | its enclosing figure   |               |
-|           | style="width:100%">    | on the left and more   |               |
-|           | [![BP053D][img/BP053D] | corners on the right.  |               |
-|           | ][img/BP053D]</object> |                        |               |
+| Derived   |                        | The enclosed figure    |               |
+|           |                        | has fewer corners than |               |
+|           |                        | its enclosing figure   |               |
+|           |                        | on the left and more   |               |
+|           |                        | corners on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP053F]: img/corrected/BP053F.png
 [img/BP053E]: img/corrected/BP053E.png
-[img/BP053D]: img/derived/BP053D.svg
 [url/BP053F]: https://www.foundalis.com/res/bps/bongard/p053.htm
 [url/BP053E]: https://oebp.org/BP53
 
@@ -1613,17 +1515,16 @@
 |           |                        | triangle arranged      |               |
 |           |                        | clockwise.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Visiting the cross,    |               |
-| (90%)     | img/derived/BP054D.svg | circle and triangle in |               |
-|           | type="image/svg+xml"   | that order goes        |               |
-|           | style="width:100%">    | counterclockwise on    |               |
-|           | [![BP054D][img/BP054D] | the left and clockwise |               |
-|           | ][img/BP054D]</object> | on the right.          |               |
+| Derived   |                        | Visiting the cross,    |               |
+|           |                        | circle and triangle in |               |
+|           |                        | that order goes        |               |
+|           |                        | counterclockwise on    |               |
+|           |                        | the left and clockwise |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP054F]: img/corrected/BP054F.png
 [img/BP054E]: img/corrected/BP054E.png
-[img/BP054D]: img/derived/BP054D.svg
 [url/BP054F]: https://www.foundalis.com/res/bps/bongard/p054.htm
 [url/BP054E]: https://oebp.org/BP54
 
@@ -1652,19 +1553,18 @@
 |           |                        | look from inside the   |               |
 |           |                        | figure.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Looking out from the   |               |
-| (91%)     | img/derived/BP055D.svg | figure through its     |               |
-|           | type="image/svg+xml"   | indentation, the small |               |
-|           | style="width:100%">    | circle lies on the     |               |
-|           | [![BP055D][img/BP055D] | left in the left       |               |
-|           | ][img/BP055D]</object> | examples and on the    |               |
+| Derived   |                        | Looking out from the   |               |
+|           |                        | figure through its     |               |
+|           |                        | indentation, the small |               |
+|           |                        | circle lies on the     |               |
+|           |                        | left in the left       |               |
+|           |                        | examples and on the    |               |
 |           |                        | right in the right     |               |
 |           |                        | examples.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP055F]: img/corrected/BP055F.png
 [img/BP055E]: img/corrected/BP055E.png
-[img/BP055D]: img/derived/BP055D.svg
 [url/BP055F]: https://www.foundalis.com/res/bps/bongard/p055.htm
 [url/BP055E]: https://oebp.org/BP55
 
@@ -1683,17 +1583,15 @@
 |           | ][img/BP056E]          | same color vs. figures | ][url/BP056E] |
 |           |                        | of different colors.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figures in a left  |               |
-| (93%)     | img/derived/BP056D.svg | example are all filled |               |
-|           | type="image/svg+xml"   | alike. Each right      |               |
-|           | style="width:100%">    | example mixes filled   |               |
-|           | [![BP056D][img/BP056D] | and hollow figures.    |               |
-|           | ][img/BP056D]</object> |                        |               |
+| Derived   |                        | The figures in a left  |               |
+|           |                        | example are all filled |               |
+|           |                        | alike. Each right      |               |
+|           |                        | example mixes filled   |               |
+|           |                        | and hollow figures.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP056F]: img/corrected/BP056F.png
 [img/BP056E]: img/corrected/BP056E.png
-[img/BP056D]: img/derived/BP056D.svg
 [url/BP056F]: https://www.foundalis.com/res/bps/bongard/p056.htm
 [url/BP056E]: https://oebp.org/BP56
 
@@ -1711,17 +1609,16 @@
 |           | ][img/BP057E]          | figures not            | ][url/BP057E] |
 |           |                        | identical.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The shapes in each     |               |
-| (94%)     | img/derived/BP057D.svg | left example are       |               |
-|           | type="image/svg+xml"   | identical. Each right  |               |
-|           | style="width:100%">    | example contains a     |               |
-|           | [![BP057D][img/BP057D] | difference in size or  |               |
-|           | ][img/BP057D]</object> | shape.                 |               |
+| Derived   |                        | The shapes in each     |               |
+|           |                        | left example are       |               |
+|           |                        | identical. Each right  |               |
+|           |                        | example contains a     |               |
+|           |                        | difference in size or  |               |
+|           |                        | shape.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP057F]: img/corrected/BP057F.png
 [img/BP057E]: img/corrected/BP057E.png
-[img/BP057D]: img/derived/BP057D.svg
 [url/BP057F]: https://www.foundalis.com/res/bps/bongard/p057.htm
 [url/BP057E]: https://oebp.org/BP57
 
@@ -1744,17 +1641,15 @@
 |           |                        | dark quadrangles are   |               |
 |           |                        | different.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The solid              |               |
-| (98%)     | img/derived/BP058D.svg | quadrilaterals match   |               |
-|           | type="image/svg+xml"   | one another on the     |               |
-|           | style="width:100%">    | left and differ on the |               |
-|           | [![BP058D][img/BP058D] | right.                 |               |
-|           | ][img/BP058D]</object> |                        |               |
+| Derived   |                        | The solid              |               |
+|           |                        | quadrilaterals match   |               |
+|           |                        | one another on the     |               |
+|           |                        | left and differ on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP058F]: img/corrected/BP058F.png
 [img/BP058E]: img/corrected/BP058E.png
-[img/BP058D]: img/derived/BP058D.svg
 [url/BP058F]: https://www.foundalis.com/res/bps/bongard/p058.htm
 [url/BP058E]: https://oebp.org/BP58
 
@@ -1773,17 +1668,15 @@
 |           | ][img/BP059E]          | vs. figures are not    | ][url/BP059E] |
 |           |                        | similar.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The shapes match up to |               |
-| (94%)     | img/derived/BP059D.svg | a change of scale and  |               |
-|           | type="image/svg+xml"   | orientation on the     |               |
-|           | style="width:100%">    | left. Their forms      |               |
-|           | [![BP059D][img/BP059D] | differ on the right.   |               |
-|           | ][img/BP059D]</object> |                        |               |
+| Derived   |                        | The shapes match up to |               |
+|           |                        | a change of scale and  |               |
+|           |                        | orientation on the     |               |
+|           |                        | left. Their forms      |               |
+|           |                        | differ on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP059F]: img/corrected/BP059F.png
 [img/BP059E]: img/corrected/BP059E.png
-[img/BP059D]: img/derived/BP059D.svg
 [url/BP059F]: https://www.foundalis.com/res/bps/bongard/p059.htm
 [url/BP059E]: https://oebp.org/BP59
 
@@ -1801,17 +1694,16 @@
 |           | ][img/BP060E]          | vs. no similar         | ][url/BP060E] |
 |           |                        | figures.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | At least one pair of   |               |
-| (95%)     | img/derived/BP060D.svg | figures has the same   |               |
-|           | type="image/svg+xml"   | shape up to scale on   |               |
-|           | style="width:100%">    | the left. Every pair   |               |
-|           | [![BP060D][img/BP060D] | differs in shape on    |               |
-|           | ][img/BP060D]</object> | the right.             |               |
+| Derived   |                        | At least one pair of   |               |
+|           |                        | figures has the same   |               |
+|           |                        | shape up to scale on   |               |
+|           |                        | the left. Every pair   |               |
+|           |                        | differs in shape on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP060F]: img/corrected/BP060F.png
 [img/BP060E]: img/corrected/BP060E.png
-[img/BP060D]: img/derived/BP060D.svg
 [url/BP060F]: https://www.foundalis.com/res/bps/bongard/p060.htm
 [url/BP060E]: https://oebp.org/BP60
 
@@ -1832,17 +1724,16 @@
 |           |                        | line does not separate |               |
 |           |                        | the crosses in half.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The line leaves equal  |               |
-| (94%)     | img/derived/BP061D.svg | numbers of crosses on  |               |
-|           | type="image/svg+xml"   | its two sides in each  |               |
-|           | style="width:100%">    | left example and       |               |
-|           | [![BP061D][img/BP061D] | unequal numbers in     |               |
-|           | ][img/BP061D]</object> | each right example.    |               |
+| Derived   |                        | The line leaves equal  |               |
+|           |                        | numbers of crosses on  |               |
+|           |                        | its two sides in each  |               |
+|           |                        | left example and       |               |
+|           |                        | unequal numbers in     |               |
+|           |                        | each right example.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP061F]: img/corrected/BP061F.png
 [img/BP061E]: img/corrected/BP061E.png
-[img/BP061D]: img/derived/BP061D.svg
 [url/BP061F]: https://www.foundalis.com/res/bps/bongard/p061.htm
 [url/BP061E]: https://oebp.org/BP61
 
@@ -1863,17 +1754,14 @@
 |           |                        | the curve are close    |               |
 |           |                        | together.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two ends of the    |               |
-| (92%)     | img/derived/BP062D.svg | curve are far apart on |               |
-|           | type="image/svg+xml"   | the left and close     |               |
-|           | style="width:100%">    | together on the right. |               |
-|           | [![BP062D][img/BP062D] |                        |               |
-|           | ][img/BP062D]</object> |                        |               |
+| Derived   |                        | The two ends of the    |               |
+|           |                        | curve are far apart on |               |
+|           |                        | the left and close     |               |
+|           |                        | together on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP062F]: img/corrected/BP062F.png
 [img/BP062E]: img/corrected/BP062E.png
-[img/BP062D]: img/derived/BP062D.svg
 [url/BP062F]: https://www.foundalis.com/res/bps/bongard/p062.htm
 [url/BP062E]: https://oebp.org/BP62
 
@@ -1894,17 +1782,16 @@
 |           |                        | shading thicker on the |               |
 |           |                        | left side.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The outline is heavier |               |
-| (96%)     | img/derived/BP063D.svg | along the right edge   |               |
-|           | type="image/svg+xml"   | in the left examples   |               |
-|           | style="width:100%">    | and along the left     |               |
-|           | [![BP063D][img/BP063D] | edge in the right      |               |
-|           | ][img/BP063D]</object> | examples.              |               |
+| Derived   |                        | The outline is heavier |               |
+|           |                        | along the right edge   |               |
+|           |                        | in the left examples   |               |
+|           |                        | and along the left     |               |
+|           |                        | edge in the right      |               |
+|           |                        | examples.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP063F]: img/corrected/BP063F.png
 [img/BP063E]: img/corrected/BP063E.png
-[img/BP063D]: img/derived/BP063D.svg
 [url/BP063F]: https://www.foundalis.com/res/bps/bongard/p063.htm
 [url/BP063E]: https://oebp.org/BP63
 
@@ -1929,17 +1816,15 @@
 |           |                        | the extension of the   |               |
 |           |                        | ellipse axis.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Extending the major    |               |
-| (89%)     | img/derived/BP064D.svg | axis of the ellipse    |               |
-|           | type="image/svg+xml"   | reaches the cross on   |               |
-|           | style="width:100%">    | the left and the small |               |
-|           | [![BP064D][img/BP064D] | circle on the right.   |               |
-|           | ][img/BP064D]</object> |                        |               |
+| Derived   |                        | Extending the major    |               |
+|           |                        | axis of the ellipse    |               |
+|           |                        | reaches the cross on   |               |
+|           |                        | the left and the small |               |
+|           |                        | circle on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP064F]: img/corrected/BP064F.png
 [img/BP064E]: img/corrected/BP064E.png
-[img/BP064D]: img/derived/BP064D.svg
 [url/BP064F]: https://www.foundalis.com/res/bps/bongard/p064.htm
 [url/BP064E]: https://oebp.org/BP64
 
@@ -1961,17 +1846,15 @@
 |           |                        | vs. a set of triangles |               |
 |           |                        | elongated vertically.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The triangles as a     |               |
-| (93%)     | img/derived/BP065D.svg | group extend farther   |               |
-|           | type="image/svg+xml"   | horizontally on the    |               |
-|           | style="width:100%">    | left and vertically on |               |
-|           | [![BP065D][img/BP065D] | the right.             |               |
-|           | ][img/BP065D]</object> |                        |               |
+| Derived   |                        | The triangles as a     |               |
+|           |                        | group extend farther   |               |
+|           |                        | horizontally on the    |               |
+|           |                        | left and vertically on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP065F]: img/corrected/BP065F.png
 [img/BP065E]: img/corrected/BP065E.png
-[img/BP065D]: img/derived/BP065D.svg
 [url/BP065F]: https://www.foundalis.com/res/bps/bongard/p065.htm
 [url/BP065E]: https://oebp.org/BP65
 
@@ -1993,17 +1876,15 @@
 |           |                        | circles on a vertical  |               |
 |           |                        | line.”                 |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The unconnected        |               |
-| (92%)     | img/derived/BP066D.svg | circles align          |               |
-|           | type="image/svg+xml"   | horizontally on the    |               |
-|           | style="width:100%">    | left and vertically on |               |
-|           | [![BP066D][img/BP066D] | the right.             |               |
-|           | ][img/BP066D]</object> |                        |               |
+| Derived   |                        | The unconnected        |               |
+|           |                        | circles align          |               |
+|           |                        | horizontally on the    |               |
+|           |                        | left and vertically on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP066F]: img/corrected/BP066F.png
 [img/BP066E]: img/corrected/BP066E.png
-[img/BP066D]: img/derived/BP066D.svg
 [url/BP066F]: https://www.foundalis.com/res/bps/bongard/p066.htm
 [url/BP066E]: https://oebp.org/BP66
 
@@ -2030,17 +1911,15 @@
 |           |                        | lower point than the   |               |
 |           |                        | left branch.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The right branch       |               |
-| (84%)     | img/derived/BP067D.svg | leaves the stem above  |               |
-|           | type="image/svg+xml"   | the left branch on the |               |
-|           | style="width:100%">    | left and below it on   |               |
-|           | [![BP067D][img/BP067D] | the right.             |               |
-|           | ][img/BP067D]</object> |                        |               |
+| Derived   |                        | The right branch       |               |
+|           |                        | leaves the stem above  |               |
+|           |                        | the left branch on the |               |
+|           |                        | left and below it on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP067F]: img/corrected/BP067F.png
 [img/BP067E]: img/corrected/BP067E.png
-[img/BP067D]: img/derived/BP067D.svg
 [url/BP067F]: https://www.foundalis.com/res/bps/bongard/p067.htm
 [url/BP067E]: https://oebp.org/BP67
 
@@ -2067,17 +1946,14 @@
 |           |                        | lower than that of the |               |
 |           |                        | left branch.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The right branch ends  |               |
-| (85%)     | img/derived/BP068D.svg | above the left branch  |               |
-|           | type="image/svg+xml"   | on the left and below  |               |
-|           | style="width:100%">    | it on the right.       |               |
-|           | [![BP068D][img/BP068D] |                        |               |
-|           | ][img/BP068D]</object> |                        |               |
+| Derived   |                        | The right branch ends  |               |
+|           |                        | above the left branch  |               |
+|           |                        | on the left and below  |               |
+|           |                        | it on the right.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP068F]: img/corrected/BP068F.png
 [img/BP068E]: img/corrected/BP068E.png
-[img/BP068D]: img/derived/BP068D.svg
 [url/BP068F]: https://www.foundalis.com/res/bps/bongard/p068.htm
 [url/BP068E]: https://oebp.org/BP68
 
@@ -2098,17 +1974,14 @@
 |           |                        | large black dot on a   |               |
 |           |                        | side branch.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The black dot marks    |               |
-| (92%)     | img/derived/BP069D.svg | the main branch on the |               |
-|           | type="image/svg+xml"   | left and a side branch |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP069D][img/BP069D] |                        |               |
-|           | ][img/BP069D]</object> |                        |               |
+| Derived   |                        | The black dot marks    |               |
+|           |                        | the main branch on the |               |
+|           |                        | left and a side branch |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP069F]: img/corrected/BP069F.png
 [img/BP069E]: img/corrected/BP069E.png
-[img/BP069D]: img/derived/BP069D.svg
 [url/BP069F]: https://www.foundalis.com/res/bps/bongard/p069.htm
 [url/BP069E]: https://oebp.org/BP69
 
@@ -2131,17 +2004,15 @@
 |           |                        | side branches of the   |               |
 |           |                        | second order.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Only the stem gives    |               |
-| (84%)     | img/derived/BP070D.svg | rise to branches on    |               |
-|           | type="image/svg+xml"   | the left. A side       |               |
-|           | style="width:100%">    | branch itself branches |               |
-|           | [![BP070D][img/BP070D] | on the right.          |               |
-|           | ][img/BP070D]</object> |                        |               |
+| Derived   |                        | Only the stem gives    |               |
+|           |                        | rise to branches on    |               |
+|           |                        | the left. A side       |               |
+|           |                        | branch itself branches |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP070F]: img/corrected/BP070F.png
 [img/BP070E]: img/corrected/BP070E.png
-[img/BP070D]: img/derived/BP070D.svg
 [url/BP070F]: https://www.foundalis.com/res/bps/bongard/p070.htm
 [url/BP070E]: https://oebp.org/BP70
 
@@ -2164,17 +2035,16 @@
 |           |                        | inside figures of the  |               |
 |           |                        | second order.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | On the left an         |               |
-| (92%)     | img/derived/BP071D.svg | enclosed figure        |               |
-|           | type="image/svg+xml"   | encloses a further     |               |
-|           | style="width:100%">    | figure. On the right   |               |
-|           | [![BP071D][img/BP071D] | the nesting stops      |               |
-|           | ][img/BP071D]</object> | after one level.       |               |
+| Derived   |                        | On the left an         |               |
+|           |                        | enclosed figure        |               |
+|           |                        | encloses a further     |               |
+|           |                        | figure. On the right   |               |
+|           |                        | the nesting stops      |               |
+|           |                        | after one level.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP071F]: img/corrected/BP071F.png
 [img/BP071E]: img/corrected/BP071E.png
-[img/BP071D]: img/derived/BP071D.svg
 [url/BP071F]: https://www.foundalis.com/res/bps/bongard/p071.htm
 [url/BP071E]: https://oebp.org/BP71
 
@@ -2195,17 +2065,15 @@
 |           |                        | the curve are          |               |
 |           |                        | perpendicular.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The end directions of  |               |
-| (92%)     | img/derived/BP072D.svg | the open curve are     |               |
-|           | type="image/svg+xml"   | parallel on the left   |               |
-|           | style="width:100%">    | and perpendicular on   |               |
-|           | [![BP072D][img/BP072D] | the right.             |               |
-|           | ][img/BP072D]</object> |                        |               |
+| Derived   |                        | The end directions of  |               |
+|           |                        | the open curve are     |               |
+|           |                        | parallel on the left   |               |
+|           |                        | and perpendicular on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP072F]: img/corrected/BP072F.png
 [img/BP072E]: img/corrected/BP072E.png
-[img/BP072D]: img/derived/BP072D.svg
 [url/BP072F]: https://www.foundalis.com/res/bps/bongard/p072.htm
 [url/BP072E]: https://oebp.org/BP72
 
@@ -2230,17 +2098,15 @@
 |           |                        | ellipse and rectangle  |               |
 |           |                        | are parallel.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The long axes of the   |               |
-| (93%)     | img/derived/BP073D.svg | ellipse and rectangle  |               |
-|           | type="image/svg+xml"   | meet at a right angle  |               |
-|           | style="width:100%">    | on the left and are    |               |
-|           | [![BP073D][img/BP073D] | parallel on the right. |               |
-|           | ][img/BP073D]</object> |                        |               |
+| Derived   |                        | The long axes of the   |               |
+|           |                        | ellipse and rectangle  |               |
+|           |                        | meet at a right angle  |               |
+|           |                        | on the left and are    |               |
+|           |                        | parallel on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP073F]: img/corrected/BP073F.png
 [img/BP073E]: img/corrected/BP073E.png
-[img/BP073D]: img/derived/BP073D.svg
 [url/BP073F]: https://www.foundalis.com/res/bps/bongard/p073.htm
 [url/BP073E]: https://oebp.org/BP73
 
@@ -2261,17 +2127,15 @@
 |           |                        | grows from the acute   |               |
 |           |                        | end.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The tail leaves the    |               |
-| (93%)     | img/derived/BP074D.svg | blunt end of the shape |               |
-|           | type="image/svg+xml"   | on the left and the    |               |
-|           | style="width:100%">    | pointed end on the     |               |
-|           | [![BP074D][img/BP074D] | right.                 |               |
-|           | ][img/BP074D]</object> |                        |               |
+| Derived   |                        | The tail leaves the    |               |
+|           |                        | blunt end of the shape |               |
+|           |                        | on the left and the    |               |
+|           |                        | pointed end on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP074F]: img/corrected/BP074F.png
 [img/BP074E]: img/corrected/BP074E.png
-[img/BP074D]: img/derived/BP074D.svg
 [url/BP074F]: https://www.foundalis.com/res/bps/bongard/p074.htm
 [url/BP074E]: https://oebp.org/BP74
 
@@ -2294,17 +2158,15 @@
 |           |                        | located at the convex  |               |
 |           |                        | side of an arc.”       |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The triangle lies on   |               |
-| (91%)     | img/derived/BP075D.svg | the concave side of    |               |
-|           | type="image/svg+xml"   | the arc on the left    |               |
-|           | style="width:100%">    | and the convex side on |               |
-|           | [![BP075D][img/BP075D] | the right.             |               |
-|           | ][img/BP075D]</object> |                        |               |
+| Derived   |                        | The triangle lies on   |               |
+|           |                        | the concave side of    |               |
+|           |                        | the arc on the left    |               |
+|           |                        | and the convex side on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP075F]: img/corrected/BP075F.png
 [img/BP075E]: img/corrected/BP075E.png
-[img/BP075D]: img/derived/BP075D.svg
 [url/BP075F]: https://www.foundalis.com/res/bps/bongard/p075.htm
 [url/BP075E]: https://oebp.org/BP75
 
@@ -2322,17 +2184,14 @@
 |           | ][img/BP076E]          | vs. long sides         | ][url/BP076E] |
 |           |                        | convex.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The long sides of the  |               |
-| (91%)     | img/derived/BP076D.svg | figure bow inward on   |               |
-|           | type="image/svg+xml"   | the left and outward   |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP076D][img/BP076D] |                        |               |
-|           | ][img/BP076D]</object> |                        |               |
+| Derived   |                        | The long sides of the  |               |
+|           |                        | figure bow inward on   |               |
+|           |                        | the left and outward   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP076F]: img/corrected/BP076F.png
 [img/BP076E]: img/corrected/BP076E.png
-[img/BP076D]: img/derived/BP076D.svg
 [url/BP076F]: https://www.foundalis.com/res/bps/bongard/p076.htm
 [url/BP076E]: https://oebp.org/BP76
 
@@ -2351,17 +2210,15 @@
 |           | ][img/BP077E]          | vs. angle not divided  | ][url/BP077E] |
 |           |                        | in half.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The inner ray bisects  |               |
-| (93%)     | img/derived/BP077D.svg | the angle on the left  |               |
-|           | type="image/svg+xml"   | and divides it         |               |
-|           | style="width:100%">    | unequally on the       |               |
-|           | [![BP077D][img/BP077D] | right.                 |               |
-|           | ][img/BP077D]</object> |                        |               |
+| Derived   |                        | The inner ray bisects  |               |
+|           |                        | the angle on the left  |               |
+|           |                        | and divides it         |               |
+|           |                        | unequally on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP077F]: img/corrected/BP077F.png
 [img/BP077E]: img/corrected/BP077E.png
-[img/BP077D]: img/derived/BP077D.svg
 [url/BP077F]: https://www.foundalis.com/res/bps/bongard/p077.htm
 [url/BP077E]: https://oebp.org/BP77
 
@@ -2384,18 +2241,17 @@
 |           |                        | of segments do not     |               |
 |           |                        | cross at one point.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Extending all the      |               |
-| (94%)     | img/derived/BP078D.svg | segments gives a       |               |
-|           | type="image/svg+xml"   | common intersection on |               |
-|           | style="width:100%">    | the left. Their        |               |
-|           | [![BP078D][img/BP078D] | extensions lack a      |               |
-|           | ][img/BP078D]</object> | common intersection on |               |
+| Derived   |                        | Extending all the      |               |
+|           |                        | segments gives a       |               |
+|           |                        | common intersection on |               |
+|           |                        | the left. Their        |               |
+|           |                        | extensions lack a      |               |
+|           |                        | common intersection on |               |
 |           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP078F]: img/corrected/BP078F.png
 [img/BP078E]: img/corrected/BP078E.png
-[img/BP078D]: img/derived/BP078D.svg
 [url/BP078F]: https://www.foundalis.com/res/bps/bongard/p078.htm
 [url/BP078E]: https://oebp.org/BP78
 
@@ -2422,17 +2278,15 @@
 |           |                        | the triangle than to   |               |
 |           |                        | the outline circle.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The solid circle is    |               |
-| (95%)     | img/derived/BP079D.svg | nearer the hollow      |               |
-|           | type="image/svg+xml"   | circle on the left and |               |
-|           | style="width:100%">    | nearer the triangle on |               |
-|           | [![BP079D][img/BP079D] | the right.             |               |
-|           | ][img/BP079D]</object> |                        |               |
+| Derived   |                        | The solid circle is    |               |
+|           |                        | nearer the hollow      |               |
+|           |                        | circle on the left and |               |
+|           |                        | nearer the triangle on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP079F]: img/corrected/BP079F.png
 [img/BP079E]: img/corrected/BP079E.png
-[img/BP079D]: img/derived/BP079D.svg
 [url/BP079F]: https://www.foundalis.com/res/bps/bongard/p079.htm
 [url/BP079E]: https://oebp.org/BP79
 
@@ -2456,17 +2310,15 @@
 |           |                        | distances from a       |               |
 |           |                        | cross.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots are equally   |               |
-| (94%)     | img/derived/BP080D.svg | far from the cross on  |               |
-|           | type="image/svg+xml"   | the left and at        |               |
-|           | style="width:100%">    | different distances    |               |
-|           | [![BP080D][img/BP080D] | from it on the right.  |               |
-|           | ][img/BP080D]</object> |                        |               |
+| Derived   |                        | The dots are equally   |               |
+|           |                        | far from the cross on  |               |
+|           |                        | the left and at        |               |
+|           |                        | different distances    |               |
+|           |                        | from it on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP080F]: img/corrected/BP080F.png
 [img/BP080E]: img/corrected/BP080E.png
-[img/BP080D]: img/derived/BP080D.svg
 [url/BP080F]: https://www.foundalis.com/res/bps/bongard/p080.htm
 [url/BP080E]: https://oebp.org/BP80
 
@@ -2499,17 +2351,16 @@
 |           |                        | of filled and outlined |               |
 |           |                        | figures overlap.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A straight line can    |               |
-| (96%)     | img/derived/BP081D.svg | separate the filled    |               |
-|           | type="image/svg+xml"   | shapes from the hollow |               |
-|           | style="width:100%">    | shapes on the left.    |               |
-|           | [![BP081D][img/BP081D] | Their convex hulls     |               |
-|           | ][img/BP081D]</object> | overlap on the right.  |               |
+| Derived   |                        | A straight line can    |               |
+|           |                        | separate the filled    |               |
+|           |                        | shapes from the hollow |               |
+|           |                        | shapes on the left.    |               |
+|           |                        | Their convex hulls     |               |
+|           |                        | overlap on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP081F]: img/corrected/BP081F.png
 [img/BP081E]: img/corrected/BP081E.png
-[img/BP081D]: img/derived/BP081D.svg
 [url/BP081F]: https://www.foundalis.com/res/bps/bongard/p081.htm
 [url/BP081E]: https://oebp.org/BP81
 
@@ -2536,17 +2387,15 @@
 |           |                        | form an equilateral    |               |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The outermost crosses  |               |
-| (90%)     | img/derived/BP082D.svg | define an equilateral  |               |
-|           | type="image/svg+xml"   | triangle on the left   |               |
-|           | style="width:100%">    | and a different        |               |
-|           | [![BP082D][img/BP082D] | outline on the right.  |               |
-|           | ][img/BP082D]</object> |                        |               |
+| Derived   |                        | The outermost crosses  |               |
+|           |                        | define an equilateral  |               |
+|           |                        | triangle on the left   |               |
+|           |                        | and a different        |               |
+|           |                        | outline on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP082F]: img/corrected/BP082F.png
 [img/BP082E]: img/corrected/BP082E.png
-[img/BP082D]: img/derived/BP082D.svg
 [url/BP082F]: https://www.foundalis.com/res/bps/bongard/p082.htm
 [url/BP082E]: https://oebp.org/BP82
 
@@ -2569,17 +2418,15 @@
 |           |                        | is outside of figures  |               |
 |           |                        | made by crosses.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The circle lies inside |               |
-| (90%)     | img/derived/BP083D.svg | the outline implied by |               |
-|           | type="image/svg+xml"   | the crosses on the     |               |
-|           | style="width:100%">    | left and outside it on |               |
-|           | [![BP083D][img/BP083D] | the right.             |               |
-|           | ][img/BP083D]</object> |                        |               |
+| Derived   |                        | The circle lies inside |               |
+|           |                        | the outline implied by |               |
+|           |                        | the crosses on the     |               |
+|           |                        | left and outside it on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP083F]: img/corrected/BP083F.png
 [img/BP083E]: img/corrected/BP083E.png
-[img/BP083D]: img/derived/BP083D.svg
 [url/BP083F]: https://www.foundalis.com/res/bps/bongard/p083.htm
 [url/BP083E]: https://oebp.org/BP83
 
@@ -2604,17 +2451,15 @@
 |           |                        | of a figure made by    |               |
 |           |                        | circles.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The quadrilateral lies |               |
-| (93%)     | img/derived/BP084D.svg | outside the boundary   |               |
-|           | type="image/svg+xml"   | of small circles on    |               |
-|           | style="width:100%">    | the left and inside it |               |
-|           | [![BP084D][img/BP084D] | on the right.          |               |
-|           | ][img/BP084D]</object> |                        |               |
+| Derived   |                        | The quadrilateral lies |               |
+|           |                        | outside the boundary   |               |
+|           |                        | of small circles on    |               |
+|           |                        | the left and inside it |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP084F]: img/corrected/BP084F.png
 [img/BP084E]: img/corrected/BP084E.png
-[img/BP084D]: img/derived/BP084D.svg
 [url/BP084F]: https://www.foundalis.com/res/bps/bongard/p084.htm
 [url/BP084E]: https://oebp.org/BP84
 
@@ -2631,17 +2476,15 @@
 | OEBP      | [![BP085E][img/BP085E] | “Three parts vs. five  | [BP085E       |
 |           | ][img/BP085E]          | parts.”                | ][url/BP085E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left drawing      |               |
-| (93%)     | img/derived/BP085D.svg | contains three         |               |
-|           | type="image/svg+xml"   | component segments,    |               |
-|           | style="width:100%">    | and each right drawing |               |
-|           | [![BP085D][img/BP085D] | contains five.         |               |
-|           | ][img/BP085D]</object> |                        |               |
+| Derived   |                        | Each left drawing      |               |
+|           |                        | contains three         |               |
+|           |                        | component segments,    |               |
+|           |                        | and each right drawing |               |
+|           |                        | contains five.         |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP085F]: img/corrected/BP085F.png
 [img/BP085E]: img/corrected/BP085E.png
-[img/BP085D]: img/derived/BP085D.svg
 [url/BP085F]: https://www.foundalis.com/res/bps/bongard/p085.htm
 [url/BP085E]: https://oebp.org/BP85
 
@@ -2658,17 +2501,14 @@
 | OEBP      | [![BP086E][img/BP086E] | “Three parts vs. five  | [BP086E       |
 |           | ][img/BP086E]          | parts.”                | ][url/BP086E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figure is made     |               |
-| (94%)     | img/derived/BP086D.svg | from three segments on |               |
-|           | type="image/svg+xml"   | the left and five on   |               |
-|           | style="width:100%">    | the right.             |               |
-|           | [![BP086D][img/BP086D] |                        |               |
-|           | ][img/BP086D]</object> |                        |               |
+| Derived   |                        | The figure is made     |               |
+|           |                        | from three segments on |               |
+|           |                        | the left and five on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP086F]: img/corrected/BP086F.png
 [img/BP086E]: img/corrected/BP086E.png
-[img/BP086D]: img/derived/BP086D.svg
 [url/BP086F]: https://www.foundalis.com/res/bps/bongard/p086.htm
 [url/BP086E]: https://oebp.org/BP86
 
@@ -2685,17 +2525,14 @@
 | OEBP      | [![BP087E][img/BP087E] | “Four parts vs. five   | [BP087E       |
 |           | ][img/BP087E]          | parts.”                | ][url/BP087E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Counting the component |               |
-| (91%)     | img/derived/BP087D.svg | segments gives four on |               |
-|           | type="image/svg+xml"   | the left and five on   |               |
-|           | style="width:100%">    | the right.             |               |
-|           | [![BP087D][img/BP087D] |                        |               |
-|           | ][img/BP087D]</object> |                        |               |
+| Derived   |                        | Counting the component |               |
+|           |                        | segments gives four on |               |
+|           |                        | the left and five on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP087F]: img/corrected/BP087F.png
 [img/BP087E]: img/corrected/BP087E.png
-[img/BP087D]: img/derived/BP087D.svg
 [url/BP087F]: https://www.foundalis.com/res/bps/bongard/p087.htm
 [url/BP087E]: https://oebp.org/BP87
 
@@ -2712,17 +2549,15 @@
 | OEBP      | [![BP088E][img/BP088E] | “Three parts vs. five  | [BP088E       |
 |           | ][img/BP088E]          | parts.”                | ][url/BP088E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | There are three        |               |
-| (96%)     | img/derived/BP088D.svg | elongated pieces on    |               |
-|           | type="image/svg+xml"   | the left and five on   |               |
-|           | style="width:100%">    | the right, whether     |               |
-|           | [![BP088D][img/BP088D] | separate or touching.  |               |
-|           | ][img/BP088D]</object> |                        |               |
+| Derived   |                        | There are three        |               |
+|           |                        | elongated pieces on    |               |
+|           |                        | the left and five on   |               |
+|           |                        | the right, whether     |               |
+|           |                        | separate or touching.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP088F]: img/corrected/BP088F.png
 [img/BP088E]: img/corrected/BP088E.png
-[img/BP088D]: img/derived/BP088D.svg
 [url/BP088F]: https://www.foundalis.com/res/bps/bongard/p088.htm
 [url/BP088E]: https://oebp.org/BP88
 
@@ -2739,17 +2574,16 @@
 | OEBP      | [![BP089E][img/BP089E] | “Three parts vs. five  | [BP089E       |
 |           | ][img/BP089E]          | parts.”                | ][url/BP089E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Counting all the       |               |
-| (96%)     | img/derived/BP089D.svg | elongated pieces,      |               |
-|           | type="image/svg+xml"   | including those that   |               |
-|           | style="width:100%">    | touch, gives three on  |               |
-|           | [![BP089D][img/BP089D] | the left and five on   |               |
-|           | ][img/BP089D]</object> | the right.             |               |
+| Derived   |                        | Counting all the       |               |
+|           |                        | elongated pieces,      |               |
+|           |                        | including those that   |               |
+|           |                        | touch, gives three on  |               |
+|           |                        | the left and five on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP089F]: img/corrected/BP089F.png
 [img/BP089E]: img/corrected/BP089E.png
-[img/BP089D]: img/derived/BP089D.svg
 [url/BP089F]: https://www.foundalis.com/res/bps/bongard/p089.htm
 [url/BP089E]: https://oebp.org/BP89
 
@@ -2766,17 +2600,15 @@
 | OEBP      | [![BP090E][img/BP090E] | “Three parts vs. four  | [BP090E       |
 |           | ][img/BP090E]          | parts.”                | ][url/BP090E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each arrangement       |               |
-| (95%)     | img/derived/BP090D.svg | contains three         |               |
-|           | type="image/svg+xml"   | elongated pieces on    |               |
-|           | style="width:100%">    | the left and four on   |               |
-|           | [![BP090D][img/BP090D] | the right.             |               |
-|           | ][img/BP090D]</object> |                        |               |
+| Derived   |                        | Each arrangement       |               |
+|           |                        | contains three         |               |
+|           |                        | elongated pieces on    |               |
+|           |                        | the left and four on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP090F]: img/corrected/BP090F.png
 [img/BP090E]: img/corrected/BP090E.png
-[img/BP090D]: img/derived/BP090D.svg
 [url/BP090F]: https://www.foundalis.com/res/bps/bongard/p090.htm
 [url/BP090E]: https://oebp.org/BP90
 
@@ -2795,17 +2627,14 @@
 |           | ][img/BP091E]          | elements vs. four      | ][url/BP091E] |
 |           |                        | identical elements.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A left figure repeats  |               |
-| (94%)     | img/derived/BP091D.svg | an element three       |               |
-|           | type="image/svg+xml"   | times. A right figure  |               |
-|           | style="width:100%">    | repeats it four times. |               |
-|           | [![BP091D][img/BP091D] |                        |               |
-|           | ][img/BP091D]</object> |                        |               |
+| Derived   |                        | A left figure repeats  |               |
+|           |                        | an element three       |               |
+|           |                        | times. A right figure  |               |
+|           |                        | repeats it four times. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP091F]: img/corrected/BP091F.png
 [img/BP091E]: img/corrected/BP091E.png
-[img/BP091D]: img/derived/BP091D.svg
 [url/BP091F]: https://www.foundalis.com/res/bps/bongard/p091.htm
 [url/BP091E]: https://oebp.org/BP91
 
@@ -2824,17 +2653,15 @@
 |           | ][img/BP092E]          | branch vs. the chain   | ][url/BP092E] |
 |           |                        | branches.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The chain of small     |               |
-| (92%)     | img/derived/BP092D.svg | circles follows a      |               |
-|           | type="image/svg+xml"   | single unbranched      |               |
-|           | style="width:100%">    | course on the left and |               |
-|           | [![BP092D][img/BP092D] | forks on the right.    |               |
-|           | ][img/BP092D]</object> |                        |               |
+| Derived   |                        | The chain of small     |               |
+|           |                        | circles follows a      |               |
+|           |                        | single unbranched      |               |
+|           |                        | course on the left and |               |
+|           |                        | forks on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP092F]: img/corrected/BP092F.png
 [img/BP092E]: img/corrected/BP092E.png
-[img/BP092D]: img/derived/BP092D.svg
 [url/BP092F]: https://www.foundalis.com/res/bps/bongard/p092.htm
 [url/BP092E]: https://oebp.org/BP92
 
@@ -2853,17 +2680,14 @@
 |           | ][img/BP093E]          | circle vs. branches at | ][url/BP093E] |
 |           |                        | solid dark circle.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A hollow circle marks  |               |
-| (92%)     | img/derived/BP093D.svg | the fork on the left   |               |
-|           | type="image/svg+xml"   | and a solid circle     |               |
-|           | style="width:100%">    | marks it on the right. |               |
-|           | [![BP093D][img/BP093D] |                        |               |
-|           | ][img/BP093D]</object> |                        |               |
+| Derived   |                        | A hollow circle marks  |               |
+|           |                        | the fork on the left   |               |
+|           |                        | and a solid circle     |               |
+|           |                        | marks it on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP093F]: img/corrected/BP093F.png
 [img/BP093E]: img/corrected/BP093E.png
-[img/BP093D]: img/derived/BP093D.svg
 [url/BP093F]: https://www.foundalis.com/res/bps/bongard/p093.htm
 [url/BP093E]: https://oebp.org/BP93
 
@@ -2882,17 +2706,14 @@
 |           | ][img/BP094E]          | at end vs. solid dark  | ][url/BP094E] |
 |           |                        | circle at end.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The filled circle lies |               |
-| (93%)     | img/derived/BP094D.svg | within the chain on    |               |
-|           | type="image/svg+xml"   | the left and at a free |               |
-|           | style="width:100%">    | end on the right.      |               |
-|           | [![BP094D][img/BP094D] |                        |               |
-|           | ][img/BP094D]</object> |                        |               |
+| Derived   |                        | The filled circle lies |               |
+|           |                        | within the chain on    |               |
+|           |                        | the left and at a free |               |
+|           |                        | end on the right.      |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP094F]: img/corrected/BP094F.png
 [img/BP094E]: img/corrected/BP094E.png
-[img/BP094D]: img/derived/BP094D.svg
 [url/BP094F]: https://www.foundalis.com/res/bps/bongard/p094.htm
 [url/BP094E]: https://oebp.org/BP94
 
@@ -2911,17 +2732,15 @@
 |           | ][img/BP095E]          | lines vs. horizontal   | ][url/BP095E] |
 |           |                        | hatched lines.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The strokes shading    |               |
-| (97%)     | img/derived/BP095D.svg | the shapes run         |               |
-|           | type="image/svg+xml"   | vertically on the left |               |
-|           | style="width:100%">    | and horizontally on    |               |
-|           | [![BP095D][img/BP095D] | the right.             |               |
-|           | ][img/BP095D]</object> |                        |               |
+| Derived   |                        | The strokes shading    |               |
+|           |                        | the shapes run         |               |
+|           |                        | vertically on the left |               |
+|           |                        | and horizontally on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP095F]: img/corrected/BP095F.png
 [img/BP095E]: img/corrected/BP095E.png
-[img/BP095D]: img/derived/BP095D.svg
 [url/BP095F]: https://www.foundalis.com/res/bps/bongard/p095.htm
 [url/BP095E]: https://oebp.org/BP95
 
@@ -2938,17 +2757,14 @@
 | OEBP      | [![BP096E][img/BP096E] | “Triangles vs.         | [BP096E       |
 |           | ][img/BP096E]          | quadrangles.”          | ][url/BP096E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The hatched figure has |               |
-| (100%)    | img/derived/BP096D.svg | three sides on the     |               |
-|           | type="image/svg+xml"   | left and four on the   |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP096D][img/BP096D] |                        |               |
-|           | ][img/BP096D]</object> |                        |               |
+| Derived   |                        | The hatched figure has |               |
+|           |                        | three sides on the     |               |
+|           |                        | left and four on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP096F]: img/corrected/BP096F.png
 [img/BP096E]: img/corrected/BP096E.png
-[img/BP096D]: img/derived/BP096D.svg
 [url/BP096F]: https://www.foundalis.com/res/bps/bongard/p096.htm
 [url/BP096E]: https://oebp.org/BP96
 
@@ -2965,17 +2781,16 @@
 | OEBP      | [![BP097E][img/BP097E] | “Triangles vs.         | [BP097E       |
 |           | ][img/BP097E]          | circles.”              | ][url/BP097E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figure is a        |               |
-| (94%)     | img/derived/BP097D.svg | triangle on the left   |               |
-|           | type="image/svg+xml"   | and a circle on the    |               |
-|           | style="width:100%">    | right, regardless of   |               |
-|           | [![BP097D][img/BP097D] | how its outline is     |               |
-|           | ][img/BP097D]</object> | drawn.                 |               |
+| Derived   |                        | The figure is a        |               |
+|           |                        | triangle on the left   |               |
+|           |                        | and a circle on the    |               |
+|           |                        | right, regardless of   |               |
+|           |                        | how its outline is     |               |
+|           |                        | drawn.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP097F]: img/corrected/BP097F.png
 [img/BP097E]: img/corrected/BP097E.png
-[img/BP097D]: img/derived/BP097D.svg
 [url/BP097F]: https://www.foundalis.com/res/bps/bongard/p097.htm
 [url/BP097E]: https://oebp.org/BP97
 
@@ -2992,17 +2807,15 @@
 | OEBP      | [![BP098E][img/BP098E] | “Triangles vs.         | [BP098E       |
 |           | ][img/BP098E]          | quadrangles.”          | ][url/BP098E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A triangle appears     |               |
-| (99%)     | img/derived/BP098D.svg | against the hatching   |               |
-|           | type="image/svg+xml"   | on the left and a      |               |
-|           | style="width:100%">    | quadrilateral on the   |               |
-|           | [![BP098D][img/BP098D] | right.                 |               |
-|           | ][img/BP098D]</object> |                        |               |
+| Derived   |                        | A triangle appears     |               |
+|           |                        | against the hatching   |               |
+|           |                        | on the left and a      |               |
+|           |                        | quadrilateral on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP098F]: img/corrected/BP098F.png
 [img/BP098E]: img/corrected/BP098E.png
-[img/BP098D]: img/derived/BP098D.svg
 [url/BP098F]: https://www.foundalis.com/res/bps/bongard/p098.htm
 [url/BP098E]: https://oebp.org/BP98
 
@@ -3027,17 +2840,15 @@
 |           |                        | circles do not         |               |
 |           |                        | intersect.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The outlines suggested |               |
-| (90%)     | img/derived/BP099D.svg | by the small triangles |               |
-|           | type="image/svg+xml"   | and circles cross on   |               |
-|           | style="width:100%">    | the left and stay      |               |
-|           | [![BP099D][img/BP099D] | separate on the right. |               |
-|           | ][img/BP099D]</object> |                        |               |
+| Derived   |                        | The outlines suggested |               |
+|           |                        | by the small triangles |               |
+|           |                        | and circles cross on   |               |
+|           |                        | the left and stay      |               |
+|           |                        | separate on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP099F]: img/corrected/BP099F.png
 [img/BP099E]: img/corrected/BP099E.png
-[img/BP099D]: img/derived/BP099D.svg
 [url/BP099F]: https://www.foundalis.com/res/bps/bongard/p099.htm
 [url/BP099E]: https://oebp.org/BP99
 
@@ -3054,17 +2865,15 @@
 | OEBP      | [![BP100E][img/BP100E] | “The letter A vs. the  | [BP100E       |
 |           | ][img/BP100E]          | letter Б.”             | ][url/BP100E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left examples      |               |
-| (98%)     | img/derived/BP100D.svg | depict the letter А,   |               |
-|           | type="image/svg+xml"   | and the right examples |               |
-|           | style="width:100%">    | depict the Cyrillic    |               |
-|           | [![BP100D][img/BP100D] | letter Б.              |               |
-|           | ][img/BP100D]</object> |                        |               |
+| Derived   |                        | The left examples      |               |
+|           |                        | depict the letter А,   |               |
+|           |                        | and the right examples |               |
+|           |                        | depict the Cyrillic    |               |
+|           |                        | letter Б.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP100F]: img/corrected/BP100F.png
 [img/BP100E]: img/corrected/BP100E.png
-[img/BP100D]: img/derived/BP100D.svg
 [url/BP100F]: https://www.foundalis.com/res/bps/bongard/p100.htm
 [url/BP100E]: https://oebp.org/BP100
 
@@ -3081,17 +2890,15 @@
 | OEBP      | [![BP101E][img/BP101E] | “Parallel dents vs.    | [BP101E       |
 |           | ][img/BP101E]          | perpendicular dents.”  | ][url/BP101E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two indentations   |               |
-| (100%)    | img/derived/BP101D.svg | run parallel on the    |               |
-|           | type="image/svg+xml"   | left and perpendicular |               |
-|           | style="width:100%">    | to one another on the  |               |
-|           | [![BP101D][img/BP101D] | right.                 |               |
-|           | ][img/BP101D]</object> |                        |               |
+| Derived   |                        | The two indentations   |               |
+|           |                        | run parallel on the    |               |
+|           |                        | left and perpendicular |               |
+|           |                        | to one another on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP101F]: img/corrected/BP101F.png
 [img/BP101E]: img/corrected/BP101E.png
-[img/BP101D]: img/derived/BP101D.svg
 [url/BP101F]: https://www.foundalis.com/res/bps/doughof/p101.htm
 [url/BP101E]: https://oebp.org/BP101
 
@@ -3110,17 +2917,15 @@
 |           | ][img/BP102E]          | outward vs. internal   | ][url/BP102E] |
 |           |                        | arrows point inward.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The arrowheads along   |               |
-| (99%)     | img/derived/BP102D.svg | the interior point     |               |
-|           | type="image/svg+xml"   | outward on the left    |               |
-|           | style="width:100%">    | and inward on the      |               |
-|           | [![BP102D][img/BP102D] | right.                 |               |
-|           | ][img/BP102D]</object> |                        |               |
+| Derived   |                        | The arrowheads along   |               |
+|           |                        | the interior point     |               |
+|           |                        | outward on the left    |               |
+|           |                        | and inward on the      |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP102F]: img/corrected/BP102F.png
 [img/BP102E]: img/corrected/BP102E.png
-[img/BP102D]: img/derived/BP102D.svg
 [url/BP102F]: https://www.foundalis.com/res/bps/doughof/p102.htm
 [url/BP102E]: https://oebp.org/BP102
 
@@ -3137,17 +2942,16 @@
 | OEBP      | [![BP103E][img/BP103E] | “Isosceles triangle    | [BP103E       |
 |           | ][img/BP103E]          | vs. scalene triangle.” | ][url/BP103E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The point and the two  |               |
-| (99%)     | img/derived/BP103D.svg | ends of the segment    |               |
-|           | type="image/svg+xml"   | form an isosceles      |               |
-|           | style="width:100%">    | triangle on the left   |               |
-|           | [![BP103D][img/BP103D] | and a scalene triangle |               |
-|           | ][img/BP103D]</object> | on the right.          |               |
+| Derived   |                        | The point and the two  |               |
+|           |                        | ends of the segment    |               |
+|           |                        | form an isosceles      |               |
+|           |                        | triangle on the left   |               |
+|           |                        | and a scalene triangle |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP103F]: img/corrected/BP103F.png
 [img/BP103E]: img/corrected/BP103E.png
-[img/BP103D]: img/derived/BP103D.svg
 [url/BP103F]: https://www.foundalis.com/res/bps/doughof/p103.htm
 [url/BP103E]: https://oebp.org/BP103
 
@@ -3172,17 +2976,16 @@
 |           |                        | through the center of  |               |
 |           |                        | the other circle.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The boundary of one    |               |
-| (99%)     | img/derived/BP104D.svg | circle passes through  |               |
-|           | type="image/svg+xml"   | the center of the      |               |
-|           | style="width:100%">    | other on the left and  |               |
-|           | [![BP104D][img/BP104D] | misses it on the       |               |
-|           | ][img/BP104D]</object> | right.                 |               |
+| Derived   |                        | The boundary of one    |               |
+|           |                        | circle passes through  |               |
+|           |                        | the center of the      |               |
+|           |                        | other on the left and  |               |
+|           |                        | misses it on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP104F]: img/corrected/BP104F.png
 [img/BP104E]: img/corrected/BP104E.png
-[img/BP104D]: img/derived/BP104D.svg
 [url/BP104F]: https://www.foundalis.com/res/bps/doughof/p104.htm
 [url/BP104E]: https://oebp.org/BP104
 
@@ -3204,17 +3007,15 @@
 |           |                        | point to the same      |               |
 |           |                        | direction.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | At the two ends of the |               |
-| (99%)     | img/derived/BP105D.svg | line the outward       |               |
-|           | type="image/svg+xml"   | directions agree on    |               |
-|           | style="width:100%">    | the left and differ on |               |
-|           | [![BP105D][img/BP105D] | the right.             |               |
-|           | ][img/BP105D]</object> |                        |               |
+| Derived   |                        | At the two ends of the |               |
+|           |                        | line the outward       |               |
+|           |                        | directions agree on    |               |
+|           |                        | the left and differ on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP105F]: img/corrected/BP105F.png
 [img/BP105E]: img/corrected/BP105E.png
-[img/BP105D]: img/derived/BP105D.svg
 [url/BP105F]: https://www.foundalis.com/res/bps/doughof/p105.htm
 [url/BP105E]: https://oebp.org/BP105
 
@@ -3231,17 +3032,16 @@
 | OEBP      | [![BP106E][img/BP106E] | “Negative slope vs.    | [BP106E       |
 |           | ][img/BP106E]          | positive slope.”       | ][url/BP106E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The line joining the   |               |
-| (93%)     | img/derived/BP106D.svg | marks has negative     |               |
-|           | type="image/svg+xml"   | slope on the left and  |               |
-|           | style="width:100%">    | positive slope on the  |               |
-|           | [![BP106D][img/BP106D] | right, with height     |               |
-|           | ][img/BP106D]</object> | measured upward.       |               |
+| Derived   |                        | The line joining the   |               |
+|           |                        | marks has negative     |               |
+|           |                        | slope on the left and  |               |
+|           |                        | positive slope on the  |               |
+|           |                        | right, with height     |               |
+|           |                        | measured upward.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP106F]: img/corrected/BP106F.png
 [img/BP106E]: img/corrected/BP106E.png
-[img/BP106D]: img/derived/BP106D.svg
 [url/BP106F]: https://www.foundalis.com/res/bps/doughof/p106.htm
 [url/BP106E]: https://oebp.org/BP106
 
@@ -3259,19 +3059,18 @@
 |           | ][img/BP107E]          | vs. three complex      | ][url/BP107E] |
 |           |                        | lines.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Counting the unadorned |               |
-| (99%)     | img/derived/BP107D.svg | and decorated sides    |               |
-|           | type="image/svg+xml"   | distinguishes the      |               |
-|           | style="width:100%">    | groups. There are      |               |
-|           | [![BP107D][img/BP107D] | three simple sides on  |               |
-|           | ][img/BP107D]</object> | the left and three     |               |
+| Derived   |                        | Counting the unadorned |               |
+|           |                        | and decorated sides    |               |
+|           |                        | distinguishes the      |               |
+|           |                        | groups. There are      |               |
+|           |                        | three simple sides on  |               |
+|           |                        | the left and three     |               |
 |           |                        | complex sides on the   |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP107F]: img/corrected/BP107F.png
 [img/BP107E]: img/corrected/BP107E.png
-[img/BP107D]: img/derived/BP107D.svg
 [url/BP107F]: https://www.foundalis.com/res/bps/doughof/p107.htm
 [url/BP107E]: https://oebp.org/BP107
 
@@ -3288,17 +3087,15 @@
 | OEBP      | [![BP108E][img/BP108E] | “Petals taper off vs.  | [BP108E       |
 |           | ][img/BP108E]          | petals thicken.”       | ][url/BP108E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The petals narrow      |               |
-| (99%)     | img/derived/BP108D.svg | toward their tips on   |               |
-|           | type="image/svg+xml"   | the left and broaden   |               |
-|           | style="width:100%">    | toward their tips on   |               |
-|           | [![BP108D][img/BP108D] | the right.             |               |
-|           | ][img/BP108D]</object> |                        |               |
+| Derived   |                        | The petals narrow      |               |
+|           |                        | toward their tips on   |               |
+|           |                        | the left and broaden   |               |
+|           |                        | toward their tips on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP108F]: img/corrected/BP108F.png
 [img/BP108E]: img/corrected/BP108E.png
-[img/BP108D]: img/derived/BP108D.svg
 [url/BP108F]: https://www.foundalis.com/res/bps/doughof/p108.htm
 [url/BP108E]: https://oebp.org/BP108
 
@@ -3318,17 +3115,15 @@
 |           |                        | on the left of the     |               |
 |           |                        | box.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The circle is in the   |               |
-| (98%)     | img/derived/BP109D.svg | right half of each     |               |
-|           | type="image/svg+xml"   | left panel and the     |               |
-|           | style="width:100%">    | left half of each      |               |
-|           | [![BP109D][img/BP109D] | right panel.           |               |
-|           | ][img/BP109D]</object> |                        |               |
+| Derived   |                        | The circle is in the   |               |
+|           |                        | right half of each     |               |
+|           |                        | left panel and the     |               |
+|           |                        | left half of each      |               |
+|           |                        | right panel.           |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP109F]: img/corrected/BP109F.png
 [img/BP109E]: img/corrected/BP109E.png
-[img/BP109D]: img/derived/BP109D.svg
 [url/BP109F]: https://www.foundalis.com/res/bps/doughof/p109.htm
 [url/BP109E]: https://oebp.org/BP109
 
@@ -3350,17 +3145,15 @@
 |           |                        | five objects are       |               |
 |           |                        | circles.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Exactly four of the    |               |
-| (100%)    | img/derived/BP110D.svg | five shapes are        |               |
-|           | type="image/svg+xml"   | circles on the left. A |               |
-|           | style="width:100%">    | different number are   |               |
-|           | [![BP110D][img/BP110D] | circles on the right.  |               |
-|           | ][img/BP110D]</object> |                        |               |
+| Derived   |                        | Exactly four of the    |               |
+|           |                        | five shapes are        |               |
+|           |                        | circles on the left. A |               |
+|           |                        | different number are   |               |
+|           |                        | circles on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP110F]: img/corrected/BP110F.png
 [img/BP110E]: img/corrected/BP110E.png
-[img/BP110D]: img/derived/BP110D.svg
 [url/BP110F]: https://www.foundalis.com/res/bps/doughof/p110.htm
 [url/BP110E]: https://oebp.org/BP110
 
@@ -3380,17 +3173,15 @@
 |           |                        | shape is not a         |               |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The middle of the      |               |
-| (99%)     | img/derived/BP111D.svg | nested shapes is       |               |
-|           | type="image/svg+xml"   | triangular on the left |               |
-|           | style="width:100%">    | and has a different    |               |
-|           | [![BP111D][img/BP111D] | shape on the right.    |               |
-|           | ][img/BP111D]</object> |                        |               |
+| Derived   |                        | The middle of the      |               |
+|           |                        | nested shapes is       |               |
+|           |                        | triangular on the left |               |
+|           |                        | and has a different    |               |
+|           |                        | shape on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP111F]: img/corrected/BP111F.png
 [img/BP111E]: img/corrected/BP111E.png
-[img/BP111D]: img/derived/BP111D.svg
 [url/BP111F]: https://www.foundalis.com/res/bps/doughof/p111.htm
 [url/BP111E]: https://oebp.org/BP111
 
@@ -3411,17 +3202,16 @@
 |           |                        | y-coordinates of dots  |               |
 |           |                        | are equidistant.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots have evenly   |               |
-| (94%)     | img/derived/BP112D.svg | spaced horizontal      |               |
-|           | type="image/svg+xml"   | coordinates on the     |               |
-|           | style="width:100%">    | left and evenly spaced |               |
-|           | [![BP112D][img/BP112D] | vertical coordinates   |               |
-|           | ][img/BP112D]</object> | on the right.          |               |
+| Derived   |                        | The dots have evenly   |               |
+|           |                        | spaced horizontal      |               |
+|           |                        | coordinates on the     |               |
+|           |                        | left and evenly spaced |               |
+|           |                        | vertical coordinates   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP112F]: img/corrected/BP112F.png
 [img/BP112E]: img/corrected/BP112E.png
-[img/BP112D]: img/derived/BP112D.svg
 [url/BP112F]: https://www.foundalis.com/res/bps/doughof/p112.htm
 [url/BP112E]: https://oebp.org/BP112
 
@@ -3438,17 +3228,14 @@
 | OEBP      | [![BP113E][img/BP113E] | “T-like junction vs.   | [BP113E       |
 |           | ][img/BP113E]          | y-like junction.”      | ][url/BP113E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The three arms meet    |               |
-| (99%)     | img/derived/BP113D.svg | like a T on the left   |               |
-|           | type="image/svg+xml"   | and like a Y on the    |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP113D][img/BP113D] |                        |               |
-|           | ][img/BP113D]</object> |                        |               |
+| Derived   |                        | The three arms meet    |               |
+|           |                        | like a T on the left   |               |
+|           |                        | and like a Y on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP113F]: img/corrected/BP113F.png
 [img/BP113E]: img/corrected/BP113E.png
-[img/BP113D]: img/derived/BP113D.svg
 [url/BP113F]: https://www.foundalis.com/res/bps/doughof/p113.htm
 [url/BP113E]: https://oebp.org/BP113
 
@@ -3466,17 +3253,14 @@
 |           | ][img/BP114E]          | vs. two X-like         | ][url/BP114E] |
 |           |                        | points.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figures have four  |               |
-| (99%)     | img/derived/BP114D.svg | crossings on the left  |               |
-|           | type="image/svg+xml"   | and two crossings on   |               |
-|           | style="width:100%">    | the right.             |               |
-|           | [![BP114D][img/BP114D] |                        |               |
-|           | ][img/BP114D]</object> |                        |               |
+| Derived   |                        | The figures have four  |               |
+|           |                        | crossings on the left  |               |
+|           |                        | and two crossings on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP114F]: img/corrected/BP114F.png
 [img/BP114E]: img/corrected/BP114E.png
-[img/BP114D]: img/derived/BP114D.svg
 [url/BP114F]: https://www.foundalis.com/res/bps/doughof/p114.htm
 [url/BP114E]: https://oebp.org/BP114
 
@@ -3501,18 +3285,17 @@
 |           |                        | unreachable from the   |               |
 |           |                        | outermost one.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The innermost and      |               |
-| (92%)     | img/derived/BP115D.svg | outermost shapes are   |               |
-|           | type="image/svg+xml"   | connected by a         |               |
-|           | style="width:100%">    | continuous route on    |               |
-|           | [![BP115D][img/BP115D] | the left and           |               |
-|           | ][img/BP115D]</object> | disconnected on the    |               |
+| Derived   |                        | The innermost and      |               |
+|           |                        | outermost shapes are   |               |
+|           |                        | connected by a         |               |
+|           |                        | continuous route on    |               |
+|           |                        | the left and           |               |
+|           |                        | disconnected on the    |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP115F]: img/corrected/BP115F.png
 [img/BP115E]: img/corrected/BP115E.png
-[img/BP115D]: img/derived/BP115D.svg
 [url/BP115F]: https://www.foundalis.com/res/bps/doughof/p115.htm
 [url/BP115E]: https://oebp.org/BP115
 
@@ -3531,17 +3314,14 @@
 |           | ][img/BP116E]          | side vs. polygon       | ][url/BP116E] |
 |           |                        | stands on vertex.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The polygon rests on a |               |
-| (100%)    | img/derived/BP116D.svg | side on the left and   |               |
-|           | type="image/svg+xml"   | on a vertex on the     |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP116D][img/BP116D] |                        |               |
-|           | ][img/BP116D]</object> |                        |               |
+| Derived   |                        | The polygon rests on a |               |
+|           |                        | side on the left and   |               |
+|           |                        | on a vertex on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP116F]: img/corrected/BP116F.png
 [img/BP116E]: img/corrected/BP116E.png
-[img/BP116D]: img/derived/BP116D.svg
 [url/BP116F]: https://www.foundalis.com/res/bps/doughof/p116.htm
 [url/BP116E]: https://oebp.org/BP116
 
@@ -3564,17 +3344,16 @@
 |           |                        | point to center of     |               |
 |           |                        | circle.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The triangle points    |               |
-| (99%)     | img/derived/BP117D.svg | toward the circle’s    |               |
-|           | type="image/svg+xml"   | center on the left and |               |
-|           | style="width:100%">    | away from that         |               |
-|           | [![BP117D][img/BP117D] | alignment on the       |               |
-|           | ][img/BP117D]</object> | right.                 |               |
+| Derived   |                        | The triangle points    |               |
+|           |                        | toward the circle’s    |               |
+|           |                        | center on the left and |               |
+|           |                        | away from that         |               |
+|           |                        | alignment on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP117F]: img/corrected/BP117F.png
 [img/BP117E]: img/corrected/BP117E.png
-[img/BP117D]: img/derived/BP117D.svg
 [url/BP117F]: https://www.foundalis.com/res/bps/doughof/p117.htm
 [url/BP117E]: https://oebp.org/BP117
 
@@ -3591,17 +3370,14 @@
 | OEBP      | [![BP118E][img/BP118E] | “No cycle vs. a cycle  | [BP118E       |
 |           | ][img/BP118E]          | exists.”               | ][url/BP118E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The connections form   |               |
-| (99%)     | img/derived/BP118D.svg | no cycle on the left   |               |
-|           | type="image/svg+xml"   | and contain a cycle on |               |
-|           | style="width:100%">    | the right.             |               |
-|           | [![BP118D][img/BP118D] |                        |               |
-|           | ][img/BP118D]</object> |                        |               |
+| Derived   |                        | The connections form   |               |
+|           |                        | no cycle on the left   |               |
+|           |                        | and contain a cycle on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP118F]: img/corrected/BP118F.png
 [img/BP118E]: img/corrected/BP118E.png
-[img/BP118D]: img/derived/BP118D.svg
 [url/BP118F]: https://www.foundalis.com/res/bps/doughof/p118.htm
 [url/BP118E]: https://oebp.org/BP118
 
@@ -3626,17 +3402,15 @@
 |           |                        | result in a single     |               |
 |           |                        | circle.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A small local repair   |               |
-| (98%)     | img/derived/BP119D.svg | would leave one circle |               |
-|           | type="image/svg+xml"   | on the left. The right |               |
-|           | style="width:100%">    | figures require a more |               |
-|           | [![BP119D][img/BP119D] | substantial change.    |               |
-|           | ][img/BP119D]</object> |                        |               |
+| Derived   |                        | A small local repair   |               |
+|           |                        | would leave one circle |               |
+|           |                        | on the left. The right |               |
+|           |                        | figures require a more |               |
+|           |                        | substantial change.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP119F]: img/corrected/BP119F.png
 [img/BP119E]: img/corrected/BP119E.png
-[img/BP119D]: img/derived/BP119D.svg
 [url/BP119F]: https://www.foundalis.com/res/bps/doughof/p119.htm
 [url/BP119E]: https://oebp.org/BP119
 
@@ -3664,18 +3438,17 @@
 |           |                        | and no rectangular     |               |
 |           |                        | loop exists.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left paths turn    |               |
-| (99%)     | img/derived/BP120D.svg | consistently in one    |               |
-|           | type="image/svg+xml"   | direction and contain  |               |
-|           | style="width:100%">    | a rectangular loop.    |               |
-|           | [![BP120D][img/BP120D] | The right paths change |               |
-|           | ][img/BP120D]</object> | turn direction and     |               |
+| Derived   |                        | The left paths turn    |               |
+|           |                        | consistently in one    |               |
+|           |                        | direction and contain  |               |
+|           |                        | a rectangular loop.    |               |
+|           |                        | The right paths change |               |
+|           |                        | turn direction and     |               |
 |           |                        | lack that loop.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP120F]: img/corrected/BP120F.png
 [img/BP120E]: img/corrected/BP120E.png
-[img/BP120D]: img/derived/BP120D.svg
 [url/BP120F]: https://www.foundalis.com/res/bps/doughof/p120.htm
 [url/BP120E]: https://oebp.org/BP120
 
@@ -3701,17 +3474,16 @@
 |           |                        | according to another   |               |
 |           |                        | "code."”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | On the left, VV        |               |
-| (100%)    | img/derived/BP121D.svg | encodes a circle, VΛ a |               |
-|           | type="image/svg+xml"   | square, ΛΛ a triangle  |               |
-|           | style="width:100%">    | and ΛV a blank. The    |               |
-|           | [![BP121D][img/BP121D] | right code reverses    |               |
-|           | ][img/BP121D]</object> | each V and Λ.          |               |
+| Derived   |                        | On the left, VV        |               |
+|           |                        | encodes a circle, VΛ a |               |
+|           |                        | square, ΛΛ a triangle  |               |
+|           |                        | and ΛV a blank. The    |               |
+|           |                        | right code reverses    |               |
+|           |                        | each V and Λ.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP121F]: img/corrected/BP121F.png
 [img/BP121E]: img/corrected/BP121E.png
-[img/BP121D]: img/derived/BP121D.svg
 [url/BP121F]: https://www.foundalis.com/res/bps/doughof/p121.htm
 [url/BP121E]: https://oebp.org/BP121
 
@@ -3730,17 +3502,15 @@
 |           | ][img/BP122E]          | into two regions vs.   | ][url/BP122E] |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The added line splits  |               |
-| (99%)     | img/derived/BP122D.svg | the interior into two  |               |
-|           | type="image/svg+xml"   | regions on the left    |               |
-|           | style="width:100%">    | and fails to do so on  |               |
-|           | [![BP122D][img/BP122D] | the right.             |               |
-|           | ][img/BP122D]</object> |                        |               |
+| Derived   |                        | The added line splits  |               |
+|           |                        | the interior into two  |               |
+|           |                        | regions on the left    |               |
+|           |                        | and fails to do so on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP122F]: img/corrected/BP122F.png
 [img/BP122E]: img/corrected/BP122E.png
-[img/BP122D]: img/derived/BP122D.svg
 [url/BP122F]: https://www.foundalis.com/res/bps/doughof/p122.htm
 [url/BP122E]: https://oebp.org/BP122
 
@@ -3757,17 +3527,14 @@
 | OEBP      | [![BP123E][img/BP123E] | “Similar shapes vs.    | [BP123E       |
 |           | ][img/BP123E]          | dissimilar shapes.”    | ][url/BP123E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The components have    |               |
-| (97%)     | img/derived/BP123D.svg | similar shapes on the  |               |
-|           | type="image/svg+xml"   | left and dissimilar    |               |
-|           | style="width:100%">    | shapes on the right.   |               |
-|           | [![BP123D][img/BP123D] |                        |               |
-|           | ][img/BP123D]</object> |                        |               |
+| Derived   |                        | The components have    |               |
+|           |                        | similar shapes on the  |               |
+|           |                        | left and dissimilar    |               |
+|           |                        | shapes on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP123F]: img/corrected/BP123F.png
 [img/BP123E]: img/corrected/BP123E.png
-[img/BP123D]: img/derived/BP123D.svg
 [url/BP123F]: https://www.foundalis.com/res/bps/doughof/p123.htm
 [url/BP123E]: https://oebp.org/BP123
 
@@ -3784,17 +3551,15 @@
 | OEBP      | [![BP124E][img/BP124E] | “Similar textures vs.  | [BP124E       |
 |           | ][img/BP124E]          | dissimilar textures.”  | ][url/BP124E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The components share a |               |
-| (99%)     | img/derived/BP124D.svg | surface treatment on   |               |
-|           | type="image/svg+xml"   | the left and differ in |               |
-|           | style="width:100%">    | surface treatment on   |               |
-|           | [![BP124D][img/BP124D] | the right.             |               |
-|           | ][img/BP124D]</object> |                        |               |
+| Derived   |                        | The components share a |               |
+|           |                        | surface treatment on   |               |
+|           |                        | the left and differ in |               |
+|           |                        | surface treatment on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP124F]: img/corrected/BP124F.png
 [img/BP124E]: img/corrected/BP124E.png
-[img/BP124D]: img/derived/BP124D.svg
 [url/BP124F]: https://www.foundalis.com/res/bps/doughof/p124.htm
 [url/BP124E]: https://oebp.org/BP124
 
@@ -3814,17 +3579,15 @@
 |           |                        | same shape vs. not     |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A protrusion matches   |               |
-| (99%)     | img/derived/BP125D.svg | an indentation in      |               |
-|           | type="image/svg+xml"   | shape on the left. The |               |
-|           | style="width:100%">    | corresponding match is |               |
-|           | [![BP125D][img/BP125D] | absent on the right.   |               |
-|           | ][img/BP125D]</object> |                        |               |
+| Derived   |                        | A protrusion matches   |               |
+|           |                        | an indentation in      |               |
+|           |                        | shape on the left. The |               |
+|           |                        | corresponding match is |               |
+|           |                        | absent on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP125F]: img/corrected/BP125F.png
 [img/BP125E]: img/corrected/BP125E.png
-[img/BP125D]: img/derived/BP125D.svg
 [url/BP125F]: https://www.foundalis.com/res/bps/doughof/p125.htm
 [url/BP125E]: https://oebp.org/BP125
 
@@ -3842,17 +3605,15 @@
 |           | ][img/BP126E]          | small object vs. not   | ][url/BP126E] |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left example has  |               |
-| (99%)     | img/derived/BP126D.svg | one large object and   |               |
-|           | type="image/svg+xml"   | one small object. The  |               |
-|           | style="width:100%">    | right examples depart  |               |
-|           | [![BP126D][img/BP126D] | from that combination. |               |
-|           | ][img/BP126D]</object> |                        |               |
+| Derived   |                        | Each left example has  |               |
+|           |                        | one large object and   |               |
+|           |                        | one small object. The  |               |
+|           |                        | right examples depart  |               |
+|           |                        | from that combination. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP126F]: img/corrected/BP126F.png
 [img/BP126E]: img/corrected/BP126E.png
-[img/BP126D]: img/derived/BP126D.svg
 [url/BP126F]: https://www.foundalis.com/res/bps/doughof/p126.htm
 [url/BP126E]: https://oebp.org/BP126
 
@@ -3871,17 +3632,15 @@
 |           | ][img/BP127E]          | vs. not exactly one    | ][url/BP127E] |
 |           |                        | circle.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Exactly one circle     |               |
-| (98%)     | img/derived/BP127D.svg | occurs on the left.    |               |
-|           | type="image/svg+xml"   | The right examples     |               |
-|           | style="width:100%">    | have either no circle  |               |
-|           | [![BP127D][img/BP127D] | or more than one.      |               |
-|           | ][img/BP127D]</object> |                        |               |
+| Derived   |                        | Exactly one circle     |               |
+|           |                        | occurs on the left.    |               |
+|           |                        | The right examples     |               |
+|           |                        | have either no circle  |               |
+|           |                        | or more than one.      |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP127F]: img/corrected/BP127F.png
 [img/BP127E]: img/corrected/BP127E.png
-[img/BP127D]: img/derived/BP127D.svg
 [url/BP127F]: https://www.foundalis.com/res/bps/doughof/p127.htm
 [url/BP127E]: https://oebp.org/BP127
 
@@ -3906,17 +3665,16 @@
 |           |                        | outside the large      |               |
 |           |                        | shape.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The same collection of |               |
-| (96%)     | img/derived/BP128D.svg | small objects appears  |               |
-|           | type="image/svg+xml"   | inside and outside the |               |
-|           | style="width:100%">    | large shape on the     |               |
-|           | [![BP128D][img/BP128D] | left. The collections  |               |
-|           | ][img/BP128D]</object> | differ on the right.   |               |
+| Derived   |                        | The same collection of |               |
+|           |                        | small objects appears  |               |
+|           |                        | inside and outside the |               |
+|           |                        | large shape on the     |               |
+|           |                        | left. The collections  |               |
+|           |                        | differ on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP128F]: img/corrected/BP128F.png
 [img/BP128E]: img/corrected/BP128E.png
-[img/BP128D]: img/derived/BP128D.svg
 [url/BP128F]: https://www.foundalis.com/res/bps/doughof/p128.htm
 [url/BP128E]: https://oebp.org/BP128
 
@@ -3937,17 +3695,15 @@
 |           |                        | indentation on         |               |
 |           |                        | indentation.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The small indentation  |               |
-| (100%)    | img/derived/BP129D.svg | cuts into a protrusion |               |
-|           | type="image/svg+xml"   | on the left and into a |               |
-|           | style="width:100%">    | larger indentation on  |               |
-|           | [![BP129D][img/BP129D] | the right.             |               |
-|           | ][img/BP129D]</object> |                        |               |
+| Derived   |                        | The small indentation  |               |
+|           |                        | cuts into a protrusion |               |
+|           |                        | on the left and into a |               |
+|           |                        | larger indentation on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP129F]: img/corrected/BP129F.png
 [img/BP129E]: img/corrected/BP129E.png
-[img/BP129D]: img/derived/BP129D.svg
 [url/BP129F]: https://www.foundalis.com/res/bps/doughof/p129.htm
 [url/BP129E]: https://oebp.org/BP129
 
@@ -3970,17 +3726,15 @@
 |           |                        | region is a polygon if |               |
 |           |                        | flaws are ignored.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Ignoring the small     |               |
-| (99%)     | img/derived/BP130D.svg | flaws reveals a curved |               |
-|           | type="image/svg+xml"   | outline on the left    |               |
-|           | style="width:100%">    | and a polygon on the   |               |
-|           | [![BP130D][img/BP130D] | right.                 |               |
-|           | ][img/BP130D]</object> |                        |               |
+| Derived   |                        | Ignoring the small     |               |
+|           |                        | flaws reveals a curved |               |
+|           |                        | outline on the left    |               |
+|           |                        | and a polygon on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP130F]: img/corrected/BP130F.png
 [img/BP130E]: img/corrected/BP130E.png
-[img/BP130D]: img/derived/BP130D.svg
 [url/BP130F]: https://www.foundalis.com/res/bps/doughof/p130.htm
 [url/BP130E]: https://oebp.org/BP130
 
@@ -4001,17 +3755,16 @@
 |           |                        | dots are not vertices  |               |
 |           |                        | of a parallelogram.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The four dots could be |               |
-| (97%)     | img/derived/BP131D.svg | the corners of a       |               |
-|           | type="image/svg+xml"   | parallelogram on the   |               |
-|           | style="width:100%">    | left. They do not form |               |
-|           | [![BP131D][img/BP131D] | a parallelogram on the |               |
-|           | ][img/BP131D]</object> | right.                 |               |
+| Derived   |                        | The four dots could be |               |
+|           |                        | the corners of a       |               |
+|           |                        | parallelogram on the   |               |
+|           |                        | left. They do not form |               |
+|           |                        | a parallelogram on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP131F]: img/corrected/BP131F.png
 [img/BP131E]: img/corrected/BP131E.png
-[img/BP131D]: img/derived/BP131D.svg
 [url/BP131F]: https://www.foundalis.com/res/bps/doughof/p131.htm
 [url/BP131E]: https://oebp.org/BP131
 
@@ -4034,17 +3787,15 @@
 |           |                        | vertices of a triangle |               |
 |           |                        | standing on a vertex.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Joining the three dots |               |
-| (99%)     | img/derived/BP132D.svg | makes a triangle that  |               |
-|           | type="image/svg+xml"   | rests on a side on the |               |
-|           | style="width:100%">    | left and on a vertex   |               |
-|           | [![BP132D][img/BP132D] | on the right.          |               |
-|           | ][img/BP132D]</object> |                        |               |
+| Derived   |                        | Joining the three dots |               |
+|           |                        | makes a triangle that  |               |
+|           |                        | rests on a side on the |               |
+|           |                        | left and on a vertex   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP132F]: img/corrected/BP132F.png
 [img/BP132E]: img/corrected/BP132E.png
-[img/BP132D]: img/derived/BP132D.svg
 [url/BP132F]: https://www.foundalis.com/res/bps/doughof/p132.htm
 [url/BP132E]: https://oebp.org/BP132
 
@@ -4066,17 +3817,15 @@
 |           |                        | with center of         |               |
 |           |                        | circle.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two dots and the   |               |
-| (92%)     | img/derived/BP133D.svg | circle’s center lie on |               |
-|           | type="image/svg+xml"   | one line on the left   |               |
-|           | style="width:100%">    | and on different lines |               |
-|           | [![BP133D][img/BP133D] | on the right.          |               |
-|           | ][img/BP133D]</object> |                        |               |
+| Derived   |                        | The two dots and the   |               |
+|           |                        | circle’s center lie on |               |
+|           |                        | one line on the left   |               |
+|           |                        | and on different lines |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP133F]: img/corrected/BP133F.png
 [img/BP133E]: img/corrected/BP133E.png
-[img/BP133D]: img/derived/BP133D.svg
 [url/BP133F]: https://www.foundalis.com/res/bps/doughof/p133.htm
 [url/BP133E]: https://oebp.org/BP133
 
@@ -4097,17 +3846,16 @@
 |           |                        | centers are not        |               |
 |           |                        | collinear.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | One line passes        |               |
-| (99%)     | img/derived/BP134D.svg | through all the circle |               |
-|           | type="image/svg+xml"   | centers on the left.   |               |
-|           | style="width:100%">    | The centers on the     |               |
-|           | [![BP134D][img/BP134D] | right are              |               |
-|           | ][img/BP134D]</object> | noncollinear.          |               |
+| Derived   |                        | One line passes        |               |
+|           |                        | through all the circle |               |
+|           |                        | centers on the left.   |               |
+|           |                        | The centers on the     |               |
+|           |                        | right are              |               |
+|           |                        | noncollinear.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP134F]: img/corrected/BP134F.png
 [img/BP134E]: img/corrected/BP134E.png
-[img/BP134D]: img/derived/BP134D.svg
 [url/BP134F]: https://www.foundalis.com/res/bps/doughof/p134.htm
 [url/BP134E]: https://oebp.org/BP134
 
@@ -4128,17 +3876,15 @@
 |           |                        | on different sides of  |               |
 |           |                        | curves.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The small circles lie  |               |
-| (96%)     | img/derived/BP135D.svg | on the same side of    |               |
-|           | type="image/svg+xml"   | the curve on the left  |               |
-|           | style="width:100%">    | and on different sides |               |
-|           | [![BP135D][img/BP135D] | on the right.          |               |
-|           | ][img/BP135D]</object> |                        |               |
+| Derived   |                        | The small circles lie  |               |
+|           |                        | on the same side of    |               |
+|           |                        | the curve on the left  |               |
+|           |                        | and on different sides |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP135F]: img/corrected/BP135F.png
 [img/BP135E]: img/corrected/BP135E.png
-[img/BP135D]: img/derived/BP135D.svg
 [url/BP135F]: https://www.foundalis.com/res/bps/doughof/p135.htm
 [url/BP135E]: https://oebp.org/BP135
 
@@ -4155,17 +3901,14 @@
 | OEBP      | [![BP136E][img/BP136E] | “Concave shape vs.     | [BP136E       |
 |           | ][img/BP136E]          | convex shape.”         | ][url/BP136E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The outlined figure is |               |
-| (99%)     | img/derived/BP136D.svg | concave on the left    |               |
-|           | type="image/svg+xml"   | and convex on the      |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP136D][img/BP136D] |                        |               |
-|           | ][img/BP136D]</object> |                        |               |
+| Derived   |                        | The outlined figure is |               |
+|           |                        | concave on the left    |               |
+|           |                        | and convex on the      |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP136F]: img/corrected/BP136F.png
 [img/BP136E]: img/corrected/BP136E.png
-[img/BP136D]: img/derived/BP136D.svg
 [url/BP136F]: https://www.foundalis.com/res/bps/doughof/p136.htm
 [url/BP136E]: https://oebp.org/BP136
 
@@ -4190,17 +3933,15 @@
 |           |                        | the sides of the       |               |
 |           |                        | closed region.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The number of dots     |               |
-| (99%)     | img/derived/BP137D.svg | equals the number of   |               |
-|           | type="image/svg+xml"   | polygon sides on the   |               |
-|           | style="width:100%">    | left and differs from  |               |
-|           | [![BP137D][img/BP137D] | it on the right.       |               |
-|           | ][img/BP137D]</object> |                        |               |
+| Derived   |                        | The number of dots     |               |
+|           |                        | equals the number of   |               |
+|           |                        | polygon sides on the   |               |
+|           |                        | left and differs from  |               |
+|           |                        | it on the right.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP137F]: img/corrected/BP137F.png
 [img/BP137E]: img/corrected/BP137E.png
-[img/BP137D]: img/derived/BP137D.svg
 [url/BP137F]: https://www.foundalis.com/res/bps/doughof/p137.htm
 [url/BP137E]: https://oebp.org/BP137
 
@@ -4223,17 +3964,16 @@
 |           |                        | within the convex      |               |
 |           |                        | hull.”                 |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots lie on or     |               |
-| (94%)     | img/derived/BP138D.svg | near the boundary of   |               |
-|           | type="image/svg+xml"   | their convex hull on   |               |
-|           | style="width:100%">    | the left. At least one |               |
-|           | [![BP138D][img/BP138D] | dot lies well inside   |               |
-|           | ][img/BP138D]</object> | it on the right.       |               |
+| Derived   |                        | The dots lie on or     |               |
+|           |                        | near the boundary of   |               |
+|           |                        | their convex hull on   |               |
+|           |                        | the left. At least one |               |
+|           |                        | dot lies well inside   |               |
+|           |                        | it on the right.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP138F]: img/corrected/BP138F.png
 [img/BP138E]: img/corrected/BP138E.png
-[img/BP138D]: img/derived/BP138D.svg
 [url/BP138F]: https://www.foundalis.com/res/bps/doughof/p138.htm
 [url/BP138E]: https://oebp.org/BP138
 
@@ -4252,17 +3992,16 @@
 |           | ][img/BP139E]          | that change regularly  | ][url/BP139E] |
 |           |                        | vs. not so.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Related components     |               |
-| (95%)     | img/derived/BP139D.svg | vary in a regular      |               |
-|           | type="image/svg+xml"   | progression on the     |               |
-|           | style="width:100%">    | left. The right        |               |
-|           | [![BP139D][img/BP139D] | examples break that    |               |
-|           | ][img/BP139D]</object> | progression.           |               |
+| Derived   |                        | Related components     |               |
+|           |                        | vary in a regular      |               |
+|           |                        | progression on the     |               |
+|           |                        | left. The right        |               |
+|           |                        | examples break that    |               |
+|           |                        | progression.           |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP139F]: img/corrected/BP139F.png
 [img/BP139E]: img/corrected/BP139E.png
-[img/BP139D]: img/derived/BP139D.svg
 [url/BP139F]: https://www.foundalis.com/res/bps/doughof/p139.htm
 [url/BP139E]: https://oebp.org/BP139
 
@@ -4281,17 +4020,16 @@
 |           | ][img/BP140E]          | two smaller identical  | ][url/BP140E] |
 |           |                        | ones vs. not so.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left example      |               |
-| (98%)     | img/derived/BP140D.svg | contains a large shape |               |
-|           | type="image/svg+xml"   | and a matching pair of |               |
-|           | style="width:100%">    | smaller shapes. The    |               |
-|           | [![BP140D][img/BP140D] | right examples lack    |               |
-|           | ][img/BP140D]</object> | that combination.      |               |
+| Derived   |                        | Each left example      |               |
+|           |                        | contains a large shape |               |
+|           |                        | and a matching pair of |               |
+|           |                        | smaller shapes. The    |               |
+|           |                        | right examples lack    |               |
+|           |                        | that combination.      |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP140F]: img/corrected/BP140F.png
 [img/BP140E]: img/corrected/BP140E.png
-[img/BP140D]: img/derived/BP140D.svg
 [url/BP140F]: https://www.foundalis.com/res/bps/doughof/p140.htm
 [url/BP140E]: https://oebp.org/BP140
 
@@ -4314,17 +4052,16 @@
 |           |                        | three objects and two  |               |
 |           |                        | different objects.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | On the left five       |               |
-| (91%)     | img/derived/BP141D.svg | elements fall into     |               |
-|           | type="image/svg+xml"   | groups of three and    |               |
-|           | style="width:100%">    | two. On the right the  |               |
-|           | [![BP141D][img/BP141D] | remaining two elements |               |
-|           | ][img/BP141D]</object> | do not make a pair.    |               |
+| Derived   |                        | On the left five       |               |
+|           |                        | elements fall into     |               |
+|           |                        | groups of three and    |               |
+|           |                        | two. On the right the  |               |
+|           |                        | remaining two elements |               |
+|           |                        | do not make a pair.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP141F]: img/corrected/BP141F.png
 [img/BP141E]: img/corrected/BP141E.png
-[img/BP141D]: img/derived/BP141D.svg
 [url/BP141F]: https://www.foundalis.com/res/bps/doughof/p141.htm
 [url/BP141E]: https://oebp.org/BP141
 
@@ -4348,17 +4085,15 @@
 |           |                        | two that are not       |               |
 |           |                        | adjacent.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The groups of three    |               |
-| (96%)     | img/derived/BP142D.svg | and two are adjacent   |               |
-|           | type="image/svg+xml"   | on the left and        |               |
-|           | style="width:100%">    | separated from each    |               |
-|           | [![BP142D][img/BP142D] | other on the right.    |               |
-|           | ][img/BP142D]</object> |                        |               |
+| Derived   |                        | The groups of three    |               |
+|           |                        | and two are adjacent   |               |
+|           |                        | on the left and        |               |
+|           |                        | separated from each    |               |
+|           |                        | other on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP142F]: img/corrected/BP142F.png
 [img/BP142E]: img/corrected/BP142E.png
-[img/BP142D]: img/derived/BP142D.svg
 [url/BP142F]: https://www.foundalis.com/res/bps/doughof/p142.htm
 [url/BP142E]: https://oebp.org/BP142
 
@@ -4378,17 +4113,14 @@
 |           |                        | clusters of four and   |               |
 |           |                        | one.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The five elements      |               |
-| (99%)     | img/derived/BP143D.svg | group as three and two |               |
-|           | type="image/svg+xml"   | on the left and four   |               |
-|           | style="width:100%">    | and one on the right.  |               |
-|           | [![BP143D][img/BP143D] |                        |               |
-|           | ][img/BP143D]</object> |                        |               |
+| Derived   |                        | The five elements      |               |
+|           |                        | group as three and two |               |
+|           |                        | on the left and four   |               |
+|           |                        | and one on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP143F]: img/corrected/BP143F.png
 [img/BP143E]: img/corrected/BP143E.png
-[img/BP143D]: img/derived/BP143D.svg
 [url/BP143F]: https://www.foundalis.com/res/bps/doughof/p143.htm
 [url/BP143E]: https://oebp.org/BP143
 
@@ -4424,18 +4156,17 @@
 |           |                        | yield the same 3-2     |               |
 |           |                        | split.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Different features     |               |
-| (95%)     | img/derived/BP144D.svg | divide the five        |               |
-|           | type="image/svg+xml"   | objects into different |               |
-|           | style="width:100%">    | groups of three and    |               |
-|           | [![BP144D][img/BP144D] | two on the left and    |               |
-|           | ][img/BP144D]</object> | into the same groups   |               |
+| Derived   |                        | Different features     |               |
+|           |                        | divide the five        |               |
+|           |                        | objects into different |               |
+|           |                        | groups of three and    |               |
+|           |                        | two on the left and    |               |
+|           |                        | into the same groups   |               |
 |           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP144F]: img/corrected/BP144F.png
 [img/BP144E]: img/corrected/BP144E.png
-[img/BP144D]: img/derived/BP144D.svg
 [url/BP144F]: https://www.foundalis.com/res/bps/doughof/p144.htm
 [url/BP144E]: https://oebp.org/BP144
 
@@ -4467,17 +4198,15 @@
 |           |                        | grouping yield         |               |
 |           |                        | different 4-1 splits.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Different features     |               |
-| (99%)     | img/derived/BP145D.svg | single out the same    |               |
-|           | type="image/svg+xml"   | odd member of five on  |               |
-|           | style="width:100%">    | the left and different |               |
-|           | [![BP145D][img/BP145D] | members on the right.  |               |
-|           | ][img/BP145D]</object> |                        |               |
+| Derived   |                        | Different features     |               |
+|           |                        | single out the same    |               |
+|           |                        | odd member of five on  |               |
+|           |                        | the left and different |               |
+|           |                        | members on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP145F]: img/corrected/BP145F.png
 [img/BP145E]: img/corrected/BP145E.png
-[img/BP145D]: img/derived/BP145D.svg
 [url/BP145F]: https://www.foundalis.com/res/bps/doughof/p145.htm
 [url/BP145E]: https://oebp.org/BP145
 
@@ -4502,17 +4231,15 @@
 |           |                        | square if and only if  |               |
 |           |                        | it is a triangle.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Exactly the circles    |               |
-| (99%)     | img/derived/BP146D.svg | enclose squares on the |               |
-|           | type="image/svg+xml"   | left, and exactly the  |               |
-|           | style="width:100%">    | triangles enclose      |               |
-|           | [![BP146D][img/BP146D] | squares on the right.  |               |
-|           | ][img/BP146D]</object> |                        |               |
+| Derived   |                        | Exactly the circles    |               |
+|           |                        | enclose squares on the |               |
+|           |                        | left, and exactly the  |               |
+|           |                        | triangles enclose      |               |
+|           |                        | squares on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP146F]: img/corrected/BP146F.png
 [img/BP146E]: img/corrected/BP146E.png
-[img/BP146D]: img/derived/BP146D.svg
 [url/BP146F]: https://www.foundalis.com/res/bps/doughof/p146.htm
 [url/BP146E]: https://oebp.org/BP146
 
@@ -4534,18 +4261,17 @@
 |           |                        | are vertical vs. the   |               |
 |           |                        | two are horizontal.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | After setting aside    |               |
-| (86%)     | img/derived/BP147D.svg | three collinear        |               |
-|           | type="image/svg+xml"   | elements, the other    |               |
-|           | style="width:100%">    | two align vertically   |               |
-|           | [![BP147D][img/BP147D] | on the left and        |               |
-|           | ][img/BP147D]</object> | horizontally on the    |               |
+| Derived   |                        | After setting aside    |               |
+|           |                        | three collinear        |               |
+|           |                        | elements, the other    |               |
+|           |                        | two align vertically   |               |
+|           |                        | on the left and        |               |
+|           |                        | horizontally on the    |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP147F]: img/corrected/BP147F.png
 [img/BP147E]: img/corrected/BP147E.png
-[img/BP147D]: img/derived/BP147D.svg
 [url/BP147F]: https://www.foundalis.com/res/bps/doughof/p147.htm
 [url/BP147E]: https://oebp.org/BP147
 
@@ -4566,17 +4292,16 @@
 |           |                        | little more than a     |               |
 |           |                        | regular shape.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Something is missing   |               |
-| (98%)     | img/derived/BP148D.svg | from a regular figure  |               |
-|           | type="image/svg+xml"   | on the left, and       |               |
-|           | style="width:100%">    | something extends      |               |
-|           | [![BP148D][img/BP148D] | beyond it on the       |               |
-|           | ][img/BP148D]</object> | right.                 |               |
+| Derived   |                        | Something is missing   |               |
+|           |                        | from a regular figure  |               |
+|           |                        | on the left, and       |               |
+|           |                        | something extends      |               |
+|           |                        | beyond it on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP148F]: img/corrected/BP148F.png
 [img/BP148E]: img/corrected/BP148E.png
-[img/BP148D]: img/derived/BP148D.svg
 [url/BP148F]: https://www.foundalis.com/res/bps/doughof/p148.htm
 [url/BP148E]: https://oebp.org/BP148
 
@@ -4593,17 +4318,14 @@
 | OEBP      | [![BP149E][img/BP149E] | “Lone square vs. lone  | [BP149E       |
 |           | ][img/BP149E]          | circle.”               | ][url/BP149E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The unpaired figure is |               |
-| (95%)     | img/derived/BP149D.svg | a square on the left   |               |
-|           | type="image/svg+xml"   | and a circle on the    |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP149D][img/BP149D] |                        |               |
-|           | ][img/BP149D]</object> |                        |               |
+| Derived   |                        | The unpaired figure is |               |
+|           |                        | a square on the left   |               |
+|           |                        | and a circle on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP149F]: img/corrected/BP149F.png
 [img/BP149E]: img/corrected/BP149E.png
-[img/BP149D]: img/derived/BP149D.svg
 [url/BP149F]: https://www.foundalis.com/res/bps/doughof/p149.htm
 [url/BP149E]: https://oebp.org/BP149
 
@@ -4622,17 +4344,13 @@
 |           | ][img/BP150E]          | vs. even number of     | ][url/BP150E] |
 |           |                        | squares.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The number of squares  |               |
-| (99%)     | img/derived/BP150D.svg | is odd on the left and |               |
-|           | type="image/svg+xml"   | even on the right.     |               |
-|           | style="width:100%">    |                        |               |
-|           | [![BP150D][img/BP150D] |                        |               |
-|           | ][img/BP150D]</object> |                        |               |
+| Derived   |                        | The number of squares  |               |
+|           |                        | is odd on the left and |               |
+|           |                        | even on the right.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP150F]: img/corrected/BP150F.png
 [img/BP150E]: img/corrected/BP150E.png
-[img/BP150D]: img/derived/BP150D.svg
 [url/BP150F]: https://www.foundalis.com/res/bps/doughof/p150.htm
 [url/BP150E]: https://oebp.org/BP150
 
@@ -4655,18 +4373,17 @@
 |           |                        | an equilateral         |               |
 |           |                        | triangle vs. not so.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Removing the circle    |               |
-| (88%)     | img/derived/BP151D.svg | nearest the cross      |               |
-|           | type="image/svg+xml"   | leaves an equilateral  |               |
-|           | style="width:100%">    | triangle of circles on |               |
-|           | [![BP151D][img/BP151D] | the left and a         |               |
-|           | ][img/BP151D]</object> | different arrangement  |               |
+| Derived   |                        | Removing the circle    |               |
+|           |                        | nearest the cross      |               |
+|           |                        | leaves an equilateral  |               |
+|           |                        | triangle of circles on |               |
+|           |                        | the left and a         |               |
+|           |                        | different arrangement  |               |
 |           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP151F]: img/corrected/BP151F.png
 [img/BP151E]: img/corrected/BP151E.png
-[img/BP151D]: img/derived/BP151D.svg
 [url/BP151F]: https://www.foundalis.com/res/bps/doughof/p151.htm
 [url/BP151E]: https://oebp.org/BP151
 
@@ -4685,17 +4402,14 @@
 |           | ][img/BP152E]          | vs. vertical axis of   | ][url/BP152E] |
 |           |                        | symmetry.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left figures lack  |               |
-| (100%)    | img/derived/BP152D.svg | mirror symmetry. Each  |               |
-|           | type="image/svg+xml"   | right figure has a     |               |
-|           | style="width:100%">    | vertical mirror axis.  |               |
-|           | [![BP152D][img/BP152D] |                        |               |
-|           | ][img/BP152D]</object> |                        |               |
+| Derived   |                        | The left figures lack  |               |
+|           |                        | mirror symmetry. Each  |               |
+|           |                        | right figure has a     |               |
+|           |                        | vertical mirror axis.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP152F]: img/corrected/BP152F.png
 [img/BP152E]: img/corrected/BP152E.png
-[img/BP152D]: img/derived/BP152D.svg
 [url/BP152F]: https://www.foundalis.com/res/bps/doughof/p152.htm
 [url/BP152E]: https://oebp.org/BP152
 
@@ -4719,18 +4433,17 @@
 |           |                        | straight lines and     |               |
 |           |                        | staple-like endings.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Curves and hooked ends |               |
-| (99%)     | img/derived/BP153D.svg | predominate on the     |               |
-|           | type="image/svg+xml"   | left, while straight   |               |
-|           | style="width:100%">    | strokes and            |               |
-|           | [![BP153D][img/BP153D] | squared-off ends       |               |
-|           | ][img/BP153D]</object> | predominate on the     |               |
+| Derived   |                        | Curves and hooked ends |               |
+|           |                        | predominate on the     |               |
+|           |                        | left, while straight   |               |
+|           |                        | strokes and            |               |
+|           |                        | squared-off ends       |               |
+|           |                        | predominate on the     |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP153F]: img/corrected/BP153F.png
 [img/BP153E]: img/corrected/BP153E.png
-[img/BP153D]: img/derived/BP153D.svg
 [url/BP153F]: https://www.foundalis.com/res/bps/doughof/p153.htm
 [url/BP153E]: https://oebp.org/BP153
 
@@ -4747,17 +4460,14 @@
 | OEBP      | [![BP154E][img/BP154E] | “Wedged endings vs.    | [BP154E       |
 |           | ][img/BP154E]          | rounded endings.”      | ][url/BP154E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The strokes have       |               |
-| (99%)     | img/derived/BP154D.svg | wedge-shaped ends on   |               |
-|           | type="image/svg+xml"   | the left and rounded   |               |
-|           | style="width:100%">    | ends on the right.     |               |
-|           | [![BP154D][img/BP154D] |                        |               |
-|           | ][img/BP154D]</object> |                        |               |
+| Derived   |                        | The strokes have       |               |
+|           |                        | wedge-shaped ends on   |               |
+|           |                        | the left and rounded   |               |
+|           |                        | ends on the right.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP154F]: img/corrected/BP154F.png
 [img/BP154E]: img/corrected/BP154E.png
-[img/BP154D]: img/derived/BP154D.svg
 [url/BP154F]: https://www.foundalis.com/res/bps/doughof/p154.htm
 [url/BP154E]: https://oebp.org/BP154
 
@@ -4778,17 +4488,15 @@
 |           |                        | vs. curves are shorter |               |
 |           |                        | than straight lines.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The curved portions    |               |
-| (99%)     | img/derived/BP155D.svg | are longer than the    |               |
-|           | type="image/svg+xml"   | straight portions on   |               |
-|           | style="width:100%">    | the left and shorter   |               |
-|           | [![BP155D][img/BP155D] | on the right.          |               |
-|           | ][img/BP155D]</object> |                        |               |
+| Derived   |                        | The curved portions    |               |
+|           |                        | are longer than the    |               |
+|           |                        | straight portions on   |               |
+|           |                        | the left and shorter   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP155F]: img/corrected/BP155F.png
 [img/BP155E]: img/corrected/BP155E.png
-[img/BP155D]: img/derived/BP155D.svg
 [url/BP155F]: https://www.foundalis.com/res/bps/doughof/p155.htm
 [url/BP155E]: https://oebp.org/BP155
 
@@ -4809,17 +4517,14 @@
 |           |                        | two spatially          |               |
 |           |                        | separated clusters.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The shapes form three  |               |
-| (91%)     | img/derived/BP156D.svg | spatial clusters on    |               |
-|           | type="image/svg+xml"   | the left and two on    |               |
-|           | style="width:100%">    | the right.             |               |
-|           | [![BP156D][img/BP156D] |                        |               |
-|           | ][img/BP156D]</object> |                        |               |
+| Derived   |                        | The shapes form three  |               |
+|           |                        | spatial clusters on    |               |
+|           |                        | the left and two on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP156F]: img/corrected/BP156F.png
 [img/BP156E]: img/corrected/BP156E.png
-[img/BP156D]: img/derived/BP156D.svg
 [url/BP156F]: https://www.foundalis.com/res/bps/doughof/p156.htm
 [url/BP156E]: https://oebp.org/BP156
 
@@ -4836,17 +4541,13 @@
 | OEBP      | [![BP157E][img/BP157E] | “White background vs.  | [BP157E       |
 |           | ][img/BP157E]          | black background.”     | ][url/BP157E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The background is      |               |
-| (99%)     | img/derived/BP157D.svg | white on the left and  |               |
-|           | type="image/svg+xml"   | black on the right.    |               |
-|           | style="width:100%">    |                        |               |
-|           | [![BP157D][img/BP157D] |                        |               |
-|           | ][img/BP157D]</object> |                        |               |
+| Derived   |                        | The background is      |               |
+|           |                        | white on the left and  |               |
+|           |                        | black on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP157F]: img/corrected/BP157F.png
 [img/BP157E]: img/corrected/BP157E.png
-[img/BP157D]: img/derived/BP157D.svg
 [url/BP157F]: https://www.foundalis.com/res/bps/foundal/p157.htm
 [url/BP157E]: https://oebp.org/BP157
 
@@ -4863,17 +4564,15 @@
 | OEBP      | [![BP158E][img/BP158E] | “Some slope vs.        | [BP158E       |
 |           | ][img/BP158E]          | another slope.”        | ][url/BP158E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each segment rises     |               |
-| (95%)     | img/derived/BP158D.svg | more steeply from left |               |
-|           | type="image/svg+xml"   | to right in the left   |               |
-|           | style="width:100%">    | examples than in the   |               |
-|           | [![BP158D][img/BP158D] | right examples.        |               |
-|           | ][img/BP158D]</object> |                        |               |
+| Derived   |                        | Each segment rises     |               |
+|           |                        | more steeply from left |               |
+|           |                        | to right in the left   |               |
+|           |                        | examples than in the   |               |
+|           |                        | right examples.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP158F]: img/corrected/BP158F.png
 [img/BP158E]: img/corrected/BP158E.png
-[img/BP158D]: img/derived/BP158D.svg
 [url/BP158F]: https://www.foundalis.com/res/bps/foundal/p158.htm
 [url/BP158E]: https://oebp.org/BP158
 
@@ -4937,17 +4636,16 @@
 |           |                        | typical                |               |
 |           |                        | quadrilateral.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The fourth corner      |               |
-| (92%)     | img/derived/BP160D.svg | barely interrupts the  |               |
-|           | type="image/svg+xml"   | apparent triangle on   |               |
-|           | style="width:100%">    | the left. All four     |               |
-|           | [![BP160D][img/BP160D] | corners are distinct   |               |
-|           | ][img/BP160D]</object> | on the right.          |               |
+| Derived   |                        | The fourth corner      |               |
+|           |                        | barely interrupts the  |               |
+|           |                        | apparent triangle on   |               |
+|           |                        | the left. All four     |               |
+|           |                        | corners are distinct   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP160F]: img/corrected/BP160F.png
 [img/BP160E]: img/corrected/BP160E.png
-[img/BP160D]: img/derived/BP160D.svg
 [url/BP160F]: https://www.foundalis.com/res/bps/foundal/p160.htm
 [url/BP160E]: https://oebp.org/BP160
 
@@ -4967,17 +4665,16 @@
 |           |                        | midpoints are not      |               |
 |           |                        | collinear.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The segment midpoints  |               |
-| (91%)     | img/derived/BP161D.svg | lie on one straight    |               |
-|           | type="image/svg+xml"   | line on the left and   |               |
-|           | style="width:100%">    | depart from that       |               |
-|           | [![BP161D][img/BP161D] | alignment on the       |               |
-|           | ][img/BP161D]</object> | right.                 |               |
+| Derived   |                        | The segment midpoints  |               |
+|           |                        | lie on one straight    |               |
+|           |                        | line on the left and   |               |
+|           |                        | depart from that       |               |
+|           |                        | alignment on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP161F]: img/corrected/BP161F.png
 [img/BP161E]: img/corrected/BP161E.png
-[img/BP161D]: img/derived/BP161D.svg
 [url/BP161F]: https://www.foundalis.com/res/bps/foundal/p161.htm
 [url/BP161E]: https://oebp.org/BP161
 
@@ -4998,18 +4695,17 @@
 |           |                        | through one point vs.  |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Extending alternate    |               |
-| (99%)     | img/derived/BP162D.svg | sides of the polygon   |               |
-|           | type="image/svg+xml"   | gives a common         |               |
-|           | style="width:100%">    | intersection on the    |               |
-|           | [![BP162D][img/BP162D] | left and misses a      |               |
-|           | ][img/BP162D]</object> | common intersection on |               |
+| Derived   |                        | Extending alternate    |               |
+|           |                        | sides of the polygon   |               |
+|           |                        | gives a common         |               |
+|           |                        | intersection on the    |               |
+|           |                        | left and misses a      |               |
+|           |                        | common intersection on |               |
 |           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP162F]: img/corrected/BP162F.png
 [img/BP162E]: img/corrected/BP162E.png
-[img/BP162D]: img/derived/BP162D.svg
 [url/BP162F]: https://www.foundalis.com/res/bps/foundal/p162.htm
 [url/BP162E]: https://oebp.org/BP162
 
@@ -5034,17 +4730,16 @@
 |           |                        | small shapes           |               |
 |           |                        | intersects large one.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A segment joining the  |               |
-| (93%)     | img/derived/BP163D.svg | two small shapes       |               |
-|           | type="image/svg+xml"   | clears the large shape |               |
-|           | style="width:100%">    | on the left and cuts   |               |
-|           | [![BP163D][img/BP163D] | through it on the      |               |
-|           | ][img/BP163D]</object> | right.                 |               |
+| Derived   |                        | A segment joining the  |               |
+|           |                        | two small shapes       |               |
+|           |                        | clears the large shape |               |
+|           |                        | on the left and cuts   |               |
+|           |                        | through it on the      |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP163F]: img/corrected/BP163F.png
 [img/BP163E]: img/corrected/BP163E.png
-[img/BP163D]: img/derived/BP163D.svg
 [url/BP163F]: https://www.foundalis.com/res/bps/foundal/p163.htm
 [url/BP163E]: https://oebp.org/BP163
 
@@ -5067,17 +4762,15 @@
 |           |                        | than sides of each     |               |
 |           |                        | object.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | There is one fewer     |               |
-| (94%)     | img/derived/BP164D.svg | object than sides per  |               |
-|           | type="image/svg+xml"   | object on the left and |               |
-|           | style="width:100%">    | one more object than   |               |
-|           | [![BP164D][img/BP164D] | sides on the right.    |               |
-|           | ][img/BP164D]</object> |                        |               |
+| Derived   |                        | There is one fewer     |               |
+|           |                        | object than sides per  |               |
+|           |                        | object on the left and |               |
+|           |                        | one more object than   |               |
+|           |                        | sides on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP164F]: img/corrected/BP164F.png
 [img/BP164E]: img/corrected/BP164E.png
-[img/BP164D]: img/derived/BP164D.svg
 [url/BP164F]: https://www.foundalis.com/res/bps/foundal/p164.htm
 [url/BP164E]: https://oebp.org/BP164
 
@@ -5100,17 +4793,15 @@
 |           |                        | one side of the        |               |
 |           |                        | object.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The separate segment   |               |
-| (93%)     | img/derived/BP165D.svg | is perpendicular to a  |               |
-|           | type="image/svg+xml"   | side on the left and   |               |
-|           | style="width:100%">    | parallel to a side on  |               |
-|           | [![BP165D][img/BP165D] | the right.             |               |
-|           | ][img/BP165D]</object> |                        |               |
+| Derived   |                        | The separate segment   |               |
+|           |                        | is perpendicular to a  |               |
+|           |                        | side on the left and   |               |
+|           |                        | parallel to a side on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP165F]: img/corrected/BP165F.png
 [img/BP165E]: img/corrected/BP165E.png
-[img/BP165D]: img/derived/BP165D.svg
 [url/BP165F]: https://www.foundalis.com/res/bps/foundal/p165.htm
 [url/BP165E]: https://oebp.org/BP165
 
@@ -5128,17 +4819,14 @@
 | OEBP      | [![BP166E][img/BP166E] | “Two clusters vs.      | [BP166E       |
 |           | ][img/BP166E]          | three clusters.”       | ][url/BP166E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots form two      |               |
-| (100%)    | img/derived/BP166D.svg | clusters on the left   |               |
-|           | type="image/svg+xml"   | and three on the       |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP166D][img/BP166D] |                        |               |
-|           | ][img/BP166D]</object> |                        |               |
+| Derived   |                        | The dots form two      |               |
+|           |                        | clusters on the left   |               |
+|           |                        | and three on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP166F]: img/corrected/BP166F.png
 [img/BP166E]: img/corrected/BP166E.png
-[img/BP166D]: img/derived/BP166D.svg
 [url/BP166F]: https://www.foundalis.com/res/bps/foundal/p166.htm
 [url/BP166E]: https://oebp.org/BP166
 
@@ -5161,17 +4849,15 @@
 |           |                        | three clusters of      |               |
 |           |                        | dots.”                 |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each cluster splits    |               |
-| (100%)    | img/derived/BP167D.svg | into two smaller       |               |
-|           | type="image/svg+xml"   | groups of dots on the  |               |
-|           | style="width:100%">    | left and three on the  |               |
-|           | [![BP167D][img/BP167D] | right.                 |               |
-|           | ][img/BP167D]</object> |                        |               |
+| Derived   |                        | Each cluster splits    |               |
+|           |                        | into two smaller       |               |
+|           |                        | groups of dots on the  |               |
+|           |                        | left and three on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP167F]: img/corrected/BP167F.png
 [img/BP167E]: img/corrected/BP167E.png
-[img/BP167D]: img/derived/BP167D.svg
 [url/BP167F]: https://www.foundalis.com/res/bps/foundal/p167.htm
 [url/BP167E]: https://oebp.org/BP167
 
@@ -5190,17 +4876,15 @@
 |           | ][img/BP168E]          | closed vs. narrow      | ][url/BP168E] |
 |           |                        | interior, if closed.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Closing the gap would  |               |
-| (99%)     | img/derived/BP168D.svg | enclose a broad        |               |
-|           | type="image/svg+xml"   | interior on the left   |               |
-|           | style="width:100%">    | and a narrow interior  |               |
-|           | [![BP168D][img/BP168D] | on the right.          |               |
-|           | ][img/BP168D]</object> |                        |               |
+| Derived   |                        | Closing the gap would  |               |
+|           |                        | enclose a broad        |               |
+|           |                        | interior on the left   |               |
+|           |                        | and a narrow interior  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP168F]: img/corrected/BP168F.png
 [img/BP168E]: img/corrected/BP168E.png
-[img/BP168D]: img/derived/BP168D.svg
 [url/BP168F]: https://www.foundalis.com/res/bps/foundal/p168.htm
 [url/BP168E]: https://oebp.org/BP168
 
@@ -5223,17 +4907,15 @@
 |           |                        | clusters of equal      |               |
 |           |                        | number of elements.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two groups contain |               |
-| (93%)     | img/derived/BP169D.svg | different numbers of   |               |
-|           | type="image/svg+xml"   | elements on the left   |               |
-|           | style="width:100%">    | and equal numbers on   |               |
-|           | [![BP169D][img/BP169D] | the right.             |               |
-|           | ][img/BP169D]</object> |                        |               |
+| Derived   |                        | The two groups contain |               |
+|           |                        | different numbers of   |               |
+|           |                        | elements on the left   |               |
+|           |                        | and equal numbers on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP169F]: img/corrected/BP169F.png
 [img/BP169E]: img/corrected/BP169E.png
-[img/BP169D]: img/derived/BP169D.svg
 [url/BP169F]: https://www.foundalis.com/res/bps/foundal/p169.htm
 [url/BP169E]: https://oebp.org/BP169
 
@@ -5250,17 +4932,15 @@
 | OEBP      | [![BP170E][img/BP170E] | “Pi-like shape vs.     | [BP170E       |
 |           | ][img/BP170E]          | x-like shape.”         | ][url/BP170E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The overall            |               |
-| (95%)     | img/derived/BP170D.svg | arrangement resembles  |               |
-|           | type="image/svg+xml"   | a capital Π on the     |               |
-|           | style="width:100%">    | left and an X on the   |               |
-|           | [![BP170D][img/BP170D] | right.                 |               |
-|           | ][img/BP170D]</object> |                        |               |
+| Derived   |                        | The overall            |               |
+|           |                        | arrangement resembles  |               |
+|           |                        | a capital Π on the     |               |
+|           |                        | left and an X on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP170F]: img/corrected/BP170F.png
 [img/BP170E]: img/corrected/BP170E.png
-[img/BP170D]: img/derived/BP170D.svg
 [url/BP170F]: https://www.foundalis.com/res/bps/foundal/p170.htm
 [url/BP170E]: https://oebp.org/BP170
 
@@ -5311,10 +4991,10 @@
 | OEBP      | [![BP172E][img/BP172E] | “Rotationally          | [BP172E       |
 |           | ][img/BP172E]          | symmetric vs. not.”    | ][url/BP172E] |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | After the correction,  | A rotation through     |               |
-|           | R3 is an empty square. | less than a full turn  |               |
-|           | Losing its interior    | reproduces the left    |               |
-|           | strokes gives it the   | figure. Only a full    |               |
+| Flagged   | In the previous        | A rotation through     |               |
+|           | redraw, R3 lost its    | less than a full turn  |               |
+|           | interior strokes. The  | reproduces the left    |               |
+|           | empty square had the   | figure. Only a full    |               |
 |           | rotational symmetry    | turn restores the      |               |
 |           | reserved for the left. | right figure.          |               |
 +-----------+------------------------+------------------------+---------------+
@@ -5339,17 +5019,15 @@
 |           | ][img/BP173E]          | slopes vs. large       | ][url/BP173E] |
 |           |                        | variance of slopes.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The segments have      |               |
-| (84%)     | img/derived/BP173D.svg | similar slopes on the  |               |
-|           | type="image/svg+xml"   | left and a wider range |               |
-|           | style="width:100%">    | of slopes on the       |               |
-|           | [![BP173D][img/BP173D] | right.                 |               |
-|           | ][img/BP173D]</object> |                        |               |
+| Derived   |                        | The segments have      |               |
+|           |                        | similar slopes on the  |               |
+|           |                        | left and a wider range |               |
+|           |                        | of slopes on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP173F]: img/corrected/BP173F.png
 [img/BP173E]: img/corrected/BP173E.png
-[img/BP173D]: img/derived/BP173D.svg
 [url/BP173F]: https://www.foundalis.com/res/bps/foundal/p173.htm
 [url/BP173E]: https://oebp.org/BP173
 
@@ -5368,17 +5046,14 @@
 |           | ][img/BP174E]          | interior vs. concave   | ][url/BP174E] |
 |           |                        | central interior.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The common central     |               |
-| (93%)     | img/derived/BP174D.svg | region is convex on    |               |
-|           | type="image/svg+xml"   | the left and concave   |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP174D][img/BP174D] |                        |               |
-|           | ][img/BP174D]</object> |                        |               |
+| Derived   |                        | The common central     |               |
+|           |                        | region is convex on    |               |
+|           |                        | the left and concave   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP174F]: img/corrected/BP174F.png
 [img/BP174E]: img/corrected/BP174E.png
-[img/BP174D]: img/derived/BP174D.svg
 [url/BP174F]: https://www.foundalis.com/res/bps/foundal/p174.htm
 [url/BP174E]: https://oebp.org/BP174
 
@@ -5399,17 +5074,15 @@
 |           |                        | small object cannot    |               |
 |           |                        | glide in the bay.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The small object can   |               |
-| (96%)     | img/derived/BP175D.svg | slide into the recess  |               |
-|           | type="image/svg+xml"   | on the left. Its shape |               |
-|           | style="width:100%">    | prevents it from       |               |
-|           | [![BP175D][img/BP175D] | fitting on the right.  |               |
-|           | ][img/BP175D]</object> |                        |               |
+| Derived   |                        | The small object can   |               |
+|           |                        | slide into the recess  |               |
+|           |                        | on the left. Its shape |               |
+|           |                        | prevents it from       |               |
+|           |                        | fitting on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP175F]: img/corrected/BP175F.png
 [img/BP175E]: img/corrected/BP175E.png
-[img/BP175D]: img/derived/BP175D.svg
 [url/BP175F]: https://www.foundalis.com/res/bps/foundal/p175.htm
 [url/BP175E]: https://oebp.org/BP175
 
@@ -5434,17 +5107,16 @@
 |           |                        | dots avoiding          |               |
 |           |                        | obstacles is long.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A short route between  |               |
-| (92%)     | img/derived/BP176D.svg | the dots clears the    |               |
-|           | type="image/svg+xml"   | obstacles on the left. |               |
-|           | style="width:100%">    | Avoiding the obstacles |               |
-|           | [![BP176D][img/BP176D] | requires a longer      |               |
-|           | ][img/BP176D]</object> | detour on the right.   |               |
+| Derived   |                        | A short route between  |               |
+|           |                        | the dots clears the    |               |
+|           |                        | obstacles on the left. |               |
+|           |                        | Avoiding the obstacles |               |
+|           |                        | requires a longer      |               |
+|           |                        | detour on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP176F]: img/corrected/BP176F.png
 [img/BP176E]: img/corrected/BP176E.png
-[img/BP176D]: img/derived/BP176D.svg
 [url/BP176F]: https://www.foundalis.com/res/bps/foundal/p176.htm
 [url/BP176E]: https://oebp.org/BP176
 
@@ -5463,17 +5135,15 @@
 |           | ][img/BP177E]          | convex vs. at least    | ][url/BP177E] |
 |           |                        | one concave interior.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Every enclosed region  |               |
-| (89%)     | img/derived/BP177D.svg | is convex on the left, |               |
-|           | type="image/svg+xml"   | and at least one       |               |
-|           | style="width:100%">    | enclosed region is     |               |
-|           | [![BP177D][img/BP177D] | concave on the right.  |               |
-|           | ][img/BP177D]</object> |                        |               |
+| Derived   |                        | Every enclosed region  |               |
+|           |                        | is convex on the left, |               |
+|           |                        | and at least one       |               |
+|           |                        | enclosed region is     |               |
+|           |                        | concave on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP177F]: img/corrected/BP177F.png
 [img/BP177E]: img/corrected/BP177E.png
-[img/BP177D]: img/derived/BP177D.svg
 [url/BP177F]: https://www.foundalis.com/res/bps/foundal/p177.htm
 [url/BP177E]: https://oebp.org/BP177
 
@@ -5494,17 +5164,16 @@
 |           |                        | to the other two vs.   |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The circle’s center    |               |
-| (91%)     | img/derived/BP178D.svg | lies in the triangle   |               |
-|           | type="image/svg+xml"   | oriented across the    |               |
-|           | style="width:100%">    | other two on the left  |               |
-|           | [![BP178D][img/BP178D] | and elsewhere on the   |               |
-|           | ][img/BP178D]</object> | right.                 |               |
+| Derived   |                        | The circle’s center    |               |
+|           |                        | lies in the triangle   |               |
+|           |                        | oriented across the    |               |
+|           |                        | other two on the left  |               |
+|           |                        | and elsewhere on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP178F]: img/corrected/BP178F.png
 [img/BP178E]: img/corrected/BP178E.png
-[img/BP178D]: img/derived/BP178D.svg
 [url/BP178F]: https://www.foundalis.com/res/bps/foundal/p178.htm
 [url/BP178E]: https://oebp.org/BP178
 
@@ -5523,17 +5192,14 @@
 |           | ][img/BP179E]          | vs. object thicker at  | ][url/BP179E] |
 |           |                        | top.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figure is narrower |               |
-| (100%)    | img/derived/BP179D.svg | at the top on the left |               |
-|           | type="image/svg+xml"   | and wider at the top   |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP179D][img/BP179D] |                        |               |
-|           | ][img/BP179D]</object> |                        |               |
+| Derived   |                        | The figure is narrower |               |
+|           |                        | at the top on the left |               |
+|           |                        | and wider at the top   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP179F]: img/corrected/BP179F.png
 [img/BP179E]: img/corrected/BP179E.png
-[img/BP179D]: img/derived/BP179D.svg
 [url/BP179F]: https://www.foundalis.com/res/bps/foundal/p179.htm
 [url/BP179E]: https://oebp.org/BP179
 
@@ -5558,17 +5224,15 @@
 |           |                        | boundary of            |               |
 |           |                        | black/white.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Toward the boundary    |               |
-| (96%)     | img/derived/BP180D.svg | with the white region, |               |
-|           | type="image/svg+xml"   | the black part narrows |               |
-|           | style="width:100%">    | on the left and widens |               |
-|           | [![BP180D][img/BP180D] | on the right.          |               |
-|           | ][img/BP180D]</object> |                        |               |
+| Derived   |                        | Toward the boundary    |               |
+|           |                        | with the white region, |               |
+|           |                        | the black part narrows |               |
+|           |                        | on the left and widens |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP180F]: img/corrected/BP180F.png
 [img/BP180E]: img/corrected/BP180E.png
-[img/BP180D]: img/derived/BP180D.svg
 [url/BP180F]: https://www.foundalis.com/res/bps/foundal/p180.htm
 [url/BP180E]: https://oebp.org/BP180
 
@@ -5585,17 +5249,14 @@
 | OEBP      | [![BP181E][img/BP181E] | “One concavity vs. two | [BP181E       |
 |           | ][img/BP181E]          | concavities.”          | ][url/BP181E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left shape has    |               |
-| (96%)     | img/derived/BP181D.svg | one inward recess, and |               |
-|           | type="image/svg+xml"   | each right shape has   |               |
-|           | style="width:100%">    | two.                   |               |
-|           | [![BP181D][img/BP181D] |                        |               |
-|           | ][img/BP181D]</object> |                        |               |
+| Derived   |                        | Each left shape has    |               |
+|           |                        | one inward recess, and |               |
+|           |                        | each right shape has   |               |
+|           |                        | two.                   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP181F]: img/corrected/BP181F.png
 [img/BP181E]: img/corrected/BP181E.png
-[img/BP181D]: img/derived/BP181D.svg
 [url/BP181F]: https://www.foundalis.com/res/bps/foundal/p181.htm
 [url/BP181E]: https://oebp.org/BP181
 
@@ -5617,17 +5278,16 @@
 |           |                        | if proximal border     |               |
 |           |                        | points are connected.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Joining neighboring    |               |
-| (100%)    | img/derived/BP182D.svg | dots around the        |               |
-|           | type="image/svg+xml"   | outside gives a        |               |
-|           | style="width:100%">    | concave outline on the |               |
-|           | [![BP182D][img/BP182D] | left and a convex      |               |
-|           | ][img/BP182D]</object> | outline on the right.  |               |
+| Derived   |                        | Joining neighboring    |               |
+|           |                        | dots around the        |               |
+|           |                        | outside gives a        |               |
+|           |                        | concave outline on the |               |
+|           |                        | left and a convex      |               |
+|           |                        | outline on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP182F]: img/corrected/BP182F.png
 [img/BP182E]: img/corrected/BP182E.png
-[img/BP182D]: img/derived/BP182D.svg
 [url/BP182F]: https://www.foundalis.com/res/bps/foundal/p182.htm
 [url/BP182E]: https://oebp.org/BP182
 
@@ -5657,17 +5317,16 @@
 |           |                        | change of curvature    |               |
 |           |                        | close to the middle.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | At the middle of the   |               |
-| (91%)     | img/derived/BP183D.svg | stroke, the curve      |               |
-|           | type="image/svg+xml"   | keeps bending the same |               |
-|           | style="width:100%">    | way on the left and    |               |
-|           | [![BP183D][img/BP183D] | reverses its bend on   |               |
-|           | ][img/BP183D]</object> | the right.             |               |
+| Derived   |                        | At the middle of the   |               |
+|           |                        | stroke, the curve      |               |
+|           |                        | keeps bending the same |               |
+|           |                        | way on the left and    |               |
+|           |                        | reverses its bend on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP183F]: img/corrected/BP183F.png
 [img/BP183E]: img/corrected/BP183E.png
-[img/BP183D]: img/derived/BP183D.svg
 [url/BP183F]: https://www.foundalis.com/res/bps/foundal/p183.htm
 [url/BP183E]: https://oebp.org/BP183
 
@@ -5688,17 +5347,14 @@
 |           |                        | curve zigzags close to |               |
 |           |                        | the middle.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The middle of the      |               |
-| (91%)     | img/derived/BP184D.svg | curve runs smoothly on |               |
-|           | type="image/svg+xml"   | the left and zigzags   |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP184D][img/BP184D] |                        |               |
-|           | ][img/BP184D]</object> |                        |               |
+| Derived   |                        | The middle of the      |               |
+|           |                        | curve runs smoothly on |               |
+|           |                        | the left and zigzags   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP184F]: img/corrected/BP184F.png
 [img/BP184E]: img/corrected/BP184E.png
-[img/BP184D]: img/derived/BP184D.svg
 [url/BP184F]: https://www.foundalis.com/res/bps/foundal/p184.htm
 [url/BP184E]: https://oebp.org/BP184
 
@@ -5719,17 +5375,14 @@
 |           |                        | curve with three       |               |
 |           |                        | complex parts.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The curve has two      |               |
-| (91%)     | img/derived/BP185D.svg | stretches of intricate |               |
-|           | type="image/svg+xml"   | detail on the left and |               |
-|           | style="width:100%">    | three on the right.    |               |
-|           | [![BP185D][img/BP185D] |                        |               |
-|           | ][img/BP185D]</object> |                        |               |
+| Derived   |                        | The curve has two      |               |
+|           |                        | stretches of intricate |               |
+|           |                        | detail on the left and |               |
+|           |                        | three on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP185F]: img/corrected/BP185F.png
 [img/BP185E]: img/corrected/BP185E.png
-[img/BP185D]: img/derived/BP185D.svg
 [url/BP185F]: https://www.foundalis.com/res/bps/foundal/p185.htm
 [url/BP185E]: https://oebp.org/BP185
 
@@ -5750,18 +5403,17 @@
 |           |                        | made of objects made   |               |
 |           |                        | of objects.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Smaller elements make  |               |
-| (92%)     | img/derived/BP186D.svg | one larger object on   |               |
-|           | type="image/svg+xml"   | the left. On the right |               |
-|           | style="width:100%">    | the constituent        |               |
-|           | [![BP186D][img/BP186D] | elements themselves    |               |
-|           | ][img/BP186D]</object> | have visible component |               |
+| Derived   |                        | Smaller elements make  |               |
+|           |                        | one larger object on   |               |
+|           |                        | the left. On the right |               |
+|           |                        | the constituent        |               |
+|           |                        | elements themselves    |               |
+|           |                        | have visible component |               |
 |           |                        | parts.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP186F]: img/corrected/BP186F.png
 [img/BP186E]: img/corrected/BP186E.png
-[img/BP186D]: img/derived/BP186D.svg
 [url/BP186F]: https://www.foundalis.com/res/bps/foundal/p186.htm
 [url/BP186E]: https://oebp.org/BP186
 
@@ -5784,17 +5436,16 @@
 |           |                        | parts are one less     |               |
 |           |                        | than sides of whole.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each small polygon has |               |
-| (93%)     | img/derived/BP187D.svg | one more side than the |               |
-|           | type="image/svg+xml"   | implied overall        |               |
-|           | style="width:100%">    | polygon on the left    |               |
-|           | [![BP187D][img/BP187D] | and one fewer side on  |               |
-|           | ][img/BP187D]</object> | the right.             |               |
+| Derived   |                        | Each small polygon has |               |
+|           |                        | one more side than the |               |
+|           |                        | implied overall        |               |
+|           |                        | polygon on the left    |               |
+|           |                        | and one fewer side on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP187F]: img/corrected/BP187F.png
 [img/BP187E]: img/corrected/BP187E.png
-[img/BP187D]: img/derived/BP187D.svg
 [url/BP187F]: https://www.foundalis.com/res/bps/foundal/p187.htm
 [url/BP187E]: https://oebp.org/BP187
 
@@ -5817,17 +5468,16 @@
 |           |                        | whole same as shape of |               |
 |           |                        | parts.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The overall outline    |               |
-| (95%)     | img/derived/BP188D.svg | differs from the shape |               |
-|           | type="image/svg+xml"   | of its components on   |               |
-|           | style="width:100%">    | the left and repeats   |               |
-|           | [![BP188D][img/BP188D] | their shape on the     |               |
-|           | ][img/BP188D]</object> | right.                 |               |
+| Derived   |                        | The overall outline    |               |
+|           |                        | differs from the shape |               |
+|           |                        | of its components on   |               |
+|           |                        | the left and repeats   |               |
+|           |                        | their shape on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP188F]: img/corrected/BP188F.png
 [img/BP188E]: img/corrected/BP188E.png
-[img/BP188D]: img/derived/BP188D.svg
 [url/BP188F]: https://www.foundalis.com/res/bps/foundal/p188.htm
 [url/BP188E]: https://oebp.org/BP188
 
@@ -5852,17 +5502,15 @@
 |           |                        | objects of the same    |               |
 |           |                        | texture.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Every local group has  |               |
-| (98%)     | img/derived/BP189D.svg | uniform fill on the    |               |
-|           | type="image/svg+xml"   | left. At least one     |               |
-|           | style="width:100%">    | group mixes fills on   |               |
-|           | [![BP189D][img/BP189D] | the right.             |               |
-|           | ][img/BP189D]</object> |                        |               |
+| Derived   |                        | Every local group has  |               |
+|           |                        | uniform fill on the    |               |
+|           |                        | left. At least one     |               |
+|           |                        | group mixes fills on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP189F]: img/corrected/BP189F.png
 [img/BP189E]: img/corrected/BP189E.png
-[img/BP189D]: img/derived/BP189D.svg
 [url/BP189F]: https://www.foundalis.com/res/bps/foundal/p189.htm
 [url/BP189E]: https://oebp.org/BP189
 
@@ -5885,17 +5533,16 @@
 |           |                        | objects have different |               |
 |           |                        | textures.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Connected objects have |               |
-| (96%)     | img/derived/BP190D.svg | the same fill on the   |               |
-|           | type="image/svg+xml"   | left. A connection     |               |
-|           | style="width:100%">    | joins differently      |               |
-|           | [![BP190D][img/BP190D] | filled objects on the  |               |
-|           | ][img/BP190D]</object> | right.                 |               |
+| Derived   |                        | Connected objects have |               |
+|           |                        | the same fill on the   |               |
+|           |                        | left. A connection     |               |
+|           |                        | joins differently      |               |
+|           |                        | filled objects on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP190F]: img/corrected/BP190F.png
 [img/BP190E]: img/corrected/BP190E.png
-[img/BP190D]: img/derived/BP190D.svg
 [url/BP190F]: https://www.foundalis.com/res/bps/foundal/p190.htm
 [url/BP190E]: https://oebp.org/BP190
 
@@ -5913,17 +5560,15 @@
 |           | ][img/BP191E]          | vs. orifice on the     | ][url/BP191E] |
 |           |                        | right.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The opening is in the  |               |
-| (95%)     | img/derived/BP191D.svg | left side of the left  |               |
-|           | type="image/svg+xml"   | figures and in the     |               |
-|           | style="width:100%">    | right side of the      |               |
-|           | [![BP191D][img/BP191D] | right figures.         |               |
-|           | ][img/BP191D]</object> |                        |               |
+| Derived   |                        | The opening is in the  |               |
+|           |                        | left side of the left  |               |
+|           |                        | figures and in the     |               |
+|           |                        | right side of the      |               |
+|           |                        | right figures.         |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP191F]: img/corrected/BP191F.png
 [img/BP191E]: img/corrected/BP191E.png
-[img/BP191D]: img/derived/BP191D.svg
 [url/BP191F]: https://www.foundalis.com/res/bps/foundal/p191.htm
 [url/BP191E]: https://oebp.org/BP191
 
@@ -5942,17 +5587,14 @@
 |           | ][img/BP192E]          | vs. elongated          | ][url/BP192E] |
 |           |                        | horizontally.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The outline is taller  |               |
-| (96%)     | img/derived/BP192D.svg | than it is wide on the |               |
-|           | type="image/svg+xml"   | left and wider than it |               |
-|           | style="width:100%">    | is tall on the right.  |               |
-|           | [![BP192D][img/BP192D] |                        |               |
-|           | ][img/BP192D]</object> |                        |               |
+| Derived   |                        | The outline is taller  |               |
+|           |                        | than it is wide on the |               |
+|           |                        | left and wider than it |               |
+|           |                        | is tall on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP192F]: img/corrected/BP192F.png
 [img/BP192E]: img/corrected/BP192E.png
-[img/BP192D]: img/derived/BP192D.svg
 [url/BP192F]: https://www.foundalis.com/res/bps/foundal/p192.htm
 [url/BP192E]: https://oebp.org/BP192
 
@@ -5969,17 +5611,16 @@
 | OEBP      | [![BP193E][img/BP193E] | “Ghost triangle vs.    | [BP193E       |
 |           | ][img/BP193E]          | Ghost rectangle.”      | ][url/BP193E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The visible marks      |               |
-| (97%)     | img/derived/BP193D.svg | suggest a triangle in  |               |
-|           | type="image/svg+xml"   | the intervening space  |               |
-|           | style="width:100%">    | on the left and a      |               |
-|           | [![BP193D][img/BP193D] | rectangle on the       |               |
-|           | ][img/BP193D]</object> | right.                 |               |
+| Derived   |                        | The visible marks      |               |
+|           |                        | suggest a triangle in  |               |
+|           |                        | the intervening space  |               |
+|           |                        | on the left and a      |               |
+|           |                        | rectangle on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP193F]: img/corrected/BP193F.png
 [img/BP193E]: img/corrected/BP193E.png
-[img/BP193D]: img/derived/BP193D.svg
 [url/BP193F]: https://www.foundalis.com/res/bps/foundal/p193.htm
 [url/BP193E]: https://oebp.org/BP193
 
@@ -6000,17 +5641,15 @@
 |           |                        | background is a        |               |
 |           |                        | triangle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The textured           |               |
-| (94%)     | img/derived/BP194D.svg | background forms a     |               |
-|           | type="image/svg+xml"   | parallelogram on the   |               |
-|           | style="width:100%">    | left and a triangle on |               |
-|           | [![BP194D][img/BP194D] | the right.             |               |
-|           | ][img/BP194D]</object> |                        |               |
+| Derived   |                        | The textured           |               |
+|           |                        | background forms a     |               |
+|           |                        | parallelogram on the   |               |
+|           |                        | left and a triangle on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP194F]: img/corrected/BP194F.png
 [img/BP194E]: img/corrected/BP194E.png
-[img/BP194D]: img/derived/BP194D.svg
 [url/BP194F]: https://www.foundalis.com/res/bps/foundal/p194.htm
 [url/BP194E]: https://oebp.org/BP194
 
@@ -6033,17 +5672,16 @@
 |           |                        | object behind top      |               |
 |           |                        | objects in 3-D.”       |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | In the implied depth   |               |
-| (97%)     | img/derived/BP195D.svg | ordering, the bottom   |               |
-|           | type="image/svg+xml"   | object sits in front   |               |
-|           | style="width:100%">    | of the upper objects   |               |
-|           | [![BP195D][img/BP195D] | on the left and behind |               |
-|           | ][img/BP195D]</object> | them on the right.     |               |
+| Derived   |                        | In the implied depth   |               |
+|           |                        | ordering, the bottom   |               |
+|           |                        | object sits in front   |               |
+|           |                        | of the upper objects   |               |
+|           |                        | on the left and behind |               |
+|           |                        | them on the right.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP195F]: img/corrected/BP195F.png
 [img/BP195E]: img/corrected/BP195E.png
-[img/BP195D]: img/derived/BP195D.svg
 [url/BP195F]: https://www.foundalis.com/res/bps/foundal/p195.htm
 [url/BP195E]: https://oebp.org/BP195
 
@@ -6062,17 +5700,14 @@
 |           | ][img/BP196E]          | vs. dark-colored       | ][url/BP196E] |
 |           |                        | texture.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The texture looks      |               |
-| (100%)    | img/derived/BP196D.svg | light overall on the   |               |
-|           | type="image/svg+xml"   | left and dark overall  |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP196D][img/BP196D] |                        |               |
-|           | ][img/BP196D]</object> |                        |               |
+| Derived   |                        | The texture looks      |               |
+|           |                        | light overall on the   |               |
+|           |                        | left and dark overall  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP196F]: img/corrected/BP196F.png
 [img/BP196E]: img/corrected/BP196E.png
-[img/BP196D]: img/derived/BP196D.svg
 [url/BP196F]: https://www.foundalis.com/res/bps/foundal/p196.htm
 [url/BP196E]: https://oebp.org/BP196
 
@@ -6089,12 +5724,13 @@
 | OEBP      | [![BP197E][img/BP197E] | “Some style (font) vs. | [BP197E       |
 |           | ][img/BP197E]          | another style (font).” | ][url/BP197E] |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | Fine strokes disappear | The same six words or  |               |
-|           | from both typefaces in | phrases appear on both |               |
-|           | the redraw, so the     | sides. The typeface    |               |
-|           | lettering no longer    | distinguishes the left |               |
-|           | shows the distinction  | examples from the      |               |
-|           | reliably.              | right examples.        |               |
+| Flagged   | Fine strokes           | The same six words or  |               |
+|           | disappeared from both  | phrases appear on both |               |
+|           | typefaces in the       | sides. The typeface    |               |
+|           | previous redraw, so    | distinguishes the left |               |
+|           | the lettering no       | examples from the      |               |
+|           | longer showed the      | right examples.        |               |
+|           | distinction reliably.  |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP197F]: img/corrected/BP197F.png
@@ -6125,17 +5761,15 @@
 | OEBP      | [![BP198E][img/BP198E] | “Stays in vs.          | [BP198E       |
 |           | ][img/BP198E]          | escapes.”              | ][url/BP198E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | One end of the chain   |               |
-| (95%)     | img/derived/BP198D.svg | remains inside the     |               |
-|           | type="image/svg+xml"   | large shape on the     |               |
-|           | style="width:100%">    | left. Both ends lie    |               |
-|           | [![BP198D][img/BP198D] | outside on the right.  |               |
-|           | ][img/BP198D]</object> |                        |               |
+| Derived   |                        | One end of the chain   |               |
+|           |                        | remains inside the     |               |
+|           |                        | large shape on the     |               |
+|           |                        | left. Both ends lie    |               |
+|           |                        | outside on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP198F]: img/corrected/BP198F.png
 [img/BP198E]: img/corrected/BP198E.png
-[img/BP198D]: img/derived/BP198D.svg
 [url/BP198F]: https://www.foundalis.com/res/bps/foundal/p198.htm
 [url/BP198E]: https://oebp.org/BP198
 
@@ -6163,17 +5797,16 @@
 | OEBP      | [![BP199E][img/BP199E] | “Stays put vs.         | [BP199E       |
 |           | ][img/BP199E]          | tumbles.”              | ][url/BP199E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The vertical through   |               |
-| (97%)     | img/derived/BP199D.svg | the center of mass     |               |
-|           | type="image/svg+xml"   | meets the base on the  |               |
-|           | style="width:100%">    | left. It misses the    |               |
-|           | [![BP199D][img/BP199D] | base on the right, so  |               |
-|           | ][img/BP199D]</object> | the object would tip.  |               |
+| Derived   |                        | The vertical through   |               |
+|           |                        | the center of mass     |               |
+|           |                        | meets the base on the  |               |
+|           |                        | left. It misses the    |               |
+|           |                        | base on the right, so  |               |
+|           |                        | the object would tip.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP199F]: img/corrected/BP199F.png
 [img/BP199E]: img/corrected/BP199E.png
-[img/BP199D]: img/derived/BP199D.svg
 [url/BP199F]: https://www.foundalis.com/res/bps/foundal/p199.htm
 [url/BP199E]: https://oebp.org/BP199
 
@@ -6196,19 +5829,18 @@
 |           |                        | Problem with solution  |               |
 |           |                        | based on number.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each example is a      |               |
-| (96%)     | img/derived/BP200D.svg | miniature Bongard      |               |
-|           | type="image/svg+xml"   | problem. A visible     |               |
-|           | style="width:100%">    | feature separates its  |               |
-|           | [![BP200D][img/BP200D] | two groups on the      |               |
-|           | ][img/BP200D]</object> | left, and a count      |               |
+| Derived   |                        | Each example is a      |               |
+|           |                        | miniature Bongard      |               |
+|           |                        | problem. A visible     |               |
+|           |                        | feature separates its  |               |
+|           |                        | two groups on the      |               |
+|           |                        | left, and a count      |               |
 |           |                        | separates them on the  |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP200F]: img/corrected/BP200F.png
 [img/BP200E]: img/corrected/BP200E.png
-[img/BP200D]: img/derived/BP200D.svg
 [url/BP200F]: https://www.foundalis.com/res/bps/foundal/p200.htm
 [url/BP200E]: https://oebp.org/BP200
 
@@ -6228,17 +5860,15 @@
 |           |                        | border lines vs. not   |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Two pieces have        |               |
-| (98%)     | img/derived/BP201D.svg | matching edges that    |               |
-|           | type="image/svg+xml"   | fit together on the    |               |
-|           | style="width:100%">    | left. No such pair     |               |
-|           | [![BP201D][img/BP201D] | exists on the right.   |               |
-|           | ][img/BP201D]</object> |                        |               |
+| Derived   |                        | Two pieces have        |               |
+|           |                        | matching edges that    |               |
+|           |                        | fit together on the    |               |
+|           |                        | left. No such pair     |               |
+|           |                        | exists on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP201F]: img/corrected/BP201F.png
 [img/BP201E]: img/corrected/BP201E.png
-[img/BP201D]: img/derived/BP201D.svg
 [url/BP201F]: https://www.foundalis.com/res/bps/insana/p201.htm
 [url/BP201E]: https://oebp.org/BP201
 
@@ -6302,17 +5932,14 @@
 | OEBP      | [![BP204E][img/BP204E] | “Five vs. four.”       | [BP204E       |
 |           | ][img/BP204E]          |                        | ][url/BP204E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left example has  |               |
-| (97%)     | img/derived/BP204D.svg | five elements, and     |               |
-|           | type="image/svg+xml"   | each right example has |               |
-|           | style="width:100%">    | four.                  |               |
-|           | [![BP204D][img/BP204D] |                        |               |
-|           | ][img/BP204D]</object> |                        |               |
+| Derived   |                        | Each left example has  |               |
+|           |                        | five elements, and     |               |
+|           |                        | each right example has |               |
+|           |                        | four.                  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP204F]: img/corrected/BP204F.png
 [img/BP204E]: img/corrected/BP204E.png
-[img/BP204D]: img/derived/BP204D.svg
 [url/BP204F]: https://www.foundalis.com/res/bps/insana/p204.htm
 [url/BP204E]: https://oebp.org/BP204
 
@@ -6330,17 +5957,14 @@
 |           | ][img/BP205E]          | elements each vs. not  | ][url/BP205E] |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The four elements form |               |
-| (99%)     | img/derived/BP205D.svg | two pairs on the left. |               |
-|           | type="image/svg+xml"   | The right examples     |               |
-|           | style="width:100%">    | lack that grouping.    |               |
-|           | [![BP205D][img/BP205D] |                        |               |
-|           | ][img/BP205D]</object> |                        |               |
+| Derived   |                        | The four elements form |               |
+|           |                        | two pairs on the left. |               |
+|           |                        | The right examples     |               |
+|           |                        | lack that grouping.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP205F]: img/corrected/BP205F.png
 [img/BP205E]: img/corrected/BP205E.png
-[img/BP205D]: img/derived/BP205D.svg
 [url/BP205F]: https://www.foundalis.com/res/bps/insana/p205.htm
 [url/BP205E]: https://oebp.org/BP205
 
@@ -6363,17 +5987,16 @@
 |           |                        | ends in a roughly left |               |
 |           |                        | or right direction.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The tangent at the     |               |
-| (95%)     | img/derived/BP206D.svg | free end runs roughly  |               |
-|           | type="image/svg+xml"   | vertically on the left |               |
-|           | style="width:100%">    | and roughly            |               |
-|           | [![BP206D][img/BP206D] | horizontally on the    |               |
-|           | ][img/BP206D]</object> | right.                 |               |
+| Derived   |                        | The tangent at the     |               |
+|           |                        | free end runs roughly  |               |
+|           |                        | vertically on the left |               |
+|           |                        | and roughly            |               |
+|           |                        | horizontally on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP206F]: img/corrected/BP206F.png
 [img/BP206E]: img/corrected/BP206E.png
-[img/BP206D]: img/derived/BP206D.svg
 [url/BP206F]: https://www.foundalis.com/res/bps/insana/p206.htm
 [url/BP206E]: https://oebp.org/BP206
 
@@ -6395,17 +6018,15 @@
 |           |                        | right part of the      |               |
 |           |                        | box.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The free end of the    |               |
-| (96%)     | img/derived/BP207D.svg | curve lies in the left |               |
-|           | type="image/svg+xml"   | half of a left example |               |
-|           | style="width:100%">    | and in the right half  |               |
-|           | [![BP207D][img/BP207D] | of a right example.    |               |
-|           | ][img/BP207D]</object> |                        |               |
+| Derived   |                        | The free end of the    |               |
+|           |                        | curve lies in the left |               |
+|           |                        | half of a left example |               |
+|           |                        | and in the right half  |               |
+|           |                        | of a right example.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP207F]: img/corrected/BP207F.png
 [img/BP207E]: img/corrected/BP207E.png
-[img/BP207D]: img/derived/BP207D.svg
 [url/BP207F]: https://www.foundalis.com/res/bps/insana/p207.htm
 [url/BP207E]: https://oebp.org/BP207
 
@@ -6433,17 +6054,16 @@
 |           |                        | from maximum           |               |
 |           |                        | curvature.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Following each spiral  |               |
-| (96%)     | img/derived/BP208D.svg | outward from its       |               |
-|           | type="image/svg+xml"   | tightest bend turns    |               |
-|           | style="width:100%">    | counterclockwise on    |               |
-|           | [![BP208D][img/BP208D] | the left and clockwise |               |
-|           | ][img/BP208D]</object> | on the right.          |               |
+| Derived   |                        | Following each spiral  |               |
+|           |                        | outward from its       |               |
+|           |                        | tightest bend turns    |               |
+|           |                        | counterclockwise on    |               |
+|           |                        | the left and clockwise |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP208F]: img/corrected/BP208F.png
 [img/BP208E]: img/corrected/BP208E.png
-[img/BP208D]: img/derived/BP208D.svg
 [url/BP208F]: https://www.foundalis.com/res/bps/insana/p208.htm
 [url/BP208E]: https://oebp.org/BP208
 
@@ -6467,17 +6087,16 @@
 |           |                        | the center of the      |               |
 |           |                        | box.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The center of the      |               |
-| (98%)     | img/derived/BP209D.svg | panel coincides with   |               |
-|           | type="image/svg+xml"   | the center of an       |               |
-|           | style="width:100%">    | object on the right    |               |
-|           | [![BP209D][img/BP209D] | and with no object     |               |
-|           | ][img/BP209D]</object> | center on the left.    |               |
+| Derived   |                        | The center of the      |               |
+|           |                        | panel coincides with   |               |
+|           |                        | the center of an       |               |
+|           |                        | object on the right    |               |
+|           |                        | and with no object     |               |
+|           |                        | center on the left.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP209F]: img/corrected/BP209F.png
 [img/BP209E]: img/corrected/BP209E.png
-[img/BP209D]: img/derived/BP209D.svg
 [url/BP209F]: https://www.foundalis.com/res/bps/insana/p209.htm
 [url/BP209E]: https://oebp.org/BP209
 
@@ -6557,17 +6176,15 @@
 |           |                        | is far apart from all  |               |
 |           |                        | other dots.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Every dot has a nearby |               |
-| (99%)     | img/derived/BP212D.svg | neighbor on the left.  |               |
-|           | type="image/svg+xml"   | At least one dot is    |               |
-|           | style="width:100%">    | isolated from the      |               |
-|           | [![BP212D][img/BP212D] | others on the right.   |               |
-|           | ][img/BP212D]</object> |                        |               |
+| Derived   |                        | Every dot has a nearby |               |
+|           |                        | neighbor on the left.  |               |
+|           |                        | At least one dot is    |               |
+|           |                        | isolated from the      |               |
+|           |                        | others on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP212F]: img/corrected/BP212F.png
 [img/BP212E]: img/corrected/BP212E.png
-[img/BP212D]: img/derived/BP212D.svg
 [url/BP212F]: https://www.foundalis.com/res/bps/insana/p212.htm
 [url/BP212E]: https://oebp.org/BP212
 
@@ -6591,18 +6208,17 @@
 |           |                        | contains an x-crossing |               |
 |           |                        | point vs. not so.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The tightest complete  |               |
-| (96%)     | img/derived/BP213D.svg | turn of the curve      |               |
-|           | type="image/svg+xml"   | contains a             |               |
-|           | style="width:100%">    | self-crossing on the   |               |
-|           | [![BP213D][img/BP213D] | left and is clear of   |               |
-|           | ][img/BP213D]</object> | crossings on the       |               |
+| Derived   |                        | The tightest complete  |               |
+|           |                        | turn of the curve      |               |
+|           |                        | contains a             |               |
+|           |                        | self-crossing on the   |               |
+|           |                        | left and is clear of   |               |
+|           |                        | crossings on the       |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP213F]: img/corrected/BP213F.png
 [img/BP213E]: img/corrected/BP213E.png
-[img/BP213D]: img/derived/BP213D.svg
 [url/BP213F]: https://www.foundalis.com/res/bps/insana/p213.htm
 [url/BP213E]: https://oebp.org/BP213
 
@@ -6646,17 +6262,15 @@
 |           | ][img/BP215E]          | vs. Mouth convex       | ][url/BP215E] |
 |           |                        | upwards.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The mouth curves       |               |
-| (99%)     | img/derived/BP215D.svg | upward like a smile on |               |
-|           | type="image/svg+xml"   | the left and downward  |               |
-|           | style="width:100%">    | like a frown on the    |               |
-|           | [![BP215D][img/BP215D] | right.                 |               |
-|           | ][img/BP215D]</object> |                        |               |
+| Derived   |                        | The mouth curves       |               |
+|           |                        | upward like a smile on |               |
+|           |                        | the left and downward  |               |
+|           |                        | like a frown on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP215F]: img/corrected/BP215F.png
 [img/BP215E]: img/corrected/BP215E.png
-[img/BP215D]: img/derived/BP215D.svg
 [url/BP215F]: https://www.foundalis.com/res/bps/insana/p215.htm
 [url/BP215E]: https://oebp.org/BP215
 
@@ -6677,17 +6291,15 @@
 |           |                        | vs. Marker tip         |               |
 |           |                        | (homogeneous line).”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Stroke width varies    |               |
-| (97%)     | img/derived/BP216D.svg | like a pen nib on the  |               |
-|           | type="image/svg+xml"   | left and stays uniform |               |
-|           | style="width:100%">    | like a marker on the   |               |
-|           | [![BP216D][img/BP216D] | right.                 |               |
-|           | ][img/BP216D]</object> |                        |               |
+| Derived   |                        | Stroke width varies    |               |
+|           |                        | like a pen nib on the  |               |
+|           |                        | left and stays uniform |               |
+|           |                        | like a marker on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP216F]: img/corrected/BP216F.png
 [img/BP216E]: img/corrected/BP216E.png
-[img/BP216D]: img/derived/BP216D.svg
 [url/BP216F]: https://www.foundalis.com/res/bps/insana/p216.htm
 [url/BP216E]: https://oebp.org/BP216
 
@@ -6706,17 +6318,15 @@
 |           | ][img/BP217E]          | vs. lines with white   | ][url/BP217E] |
 |           |                        | specks.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The strokes are solid  |               |
-| (97%)     | img/derived/BP217D.svg | black on the left.     |               |
-|           | type="image/svg+xml"   | Small white specks     |               |
-|           | style="width:100%">    | interrupt the strokes  |               |
-|           | [![BP217D][img/BP217D] | on the right.          |               |
-|           | ][img/BP217D]</object> |                        |               |
+| Derived   |                        | The strokes are solid  |               |
+|           |                        | black on the left.     |               |
+|           |                        | Small white specks     |               |
+|           |                        | interrupt the strokes  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP217F]: img/corrected/BP217F.png
 [img/BP217E]: img/corrected/BP217E.png
-[img/BP217D]: img/derived/BP217D.svg
 [url/BP217F]: https://www.foundalis.com/res/bps/insana/p217.htm
 [url/BP217E]: https://oebp.org/BP217
 
@@ -6736,17 +6346,16 @@
 |           | ][img/BP218E]          | vs. an extra copy of   | ][url/BP218E] |
 |           |                        | something is added.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A sequence or figure   |               |
-| (99%)     | img/derived/BP218D.svg | is missing a part on   |               |
-|           | type="image/svg+xml"   | the left. On the right |               |
-|           | style="width:100%">    | an extra part repeats  |               |
-|           | [![BP218D][img/BP218D] | or extends the         |               |
-|           | ][img/BP218D]</object> | expected pattern.      |               |
+| Derived   |                        | A sequence or figure   |               |
+|           |                        | is missing a part on   |               |
+|           |                        | the left. On the right |               |
+|           |                        | an extra part repeats  |               |
+|           |                        | or extends the         |               |
+|           |                        | expected pattern.      |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP218F]: img/corrected/BP218F.png
 [img/BP218E]: img/corrected/BP218E.png
-[img/BP218D]: img/derived/BP218D.svg
 [url/BP218F]: https://www.foundalis.com/res/bps/insana/p218.htm
 [url/BP218E]: https://oebp.org/BP218
 
@@ -6763,17 +6372,15 @@
 | OEBP      | [![BP219E][img/BP219E] | “Parallel curves vs.   | [BP219E       |
 |           | ][img/BP219E]          | non-parallel curves.”  | ][url/BP219E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The curves run         |               |
-| (97%)     | img/derived/BP219D.svg | parallel on the left   |               |
-|           | type="image/svg+xml"   | and change direction   |               |
-|           | style="width:100%">    | relative to one        |               |
-|           | [![BP219D][img/BP219D] | another on the right.  |               |
-|           | ][img/BP219D]</object> |                        |               |
+| Derived   |                        | The curves run         |               |
+|           |                        | parallel on the left   |               |
+|           |                        | and change direction   |               |
+|           |                        | relative to one        |               |
+|           |                        | another on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP219F]: img/corrected/BP219F.png
 [img/BP219E]: img/corrected/BP219E.png
-[img/BP219D]: img/derived/BP219D.svg
 [url/BP219F]: https://www.foundalis.com/res/bps/insana/p219.htm
 [url/BP219E]: https://oebp.org/BP219
 
@@ -6790,17 +6397,14 @@
 | OEBP      | [![BP220E][img/BP220E] | “One cluster vs. two   | [BP220E       |
 |           | ][img/BP220E]          | clusters.”             | ][url/BP220E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The marks make one     |               |
-| (97%)     | img/derived/BP220D.svg | spatial cluster on the |               |
-|           | type="image/svg+xml"   | left and two on the    |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP220D][img/BP220D] |                        |               |
-|           | ][img/BP220D]</object> |                        |               |
+| Derived   |                        | The marks make one     |               |
+|           |                        | spatial cluster on the |               |
+|           |                        | left and two on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP220F]: img/corrected/BP220F.png
 [img/BP220E]: img/corrected/BP220E.png
-[img/BP220D]: img/derived/BP220D.svg
 [url/BP220F]: https://www.foundalis.com/res/bps/insana/p220.htm
 [url/BP220E]: https://oebp.org/BP220
 
@@ -6824,17 +6428,15 @@
 |           |                        | vs. curve ends at a    |               |
 |           |                        | small square.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The ends of the curves |               |
-| (97%)     | img/derived/BP221D.svg | lack square terminals  |               |
-|           | type="image/svg+xml"   | on the left. A small   |               |
-|           | style="width:100%">    | square terminates a    |               |
-|           | [![BP221D][img/BP221D] | curve on the right.    |               |
-|           | ][img/BP221D]</object> |                        |               |
+| Derived   |                        | The ends of the curves |               |
+|           |                        | lack square terminals  |               |
+|           |                        | on the left. A small   |               |
+|           |                        | square terminates a    |               |
+|           |                        | curve on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP221F]: img/corrected/BP221F.png
 [img/BP221E]: img/corrected/BP221E.png
-[img/BP221D]: img/derived/BP221D.svg
 [url/BP221F]: https://www.foundalis.com/res/bps/insana/p221.htm
 [url/BP221E]: https://oebp.org/BP221
 
@@ -6857,17 +6459,15 @@
 |           |                        | of black rectangle is  |               |
 |           |                        | complete.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A break interrupts the |               |
-| (99%)     | img/derived/BP222D.svg | black rectangle’s      |               |
-|           | type="image/svg+xml"   | boundary on the left.  |               |
-|           | style="width:100%">    | Its boundary is        |               |
-|           | [![BP222D][img/BP222D] | complete on the right. |               |
-|           | ][img/BP222D]</object> |                        |               |
+| Derived   |                        | A break interrupts the |               |
+|           |                        | black rectangle’s      |               |
+|           |                        | boundary on the left.  |               |
+|           |                        | Its boundary is        |               |
+|           |                        | complete on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP222F]: img/corrected/BP222F.png
 [img/BP222E]: img/corrected/BP222E.png
-[img/BP222D]: img/derived/BP222D.svg
 [url/BP222F]: https://www.foundalis.com/res/bps/insana/p222.htm
 [url/BP222E]: https://oebp.org/BP222
 
@@ -6890,17 +6490,15 @@
 |           |                        | if completed is an     |               |
 |           |                        | ellipse.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Completing the partly  |               |
-| (99%)     | img/derived/BP223D.svg | obscured black outline |               |
-|           | type="image/svg+xml"   | gives a circle on the  |               |
-|           | style="width:100%">    | left and an elongated  |               |
-|           | [![BP223D][img/BP223D] | ellipse on the right.  |               |
-|           | ][img/BP223D]</object> |                        |               |
+| Derived   |                        | Completing the partly  |               |
+|           |                        | obscured black outline |               |
+|           |                        | gives a circle on the  |               |
+|           |                        | left and an elongated  |               |
+|           |                        | ellipse on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP223F]: img/corrected/BP223F.png
 [img/BP223E]: img/corrected/BP223E.png
-[img/BP223D]: img/derived/BP223D.svg
 [url/BP223F]: https://www.foundalis.com/res/bps/insana/p223.htm
 [url/BP223E]: https://oebp.org/BP223
 
@@ -6923,18 +6521,17 @@
 |           |                        | large black circular   |               |
 |           |                        | region vs. not so.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Opposite positions on  |               |
-| (99%)     | img/derived/BP224D.svg | the black disk have    |               |
-|           | type="image/svg+xml"   | matching additions or  |               |
-|           | style="width:100%">    | cutouts on the left    |               |
-|           | [![BP224D][img/BP224D] | and different          |               |
-|           | ][img/BP224D]</object> | treatments on the      |               |
+| Derived   |                        | Opposite positions on  |               |
+|           |                        | the black disk have    |               |
+|           |                        | matching additions or  |               |
+|           |                        | cutouts on the left    |               |
+|           |                        | and different          |               |
+|           |                        | treatments on the      |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP224F]: img/corrected/BP224F.png
 [img/BP224E]: img/corrected/BP224E.png
-[img/BP224D]: img/derived/BP224D.svg
 [url/BP224F]: https://www.foundalis.com/res/bps/insana/p224.htm
 [url/BP224E]: https://oebp.org/BP224
 
@@ -6963,17 +6560,16 @@
 |           |                        | least one fully black  |               |
 |           |                        | region).”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left textures      |               |
-| (90%)     | img/derived/BP225D.svg | contain no solid black |               |
-|           | type="image/svg+xml"   | patch. The right       |               |
-|           | style="width:100%">    | textures contain at    |               |
-|           | [![BP225D][img/BP225D] | least one, which gives |               |
-|           | ][img/BP225D]</object> | them greater contrast. |               |
+| Derived   |                        | The left textures      |               |
+|           |                        | contain no solid black |               |
+|           |                        | patch. The right       |               |
+|           |                        | textures contain at    |               |
+|           |                        | least one, which gives |               |
+|           |                        | them greater contrast. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP225F]: img/corrected/BP225F.png
 [img/BP225E]: img/corrected/BP225E.png
-[img/BP225D]: img/derived/BP225D.svg
 [url/BP225F]: https://www.foundalis.com/res/bps/insana/p225.htm
 [url/BP225E]: https://oebp.org/BP225
 
@@ -6994,18 +6590,17 @@
 |           |                        | clockwise direction    |               |
 |           |                        | vs. not so.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The shapes projecting  |               |
-| (99%)     | img/derived/BP226D.svg | from the disk suggest  |               |
-|           | type="image/svg+xml"   | clockwise motion on    |               |
-|           | style="width:100%">    | the left. The right    |               |
-|           | [![BP226D][img/BP226D] | arrangements break     |               |
-|           | ][img/BP226D]</object> | that directional       |               |
+| Derived   |                        | The shapes projecting  |               |
+|           |                        | from the disk suggest  |               |
+|           |                        | clockwise motion on    |               |
+|           |                        | the left. The right    |               |
+|           |                        | arrangements break     |               |
+|           |                        | that directional       |               |
 |           |                        | pattern.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP226F]: img/corrected/BP226F.png
 [img/BP226E]: img/corrected/BP226E.png
-[img/BP226D]: img/derived/BP226D.svg
 [url/BP226F]: https://www.foundalis.com/res/bps/insana/p226.htm
 [url/BP226E]: https://oebp.org/BP226
 
@@ -7036,18 +6631,17 @@
 |           |                        | touches the edges of   |               |
 |           |                        | the box.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | On the left the dots   |               |
-| (99%)     | img/derived/BP227D.svg | touch exactly when the |               |
-|           | type="image/svg+xml"   | large shapes clear the |               |
-|           | style="width:100%">    | frame. On the right    |               |
-|           | [![BP227D][img/BP227D] | the dots touch exactly |               |
-|           | ][img/BP227D]</object> | when a large shape     |               |
+| Derived   |                        | On the left the dots   |               |
+|           |                        | touch exactly when the |               |
+|           |                        | large shapes clear the |               |
+|           |                        | frame. On the right    |               |
+|           |                        | the dots touch exactly |               |
+|           |                        | when a large shape     |               |
 |           |                        | reaches the frame.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP227F]: img/corrected/BP227F.png
 [img/BP227E]: img/corrected/BP227E.png
-[img/BP227D]: img/derived/BP227D.svg
 [url/BP227F]: https://www.foundalis.com/res/bps/insana/p227.htm
 [url/BP227E]: https://oebp.org/BP227
 
@@ -7080,18 +6674,17 @@
 |           |                        | left arm down and a    |               |
 |           |                        | weight raised.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Orienting the longest  |               |
-| (96%)     | img/derived/BP228D.svg | bar horizontally puts  |               |
-|           | type="image/svg+xml"   | the left arm up and    |               |
-|           | style="width:100%">    | the weight down on the |               |
-|           | [![BP228D][img/BP228D] | left. The arm and      |               |
-|           | ][img/BP228D]</object> | weight exchange        |               |
+| Derived   |                        | Orienting the longest  |               |
+|           |                        | bar horizontally puts  |               |
+|           |                        | the left arm up and    |               |
+|           |                        | the weight down on the |               |
+|           |                        | left. The arm and      |               |
+|           |                        | weight exchange        |               |
 |           |                        | heights on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP228F]: img/corrected/BP228F.png
 [img/BP228E]: img/corrected/BP228E.png
-[img/BP228D]: img/derived/BP228D.svg
 [url/BP228F]: https://www.foundalis.com/res/bps/insana/p228.htm
 [url/BP228E]: https://oebp.org/BP228
 
@@ -7120,19 +6713,18 @@
 |           |                        | columns of the same    |               |
 |           |                        | color vs. not so.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Rotate the pieces to   |               |
-| (100%)    | img/derived/BP229D.svg | align their dots and   |               |
-|           | type="image/svg+xml"   | remove the dots. Only  |               |
-|           | style="width:100%">    | on the left do the     |               |
-|           | [![BP229D][img/BP229D] | pieces make            |               |
-|           | ][img/BP229D]</object> | three-square-high      |               |
+| Derived   |                        | Rotate the pieces to   |               |
+|           |                        | align their dots and   |               |
+|           |                        | remove the dots. Only  |               |
+|           |                        | on the left do the     |               |
+|           |                        | pieces make            |               |
+|           |                        | three-square-high      |               |
 |           |                        | columns of uniform     |               |
 |           |                        | color.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP229F]: img/corrected/BP229F.png
 [img/BP229E]: img/corrected/BP229E.png
-[img/BP229D]: img/derived/BP229D.svg
 [url/BP229F]: https://www.foundalis.com/res/bps/insana/p229.htm
 [url/BP229E]: https://oebp.org/BP229
 
@@ -7151,17 +6743,16 @@
 |           | ][img/BP230E]          | line ends, and dots is | ][url/BP230E] |
 |           |                        | 7 vs. not so.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Adding all vertices,   |               |
-| (95%)     | img/derived/BP230D.svg | free line ends and     |               |
-|           | type="image/svg+xml"   | isolated dots gives    |               |
-|           | style="width:100%">    | seven on the left and  |               |
-|           | [![BP230D][img/BP230D] | a different total on   |               |
-|           | ][img/BP230D]</object> | the right.             |               |
+| Derived   |                        | Adding all vertices,   |               |
+|           |                        | free line ends and     |               |
+|           |                        | isolated dots gives    |               |
+|           |                        | seven on the left and  |               |
+|           |                        | a different total on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP230F]: img/corrected/BP230F.png
 [img/BP230E]: img/corrected/BP230E.png
-[img/BP230D]: img/derived/BP230D.svg
 [url/BP230F]: https://www.foundalis.com/res/bps/insana/p230.htm
 [url/BP230E]: https://oebp.org/BP230
 
@@ -7178,17 +6769,15 @@
 | OEBP      | [![BP231E][img/BP231E] | “Five concavities vs.  | [BP231E       |
 |           | ][img/BP231E]          | not five concavities.” | ][url/BP231E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The silhouettes have   |               |
-| (99%)     | img/derived/BP231D.svg | five inward recesses   |               |
-|           | type="image/svg+xml"   | on the left and a      |               |
-|           | style="width:100%">    | different number on    |               |
-|           | [![BP231D][img/BP231D] | the right.             |               |
-|           | ][img/BP231D]</object> |                        |               |
+| Derived   |                        | The silhouettes have   |               |
+|           |                        | five inward recesses   |               |
+|           |                        | on the left and a      |               |
+|           |                        | different number on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP231F]: img/corrected/BP231F.png
 [img/BP231E]: img/corrected/BP231E.png
-[img/BP231D]: img/derived/BP231D.svg
 [url/BP231F]: https://www.foundalis.com/res/bps/insana/p231.htm
 [url/BP231E]: https://oebp.org/BP231
 
@@ -7207,17 +6796,14 @@
 |           | ][img/BP232E]          | areas vs. box divided  | ][url/BP232E] |
 |           |                        | into four areas.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figure divides the |               |
-| (97%)     | img/derived/BP232D.svg | panel into six regions |               |
-|           | type="image/svg+xml"   | on the left and four   |               |
-|           | style="width:100%">    | on the right.          |               |
-|           | [![BP232D][img/BP232D] |                        |               |
-|           | ][img/BP232D]</object> |                        |               |
+| Derived   |                        | The figure divides the |               |
+|           |                        | panel into six regions |               |
+|           |                        | on the left and four   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP232F]: img/corrected/BP232F.png
 [img/BP232E]: img/corrected/BP232E.png
-[img/BP232D]: img/derived/BP232D.svg
 [url/BP232F]: https://www.foundalis.com/res/bps/insana/p232.htm
 [url/BP232E]: https://oebp.org/BP232
 
@@ -7238,13 +6824,13 @@
 |           |                        | minus triangles equal  |               |
 |           |                        | stars.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 8%      | Adding the number of   |               |
-|           | after the redraw. The  | triangles to the       |               |
-|           | black-ink comparison   | number of lines gives  |               |
-|           | drops most of the      | the number of stars on |               |
-|           | original’s pale        | the left. Subtracting  |               |
-|           | strokes.               | the triangles from the |               |
-|           |                        | lines gives it on the  |               |
+| Flagged   | The previous redraw    | Adding the number of   |               |
+|           | scored below the       | triangles to the       |               |
+|           | similarity threshold   | number of lines gives  |               |
+|           | because the black-ink  | the number of stars on |               |
+|           | comparison dropped     | the left. Subtracting  |               |
+|           | most of the original’s | the triangles from the |               |
+|           | pale strokes.          | lines gives it on the  |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
@@ -7277,13 +6863,13 @@
 |           |                        | all other objects if   |               |
 |           |                        | let loose.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 16%     | Under gravity the      |               |
-|           | after the redraw. The  | circle would clear the |               |
-|           | black-ink comparison   | other objects on their |               |
-|           | drops most of the      | right in a left        |               |
-|           | original’s pale        | example and on their   |               |
-|           | strokes.               | left in a right        |               |
-|           |                        | example.               |               |
+| Flagged   | The previous redraw    | Under gravity the      |               |
+|           | scored below the       | circle would clear the |               |
+|           | similarity threshold   | other objects on their |               |
+|           | because the black-ink  | right in a left        |               |
+|           | comparison dropped     | example and on their   |               |
+|           | most of the original’s | left in a right        |               |
+|           | pale strokes.          | example.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP234F]: img/corrected/BP234F.png
@@ -7312,12 +6898,13 @@
 |           |                        | does not reach the     |               |
 |           |                        | other ball.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 3%      | Straightening the rope |               |
-|           | after the redraw. The  | would let the attached |               |
-|           | black-ink comparison   | ball reach the other   |               |
-|           | drops most of the      | ball on the left. The  |               |
-|           | original’s pale        | rope falls short on    |               |
-|           | strokes.               | the right.             |               |
+| Flagged   | The previous redraw    | Straightening the rope |               |
+|           | scored below the       | would let the attached |               |
+|           | similarity threshold   | ball reach the other   |               |
+|           | because the black-ink  | ball on the left. The  |               |
+|           | comparison dropped     | rope falls short on    |               |
+|           | most of the original’s | the right.             |               |
+|           | pale strokes.          |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP235F]: img/corrected/BP235F.png
@@ -7341,17 +6928,15 @@
 |           |                        | with blotchy           |               |
 |           |                        | squiggle.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The marks in the       |               |
-| (93%)     | img/derived/BP236D.svg | textured patch form    |               |
-|           | type="image/svg+xml"   | stripes on the left    |               |
-|           | style="width:100%">    | and blotches on the    |               |
-|           | [![BP236D][img/BP236D] | right.                 |               |
-|           | ][img/BP236D]</object> |                        |               |
+| Derived   |                        | The marks in the       |               |
+|           |                        | textured patch form    |               |
+|           |                        | stripes on the left    |               |
+|           |                        | and blotches on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP236F]: img/corrected/BP236F.png
 [img/BP236E]: img/corrected/BP236E.png
-[img/BP236D]: img/derived/BP236D.svg
 [url/BP236F]: https://www.foundalis.com/res/bps/shanahan/p236.htm
 [url/BP236E]: https://oebp.org/BP236
 
@@ -7376,12 +6961,13 @@
 |           |                        | APPEARS longer than    |               |
 |           |                        | lower central line.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 12%     | The upper central      |               |
-|           | after the redraw. The  | segment looks shorter  |               |
-|           | black-ink comparison   | than the lower one on  |               |
-|           | drops most of the      | the left and longer on |               |
-|           | original’s pale        | the right.             |               |
-|           | strokes.               |                        |               |
+| Flagged   | The previous redraw    | The upper central      |               |
+|           | scored below the       | segment looks shorter  |               |
+|           | similarity threshold   | than the lower one on  |               |
+|           | because the black-ink  | the left and longer on |               |
+|           | comparison dropped     | the right.             |               |
+|           | most of the original’s |                        |               |
+|           | pale strokes.          |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP237F]: img/corrected/BP237F.png
@@ -7407,17 +6993,16 @@
 |           |                        | point to opposite      |               |
 |           |                        | directions.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two C-shaped       |               |
-| (94%)     | img/derived/BP238D.svg | curves open in the     |               |
-|           | type="image/svg+xml"   | same direction on the  |               |
-|           | style="width:100%">    | left and in opposite   |               |
-|           | [![BP238D][img/BP238D] | directions on the      |               |
-|           | ][img/BP238D]</object> | right.                 |               |
+| Derived   |                        | The two C-shaped       |               |
+|           |                        | curves open in the     |               |
+|           |                        | same direction on the  |               |
+|           |                        | left and in opposite   |               |
+|           |                        | directions on the      |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP238F]: img/corrected/BP238F.png
 [img/BP238E]: img/corrected/BP238E.png
-[img/BP238D]: img/derived/BP238D.svg
 [url/BP238F]: https://www.foundalis.com/res/bps/foundal/p238.htm
 [url/BP238E]: https://oebp.org/BP238
 
@@ -7452,18 +7037,17 @@
 |           |                        | joining the ends of    |               |
 |           |                        | curve.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The separate segment   |               |
-| (91%)     | img/derived/BP239D.svg | is parallel to the     |               |
-|           | type="image/svg+xml"   | chord joining the      |               |
-|           | style="width:100%">    | curve’s ends on the    |               |
-|           | [![BP239D][img/BP239D] | left and perpendicular |               |
-|           | ][img/BP239D]</object> | to that chord on the   |               |
+| Derived   |                        | The separate segment   |               |
+|           |                        | is parallel to the     |               |
+|           |                        | chord joining the      |               |
+|           |                        | curve’s ends on the    |               |
+|           |                        | left and perpendicular |               |
+|           |                        | to that chord on the   |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP239F]: img/corrected/BP239F.png
 [img/BP239E]: img/corrected/BP239E.png
-[img/BP239D]: img/derived/BP239D.svg
 [url/BP239F]: https://www.foundalis.com/res/bps/foundal/p239.htm
 [url/BP239E]: https://oebp.org/BP239
 
@@ -7488,17 +7072,16 @@
 |           |                        | the curve ends         |               |
 |           |                        | intersects the curve.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Joining the ends by a  |               |
-| (94%)     | img/derived/BP240D.svg | straight segment       |               |
-|           | type="image/svg+xml"   | clears the rest of the |               |
-|           | style="width:100%">    | curve on the left and  |               |
-|           | [![BP240D][img/BP240D] | crosses it on the      |               |
-|           | ][img/BP240D]</object> | right.                 |               |
+| Derived   |                        | Joining the ends by a  |               |
+|           |                        | straight segment       |               |
+|           |                        | clears the rest of the |               |
+|           |                        | curve on the left and  |               |
+|           |                        | crosses it on the      |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP240F]: img/corrected/BP240F.png
 [img/BP240E]: img/corrected/BP240E.png
-[img/BP240D]: img/derived/BP240D.svg
 [url/BP240F]: https://www.foundalis.com/res/bps/howells/p240.htm
 [url/BP240E]: https://oebp.org/BP240
 
@@ -7523,17 +7106,16 @@
 |           |                        | than length of         |               |
 |           |                        | everything else.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The circumference of   |               |
-| (96%)     | img/derived/BP241D.svg | the circle is shorter  |               |
-|           | type="image/svg+xml"   | than the combined      |               |
-|           | style="width:100%">    | length of the other    |               |
-|           | [![BP241D][img/BP241D] | marks on the left and  |               |
-|           | ][img/BP241D]</object> | longer on the right.   |               |
+| Derived   |                        | The circumference of   |               |
+|           |                        | the circle is shorter  |               |
+|           |                        | than the combined      |               |
+|           |                        | length of the other    |               |
+|           |                        | marks on the left and  |               |
+|           |                        | longer on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP241F]: img/corrected/BP241F.png
 [img/BP241E]: img/corrected/BP241E.png
-[img/BP241D]: img/derived/BP241D.svg
 [url/BP241F]: https://www.foundalis.com/res/bps/howells/p241.htm
 [url/BP241E]: https://oebp.org/BP241
 
@@ -7580,18 +7162,17 @@
 |           |                        | the circles vs. not    |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | On the left the        |               |
-| (96%)     | img/derived/BP243D.svg | triangle comes closer  |               |
-|           | type="image/svg+xml"   | to a corner of the     |               |
-|           | style="width:100%">    | panel than any circle  |               |
-|           | [![BP243D][img/BP243D] | does. On the right a   |               |
-|           | ][img/BP243D]</object> | circle comes at least  |               |
+| Derived   |                        | On the left the        |               |
+|           |                        | triangle comes closer  |               |
+|           |                        | to a corner of the     |               |
+|           |                        | panel than any circle  |               |
+|           |                        | does. On the right a   |               |
+|           |                        | circle comes at least  |               |
 |           |                        | as close.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP243F]: img/corrected/BP243F.png
 [img/BP243E]: img/corrected/BP243E.png
-[img/BP243D]: img/derived/BP243D.svg
 [url/BP243F]: https://www.foundalis.com/res/bps/howells/p243.htm
 [url/BP243E]: https://oebp.org/BP243
 
@@ -7620,12 +7201,13 @@
 |           |                        | same number of empty   |               |
 |           |                        | boxes vs. not so.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The redrawn grid lines | In reading order the   |               |
-|           | in L1 stop short of    | black squares are      |               |
-|           | the frame. Its outer   | equally spaced in the  |               |
-|           | cells run together,    | sequence of cells on   |               |
-|           | making the spacing of  | the left. The gaps     |               |
-|           | the black squares      | vary on the right.     |               |
+| Flagged   | In the previous        | In reading order the   |               |
+|           | redraw, the grid lines | black squares are      |               |
+|           | in L1 stopped short of | equally spaced in the  |               |
+|           | the frame. Its outer   | sequence of cells on   |               |
+|           | cells ran together,    | the left. The gaps     |               |
+|           | making the spacing of  | vary on the right.     |               |
+|           | the black squares      |                        |               |
 |           | ambiguous.             |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
@@ -7654,18 +7236,17 @@
 |           |                        | made into a            |               |
 |           |                        | rectangle.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The fragments could    |               |
-| (100%)    | img/derived/BP245D.svg | all belong to one      |               |
-|           | type="image/svg+xml"   | rectangle on the left. |               |
-|           | style="width:100%">    | They cannot be         |               |
-|           | [![BP245D][img/BP245D] | completed as one       |               |
-|           | ][img/BP245D]</object> | rectangle on the       |               |
+| Derived   |                        | The fragments could    |               |
+|           |                        | all belong to one      |               |
+|           |                        | rectangle on the left. |               |
+|           |                        | They cannot be         |               |
+|           |                        | completed as one       |               |
+|           |                        | rectangle on the       |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP245F]: img/corrected/BP245F.png
 [img/BP245E]: img/corrected/BP245E.png
-[img/BP245D]: img/derived/BP245D.svg
 [url/BP245F]: https://www.foundalis.com/res/bps/rispoli/p245.htm
 [url/BP245E]: https://oebp.org/BP245
 
@@ -7690,17 +7271,16 @@
 |           |                        | straight lines and     |               |
 |           |                        | continuous curves.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Straight segments and  |               |
-| (99%)     | img/derived/BP246D.svg | continuous curves      |               |
-|           | type="image/svg+xml"   | occur in equal numbers |               |
-|           | style="width:100%">    | on the left and        |               |
-|           | [![BP246D][img/BP246D] | unequal numbers on the |               |
-|           | ][img/BP246D]</object> | right.                 |               |
+| Derived   |                        | Straight segments and  |               |
+|           |                        | continuous curves      |               |
+|           |                        | occur in equal numbers |               |
+|           |                        | on the left and        |               |
+|           |                        | unequal numbers on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP246F]: img/corrected/BP246F.png
 [img/BP246E]: img/corrected/BP246E.png
-[img/BP246D]: img/derived/BP246D.svg
 [url/BP246F]: https://www.foundalis.com/res/bps/rispoli/p246.htm
 [url/BP246E]: https://oebp.org/BP246
 
@@ -7721,17 +7301,16 @@
 |           |                        | five straight or       |               |
 |           |                        | curved lines.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Counting straight      |               |
-| (91%)     | img/derived/BP247D.svg | segments and           |               |
-|           | type="image/svg+xml"   | continuous curves      |               |
-|           | style="width:100%">    | gives five on the left |               |
-|           | [![BP247D][img/BP247D] | and a different number |               |
-|           | ][img/BP247D]</object> | on the right.          |               |
+| Derived   |                        | Counting straight      |               |
+|           |                        | segments and           |               |
+|           |                        | continuous curves      |               |
+|           |                        | gives five on the left |               |
+|           |                        | and a different number |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP247F]: img/corrected/BP247F.png
 [img/BP247E]: img/corrected/BP247E.png
-[img/BP247D]: img/derived/BP247D.svg
 [url/BP247F]: https://www.foundalis.com/res/bps/gunnarsson/p247.htm
 [url/BP247E]: https://oebp.org/BP247
 
@@ -7756,18 +7335,17 @@
 |           |                        | parallel to the one    |               |
 |           |                        | outside vs. not so.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dashed boundary    |               |
-| (93%)     | img/derived/BP248D.svg | follows a slightly     |               |
-|           | type="image/svg+xml"   | smaller parallel copy  |               |
-|           | style="width:100%">    | of the solid outline   |               |
-|           | [![BP248D][img/BP248D] | on the left. It        |               |
-|           | ][img/BP248D]</object> | departs from that      |               |
+| Derived   |                        | The dashed boundary    |               |
+|           |                        | follows a slightly     |               |
+|           |                        | smaller parallel copy  |               |
+|           |                        | of the solid outline   |               |
+|           |                        | on the left. It        |               |
+|           |                        | departs from that      |               |
 |           |                        | pattern on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP248F]: img/corrected/BP248F.png
 [img/BP248E]: img/corrected/BP248E.png
-[img/BP248D]: img/derived/BP248D.svg
 [url/BP248F]: https://www.foundalis.com/res/bps/gunnarsson/p248.htm
 [url/BP248E]: https://oebp.org/BP248
 
@@ -7786,17 +7364,16 @@
 |           | ][img/BP249E]          | same shape centered    | ][url/BP249E] |
 |           |                        | inside vs. not so.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dashed figure is a |               |
-| (93%)     | img/derived/BP249D.svg | centered copy of the   |               |
-|           | type="image/svg+xml"   | outer shape on the     |               |
-|           | style="width:100%">    | left. Its shape or     |               |
-|           | [![BP249D][img/BP249D] | placement differs on   |               |
-|           | ][img/BP249D]</object> | the right.             |               |
+| Derived   |                        | The dashed figure is a |               |
+|           |                        | centered copy of the   |               |
+|           |                        | outer shape on the     |               |
+|           |                        | left. Its shape or     |               |
+|           |                        | placement differs on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP249F]: img/corrected/BP249F.png
 [img/BP249E]: img/corrected/BP249E.png
-[img/BP249D]: img/derived/BP249D.svg
 [url/BP249F]: https://www.foundalis.com/res/bps/gunnarsson/p249.htm
 [url/BP249E]: https://oebp.org/BP249
 
@@ -7822,19 +7399,18 @@
 |           | ][img/BP250E]          | on the box plane vs.   | ][url/BP250E] |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The lines can          |               |
-| (95%)     | img/derived/BP250D.svg | represent the          |               |
-|           | type="image/svg+xml"   | projected edges of a   |               |
-|           | style="width:100%">    | tetrahedron on the     |               |
-|           | [![BP250D][img/BP250D] | left. The right        |               |
-|           | ][img/BP250D]</object> | drawings are           |               |
+| Derived   |                        | The lines can          |               |
+|           |                        | represent the          |               |
+|           |                        | projected edges of a   |               |
+|           |                        | tetrahedron on the     |               |
+|           |                        | left. The right        |               |
+|           |                        | drawings are           |               |
 |           |                        | incompatible with that |               |
 |           |                        | projection.            |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP250F]: img/corrected/BP250F.png
 [img/BP250E]: img/corrected/BP250E.png
-[img/BP250D]: img/derived/BP250D.svg
 [url/BP250F]: https://www.foundalis.com/res/bps/gunnarsson/p250.htm
 [url/BP250E]: https://oebp.org/BP250
 
@@ -7853,17 +7429,15 @@
 |           | ][img/BP251E]          | on the box plane vs.   | ][url/BP251E] |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The drawing can be a   |               |
-| (94%)     | img/derived/BP251D.svg | planar projection of a |               |
-|           | type="image/svg+xml"   | tetrahedron on the     |               |
-|           | style="width:100%">    | left and cannot be one |               |
-|           | [![BP251D][img/BP251D] | on the right.          |               |
-|           | ][img/BP251D]</object> |                        |               |
+| Derived   |                        | The drawing can be a   |               |
+|           |                        | planar projection of a |               |
+|           |                        | tetrahedron on the     |               |
+|           |                        | left and cannot be one |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP251F]: img/corrected/BP251F.png
 [img/BP251E]: img/corrected/BP251E.png
-[img/BP251D]: img/derived/BP251D.svg
 [url/BP251F]: https://www.foundalis.com/res/bps/gunnarsson/p251.htm
 [url/BP251E]: https://oebp.org/BP251
 
@@ -7882,12 +7456,13 @@
 |           | ][img/BP252E]          | 3-D vs. possible solid | ][url/BP252E] |
 |           |                        | in 3-D.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | In L2 the redraw fills | The apparent           |               |
-|           | the two beam joints    | three-dimensional      |               |
-|           | with black triangles,  | object is impossible   |               |
-|           | obscuring the          | to build on the left   |               |
-|           | connections that make  | and geometrically      |               |
-|           | the object impossible. | possible on the right. |               |
+| Flagged   | In L2 the previous     | The apparent           |               |
+|           | redraw filled the two  | three-dimensional      |               |
+|           | beam joints with black | object is impossible   |               |
+|           | triangles, obscuring   | to build on the left   |               |
+|           | the connections that   | and geometrically      |               |
+|           | make the object        | possible on the right. |               |
+|           | impossible.            |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP252F]: img/corrected/BP252F.png
@@ -7926,17 +7501,16 @@
 | OEBP      | [![BP253E][img/BP253E] | “Prime number vs.      | [BP253E       |
 |           | ][img/BP253E]          | composite number.”     | ][url/BP253E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The number of objects  |               |
-| (98%)     | img/derived/BP253D.svg | is prime on the left.  |               |
-|           | type="image/svg+xml"   | On the right the       |               |
-|           | style="width:100%">    | objects can be divided |               |
-|           | [![BP253D][img/BP253D] | into equal groups of   |               |
-|           | ][img/BP253D]</object> | at least two.          |               |
+| Derived   |                        | The number of objects  |               |
+|           |                        | is prime on the left.  |               |
+|           |                        | On the right the       |               |
+|           |                        | objects can be divided |               |
+|           |                        | into equal groups of   |               |
+|           |                        | at least two.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP253F]: img/corrected/BP253F.png
 [img/BP253E]: img/corrected/BP253E.png
-[img/BP253D]: img/derived/BP253D.svg
 [url/BP253F]: https://www.foundalis.com/res/bps/gunnarsson/p253.htm
 [url/BP253E]: https://oebp.org/BP253
 
@@ -7959,18 +7533,17 @@
 |           |                        | and the circle are     |               |
 |           |                        | collinear.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A straight line        |               |
-| (93%)     | img/derived/BP254D.svg | through the center of  |               |
-|           | type="image/svg+xml"   | the small circle       |               |
-|           | style="width:100%">    | passes through two     |               |
-|           | [![BP254D][img/BP254D] | vertices on the left   |               |
-|           | ][img/BP254D]</object> | and through no pair of |               |
+| Derived   |                        | A straight line        |               |
+|           |                        | through the center of  |               |
+|           |                        | the small circle       |               |
+|           |                        | passes through two     |               |
+|           |                        | vertices on the left   |               |
+|           |                        | and through no pair of |               |
 |           |                        | vertices on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP254F]: img/corrected/BP254F.png
 [img/BP254E]: img/corrected/BP254E.png
-[img/BP254D]: img/derived/BP254D.svg
 [url/BP254F]: https://www.foundalis.com/res/bps/gunnarsson/p254.htm
 [url/BP254E]: https://oebp.org/BP254
 
@@ -7997,19 +7570,18 @@
 |           |                        | different slope vs.    |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left segments form |               |
-| (92%)     | img/derived/BP255D.svg | three pairs of         |               |
-|           | type="image/svg+xml"   | parallel, offset lines |               |
-|           | style="width:100%">    | with a different       |               |
-|           | [![BP255D][img/BP255D] | direction for each     |               |
-|           | ][img/BP255D]</object> | pair. The right        |               |
+| Derived   |                        | The left segments form |               |
+|           |                        | three pairs of         |               |
+|           |                        | parallel, offset lines |               |
+|           |                        | with a different       |               |
+|           |                        | direction for each     |               |
+|           |                        | pair. The right        |               |
 |           |                        | segments break that    |               |
 |           |                        | pattern.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP255F]: img/corrected/BP255F.png
 [img/BP255E]: img/corrected/BP255E.png
-[img/BP255D]: img/derived/BP255D.svg
 [url/BP255F]: https://www.foundalis.com/res/bps/gunnarsson/p255.htm
 [url/BP255E]: https://oebp.org/BP255
 
@@ -8036,18 +7608,17 @@
 |           |                        | large one than a small |               |
 |           |                        | one vs. not so.”       |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each circle’s nearest  |               |
-| (90%)     | img/derived/BP256D.svg | neighbor is of the     |               |
-|           | type="image/svg+xml"   | other size on the      |               |
-|           | style="width:100%">    | left. At least one     |               |
-|           | [![BP256D][img/BP256D] | circle has a nearest   |               |
-|           | ][img/BP256D]</object> | neighbor of its own    |               |
+| Derived   |                        | Each circle’s nearest  |               |
+|           |                        | neighbor is of the     |               |
+|           |                        | other size on the      |               |
+|           |                        | left. At least one     |               |
+|           |                        | circle has a nearest   |               |
+|           |                        | neighbor of its own    |               |
 |           |                        | size on the right.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP256F]: img/corrected/BP256F.png
 [img/BP256E]: img/corrected/BP256E.png
-[img/BP256D]: img/derived/BP256D.svg
 [url/BP256F]: https://www.foundalis.com/res/bps/gunnarsson/p256.htm
 [url/BP256E]: https://oebp.org/BP256
 
@@ -8075,18 +7646,17 @@
 |           |                        | of the square vs. not  |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The segment midpoint’s |               |
-| (94%)     | img/derived/BP257D.svg | distance from the      |               |
-|           | type="image/svg+xml"   | bottom edge equals the |               |
-|           | style="width:100%">    | dot’s distance from    |               |
-|           | [![BP257D][img/BP257D] | the right edge on the  |               |
-|           | ][img/BP257D]</object> | left. The distances    |               |
+| Derived   |                        | The segment midpoint’s |               |
+|           |                        | distance from the      |               |
+|           |                        | bottom edge equals the |               |
+|           |                        | dot’s distance from    |               |
+|           |                        | the right edge on the  |               |
+|           |                        | left. The distances    |               |
 |           |                        | differ on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP257F]: img/corrected/BP257F.png
 [img/BP257E]: img/corrected/BP257E.png
-[img/BP257D]: img/derived/BP257D.svg
 [url/BP257F]: https://www.foundalis.com/res/bps/gunnarsson/p257.htm
 [url/BP257E]: https://oebp.org/BP257
 
@@ -8110,17 +7680,15 @@
 |           |                        | after mirroring        |               |
 |           |                        | vertically.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two motifs are     |               |
-| (90%)     | img/derived/BP258D.svg | horizontal reflections |               |
-|           | type="image/svg+xml"   | on the left and        |               |
-|           | style="width:100%">    | vertical reflections   |               |
-|           | [![BP258D][img/BP258D] | on the right.          |               |
-|           | ][img/BP258D]</object> |                        |               |
+| Derived   |                        | The two motifs are     |               |
+|           |                        | horizontal reflections |               |
+|           |                        | on the left and        |               |
+|           |                        | vertical reflections   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP258F]: img/corrected/BP258F.png
 [img/BP258E]: img/corrected/BP258E.png
-[img/BP258D]: img/derived/BP258D.svg
 [url/BP258F]: https://www.foundalis.com/res/bps/gunnarsson/p258.htm
 [url/BP258E]: https://oebp.org/BP258
 
@@ -8143,19 +7711,18 @@
 |           |                        | rotated slightly       |               |
 |           |                        | clockwise vs. not so.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The top shape is a     |               |
-| (93%)     | img/derived/BP259D.svg | small clockwise        |               |
-|           | type="image/svg+xml"   | rotation of the        |               |
-|           | style="width:100%">    | identical shape        |               |
-|           | [![BP259D][img/BP259D] | beneath it on the      |               |
-|           | ][img/BP259D]</object> | left. The overlap on   |               |
+| Derived   |                        | The top shape is a     |               |
+|           |                        | small clockwise        |               |
+|           |                        | rotation of the        |               |
+|           |                        | identical shape        |               |
+|           |                        | beneath it on the      |               |
+|           |                        | left. The overlap on   |               |
 |           |                        | the right has a        |               |
 |           |                        | different relation.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP259F]: img/corrected/BP259F.png
 [img/BP259E]: img/corrected/BP259E.png
-[img/BP259D]: img/derived/BP259D.svg
 [url/BP259F]: https://www.foundalis.com/res/bps/gunnarsson/p259.htm
 [url/BP259E]: https://oebp.org/BP259
 
@@ -8176,13 +7743,13 @@
 |           |                        | contain something vs.  |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | Several redrawn        | The squares are either |               |
-|           | squares lose sides,    | all empty or all       |               |
-|           | including the squares  | occupied on the left.  |               |
-|           | in L3. The open        | Empty and occupied     |               |
-|           | outlines make it       | squares occur together |               |
+| Flagged   | Several squares in the | The squares are either |               |
+|           | previous redraw lost   | all empty or all       |               |
+|           | sides, including the   | occupied on the left.  |               |
+|           | squares in L3. The     | Empty and occupied     |               |
+|           | open outlines made it  | squares occur together |               |
 |           | unclear which objects  | on the right.          |               |
-|           | occupy squares.        |                        |               |
+|           | occupied squares.      |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP260F]: img/corrected/BP260F.png
@@ -8213,19 +7780,18 @@
 |           |                        | and outlined circles   |               |
 |           |                        | do not intersect.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The line through the   |               |
-| (99%)     | img/derived/BP261D.svg | solid circles crosses  |               |
-|           | type="image/svg+xml"   | the line through the   |               |
-|           | style="width:100%">    | hollow circles within  |               |
-|           | [![BP261D][img/BP261D] | the two joining        |               |
-|           | ][img/BP261D]</object> | segments on the left.  |               |
+| Derived   |                        | The line through the   |               |
+|           |                        | solid circles crosses  |               |
+|           |                        | the line through the   |               |
+|           |                        | hollow circles within  |               |
+|           |                        | the two joining        |               |
+|           |                        | segments on the left.  |               |
 |           |                        | The segments are       |               |
 |           |                        | disjoint on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP261F]: img/corrected/BP261F.png
 [img/BP261E]: img/corrected/BP261E.png
-[img/BP261D]: img/derived/BP261D.svg
 [url/BP261F]: https://www.foundalis.com/res/bps/ihde/p261.htm
 [url/BP261E]: https://oebp.org/BP261
 
@@ -8248,17 +7814,15 @@
 |           |                        | one point where lines  |               |
 |           |                        | bend at an angle.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The line has exactly   |               |
-| (100%)    | img/derived/BP262D.svg | one angular bend on    |               |
-|           | type="image/svg+xml"   | the left. The number   |               |
-|           | style="width:100%">    | of angular bends       |               |
-|           | [![BP262D][img/BP262D] | differs on the right.  |               |
-|           | ][img/BP262D]</object> |                        |               |
+| Derived   |                        | The line has exactly   |               |
+|           |                        | one angular bend on    |               |
+|           |                        | the left. The number   |               |
+|           |                        | of angular bends       |               |
+|           |                        | differs on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP262F]: img/corrected/BP262F.png
 [img/BP262E]: img/corrected/BP262E.png
-[img/BP262D]: img/derived/BP262D.svg
 [url/BP262F]: https://www.foundalis.com/res/bps/barenbaum/p262.htm
 [url/BP262E]: https://oebp.org/BP262
 
@@ -8279,17 +7843,15 @@
 |           |                        | all ending edges are   |               |
 |           |                        | curved.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | At least one terminal  |               |
-| (100%)    | img/derived/BP263D.svg | edge is straight on    |               |
-|           | type="image/svg+xml"   | the left. All terminal |               |
-|           | style="width:100%">    | edges curve on the     |               |
-|           | [![BP263D][img/BP263D] | right.                 |               |
-|           | ][img/BP263D]</object> |                        |               |
+| Derived   |                        | At least one terminal  |               |
+|           |                        | edge is straight on    |               |
+|           |                        | the left. All terminal |               |
+|           |                        | edges curve on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP263F]: img/corrected/BP263F.png
 [img/BP263E]: img/corrected/BP263E.png
-[img/BP263D]: img/derived/BP263D.svg
 [url/BP263F]: https://www.foundalis.com/res/bps/barenbaum/p263.htm
 [url/BP263E]: https://oebp.org/BP263
 
@@ -8306,17 +7868,14 @@
 | OEBP      | [![BP264E][img/BP264E] | “Closed area vs. no    | [BP264E       |
 |           | ][img/BP264E]          | closed area.”          | ][url/BP264E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The character encloses |               |
-| (92%)     | img/derived/BP264D.svg | an area on the left.   |               |
-|           | type="image/svg+xml"   | Its strokes enclose no |               |
-|           | style="width:100%">    | area on the right.     |               |
-|           | [![BP264D][img/BP264D] |                        |               |
-|           | ][img/BP264D]</object> |                        |               |
+| Derived   |                        | The character encloses |               |
+|           |                        | an area on the left.   |               |
+|           |                        | Its strokes enclose no |               |
+|           |                        | area on the right.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP264F]: img/corrected/BP264F.png
 [img/BP264E]: img/corrected/BP264E.png
-[img/BP264D]: img/derived/BP264D.svg
 [url/BP264F]: https://www.foundalis.com/res/bps/merse/p264.htm
 [url/BP264E]: https://oebp.org/BP264
 
@@ -8333,17 +7892,14 @@
 | OEBP      | [![BP265E][img/BP265E] | “Axis of symmetry vs.  | [BP265E       |
 |           | ][img/BP265E]          | no axis of symmetry.”  | ][url/BP265E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The character has a    |               |
-| (94%)     | img/derived/BP265D.svg | mirror axis on the     |               |
-|           | type="image/svg+xml"   | left and lacks one on  |               |
-|           | style="width:100%">    | the right.             |               |
-|           | [![BP265D][img/BP265D] |                        |               |
-|           | ][img/BP265D]</object> |                        |               |
+| Derived   |                        | The character has a    |               |
+|           |                        | mirror axis on the     |               |
+|           |                        | left and lacks one on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP265F]: img/corrected/BP265F.png
 [img/BP265E]: img/corrected/BP265E.png
-[img/BP265D]: img/derived/BP265D.svg
 [url/BP265F]: https://www.foundalis.com/res/bps/merse/p265.htm
 [url/BP265E]: https://oebp.org/BP265
 
@@ -8362,17 +7918,15 @@
 |           | ][img/BP266E]          | cross point vs. no     | ][url/BP266E] |
 |           |                        | touch or cross point.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Strokes touch or cross |               |
-| (93%)     | img/derived/BP266D.svg | at a junction on the   |               |
-|           | type="image/svg+xml"   | left. The right        |               |
-|           | style="width:100%">    | characters contain no  |               |
-|           | [![BP266D][img/BP266D] | such junction.         |               |
-|           | ][img/BP266D]</object> |                        |               |
+| Derived   |                        | Strokes touch or cross |               |
+|           |                        | at a junction on the   |               |
+|           |                        | left. The right        |               |
+|           |                        | characters contain no  |               |
+|           |                        | such junction.         |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP266F]: img/corrected/BP266F.png
 [img/BP266E]: img/corrected/BP266E.png
-[img/BP266D]: img/derived/BP266D.svg
 [url/BP266F]: https://www.foundalis.com/res/bps/merse/p266.htm
 [url/BP266E]: https://oebp.org/BP266
 
@@ -8395,17 +7949,15 @@
 |           |                        | straight line          |               |
 |           |                        | segments.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The character has an   |               |
-| (95%)     | img/derived/BP267D.svg | odd number of straight |               |
-|           | type="image/svg+xml"   | strokes on the left    |               |
-|           | style="width:100%">    | and an even number on  |               |
-|           | [![BP267D][img/BP267D] | the right.             |               |
-|           | ][img/BP267D]</object> |                        |               |
+| Derived   |                        | The character has an   |               |
+|           |                        | odd number of straight |               |
+|           |                        | strokes on the left    |               |
+|           |                        | and an even number on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP267F]: img/corrected/BP267F.png
 [img/BP267E]: img/corrected/BP267E.png
-[img/BP267D]: img/derived/BP267D.svg
 [url/BP267F]: https://www.foundalis.com/res/bps/merse/p267.htm
 [url/BP267E]: https://oebp.org/BP267
 
@@ -8426,17 +7978,16 @@
 |           |                        | hull elongated         |               |
 |           |                        | horizontally.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The character or       |               |
-| (95%)     | img/derived/BP268D.svg | character group is     |               |
-|           | type="image/svg+xml"   | taller than it is wide |               |
-|           | style="width:100%">    | on the left and wider  |               |
-|           | [![BP268D][img/BP268D] | than it is tall on the |               |
-|           | ][img/BP268D]</object> | right.                 |               |
+| Derived   |                        | The character or       |               |
+|           |                        | character group is     |               |
+|           |                        | taller than it is wide |               |
+|           |                        | on the left and wider  |               |
+|           |                        | than it is tall on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP268F]: img/corrected/BP268F.png
 [img/BP268E]: img/corrected/BP268E.png
-[img/BP268D]: img/derived/BP268D.svg
 [url/BP268F]: https://www.foundalis.com/res/bps/merse/p268.htm
 [url/BP268E]: https://oebp.org/BP268
 
@@ -8454,17 +8005,14 @@
 |           | ][img/BP269E]          | vs. no center of       | ][url/BP269E] |
 |           |                        | symmetry.”             |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A half turn preserves  |               |
-| (95%)     | img/derived/BP269D.svg | the character on the   |               |
-|           | type="image/svg+xml"   | left and changes it on |               |
-|           | style="width:100%">    | the right.             |               |
-|           | [![BP269D][img/BP269D] |                        |               |
-|           | ][img/BP269D]</object> |                        |               |
+| Derived   |                        | A half turn preserves  |               |
+|           |                        | the character on the   |               |
+|           |                        | left and changes it on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP269F]: img/corrected/BP269F.png
 [img/BP269E]: img/corrected/BP269E.png
-[img/BP269D]: img/derived/BP269D.svg
 [url/BP269F]: https://www.foundalis.com/res/bps/merse/p269.htm
 [url/BP269E]: https://oebp.org/BP269
 
@@ -8485,19 +8033,18 @@
 |           |                        | neither vertical nor   |               |
 |           |                        | horizontal lines.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left characters    |               |
-| (94%)     | img/derived/BP270D.svg | consist of horizontal  |               |
-|           | type="image/svg+xml"   | or vertical strokes.   |               |
-|           | style="width:100%">    | The right characters   |               |
-|           | [![BP270D][img/BP270D] | have neither           |               |
-|           | ][img/BP270D]</object> | horizontal nor         |               |
+| Derived   |                        | The left characters    |               |
+|           |                        | consist of horizontal  |               |
+|           |                        | or vertical strokes.   |               |
+|           |                        | The right characters   |               |
+|           |                        | have neither           |               |
+|           |                        | horizontal nor         |               |
 |           |                        | vertical straight      |               |
 |           |                        | strokes.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP270F]: img/corrected/BP270F.png
 [img/BP270E]: img/corrected/BP270E.png
-[img/BP270D]: img/derived/BP270D.svg
 [url/BP270F]: https://www.foundalis.com/res/bps/merse/p270.htm
 [url/BP270E]: https://oebp.org/BP270
 
@@ -8520,18 +8067,17 @@
 |           |                        | hand-written without   |               |
 |           |                        | raising the pen.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each character can be  |               |
-| (95%)     | img/derived/BP271D.svg | written in a single    |               |
-|           | type="image/svg+xml"   | stroke without         |               |
-|           | style="width:100%">    | retracing on the left. |               |
-|           | [![BP271D][img/BP271D] | Writing the character  |               |
-|           | ][img/BP271D]</object> | on the right requires  |               |
+| Derived   |                        | Each character can be  |               |
+|           |                        | written in a single    |               |
+|           |                        | stroke without         |               |
+|           |                        | retracing on the left. |               |
+|           |                        | Writing the character  |               |
+|           |                        | on the right requires  |               |
 |           |                        | lifting the pen.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP271F]: img/corrected/BP271F.png
 [img/BP271E]: img/corrected/BP271E.png
-[img/BP271D]: img/derived/BP271D.svg
 [url/BP271F]: https://www.foundalis.com/res/bps/merse/p271.htm
 [url/BP271E]: https://oebp.org/BP271
 
@@ -8551,17 +8097,15 @@
 |           |                        | hull is a              |               |
 |           |                        | quadrilateral.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The convex hull of the |               |
-| (93%)     | img/derived/BP272D.svg | character is           |               |
-|           | type="image/svg+xml"   | triangular on the left |               |
-|           | style="width:100%">    | and quadrilateral on   |               |
-|           | [![BP272D][img/BP272D] | the right.             |               |
-|           | ][img/BP272D]</object> |                        |               |
+| Derived   |                        | The convex hull of the |               |
+|           |                        | character is           |               |
+|           |                        | triangular on the left |               |
+|           |                        | and quadrilateral on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP272F]: img/corrected/BP272F.png
 [img/BP272E]: img/corrected/BP272E.png
-[img/BP272D]: img/derived/BP272D.svg
 [url/BP272F]: https://www.foundalis.com/res/bps/merse/p272.htm
 [url/BP272E]: https://oebp.org/BP272
 
@@ -8581,17 +8125,16 @@
 |           |                        | (when placed on its    |               |
 |           |                        | bottom).”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A left character       |               |
-| (92%)     | img/derived/BP273D.svg | balances when set on   |               |
-|           | type="image/svg+xml"   | its top or bottom. A   |               |
-|           | style="width:100%">    | right character tips   |               |
-|           | [![BP273D][img/BP273D] | when set on its        |               |
-|           | ][img/BP273D]</object> | bottom.                |               |
+| Derived   |                        | A left character       |               |
+|           |                        | balances when set on   |               |
+|           |                        | its top or bottom. A   |               |
+|           |                        | right character tips   |               |
+|           |                        | when set on its        |               |
+|           |                        | bottom.                |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP273F]: img/corrected/BP273F.png
 [img/BP273E]: img/corrected/BP273E.png
-[img/BP273D]: img/derived/BP273D.svg
 [url/BP273F]: https://www.foundalis.com/res/bps/merse/p273.htm
 [url/BP273E]: https://oebp.org/BP273
 
@@ -8614,17 +8157,15 @@
 |           |                        | above (does not hold   |               |
 |           |                        | poured water).”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The top of each left   |               |
-| (95%)     | img/derived/BP274D.svg | character has a notch  |               |
-|           | type="image/svg+xml"   | that could hold water. |               |
-|           | style="width:100%">    | Water would run off    |               |
-|           | [![BP274D][img/BP274D] | each right character.  |               |
-|           | ][img/BP274D]</object> |                        |               |
+| Derived   |                        | The top of each left   |               |
+|           |                        | character has a notch  |               |
+|           |                        | that could hold water. |               |
+|           |                        | Water would run off    |               |
+|           |                        | each right character.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP274F]: img/corrected/BP274F.png
 [img/BP274E]: img/corrected/BP274E.png
-[img/BP274D]: img/derived/BP274D.svg
 [url/BP274F]: https://www.foundalis.com/res/bps/merse/p274.htm
 [url/BP274E]: https://oebp.org/BP274
 
@@ -8650,17 +8191,16 @@
 |           |                        | intersects the         |               |
 |           |                        | object.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The segment joining    |               |
-| (92%)     | img/derived/BP275D.svg | the character’s two    |               |
-|           | type="image/svg+xml"   | ends clears its other  |               |
-|           | style="width:100%">    | strokes on the left    |               |
-|           | [![BP275D][img/BP275D] | and crosses them on    |               |
-|           | ][img/BP275D]</object> | the right.             |               |
+| Derived   |                        | The segment joining    |               |
+|           |                        | the character’s two    |               |
+|           |                        | ends clears its other  |               |
+|           |                        | strokes on the left    |               |
+|           |                        | and crosses them on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP275F]: img/corrected/BP275F.png
 [img/BP275E]: img/corrected/BP275E.png
-[img/BP275D]: img/derived/BP275D.svg
 [url/BP275F]: https://www.foundalis.com/res/bps/merse/p275.htm
 [url/BP275E]: https://oebp.org/BP275
 
@@ -8678,17 +8218,15 @@
 | OEBP      | [![BP276E][img/BP276E] | “At least one endpoint | [BP276E       |
 |           | ][img/BP276E]          | vs. no endpoints.”     | ][url/BP276E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left characters    |               |
-| (93%)     | img/derived/BP276D.svg | have a free stroke     |               |
-|           | type="image/svg+xml"   | end. The right         |               |
-|           | style="width:100%">    | characters have no     |               |
-|           | [![BP276D][img/BP276D] | free stroke ends.      |               |
-|           | ][img/BP276D]</object> |                        |               |
+| Derived   |                        | The left characters    |               |
+|           |                        | have a free stroke     |               |
+|           |                        | end. The right         |               |
+|           |                        | characters have no     |               |
+|           |                        | free stroke ends.      |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP276F]: img/corrected/BP276F.png
 [img/BP276E]: img/corrected/BP276E.png
-[img/BP276D]: img/derived/BP276D.svg
 [url/BP276F]: https://www.foundalis.com/res/bps/merse/p276.htm
 [url/BP276E]: https://oebp.org/BP276
 
@@ -8705,17 +8243,15 @@
 | OEBP      | [![BP277E][img/BP277E] | “One object vs. two or | [BP277E       |
 |           | ][img/BP277E]          | more objects.”         | ][url/BP277E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The marks form one     |               |
-| (95%)     | img/derived/BP277D.svg | connected component on |               |
-|           | type="image/svg+xml"   | the left and two or    |               |
-|           | style="width:100%">    | more components on the |               |
-|           | [![BP277D][img/BP277D] | right.                 |               |
-|           | ][img/BP277D]</object> |                        |               |
+| Derived   |                        | The marks form one     |               |
+|           |                        | connected component on |               |
+|           |                        | the left and two or    |               |
+|           |                        | more components on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP277F]: img/corrected/BP277F.png
 [img/BP277E]: img/corrected/BP277E.png
-[img/BP277D]: img/derived/BP277D.svg
 [url/BP277F]: https://www.foundalis.com/res/bps/merse/p277.htm
 [url/BP277E]: https://oebp.org/BP277
 
@@ -8737,17 +8273,15 @@
 |           |                        | left, shorter on the   |               |
 |           |                        | right.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The second character   |               |
-| (92%)     | img/derived/BP278D.svg | is taller than the     |               |
-|           | type="image/svg+xml"   | first on the left and  |               |
-|           | style="width:100%">    | shorter than the first |               |
-|           | [![BP278D][img/BP278D] | on the right.          |               |
-|           | ][img/BP278D]</object> |                        |               |
+| Derived   |                        | The second character   |               |
+|           |                        | is taller than the     |               |
+|           |                        | first on the left and  |               |
+|           |                        | shorter than the first |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP278F]: img/corrected/BP278F.png
 [img/BP278E]: img/corrected/BP278E.png
-[img/BP278D]: img/derived/BP278D.svg
 [url/BP278F]: https://www.foundalis.com/res/bps/merse/p278.htm
 [url/BP278E]: https://oebp.org/BP278
 
@@ -8771,17 +8305,15 @@
 |           |                        | fewer pixels than the  |               |
 |           |                        | right part.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The first character    |               |
-| (94%)     | img/derived/BP279D.svg | has more ink than the  |               |
-|           | type="image/svg+xml"   | second on the left and |               |
-|           | style="width:100%">    | less ink than the      |               |
-|           | [![BP279D][img/BP279D] | second on the right.   |               |
-|           | ][img/BP279D]</object> |                        |               |
+| Derived   |                        | The first character    |               |
+|           |                        | has more ink than the  |               |
+|           |                        | second on the left and |               |
+|           |                        | less ink than the      |               |
+|           |                        | second on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP279F]: img/corrected/BP279F.png
 [img/BP279E]: img/corrected/BP279E.png
-[img/BP279D]: img/derived/BP279D.svg
 [url/BP279F]: https://www.foundalis.com/res/bps/merse/p279.htm
 [url/BP279E]: https://oebp.org/BP279
 
@@ -8804,17 +8336,15 @@
 |           |                        | is narrower than the   |               |
 |           |                        | right part.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The first character is |               |
-| (93%)     | img/derived/BP280D.svg | wider than the second  |               |
-|           | type="image/svg+xml"   | on the left and        |               |
-|           | style="width:100%">    | narrower than the      |               |
-|           | [![BP280D][img/BP280D] | second on the right.   |               |
-|           | ][img/BP280D]</object> |                        |               |
+| Derived   |                        | The first character is |               |
+|           |                        | wider than the second  |               |
+|           |                        | on the left and        |               |
+|           |                        | narrower than the      |               |
+|           |                        | second on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP280F]: img/corrected/BP280F.png
 [img/BP280E]: img/corrected/BP280E.png
-[img/BP280D]: img/derived/BP280D.svg
 [url/BP280F]: https://www.foundalis.com/res/bps/merse/p280.htm
 [url/BP280E]: https://oebp.org/BP280
 
@@ -8839,17 +8369,15 @@
 |           |                        | horizontal and         |               |
 |           |                        | vertical lines.”       |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Horizontal and         |               |
-| (98%)     | img/derived/BP281D.svg | vertical lines occur   |               |
-|           | type="image/svg+xml"   | in equal numbers on    |               |
-|           | style="width:100%">    | the left and unequal   |               |
-|           | [![BP281D][img/BP281D] | numbers on the right.  |               |
-|           | ][img/BP281D]</object> |                        |               |
+| Derived   |                        | Horizontal and         |               |
+|           |                        | vertical lines occur   |               |
+|           |                        | in equal numbers on    |               |
+|           |                        | the left and unequal   |               |
+|           |                        | numbers on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP281F]: img/original/BP281F.png
 [img/BP281E]: img/corrected/BP281E.png
-[img/BP281D]: img/derived/BP281D.svg
 [url/BP281F]: https://www.foundalis.com/res/bps/joon/p281.htm
 [url/BP281E]: https://oebp.org/BP281
 
@@ -8875,17 +8403,16 @@
 |           |                        | of sides than overall  |               |
 |           |                        | object.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The black part and the |               |
-| (97%)     | img/derived/BP282D.svg | whole figure have the  |               |
-|           | type="image/svg+xml"   | same number of sides   |               |
-|           | style="width:100%">    | on the left and        |               |
-|           | [![BP282D][img/BP282D] | different numbers of   |               |
-|           | ][img/BP282D]</object> | sides on the right.    |               |
+| Derived   |                        | The black part and the |               |
+|           |                        | whole figure have the  |               |
+|           |                        | same number of sides   |               |
+|           |                        | on the left and        |               |
+|           |                        | different numbers of   |               |
+|           |                        | sides on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP282F]: img/original/BP282F.png
 [img/BP282E]: img/corrected/BP282E.png
-[img/BP282D]: img/derived/BP282D.svg
 [url/BP282F]: https://www.foundalis.com/res/bps/joon/p282.htm
 [url/BP282E]: https://oebp.org/BP282
 
@@ -8912,17 +8439,16 @@
 |           |                        | black shapes into      |               |
 |           |                        | empty square.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Fitting the black      |               |
-| (98%)     | img/derived/BP283D.svg | tiles inside the       |               |
-|           | type="image/svg+xml"   | square leaves a        |               |
-|           | style="width:100%">    | rectangle on the left  |               |
-|           | [![BP283D][img/BP283D] | and a triangle on the  |               |
-|           | ][img/BP283D]</object> | right.                 |               |
+| Derived   |                        | Fitting the black      |               |
+|           |                        | tiles inside the       |               |
+|           |                        | square leaves a        |               |
+|           |                        | rectangle on the left  |               |
+|           |                        | and a triangle on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP283F]: img/original/BP283F.png
 [img/BP283E]: img/corrected/BP283E.png
-[img/BP283D]: img/derived/BP283D.svg
 [url/BP283F]: https://www.foundalis.com/res/bps/joon/p283.htm
 [url/BP283E]: https://oebp.org/BP283
 
@@ -8943,17 +8469,15 @@
 |           |                        | or less than half of   | ][url/BP284E] |
 |           |                        | the square is filled.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Exactly half the       |               |
-| (99%)     | img/derived/BP284D.svg | square is black on the |               |
-|           | type="image/svg+xml"   | left. The black        |               |
-|           | style="width:100%">    | fraction differs from  |               |
-|           | [![BP284D][img/BP284D] | one half on the right. |               |
-|           | ][img/BP284D]</object> |                        |               |
+| Derived   |                        | Exactly half the       |               |
+|           |                        | square is black on the |               |
+|           |                        | left. The black        |               |
+|           |                        | fraction differs from  |               |
+|           |                        | one half on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP284F]: img/original/BP284F.png
 [img/BP284E]: img/corrected/BP284E.png
-[img/BP284D]: img/derived/BP284D.svg
 [url/BP284F]: https://www.foundalis.com/res/bps/lewis/p284.htm
 [url/BP284E]: https://oebp.org/BP284
 
@@ -8980,17 +8504,16 @@
 |           |                        | objects are not        |               |
 |           |                        | collinear.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The centers of all the |               |
-| (100%)    | img/derived/BP285D.svg | shapes lie on a        |               |
-|           | type="image/svg+xml"   | straight line on the   |               |
-|           | style="width:100%">    | left and depart from a |               |
-|           | [![BP285D][img/BP285D] | common line on the     |               |
-|           | ][img/BP285D]</object> | right.                 |               |
+| Derived   |                        | The centers of all the |               |
+|           |                        | shapes lie on a        |               |
+|           |                        | straight line on the   |               |
+|           |                        | left and depart from a |               |
+|           |                        | common line on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP285F]: img/original/BP285F.png
 [img/BP285E]: img/corrected/BP285E.png
-[img/BP285D]: img/derived/BP285D.svg
 [url/BP285F]: https://www.foundalis.com/res/bps/lewis/p285.htm
 [url/BP285E]: https://oebp.org/BP285
 
@@ -9011,17 +8534,15 @@
 |           |                        | increasing in size     |               |
 |           |                        | from top to bottom.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The shapes decrease in |               |
-| (100%)    | img/derived/BP286D.svg | size down the panel on |               |
-|           | type="image/svg+xml"   | the left and increase  |               |
-|           | style="width:100%">    | in size down the panel |               |
-|           | [![BP286D][img/BP286D] | on the right.          |               |
-|           | ][img/BP286D]</object> |                        |               |
+| Derived   |                        | The shapes decrease in |               |
+|           |                        | size down the panel on |               |
+|           |                        | the left and increase  |               |
+|           |                        | in size down the panel |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP286F]: img/original/BP286F.png
 [img/BP286E]: img/corrected/BP286E.png
-[img/BP286D]: img/derived/BP286D.svg
 [url/BP286F]: https://www.foundalis.com/res/bps/lewis/p286.htm
 [url/BP286E]: https://oebp.org/BP286
 
@@ -9046,19 +8567,18 @@
 |           | ][img/BP287E]          | central point vs. not  | ][url/BP287E] |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Extending the          |               |
-| (100%)    | img/derived/BP287D.svg | triangles’ axes from   |               |
-|           | type="image/svg+xml"   | their tips toward      |               |
-|           | style="width:100%">    | their bases gives a    |               |
-|           | [![BP287D][img/BP287D] | common point on the    |               |
-|           | ][img/BP287D]</object> | left and misses a      |               |
+| Derived   |                        | Extending the          |               |
+|           |                        | triangles’ axes from   |               |
+|           |                        | their tips toward      |               |
+|           |                        | their bases gives a    |               |
+|           |                        | common point on the    |               |
+|           |                        | left and misses a      |               |
 |           |                        | common point on the    |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP287F]: img/original/BP287F.png
 [img/BP287E]: img/corrected/BP287E.png
-[img/BP287D]: img/derived/BP287D.svg
 [url/BP287F]: https://www.foundalis.com/res/bps/lewis/p287.htm
 [url/BP287E]: https://oebp.org/BP287
 
@@ -9082,17 +8602,15 @@
 |           |                        | areas is other than    |               |
 |           |                        | 1.”                    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Adding the black       |               |
-| (99%)     | img/derived/BP288D.svg | fraction of each shape |               |
-|           | type="image/svg+xml"   | gives one on the left  |               |
-|           | style="width:100%">    | and a different total  |               |
-|           | [![BP288D][img/BP288D] | on the right.          |               |
-|           | ][img/BP288D]</object> |                        |               |
+| Derived   |                        | Adding the black       |               |
+|           |                        | fraction of each shape |               |
+|           |                        | gives one on the left  |               |
+|           |                        | and a different total  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP288F]: img/original/BP288F.png
 [img/BP288E]: img/corrected/BP288E.png
-[img/BP288D]: img/derived/BP288D.svg
 [url/BP288F]: https://www.foundalis.com/res/bps/lewis/p288.htm
 [url/BP288E]: https://oebp.org/BP288
 
@@ -9117,17 +8635,16 @@
 |           |                        | no matter how they are |               |
 |           |                        | tiled.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The pieces can tile a  |               |
-| (100%)    | img/derived/BP289D.svg | square on the left.    |               |
-|           | type="image/svg+xml"   | Every arrangement on   |               |
-|           | style="width:100%">    | the right leaves a gap |               |
-|           | [![BP289D][img/BP289D] | or a nonsquare         |               |
-|           | ][img/BP289D]</object> | outline.               |               |
+| Derived   |                        | The pieces can tile a  |               |
+|           |                        | square on the left.    |               |
+|           |                        | Every arrangement on   |               |
+|           |                        | the right leaves a gap |               |
+|           |                        | or a nonsquare         |               |
+|           |                        | outline.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP289F]: img/original/BP289F.png
 [img/BP289E]: img/corrected/BP289E.png
-[img/BP289D]: img/derived/BP289D.svg
 [url/BP289F]: https://www.foundalis.com/res/bps/lewis/p289.htm
 [url/BP289E]: https://oebp.org/BP289
 
@@ -9151,19 +8668,18 @@
 |           |                        | exist as well vs. not  |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | If any faces lack      |               |
-| (86%)     | img/derived/BP290D.svg | noses, smiling occurs  |               |
-|           | type="image/svg+xml"   | among them exactly     |               |
-|           | style="width:100%">    | when it also occurs    |               |
-|           | [![BP290D][img/BP290D] | among the faces with   |               |
-|           | ][img/BP290D]</object> | noses on the left. The |               |
+| Derived   |                        | If any faces lack      |               |
+|           |                        | noses, smiling occurs  |               |
+|           |                        | among them exactly     |               |
+|           |                        | when it also occurs    |               |
+|           |                        | among the faces with   |               |
+|           |                        | noses on the left. The |               |
 |           |                        | right examples violate |               |
 |           |                        | that condition.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP290F]: img/original/BP290F.png
 [img/BP290E]: img/corrected/BP290E.png
-[img/BP290D]: img/derived/BP290D.svg
 [url/BP290F]: https://www.foundalis.com/res/bps/lewis/p290.htm
 [url/BP290E]: https://oebp.org/BP290
 
@@ -9189,18 +8705,17 @@
 |           |                        | appears outside of     |               |
 |           |                        | it.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The kinds of shape     |               |
-| (100%)    | img/derived/BP291D.svg | inside the square are  |               |
-|           | type="image/svg+xml"   | absent outside it on   |               |
-|           | style="width:100%">    | the left. On the right |               |
-|           | [![BP291D][img/BP291D] | at least one kind      |               |
-|           | ][img/BP291D]</object> | appears in both        |               |
+| Derived   |                        | The kinds of shape     |               |
+|           |                        | inside the square are  |               |
+|           |                        | absent outside it on   |               |
+|           |                        | the left. On the right |               |
+|           |                        | at least one kind      |               |
+|           |                        | appears in both        |               |
 |           |                        | places.                |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP291F]: img/original/BP291F.png
 [img/BP291E]: img/corrected/BP291E.png
-[img/BP291D]: img/derived/BP291D.svg
 [url/BP291F]: https://www.foundalis.com/res/bps/lewis/p291.htm
 [url/BP291E]: https://oebp.org/BP291
 
@@ -9225,17 +8740,16 @@
 |           |                        | vertex at square is    |               |
 |           |                        | acute.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two triangles      |               |
-| (100%)    | img/derived/BP292D.svg | subtend a right or     |               |
-|           | type="image/svg+xml"   | obtuse angle at the    |               |
-|           | style="width:100%">    | square on the left and |               |
-|           | [![BP292D][img/BP292D] | an acute angle on the  |               |
-|           | ][img/BP292D]</object> | right.                 |               |
+| Derived   |                        | The two triangles      |               |
+|           |                        | subtend a right or     |               |
+|           |                        | obtuse angle at the    |               |
+|           |                        | square on the left and |               |
+|           |                        | an acute angle on the  |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP292F]: img/original/BP292F.png
 [img/BP292E]: img/corrected/BP292E.png
-[img/BP292D]: img/derived/BP292D.svg
 [url/BP292F]: https://www.foundalis.com/res/bps/lewis/p292.htm
 [url/BP292E]: https://oebp.org/BP292
 
@@ -9256,12 +8770,13 @@
 |           |                        | size and shape vs. not |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The redraw loses the   | The four parts of the  |               |
-|           | diagonal subdivisions  | square are congruent   |               |
-|           | in R5. Its square has  | on the left and differ |               |
-|           | only two enclosed      | in size or shape on    |               |
-|           | parts, although the    | the right.             |               |
-|           | rule requires four.    |                        |               |
+| Flagged   | The previous redraw    | The four parts of the  |               |
+|           | lost the diagonal      | square are congruent   |               |
+|           | subdivisions in R5.    | on the left and differ |               |
+|           | Its square had only    | in size or shape on    |               |
+|           | two enclosed parts,    | the right.             |               |
+|           | although the rule      |                        |               |
+|           | requires four.         |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP293F]: img/original/BP293F.png
@@ -9288,17 +8803,16 @@
 |           |                        | points are unreachable |               |
 |           |                        | by any path.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A path through the     |               |
-| (91%)     | img/derived/BP294D.svg | maze connects the two  |               |
-|           | type="image/svg+xml"   | marked points on the   |               |
-|           | style="width:100%">    | left. A wall separates |               |
-|           | [![BP294D][img/BP294D] | their regions on the   |               |
-|           | ][img/BP294D]</object> | right.                 |               |
+| Derived   |                        | A path through the     |               |
+|           |                        | maze connects the two  |               |
+|           |                        | marked points on the   |               |
+|           |                        | left. A wall separates |               |
+|           |                        | their regions on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP294F]: img/original/BP294F.png
 [img/BP294E]: img/corrected/BP294E.png
-[img/BP294D]: img/derived/BP294D.svg
 [url/BP294F]: https://www.foundalis.com/res/bps/lewis/p294.htm
 [url/BP294E]: https://oebp.org/BP294
 
@@ -9319,17 +8833,16 @@
 |           |                        | joins the two          |               |
 |           |                        | middle-sized squares.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The segment connects   |               |
-| (98%)     | img/derived/BP295D.svg | the largest and        |               |
-|           | type="image/svg+xml"   | smallest squares on    |               |
-|           | style="width:100%">    | the left and the two   |               |
-|           | [![BP295D][img/BP295D] | intermediate squares   |               |
-|           | ][img/BP295D]</object> | on the right.          |               |
+| Derived   |                        | The segment connects   |               |
+|           |                        | the largest and        |               |
+|           |                        | smallest squares on    |               |
+|           |                        | the left and the two   |               |
+|           |                        | intermediate squares   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP295F]: img/original/BP295F.png
 [img/BP295E]: img/corrected/BP295E.png
-[img/BP295D]: img/derived/BP295D.svg
 [url/BP295F]: https://www.foundalis.com/res/bps/lewis/p295.htm
 [url/BP295E]: https://oebp.org/BP295
 
@@ -9350,17 +8863,15 @@
 |           |                        | of the three sizes     |               |
 |           |                        | present.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | All three square sizes |               |
-| (100%)    | img/derived/BP296D.svg | occur on the left.     |               |
-|           | type="image/svg+xml"   | Only two of the three  |               |
-|           | style="width:100%">    | sizes occur on the     |               |
-|           | [![BP296D][img/BP296D] | right.                 |               |
-|           | ][img/BP296D]</object> |                        |               |
+| Derived   |                        | All three square sizes |               |
+|           |                        | occur on the left.     |               |
+|           |                        | Only two of the three  |               |
+|           |                        | sizes occur on the     |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP296F]: img/original/BP296F.png
 [img/BP296E]: img/corrected/BP296E.png
-[img/BP296D]: img/derived/BP296D.svg
 [url/BP296F]: https://www.foundalis.com/res/bps/lewis/p296.htm
 [url/BP296E]: https://oebp.org/BP296
 
@@ -9379,17 +8890,15 @@
 |           | ][img/BP297E]          | vs. Ghost shape is     | ][url/BP297E] |
 |           |                        | rectangular.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The implied white      |               |
-| (99%)     | img/derived/BP297D.svg | shape is a square on   |               |
-|           | type="image/svg+xml"   | the left and a         |               |
-|           | style="width:100%">    | nonsquare rectangle on |               |
-|           | [![BP297D][img/BP297D] | the right.             |               |
-|           | ][img/BP297D]</object> |                        |               |
+| Derived   |                        | The implied white      |               |
+|           |                        | shape is a square on   |               |
+|           |                        | the left and a         |               |
+|           |                        | nonsquare rectangle on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP297F]: img/original/BP297F.png
 [img/BP297E]: img/corrected/BP297E.png
-[img/BP297D]: img/derived/BP297D.svg
 [url/BP297F]: https://www.foundalis.com/res/bps/lewis/p297.htm
 [url/BP297E]: https://oebp.org/BP297
 
@@ -9414,17 +8923,15 @@
 |           |                        | squares is near the    |               |
 |           |                        | upper-right corner.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A small square lies    |               |
-| (99%)     | img/derived/BP298D.svg | near the lower-right   |               |
-|           | type="image/svg+xml"   | corner on the left and |               |
-|           | style="width:100%">    | near the upper-right   |               |
-|           | [![BP298D][img/BP298D] | corner on the right.   |               |
-|           | ][img/BP298D]</object> |                        |               |
+| Derived   |                        | A small square lies    |               |
+|           |                        | near the lower-right   |               |
+|           |                        | corner on the left and |               |
+|           |                        | near the upper-right   |               |
+|           |                        | corner on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP298F]: img/original/BP298F.png
 [img/BP298E]: img/corrected/BP298E.png
-[img/BP298D]: img/derived/BP298D.svg
 [url/BP298F]: https://www.foundalis.com/res/bps/lewis/p298.htm
 [url/BP298E]: https://oebp.org/BP298
 
@@ -9449,17 +8956,15 @@
 |           |                        | extended cannot make   |               |
 |           |                        | up a regular polygon.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Slightly extending the |               |
-| (100%)    | img/derived/BP299D.svg | segments can complete  |               |
-|           | type="image/svg+xml"   | a regular polygon on   |               |
-|           | style="width:100%">    | the left and cannot do |               |
-|           | [![BP299D][img/BP299D] | so on the right.       |               |
-|           | ][img/BP299D]</object> |                        |               |
+| Derived   |                        | Slightly extending the |               |
+|           |                        | segments can complete  |               |
+|           |                        | a regular polygon on   |               |
+|           |                        | the left and cannot do |               |
+|           |                        | so on the right.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP299F]: img/original/BP299F.png
 [img/BP299E]: img/corrected/BP299E.png
-[img/BP299D]: img/derived/BP299D.svg
 [url/BP299F]: https://www.foundalis.com/res/bps/lewis/p299.htm
 [url/BP299E]: https://oebp.org/BP299
 
@@ -9548,18 +9053,17 @@
 |           |                        | which the 2nd/4th is   |               |
 |           |                        | moved elsewhere.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Five objects would     |               |
-| (97%)     | img/derived/BP302D.svg | form a row. The        |               |
-|           | type="image/svg+xml"   | displaced object is    |               |
-|           | style="width:100%">    | the middle one on the  |               |
-|           | [![BP302D][img/BP302D] | left and the second or |               |
-|           | ][img/BP302D]</object> | fourth one on the      |               |
+| Derived   |                        | Five objects would     |               |
+|           |                        | form a row. The        |               |
+|           |                        | displaced object is    |               |
+|           |                        | the middle one on the  |               |
+|           |                        | left and the second or |               |
+|           |                        | fourth one on the      |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP302F]: img/original/BP302F.png
 [img/BP302E]: img/corrected/BP302E.png
-[img/BP302D]: img/derived/BP302D.svg
 [url/BP302F]: https://www.foundalis.com/res/bps/lewis/p302.htm
 [url/BP302E]: https://oebp.org/BP302
 
@@ -9578,17 +9082,16 @@
 |           | ][img/BP303E]          | identical, the fourth  | ][url/BP303E] |
 |           |                        | differs vs. not so.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Exactly three of the   |               |
-| (97%)     | img/derived/BP303D.svg | four objects match on  |               |
-|           | type="image/svg+xml"   | the left. The right    |               |
-|           | style="width:100%">    | examples lack that     |               |
-|           | [![BP303D][img/BP303D] | three-against-one      |               |
-|           | ][img/BP303D]</object> | division.              |               |
+| Derived   |                        | Exactly three of the   |               |
+|           |                        | four objects match on  |               |
+|           |                        | the left. The right    |               |
+|           |                        | examples lack that     |               |
+|           |                        | three-against-one      |               |
+|           |                        | division.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP303F]: img/original/BP303F.png
 [img/BP303E]: img/corrected/BP303E.png
-[img/BP303D]: img/derived/BP303D.svg
 [url/BP303F]: https://www.foundalis.com/res/bps/lewis/p303.htm
 [url/BP303E]: https://oebp.org/BP303
 
@@ -9612,18 +9115,17 @@
 |           |                        | interior or            |               |
 |           |                        | exterior).”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Some pair of adjacent  |               |
-| (100%)    | img/derived/BP304D.svg | sides forms an         |               |
-|           | type="image/svg+xml"   | interior or exterior   |               |
-|           | style="width:100%">    | right angle on the     |               |
-|           | [![BP304D][img/BP304D] | left. The polygon has  |               |
-|           | ][img/BP304D]</object> | no such angle on the   |               |
+| Derived   |                        | Some pair of adjacent  |               |
+|           |                        | sides forms an         |               |
+|           |                        | interior or exterior   |               |
+|           |                        | right angle on the     |               |
+|           |                        | left. The polygon has  |               |
+|           |                        | no such angle on the   |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP304F]: img/original/BP304F.png
 [img/BP304E]: img/corrected/BP304E.png
-[img/BP304D]: img/derived/BP304D.svg
 [url/BP304F]: https://www.foundalis.com/res/bps/lewis/p304.htm
 [url/BP304E]: https://oebp.org/BP304
 
@@ -9646,17 +9148,16 @@
 |           |                        | rotation and           |               |
 |           |                        | mirroring.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Rotating one shape     |               |
-| (98%)     | img/derived/BP305D.svg | suffices to match the  |               |
-|           | type="image/svg+xml"   | other on the left.     |               |
-|           | style="width:100%">    | Matching the shapes on |               |
-|           | [![BP305D][img/BP305D] | the right also         |               |
-|           | ][img/BP305D]</object> | requires a reflection. |               |
+| Derived   |                        | Rotating one shape     |               |
+|           |                        | suffices to match the  |               |
+|           |                        | other on the left.     |               |
+|           |                        | Matching the shapes on |               |
+|           |                        | the right also         |               |
+|           |                        | requires a reflection. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP305F]: img/original/BP305F.png
 [img/BP305E]: img/corrected/BP305E.png
-[img/BP305D]: img/derived/BP305D.svg
 [url/BP305F]: https://www.foundalis.com/res/bps/lewis/p305.htm
 [url/BP305E]: https://oebp.org/BP305
 
@@ -9677,17 +9178,16 @@
 |           |                        | shapes is constant vs. |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The ratio of inside to |               |
-| (99%)     | img/derived/BP306D.svg | outside counts is the  |               |
-|           | type="image/svg+xml"   | same for every kind of |               |
-|           | style="width:100%">    | object on the left and |               |
-|           | [![BP306D][img/BP306D] | varies with the kind   |               |
-|           | ][img/BP306D]</object> | on the right.          |               |
+| Derived   |                        | The ratio of inside to |               |
+|           |                        | outside counts is the  |               |
+|           |                        | same for every kind of |               |
+|           |                        | object on the left and |               |
+|           |                        | varies with the kind   |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP306F]: img/original/BP306F.png
 [img/BP306E]: img/corrected/BP306E.png
-[img/BP306D]: img/derived/BP306D.svg
 [url/BP306F]: https://www.foundalis.com/res/bps/lewis/p306.htm
 [url/BP306E]: https://oebp.org/BP306
 
@@ -9710,17 +9210,15 @@
 |           |                        | vertices vs. dots are  |               |
 |           |                        | spread around.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Dots cluster tightly   |               |
-| (100%)    | img/derived/BP307D.svg | around the polygon’s   |               |
-|           | type="image/svg+xml"   | convex vertices on the |               |
-|           | style="width:100%">    | left and spread out on |               |
-|           | [![BP307D][img/BP307D] | the right.             |               |
-|           | ][img/BP307D]</object> |                        |               |
+| Derived   |                        | Dots cluster tightly   |               |
+|           |                        | around the polygon’s   |               |
+|           |                        | convex vertices on the |               |
+|           |                        | left and spread out on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP307F]: img/original/BP307F.png
 [img/BP307E]: img/corrected/BP307E.png
-[img/BP307D]: img/derived/BP307D.svg
 [url/BP307F]: https://www.foundalis.com/res/bps/lewis/p307.htm
 [url/BP307E]: https://oebp.org/BP307
 
@@ -9739,17 +9237,15 @@
 |           | ][img/BP308E]          | clusters of dots vs.   | ][url/BP308E] |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots form at least |               |
-| (99%)     | img/derived/BP308D.svg | three small, distinct  |               |
-|           | type="image/svg+xml"   | clusters on the left.  |               |
-|           | style="width:100%">    | The right examples     |               |
-|           | [![BP308D][img/BP308D] | lack that grouping.    |               |
-|           | ][img/BP308D]</object> |                        |               |
+| Derived   |                        | The dots form at least |               |
+|           |                        | three small, distinct  |               |
+|           |                        | clusters on the left.  |               |
+|           |                        | The right examples     |               |
+|           |                        | lack that grouping.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP308F]: img/original/BP308F.png
 [img/BP308E]: img/corrected/BP308E.png
-[img/BP308D]: img/derived/BP308D.svg
 [url/BP308F]: https://www.foundalis.com/res/bps/lewis/p308.htm
 [url/BP308E]: https://oebp.org/BP308
 
@@ -9774,17 +9270,15 @@
 |           |                        | a point of local       |               |
 |           |                        | maximum upwards.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The ball touches the   |               |
-| (100%)    | img/derived/BP309D.svg | curve at the bottom of |               |
-|           | type="image/svg+xml"   | a trough on the left   |               |
-|           | style="width:100%">    | and at the top of a    |               |
-|           | [![BP309D][img/BP309D] | crest on the right.    |               |
-|           | ][img/BP309D]</object> |                        |               |
+| Derived   |                        | The ball touches the   |               |
+|           |                        | curve at the bottom of |               |
+|           |                        | a trough on the left   |               |
+|           |                        | and at the top of a    |               |
+|           |                        | crest on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP309F]: img/original/BP309F.png
 [img/BP309E]: img/corrected/BP309E.png
-[img/BP309D]: img/derived/BP309D.svg
 [url/BP309F]: https://www.foundalis.com/res/bps/lewis/p309.htm
 [url/BP309E]: https://oebp.org/BP309
 
@@ -9829,19 +9323,18 @@
 |           |                        | common center of the   |               |
 |           |                        | outside squares..”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The inner square is    |               |
-| (100%)    | img/derived/BP310D.svg | nearest the wall       |               |
-|           | type="image/svg+xml"   | farthest from the      |               |
-|           | style="width:100%">    | outside squares’       |               |
-|           | [![BP310D][img/BP310D] | common center on the   |               |
-|           | ][img/BP310D]</object> | left and nearest the   |               |
+| Derived   |                        | The inner square is    |               |
+|           |                        | nearest the wall       |               |
+|           |                        | farthest from the      |               |
+|           |                        | outside squares’       |               |
+|           |                        | common center on the   |               |
+|           |                        | left and nearest the   |               |
 |           |                        | wall facing that       |               |
 |           |                        | center on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP310F]: img/original/BP310F.png
 [img/BP310E]: img/corrected/BP310E.png
-[img/BP310D]: img/derived/BP310D.svg
 [url/BP310F]: https://www.foundalis.com/res/bps/lewis/p310.htm
 [url/BP310E]: https://oebp.org/BP310
 
@@ -9863,17 +9356,16 @@
 |           |                        | minus number of pluses |               |
 |           |                        | = 4.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Subtracting the number |               |
-| (97%)     | img/derived/BP311D.svg | of plus signs from the |               |
-|           | type="image/svg+xml"   | number of polygon      |               |
-|           | style="width:100%">    | sides gives three on   |               |
-|           | [![BP311D][img/BP311D] | the left and four on   |               |
-|           | ][img/BP311D]</object> | the right.             |               |
+| Derived   |                        | Subtracting the number |               |
+|           |                        | of plus signs from the |               |
+|           |                        | number of polygon      |               |
+|           |                        | sides gives three on   |               |
+|           |                        | the left and four on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP311F]: img/original/BP311F.png
 [img/BP311E]: img/corrected/BP311E.png
-[img/BP311D]: img/derived/BP311D.svg
 [url/BP311F]: https://www.foundalis.com/res/bps/stepo/p311.htm
 [url/BP311E]: https://oebp.org/BP311
 
@@ -9894,17 +9386,16 @@
 |           |                        | lines intersect out of |               |
 |           |                        | the box.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Extending the two      |               |
-| (86%)     | img/derived/BP312D.svg | segments makes them    |               |
-|           | type="image/svg+xml"   | intersect inside the   |               |
-|           | style="width:100%">    | panel on the left and  |               |
-|           | [![BP312D][img/BP312D] | outside the panel on   |               |
-|           | ][img/BP312D]</object> | the right.             |               |
+| Derived   |                        | Extending the two      |               |
+|           |                        | segments makes them    |               |
+|           |                        | intersect inside the   |               |
+|           |                        | panel on the left and  |               |
+|           |                        | outside the panel on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP312F]: img/original/BP312F.png
 [img/BP312E]: img/corrected/BP312E.png
-[img/BP312D]: img/derived/BP312D.svg
 [url/BP312F]: https://www.foundalis.com/res/bps/stepo/p312.htm
 [url/BP312E]: https://oebp.org/BP312
 
@@ -9929,12 +9420,12 @@
 |           |                        | counterclockwise, open |               |
 |           |                        | curves clockwise.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Following the curls    |               |
-| (89%)     | img/derived/BP313D.svg | from their tapered     |               |
-|           | type="image/svg+xml"   | ends, closed loops     |               |
-|           | style="width:100%">    | turn clockwise and     |               |
-|           | [![BP313D][img/BP313D] | open curls turn        |               |
-|           | ][img/BP313D]</object> | counterclockwise on    |               |
+| Derived   |                        | Following the curls    |               |
+|           |                        | from their tapered     |               |
+|           |                        | ends, closed loops     |               |
+|           |                        | turn clockwise and     |               |
+|           |                        | open curls turn        |               |
+|           |                        | counterclockwise on    |               |
 |           |                        | the left. The          |               |
 |           |                        | directions reverse on  |               |
 |           |                        | the right.             |               |
@@ -9942,7 +9433,6 @@
 
 [img/BP313F]: img/original/BP313F.png
 [img/BP313E]: img/corrected/BP313E.png
-[img/BP313D]: img/derived/BP313D.svg
 [url/BP313F]: https://www.foundalis.com/res/bps/stepo/p313.htm
 [url/BP313E]: https://oebp.org/BP313
 
@@ -9964,17 +9454,15 @@
 |           |                        | between the marked     |               |
 |           |                        | locations.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | A route through the    |               |
-| (96%)     | img/derived/BP314D.svg | maze between the       |               |
-|           | type="image/svg+xml"   | marked places is long  |               |
-|           | style="width:100%">    | on the left and short  |               |
-|           | [![BP314D][img/BP314D] | on the right.          |               |
-|           | ][img/BP314D]</object> |                        |               |
+| Derived   |                        | A route through the    |               |
+|           |                        | maze between the       |               |
+|           |                        | marked places is long  |               |
+|           |                        | on the left and short  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP314F]: img/original/BP314F.png
 [img/BP314E]: img/corrected/BP314E.png
-[img/BP314D]: img/derived/BP314D.svg
 [url/BP314F]: https://www.foundalis.com/res/bps/stepo/p314.htm
 [url/BP314E]: https://oebp.org/BP314
 
@@ -9997,9 +9485,9 @@
 |           |                        | areas reachable by the |               |
 |           |                        | marked locations.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | In the corrected L5    | One region of the maze |               |
-|           | every region is        | is unreachable from    |               |
-|           | reachable from a       | either marked place on |               |
+| Flagged   | In L5 of the previous  | One region of the maze |               |
+|           | redraw, every region   | is unreachable from    |               |
+|           | was reachable from a   | either marked place on |               |
 |           | marked place. The rule | the left. Every region |               |
 |           | requires a region that | is reachable from a    |               |
 |           | neither mark can       | marked place on the    |               |
@@ -10026,11 +9514,12 @@
 |           | ][img/BP316E]          | a cycle vs. no path is | ][url/BP316E] |
 |           |                        | a cycle.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | In the corrected R1 a  | The maze contains a    |               |
-|           | gap in a maze wall     | route that makes a     |               |
-|           | creates a circuit.     | circuit on the left.   |               |
-|           | Right examples must    | All routes are free of |               |
-|           | have no circuit.       | circuits on the right. |               |
+| Flagged   | In R1 of the previous  | The maze contains a    |               |
+|           | redraw, a gap in a     | route that makes a     |               |
+|           | maze wall created a    | circuit on the left.   |               |
+|           | circuit. Right         | All routes are free of |               |
+|           | examples must have no  | circuits on the right. |               |
+|           | circuit.               |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP316F]: img/original/BP316F.png
@@ -10057,17 +9546,16 @@
 |           |                        | outline size vs. not   |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Larger enclosing       |               |
-| (91%)     | img/derived/BP317D.svg | circles go with more   |               |
-|           | type="image/svg+xml"   | dots on the left. The  |               |
-|           | style="width:100%">    | counts on the right    |               |
-|           | [![BP317D][img/BP317D] | depart from that size  |               |
-|           | ][img/BP317D]</object> | relation.              |               |
+| Derived   |                        | Larger enclosing       |               |
+|           |                        | circles go with more   |               |
+|           |                        | dots on the left. The  |               |
+|           |                        | counts on the right    |               |
+|           |                        | depart from that size  |               |
+|           |                        | relation.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP317F]: img/corrected/BP317F.png
 [img/BP317E]: img/corrected/BP317E.png
-[img/BP317D]: img/derived/BP317D.svg
 [url/BP317F]: https://www.foundalis.com/res/bps/fairbanks/p317.htm
 [url/BP317E]: https://oebp.org/BP317
 
@@ -10088,17 +9576,16 @@
 |           |                        | consecutive numbers    |               |
 |           |                        | vs. not so.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The cluster sizes can  |               |
-| (95%)     | img/derived/BP318D.svg | be ordered as          |               |
-|           | type="image/svg+xml"   | consecutive integers   |               |
-|           | style="width:100%">    | on the left. The right |               |
-|           | [![BP318D][img/BP318D] | examples have a gap or |               |
-|           | ][img/BP318D]</object> | a repetition.          |               |
+| Derived   |                        | The cluster sizes can  |               |
+|           |                        | be ordered as          |               |
+|           |                        | consecutive integers   |               |
+|           |                        | on the left. The right |               |
+|           |                        | examples have a gap or |               |
+|           |                        | a repetition.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP318F]: img/corrected/BP318F.png
 [img/BP318E]: img/corrected/BP318E.png
-[img/BP318D]: img/derived/BP318D.svg
 [url/BP318F]: https://www.foundalis.com/res/bps/fairbanks/p318.htm
 [url/BP318E]: https://oebp.org/BP318
 
@@ -10119,18 +9606,17 @@
 |           |                        | multiple of the other  |               |
 |           |                        | vs. not so.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | One cluster contains a |               |
-| (95%)     | img/derived/BP319D.svg | whole-number multiple  |               |
-|           | type="image/svg+xml"   | of the other cluster’s |               |
-|           | style="width:100%">    | dot count on the left. |               |
-|           | [![BP319D][img/BP319D] | Neither count divides  |               |
-|           | ][img/BP319D]</object> | the other on the       |               |
+| Derived   |                        | One cluster contains a |               |
+|           |                        | whole-number multiple  |               |
+|           |                        | of the other cluster’s |               |
+|           |                        | dot count on the left. |               |
+|           |                        | Neither count divides  |               |
+|           |                        | the other on the       |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP319F]: img/corrected/BP319F.png
 [img/BP319E]: img/corrected/BP319E.png
-[img/BP319D]: img/derived/BP319D.svg
 [url/BP319F]: https://www.foundalis.com/res/bps/fairbanks/p319.htm
 [url/BP319E]: https://oebp.org/BP319
 
@@ -10156,17 +9642,14 @@
 |           |                        | the two clusters       |               |
 |           |                        | differ a lot.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two dot counts are |               |
-| (98%)     | img/derived/BP320D.svg | close in relative size |               |
-|           | type="image/svg+xml"   | on the left and far    |               |
-|           | style="width:100%">    | apart on the right.    |               |
-|           | [![BP320D][img/BP320D] |                        |               |
-|           | ][img/BP320D]</object> |                        |               |
+| Derived   |                        | The two dot counts are |               |
+|           |                        | close in relative size |               |
+|           |                        | on the left and far    |               |
+|           |                        | apart on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP320F]: img/corrected/BP320F.png
 [img/BP320E]: img/corrected/BP320E.png
-[img/BP320D]: img/derived/BP320D.svg
 [url/BP320F]: https://www.foundalis.com/res/bps/fairbanks/p320.htm
 [url/BP320E]: https://oebp.org/BP320
 
@@ -10191,18 +9674,17 @@
 |           |                        | reachable from the     |               |
 |           |                        | border of the box.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The small round mark   |               |
-| (97%)     | img/derived/BP321D.svg | is cut off from the    |               |
-|           | type="image/svg+xml"   | panel boundary on the  |               |
-|           | style="width:100%">    | left. An unobstructed  |               |
-|           | [![BP321D][img/BP321D] | route reaches it from  |               |
-|           | ][img/BP321D]</object> | the boundary on the    |               |
+| Derived   |                        | The small round mark   |               |
+|           |                        | is cut off from the    |               |
+|           |                        | panel boundary on the  |               |
+|           |                        | left. An unobstructed  |               |
+|           |                        | route reaches it from  |               |
+|           |                        | the boundary on the    |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP321F]: img/corrected/BP321F.png
 [img/BP321E]: img/corrected/BP321E.png
-[img/BP321D]: img/derived/BP321D.svg
 [url/BP321F]: https://www.foundalis.com/res/bps/fairbanks/p321.htm
 [url/BP321E]: https://oebp.org/BP321
 
@@ -10221,17 +9703,15 @@
 |           | ][img/BP322E]          | more than one outer    | ][url/BP322E] |
 |           |                        | outline.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The figure has a       |               |
-| (94%)     | img/derived/BP322D.svg | single outer outline   |               |
-|           | type="image/svg+xml"   | on the left and more   |               |
-|           | style="width:100%">    | than one outer outline |               |
-|           | [![BP322D][img/BP322D] | on the right.          |               |
-|           | ][img/BP322D]</object> |                        |               |
+| Derived   |                        | The figure has a       |               |
+|           |                        | single outer outline   |               |
+|           |                        | on the left and more   |               |
+|           |                        | than one outer outline |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP322F]: img/corrected/BP322F.png
 [img/BP322E]: img/corrected/BP322E.png
-[img/BP322D]: img/derived/BP322D.svg
 [url/BP322F]: https://www.foundalis.com/res/bps/fairbanks/p322.htm
 [url/BP322E]: https://oebp.org/BP322
 
@@ -10256,17 +9736,15 @@
 |           |                        | be assembled into a    |               |
 |           |                        | square.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The jigsaw pieces fit  |               |
-| (99%)     | img/derived/BP323D.svg | together to make a     |               |
-|           | type="image/svg+xml"   | square on the left.    |               |
-|           | style="width:100%">    | They cannot make a     |               |
-|           | [![BP323D][img/BP323D] | square on the right.   |               |
-|           | ][img/BP323D]</object> |                        |               |
+| Derived   |                        | The jigsaw pieces fit  |               |
+|           |                        | together to make a     |               |
+|           |                        | square on the left.    |               |
+|           |                        | They cannot make a     |               |
+|           |                        | square on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP323F]: img/corrected/BP323F.png
 [img/BP323E]: img/corrected/BP323E.png
-[img/BP323D]: img/derived/BP323D.svg
 [url/BP323F]: https://www.foundalis.com/res/bps/fairbanks/p323.htm
 [url/BP323E]: https://oebp.org/BP323
 
@@ -10287,19 +9765,18 @@
 |           |                        | other to make right    |               |
 |           |                        | shape vs. not so.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Superimposing the two  |               |
-| (97%)     | img/derived/BP324D.svg | leftmost motifs        |               |
-|           | type="image/svg+xml"   | produces the motif to  |               |
-|           | style="width:100%">    | their right in the     |               |
-|           | [![BP324D][img/BP324D] | left examples. It      |               |
-|           | ][img/BP324D]</object> | produces a different   |               |
+| Derived   |                        | Superimposing the two  |               |
+|           |                        | leftmost motifs        |               |
+|           |                        | produces the motif to  |               |
+|           |                        | their right in the     |               |
+|           |                        | left examples. It      |               |
+|           |                        | produces a different   |               |
 |           |                        | result in the right    |               |
 |           |                        | examples.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP324F]: img/corrected/BP324F.png
 [img/BP324E]: img/corrected/BP324E.png
-[img/BP324D]: img/derived/BP324D.svg
 [url/BP324F]: https://www.foundalis.com/res/bps/fairbanks/p324.htm
 [url/BP324E]: https://oebp.org/BP324
 
@@ -10331,17 +9808,16 @@
 |           |                        | logical operator) to   |               |
 |           |                        | make right shape.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The result contains    |               |
-| (96%)     | img/derived/BP325D.svg | the parts covered by   |               |
-|           | type="image/svg+xml"   | exactly one input on   |               |
-|           | style="width:100%">    | the left and the parts |               |
-|           | [![BP325D][img/BP325D] | shared by both inputs  |               |
-|           | ][img/BP325D]</object> | on the right.          |               |
+| Derived   |                        | The result contains    |               |
+|           |                        | the parts covered by   |               |
+|           |                        | exactly one input on   |               |
+|           |                        | the left and the parts |               |
+|           |                        | shared by both inputs  |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP325F]: img/corrected/BP325F.png
 [img/BP325E]: img/corrected/BP325E.png
-[img/BP325D]: img/derived/BP325D.svg
 [url/BP325F]: https://www.foundalis.com/res/bps/fairbanks/p325.htm
 [url/BP325E]: https://oebp.org/BP325
 
@@ -10362,17 +9838,15 @@
 |           |                        | line not tangent to    |               |
 |           |                        | circle.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The line is tangent to |               |
-| (88%)     | img/derived/BP326D.svg | the circle on the left |               |
-|           | type="image/svg+xml"   | and either cuts across |               |
-|           | style="width:100%">    | it or misses it on the |               |
-|           | [![BP326D][img/BP326D] | right.                 |               |
-|           | ][img/BP326D]</object> |                        |               |
+| Derived   |                        | The line is tangent to |               |
+|           |                        | the circle on the left |               |
+|           |                        | and either cuts across |               |
+|           |                        | it or misses it on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP326F]: img/corrected/BP326F.png
 [img/BP326E]: img/corrected/BP326E.png
-[img/BP326D]: img/derived/BP326D.svg
 [url/BP326F]: https://www.foundalis.com/res/bps/fairbanks/p326.htm
 [url/BP326E]: https://oebp.org/BP326
 
@@ -10393,17 +9867,15 @@
 |           |                        | line not tangent to    |               |
 |           |                        | curve.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The straight line is   |               |
-| (97%)     | img/derived/BP327D.svg | tangent to the other   |               |
-|           | type="image/svg+xml"   | curve on the left and  |               |
-|           | style="width:100%">    | lacks that tangency on |               |
-|           | [![BP327D][img/BP327D] | the right.             |               |
-|           | ][img/BP327D]</object> |                        |               |
+| Derived   |                        | The straight line is   |               |
+|           |                        | tangent to the other   |               |
+|           |                        | curve on the left and  |               |
+|           |                        | lacks that tangency on |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP327F]: img/corrected/BP327F.png
 [img/BP327E]: img/corrected/BP327E.png
-[img/BP327D]: img/derived/BP327D.svg
 [url/BP327F]: https://www.foundalis.com/res/bps/fairbanks/p327.htm
 [url/BP327E]: https://oebp.org/BP327
 
@@ -10421,17 +9893,16 @@
 |           | ][img/BP328E]          | vs. all angles are     | ][url/BP328E] |
 |           |                        | equal.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | All the polygon’s      |               |
-| (90%)     | img/derived/BP328D.svg | sides have equal       |               |
-|           | type="image/svg+xml"   | length on the left,    |               |
-|           | style="width:100%">    | and all its angles     |               |
-|           | [![BP328D][img/BP328D] | have equal measure on  |               |
-|           | ][img/BP328D]</object> | the right.             |               |
+| Derived   |                        | All the polygon’s      |               |
+|           |                        | sides have equal       |               |
+|           |                        | length on the left,    |               |
+|           |                        | and all its angles     |               |
+|           |                        | have equal measure on  |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP328F]: img/corrected/BP328F.png
 [img/BP328E]: img/corrected/BP328E.png
-[img/BP328D]: img/derived/BP328D.svg
 [url/BP328F]: https://www.foundalis.com/res/bps/fairbanks/p328.htm
 [url/BP328E]: https://oebp.org/BP328
 
@@ -10448,17 +9919,14 @@
 | OEBP      | [![BP329E][img/BP329E] | “Regular polygon vs.   | [BP329E       |
 |           | ][img/BP329E]          | not regular polygon.”  | ][url/BP329E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The polygon is regular |               |
-| (90%)     | img/derived/BP329D.svg | on the left and        |               |
-|           | type="image/svg+xml"   | irregular on the       |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP329D][img/BP329D] |                        |               |
-|           | ][img/BP329D]</object> |                        |               |
+| Derived   |                        | The polygon is regular |               |
+|           |                        | on the left and        |               |
+|           |                        | irregular on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP329F]: img/corrected/BP329F.png
 [img/BP329E]: img/corrected/BP329E.png
-[img/BP329D]: img/derived/BP329D.svg
 [url/BP329F]: https://www.foundalis.com/res/bps/fairbanks/p329.htm
 [url/BP329E]: https://oebp.org/BP329
 
@@ -10476,17 +9944,16 @@
 | OEBP      | [![BP330E][img/BP330E] | “1-D curve vs. 2-D     | [BP330E       |
 |           | ][img/BP330E]          | shape.”                | ][url/BP330E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left examples      |               |
-| (93%)     | img/derived/BP330D.svg | depict a               |               |
-|           | type="image/svg+xml"   | one-dimensional curve, |               |
-|           | style="width:100%">    | and the right examples |               |
-|           | [![BP330D][img/BP330D] | depict a region with   |               |
-|           | ][img/BP330D]</object> | area.                  |               |
+| Derived   |                        | The left examples      |               |
+|           |                        | depict a               |               |
+|           |                        | one-dimensional curve, |               |
+|           |                        | and the right examples |               |
+|           |                        | depict a region with   |               |
+|           |                        | area.                  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP330F]: img/corrected/BP330F.png
 [img/BP330E]: img/corrected/BP330E.png
-[img/BP330D]: img/derived/BP330D.svg
 [url/BP330F]: https://www.foundalis.com/res/bps/fairbanks/p330.htm
 [url/BP330E]: https://oebp.org/BP330
 
@@ -10504,17 +9971,16 @@
 |           | ][img/BP331E]          | 2-D vs. image of       | ][url/BP331E] |
 |           |                        | something 3-D.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left examples      |               |
-| (93%)     | img/derived/BP331D.svg | depict flat figures,   |               |
-|           | type="image/svg+xml"   | and the right examples |               |
-|           | style="width:100%">    | depict                 |               |
-|           | [![BP331D][img/BP331D] | three-dimensional      |               |
-|           | ][img/BP331D]</object> | objects.               |               |
+| Derived   |                        | The left examples      |               |
+|           |                        | depict flat figures,   |               |
+|           |                        | and the right examples |               |
+|           |                        | depict                 |               |
+|           |                        | three-dimensional      |               |
+|           |                        | objects.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP331F]: img/corrected/BP331F.png
 [img/BP331E]: img/corrected/BP331E.png
-[img/BP331D]: img/derived/BP331D.svg
 [url/BP331F]: https://www.foundalis.com/res/bps/fairbanks/p331.htm
 [url/BP331E]: https://oebp.org/BP331
 
@@ -10532,17 +9998,16 @@
 |           | ][img/BP332E]          | solid vs. drawing of   | ][url/BP332E] |
 |           |                        | opaque solid.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The solid is drawn as  |               |
-| (92%)     | img/derived/BP332D.svg | a wireframe showing    |               |
-|           | type="image/svg+xml"   | its hidden edges on    |               |
-|           | style="width:100%">    | the left and as an     |               |
-|           | [![BP332D][img/BP332D] | opaque object on the   |               |
-|           | ][img/BP332D]</object> | right.                 |               |
+| Derived   |                        | The solid is drawn as  |               |
+|           |                        | a wireframe showing    |               |
+|           |                        | its hidden edges on    |               |
+|           |                        | the left and as an     |               |
+|           |                        | opaque object on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP332F]: img/corrected/BP332F.png
 [img/BP332E]: img/corrected/BP332E.png
-[img/BP332D]: img/derived/BP332D.svg
 [url/BP332F]: https://www.foundalis.com/res/bps/fairbanks/p332.htm
 [url/BP332E]: https://oebp.org/BP332
 
@@ -10563,17 +10028,15 @@
 |           |                        | drawing of             |               |
 |           |                        | non-platonic solid.”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left drawing      |               |
-| (93%)     | img/derived/BP333D.svg | depicts a Platonic     |               |
-|           | type="image/svg+xml"   | solid. The solids on   |               |
-|           | style="width:100%">    | the right fall outside |               |
-|           | [![BP333D][img/BP333D] | that family.           |               |
-|           | ][img/BP333D]</object> |                        |               |
+| Derived   |                        | Each left drawing      |               |
+|           |                        | depicts a Platonic     |               |
+|           |                        | solid. The solids on   |               |
+|           |                        | the right fall outside |               |
+|           |                        | that family.           |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP333F]: img/corrected/BP333F.png
 [img/BP333E]: img/corrected/BP333E.png
-[img/BP333D]: img/derived/BP333D.svg
 [url/BP333F]: https://www.foundalis.com/res/bps/fairbanks/p333.htm
 [url/BP333E]: https://oebp.org/BP333
 
@@ -10591,17 +10054,13 @@
 |           | ][img/BP334E]          | vs. even number of     | more)         |
 |           |                        | dots.”                 | ][url/BP334E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The number of dots is  |               |
-| (94%)     | img/derived/BP334D.svg | odd on the left and    |               |
-|           | type="image/svg+xml"   | even on the right.     |               |
-|           | style="width:100%">    |                        |               |
-|           | [![BP334D][img/BP334D] |                        |               |
-|           | ][img/BP334D]</object> |                        |               |
+| Derived   |                        | The number of dots is  |               |
+|           |                        | odd on the left and    |               |
+|           |                        | even on the right.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP334F]: img/corrected/BP334F.png
 [img/BP334E]: img/corrected/BP334E.png
-[img/BP334D]: img/derived/BP334D.svg
 [url/BP334F]: https://www.foundalis.com/res/bps/fairbanks/p334.htm
 [url/BP334E]: https://oebp.org/BP334
 
@@ -10620,17 +10079,16 @@
 |           | ][img/BP335E]          | vs. does not           | more)         |
 |           |                        | tessellate the plane.” | ][url/BP335E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Copies of the shape    |               |
-| (99%)     | img/derived/BP335D.svg | can cover the plane    |               |
-|           | type="image/svg+xml"   | without gaps or        |               |
-|           | style="width:100%">    | overlaps on the left.  |               |
-|           | [![BP335D][img/BP335D] | The shape on the right |               |
-|           | ][img/BP335D]</object> | cannot tile the plane. |               |
+| Derived   |                        | Copies of the shape    |               |
+|           |                        | can cover the plane    |               |
+|           |                        | without gaps or        |               |
+|           |                        | overlaps on the left.  |               |
+|           |                        | The shape on the right |               |
+|           |                        | cannot tile the plane. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP335F]: img/corrected/BP335F.png
 [img/BP335E]: img/corrected/BP335E.png
-[img/BP335D]: img/derived/BP335D.svg
 [url/BP335F]: https://www.foundalis.com/res/bps/fairbanks/p335.htm
 [url/BP335E]: https://oebp.org/BP335
 
@@ -10648,17 +10106,16 @@
 |           | ][img/BP336E]          | all vs. no gear turns  | ][url/BP336E] |
 |           |                        | all.”                  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Driving any one gear   |               |
-| (98%)     | img/derived/BP336D.svg | turns the whole        |               |
-|           | type="image/svg+xml"   | assembly on the left.  |               |
-|           | style="width:100%">    | No single gear can     |               |
-|           | [![BP336D][img/BP336D] | drive the whole        |               |
-|           | ][img/BP336D]</object> | assembly on the right. |               |
+| Derived   |                        | Driving any one gear   |               |
+|           |                        | turns the whole        |               |
+|           |                        | assembly on the left.  |               |
+|           |                        | No single gear can     |               |
+|           |                        | drive the whole        |               |
+|           |                        | assembly on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP336F]: img/corrected/BP336F.png
 [img/BP336E]: img/corrected/BP336E.png
-[img/BP336D]: img/derived/BP336D.svg
 [url/BP336F]: https://www.foundalis.com/res/bps/fairbanks/p336.htm
 [url/BP336E]: https://oebp.org/BP336
 
@@ -10678,17 +10135,16 @@
 |           |                        | below downward         |               |
 |           |                        | slopes.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Where the boundary     |               |
-| (99%)     | img/derived/BP337D.svg | rises, black lies      |               |
-|           | type="image/svg+xml"   | below it on the left.  |               |
-|           | style="width:100%">    | On the right, black    |               |
-|           | [![BP337D][img/BP337D] | lies below the falling |               |
-|           | ][img/BP337D]</object> | portions.              |               |
+| Derived   |                        | Where the boundary     |               |
+|           |                        | rises, black lies      |               |
+|           |                        | below it on the left.  |               |
+|           |                        | On the right, black    |               |
+|           |                        | lies below the falling |               |
+|           |                        | portions.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP337F]: img/corrected/BP337F.png
 [img/BP337E]: img/corrected/BP337E.png
-[img/BP337D]: img/derived/BP337D.svg
 [url/BP337F]: https://www.foundalis.com/res/bps/fairbanks/p337.htm
 [url/BP337E]: https://oebp.org/BP337
 
@@ -10709,17 +10165,16 @@
 |           |                        | approximate            |               |
 |           |                        | similarity.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two shapes in each |               |
-| (96%)     | img/derived/BP338D.svg | left example closely   |               |
-|           | type="image/svg+xml"   | resemble one another.  |               |
-|           | style="width:100%">    | The corresponding pair |               |
-|           | [![BP338D][img/BP338D] | on the right differs   |               |
-|           | ][img/BP338D]</object> | more strongly.         |               |
+| Derived   |                        | The two shapes in each |               |
+|           |                        | left example closely   |               |
+|           |                        | resemble one another.  |               |
+|           |                        | The corresponding pair |               |
+|           |                        | on the right differs   |               |
+|           |                        | more strongly.         |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP338F]: img/corrected/BP338F.png
 [img/BP338E]: img/corrected/BP338E.png
-[img/BP338D]: img/derived/BP338D.svg
 [url/BP338F]: https://www.foundalis.com/res/bps/fairbanks/p338.htm
 [url/BP338E]: https://oebp.org/BP338
 
@@ -10740,17 +10195,16 @@
 |           |                        | intersection of left   |               |
 |           |                        | sets is right set.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The result set         |               |
-| (88%)     | img/derived/BP339D.svg | contains every member  |               |
-|           | type="image/svg+xml"   | of either input set on |               |
-|           | style="width:100%">    | the left and only the  |               |
-|           | [![BP339D][img/BP339D] | members common to both |               |
-|           | ][img/BP339D]</object> | inputs on the right.   |               |
+| Derived   |                        | The result set         |               |
+|           |                        | contains every member  |               |
+|           |                        | of either input set on |               |
+|           |                        | the left and only the  |               |
+|           |                        | members common to both |               |
+|           |                        | inputs on the right.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP339F]: img/corrected/BP339F.png
 [img/BP339E]: img/corrected/BP339E.png
-[img/BP339D]: img/derived/BP339D.svg
 [url/BP339F]: https://www.foundalis.com/res/bps/fairbanks/p339.htm
 [url/BP339E]: https://oebp.org/BP339
 
@@ -10770,19 +10224,18 @@
 | OEBP      | [![BP340E][img/BP340E] | “Regular star polygon  | [BP340E       |
 |           | ][img/BP340E]          | vs. not so.”           | ][url/BP340E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left star polygons |               |
-| (93%)     | img/derived/BP340D.svg | can be traced in one   |               |
-|           | type="image/svg+xml"   | circuit by repeatedly  |               |
-|           | style="width:100%">    | advancing the same     |               |
-|           | [![BP340D][img/BP340D] | number of vertices.    |               |
-|           | ][img/BP340D]</object> | The right drawings     |               |
+| Derived   |                        | The left star polygons |               |
+|           |                        | can be traced in one   |               |
+|           |                        | circuit by repeatedly  |               |
+|           |                        | advancing the same     |               |
+|           |                        | number of vertices.    |               |
+|           |                        | The right drawings     |               |
 |           |                        | violate that           |               |
 |           |                        | construction.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP340F]: img/corrected/BP340F.png
 [img/BP340E]: img/corrected/BP340E.png
-[img/BP340D]: img/derived/BP340D.svg
 [url/BP340F]: https://www.foundalis.com/res/bps/fairbanks/p340.htm
 [url/BP340E]: https://oebp.org/BP340
 
@@ -10807,18 +10260,17 @@
 |           |                        | decreasing border      |               |
 |           |                        | line.”                 |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The boundary moves     |               |
-| (99%)     | img/derived/BP341D.svg | consistently upward or |               |
-|           | type="image/svg+xml"   | consistently downward  |               |
-|           | style="width:100%">    | on the left and        |               |
-|           | [![BP341D][img/BP341D] | reverses its vertical  |               |
-|           | ][img/BP341D]</object> | direction on the       |               |
+| Derived   |                        | The boundary moves     |               |
+|           |                        | consistently upward or |               |
+|           |                        | consistently downward  |               |
+|           |                        | on the left and        |               |
+|           |                        | reverses its vertical  |               |
+|           |                        | direction on the       |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP341F]: img/corrected/BP341F.png
 [img/BP341E]: img/corrected/BP341E.png
-[img/BP341D]: img/derived/BP341D.svg
 [url/BP341F]: https://www.foundalis.com/res/bps/fairbanks/p341.htm
 [url/BP341E]: https://oebp.org/BP341
 
@@ -10839,17 +10291,15 @@
 |           |                        | zero or more than one  |               |
 |           |                        | axis of symmetry.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each left figure has   |               |
-| (99%)     | img/derived/BP342D.svg | exactly one mirror     |               |
-|           | type="image/svg+xml"   | axis. Each right       |               |
-|           | style="width:100%">    | figure has either none |               |
-|           | [![BP342D][img/BP342D] | or more than one.      |               |
-|           | ][img/BP342D]</object> |                        |               |
+| Derived   |                        | Each left figure has   |               |
+|           |                        | exactly one mirror     |               |
+|           |                        | axis. Each right       |               |
+|           |                        | figure has either none |               |
+|           |                        | or more than one.      |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP342F]: img/corrected/BP342F.png
 [img/BP342E]: img/corrected/BP342E.png
-[img/BP342D]: img/derived/BP342D.svg
 [url/BP342F]: https://www.foundalis.com/res/bps/fairbanks/p342.htm
 [url/BP342E]: https://oebp.org/BP342
 
@@ -10868,17 +10318,15 @@
 |           | ][img/BP343E]          | same vs. at least two  | ][url/BP343E] |
 |           |                        | shapes are the same.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | All the shapes in a    |               |
-| (95%)     | img/derived/BP343D.svg | left example are       |               |
-|           | type="image/svg+xml"   | distinct. At least two |               |
-|           | style="width:100%">    | shapes match in a      |               |
-|           | [![BP343D][img/BP343D] | right example.         |               |
-|           | ][img/BP343D]</object> |                        |               |
+| Derived   |                        | All the shapes in a    |               |
+|           |                        | left example are       |               |
+|           |                        | distinct. At least two |               |
+|           |                        | shapes match in a      |               |
+|           |                        | right example.         |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP343F]: img/corrected/BP343F.png
 [img/BP343E]: img/corrected/BP343E.png
-[img/BP343D]: img/derived/BP343D.svg
 [url/BP343F]: https://www.foundalis.com/res/bps/fairbanks/p343.htm
 [url/BP343E]: https://oebp.org/BP343
 
@@ -10930,17 +10378,16 @@
 |           |                        | union of circle and    |               |
 |           |                        | square.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The black region is    |               |
-| (99%)     | img/derived/BP345D.svg | the common part of a   |               |
-|           | type="image/svg+xml"   | circle and a square on |               |
-|           | style="width:100%">    | the left and their     |               |
-|           | [![BP345D][img/BP345D] | combined area on the   |               |
-|           | ][img/BP345D]</object> | right.                 |               |
+| Derived   |                        | The black region is    |               |
+|           |                        | the common part of a   |               |
+|           |                        | circle and a square on |               |
+|           |                        | the left and their     |               |
+|           |                        | combined area on the   |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP345F]: img/corrected/BP345F.png
 [img/BP345E]: img/corrected/BP345E.png
-[img/BP345D]: img/derived/BP345D.svg
 [url/BP345F]: https://www.foundalis.com/res/bps/fairbanks/p345.htm
 [url/BP345E]: https://oebp.org/BP345
 
@@ -10997,17 +10444,15 @@
 |           |                        | shapes have something  |               |
 |           |                        | in common.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left examples      |               |
-| (97%)     | img/derived/BP347D.svg | collect varied shapes. |               |
-|           | type="image/svg+xml"   | In each right example  |               |
-|           | style="width:100%">    | a common feature       |               |
-|           | [![BP347D][img/BP347D] | unites the shapes.     |               |
-|           | ][img/BP347D]</object> |                        |               |
+| Derived   |                        | The left examples      |               |
+|           |                        | collect varied shapes. |               |
+|           |                        | In each right example  |               |
+|           |                        | a common feature       |               |
+|           |                        | unites the shapes.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP347F]: img/corrected/BP347F.png
 [img/BP347E]: img/corrected/BP347E.png
-[img/BP347D]: img/derived/BP347D.svg
 [url/BP347F]: https://www.foundalis.com/res/bps/fairbanks/p347.htm
 [url/BP347E]: https://oebp.org/BP347
 
@@ -11028,17 +10473,15 @@
 |           |                        | shape on the left vs.  |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The second shape fills |               |
-| (98%)     | img/derived/BP348D.svg | the convex hull of the |               |
-|           | type="image/svg+xml"   | first on the left. It  |               |
-|           | style="width:100%">    | differs from that hull |               |
-|           | [![BP348D][img/BP348D] | on the right.          |               |
-|           | ][img/BP348D]</object> |                        |               |
+| Derived   |                        | The second shape fills |               |
+|           |                        | the convex hull of the |               |
+|           |                        | first on the left. It  |               |
+|           |                        | differs from that hull |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP348F]: img/corrected/BP348F.png
 [img/BP348E]: img/corrected/BP348E.png
-[img/BP348D]: img/derived/BP348D.svg
 [url/BP348F]: https://www.foundalis.com/res/bps/fairbanks/p348.htm
 [url/BP348E]: https://oebp.org/BP348
 
@@ -11088,18 +10531,17 @@
 |           | ][img/BP350E]          | increasing from left   | ][url/BP350E] |
 |           |                        | to right vs. not so.”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Reading each sequence  |               |
-| (95%)     | img/derived/BP350D.svg | from left to right, a  |               |
-|           | type="image/svg+xml"   | quantity increases     |               |
-|           | style="width:100%">    | throughout the left    |               |
-|           | [![BP350D][img/BP350D] | examples and breaks    |               |
-|           | ][img/BP350D]</object> | that progression in    |               |
+| Derived   |                        | Reading each sequence  |               |
+|           |                        | from left to right, a  |               |
+|           |                        | quantity increases     |               |
+|           |                        | throughout the left    |               |
+|           |                        | examples and breaks    |               |
+|           |                        | that progression in    |               |
 |           |                        | the right examples.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP350F]: img/corrected/BP350F.png
 [img/BP350E]: img/corrected/BP350E.png
-[img/BP350D]: img/derived/BP350D.svg
 [url/BP350F]: https://www.foundalis.com/res/bps/fairbanks/p350.htm
 [url/BP350E]: https://oebp.org/BP350
 
@@ -11117,17 +10559,15 @@
 |           | ][img/BP351E]          | continuous quantity.”  | more)         |
 |           |                        |                        | ][url/BP351E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The changing quantity  |               |
-| (95%)     | img/derived/BP351D.svg | takes discrete values  |               |
-|           | type="image/svg+xml"   | on the left and        |               |
-|           | style="width:100%">    | continuous values on   |               |
-|           | [![BP351D][img/BP351D] | the right.             |               |
-|           | ][img/BP351D]</object> |                        |               |
+| Derived   |                        | The changing quantity  |               |
+|           |                        | takes discrete values  |               |
+|           |                        | on the left and        |               |
+|           |                        | continuous values on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP351F]: img/corrected/BP351F.png
 [img/BP351E]: img/corrected/BP351E.png
-[img/BP351D]: img/derived/BP351D.svg
 [url/BP351F]: https://www.foundalis.com/res/bps/fairbanks/p351.htm
 [url/BP351E]: https://oebp.org/BP351
 
@@ -11214,18 +10654,17 @@
 |           | ][img/BP354E]          | is angular vs. not     | ][url/BP354E] |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The changing quantity  |               |
-| (95%)     | img/derived/BP354D.svg | is an angle on the     |               |
-|           | type="image/svg+xml"   | left. On the right it  |               |
-|           | style="width:100%">    | measures a quantity    |               |
-|           | [![BP354D][img/BP354D] | that can continue      |               |
-|           | ][img/BP354D]</object> | increasing without     |               |
+| Derived   |                        | The changing quantity  |               |
+|           |                        | is an angle on the     |               |
+|           |                        | left. On the right it  |               |
+|           |                        | measures a quantity    |               |
+|           |                        | that can continue      |               |
+|           |                        | increasing without     |               |
 |           |                        | wrapping around.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP354F]: img/corrected/BP354F.png
 [img/BP354E]: img/corrected/BP354E.png
-[img/BP354D]: img/derived/BP354D.svg
 [url/BP354F]: https://www.foundalis.com/res/bps/fairbanks/p354.htm
 [url/BP354E]: https://oebp.org/BP354
 
@@ -11247,17 +10686,15 @@
 |           |                        | based on 1-D (line     |               |
 |           |                        | segments).”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The repeated           |               |
-| (97%)     | img/derived/BP355D.svg | construction replaces  |               |
-|           | type="image/svg+xml"   | regions on the left    |               |
-|           | style="width:100%">    | and replaces line      |               |
-|           | [![BP355D][img/BP355D] | segments on the right. |               |
-|           | ][img/BP355D]</object> |                        |               |
+| Derived   |                        | The repeated           |               |
+|           |                        | construction replaces  |               |
+|           |                        | regions on the left    |               |
+|           |                        | and replaces line      |               |
+|           |                        | segments on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP355F]: img/corrected/BP355F.png
 [img/BP355E]: img/corrected/BP355E.png
-[img/BP355D]: img/derived/BP355D.svg
 [url/BP355F]: https://www.foundalis.com/res/bps/fairbanks/p355.htm
 [url/BP355E]: https://oebp.org/BP355
 
@@ -11318,17 +10755,16 @@
 |           |                        | quantity,              |               |
 |           |                        | left-to-right.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Reading the sequence   |               |
-| (98%)     | img/derived/BP357D.svg | from left to right,    |               |
-|           | type="image/svg+xml"   | successive changes get |               |
-|           | style="width:100%">    | smaller on the left    |               |
-|           | [![BP357D][img/BP357D] | and larger on the      |               |
-|           | ][img/BP357D]</object> | right.                 |               |
+| Derived   |                        | Reading the sequence   |               |
+|           |                        | from left to right,    |               |
+|           |                        | successive changes get |               |
+|           |                        | smaller on the left    |               |
+|           |                        | and larger on the      |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP357F]: img/corrected/BP357F.png
 [img/BP357E]: img/corrected/BP357E.png
-[img/BP357D]: img/derived/BP357D.svg
 [url/BP357F]: https://www.foundalis.com/res/bps/fairbanks/p357.htm
 [url/BP357E]: https://oebp.org/BP357
 
@@ -11354,17 +10790,16 @@
 |           |                        | arrows are their       |               |
 |           |                        | velocities.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | If both circles move   |               |
-| (100%)    | img/derived/BP358D.svg | with the velocities    |               |
-|           | type="image/svg+xml"   | shown by their arrows, |               |
-|           | style="width:100%">    | they collide on the    |               |
-|           | [![BP358D][img/BP358D] | left and miss each     |               |
-|           | ][img/BP358D]</object> | other on the right.    |               |
+| Derived   |                        | If both circles move   |               |
+|           |                        | with the velocities    |               |
+|           |                        | shown by their arrows, |               |
+|           |                        | they collide on the    |               |
+|           |                        | left and miss each     |               |
+|           |                        | other on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP358F]: img/corrected/BP358F.png
 [img/BP358E]: img/corrected/BP358E.png
-[img/BP358D]: img/derived/BP358D.svg
 [url/BP358F]: https://www.foundalis.com/res/bps/fairbanks/p358.htm
 [url/BP358E]: https://oebp.org/BP358
 
@@ -11383,12 +10818,13 @@
 | OEBP      | [![BP359E][img/BP359E] | “Random arrangement of | [BP359E       |
 |           | ][img/BP359E]          | pixels vs. not so.”    | ][url/BP359E] |
 +-----------+------------------------+------------------------+---------------+
-| Flagged   | The average is 54%     | The left textures      |               |
-|           | after the redraw. The  | scatter dots at        |               |
-|           | redrawn dot textures   | random. The right      |               |
-|           | differ in the          | textures impose a      |               |
-|           | placement of           | pattern on their       |               |
-|           | individual marks.      | positions.             |               |
+| Flagged   | The previous redraw    | The left textures      |               |
+|           | scored below the       | scatter dots at        |               |
+|           | similarity threshold   | random. The right      |               |
+|           | because its dot        | textures impose a      |               |
+|           | textures differed in   | pattern on their       |               |
+|           | the placement of       | positions.             |               |
+|           | individual marks.      |                        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP359F]: img/corrected/BP359F.png
@@ -11411,18 +10847,17 @@
 |           | ][img/BP360E]          | entropy) vs. order is  | ][url/BP360E] |
 |           |                        | low (high entropy).”   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The elements have a    |               |
-| (98%)     | img/derived/BP360D.svg | highly ordered         |               |
-|           | type="image/svg+xml"   | arrangement on the     |               |
-|           | style="width:100%">    | left and a less        |               |
-|           | [![BP360D][img/BP360D] | predictable            |               |
-|           | ][img/BP360D]</object> | arrangement on the     |               |
+| Derived   |                        | The elements have a    |               |
+|           |                        | highly ordered         |               |
+|           |                        | arrangement on the     |               |
+|           |                        | left and a less        |               |
+|           |                        | predictable            |               |
+|           |                        | arrangement on the     |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP360F]: img/corrected/BP360F.png
 [img/BP360E]: img/corrected/BP360E.png
-[img/BP360D]: img/derived/BP360D.svg
 [url/BP360F]: https://www.foundalis.com/res/bps/fairbanks/p360.htm
 [url/BP360E]: https://oebp.org/BP360
 
@@ -11507,17 +10942,16 @@
 |           |                        | the curve following    |               |
 |           |                        | the arrow.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Following the arrow    |               |
-| (93%)     | img/derived/BP363D.svg | around the outline     |               |
-|           | type="image/svg+xml"   | goes counterclockwise  |               |
-|           | style="width:100%">    | on the left and        |               |
-|           | [![BP363D][img/BP363D] | clockwise on the       |               |
-|           | ][img/BP363D]</object> | right.                 |               |
+| Derived   |                        | Following the arrow    |               |
+|           |                        | around the outline     |               |
+|           |                        | goes counterclockwise  |               |
+|           |                        | on the left and        |               |
+|           |                        | clockwise on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP363F]: img/corrected/BP363F.png
 [img/BP363E]: img/corrected/BP363E.png
-[img/BP363D]: img/derived/BP363D.svg
 [url/BP363F]: https://www.foundalis.com/res/bps/fairbanks/p363.htm
 [url/BP363E]: https://oebp.org/BP363
 
@@ -11598,17 +11032,15 @@
 |           |                        | white dot is not at    |               |
 |           |                        | center of mass.”       |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The white dot marks    |               |
-| (99%)     | img/derived/BP366D.svg | the black shape’s      |               |
-|           | type="image/svg+xml"   | center of mass on the  |               |
-|           | style="width:100%">    | left and lies away     |               |
-|           | [![BP366D][img/BP366D] | from it on the right.  |               |
-|           | ][img/BP366D]</object> |                        |               |
+| Derived   |                        | The white dot marks    |               |
+|           |                        | the black shape’s      |               |
+|           |                        | center of mass on the  |               |
+|           |                        | left and lies away     |               |
+|           |                        | from it on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP366F]: img/corrected/BP366F.png
 [img/BP366E]: img/corrected/BP366E.png
-[img/BP366D]: img/derived/BP366D.svg
 [url/BP366F]: https://www.foundalis.com/res/bps/fairbanks/p366.htm
 [url/BP366E]: https://oebp.org/BP366
 
@@ -11631,17 +11063,15 @@
 |           |                        | mass out of the black  |               |
 |           |                        | area of the shape.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The center of mass     |               |
-| (99%)     | img/derived/BP367D.svg | falls within the black |               |
-|           | type="image/svg+xml"   | material on the left   |               |
-|           | style="width:100%">    | and outside the black  |               |
-|           | [![BP367D][img/BP367D] | material on the right. |               |
-|           | ][img/BP367D]</object> |                        |               |
+| Derived   |                        | The center of mass     |               |
+|           |                        | falls within the black |               |
+|           |                        | material on the left   |               |
+|           |                        | and outside the black  |               |
+|           |                        | material on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP367F]: img/corrected/BP367F.png
 [img/BP367E]: img/corrected/BP367E.png
-[img/BP367D]: img/derived/BP367D.svg
 [url/BP367F]: https://www.foundalis.com/res/bps/fairbanks/p367.htm
 [url/BP367E]: https://oebp.org/BP367
 
@@ -11666,18 +11096,17 @@
 |           |                        | can see (in straight   |               |
 |           |                        | lines) all points.”    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | On the left one point  |               |
-| (99%)     | img/derived/BP368D.svg | in the shape can see   |               |
-|           | type="image/svg+xml"   | every other point      |               |
-|           | style="width:100%">    | along a segment inside |               |
-|           | [![BP368D][img/BP368D] | the shape. No such     |               |
-|           | ][img/BP368D]</object> | viewpoint exists on    |               |
+| Derived   |                        | On the left one point  |               |
+|           |                        | in the shape can see   |               |
+|           |                        | every other point      |               |
+|           |                        | along a segment inside |               |
+|           |                        | the shape. No such     |               |
+|           |                        | viewpoint exists on    |               |
 |           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP368F]: img/corrected/BP368F.png
 [img/BP368E]: img/corrected/BP368E.png
-[img/BP368D]: img/derived/BP368D.svg
 [url/BP368F]: https://www.foundalis.com/res/bps/fairbanks/p368.htm
 [url/BP368E]: https://oebp.org/BP368
 
@@ -11702,18 +11131,17 @@
 |           |                        | other figure vs. not   |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Identifying the marked |               |
-| (96%)     | img/derived/BP369D.svg | points of one figure   |               |
-|           | type="image/svg+xml"   | produces the other     |               |
-|           | style="width:100%">    | figure on the left.    |               |
-|           | [![BP369D][img/BP369D] | The corresponding      |               |
-|           | ][img/BP369D]</object> | identification fails   |               |
+| Derived   |                        | Identifying the marked |               |
+|           |                        | points of one figure   |               |
+|           |                        | produces the other     |               |
+|           |                        | figure on the left.    |               |
+|           |                        | The corresponding      |               |
+|           |                        | identification fails   |               |
 |           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP369F]: img/corrected/BP369F.png
 [img/BP369E]: img/corrected/BP369E.png
-[img/BP369D]: img/derived/BP369D.svg
 [url/BP369F]: https://www.foundalis.com/res/bps/fairbanks/p369.htm
 [url/BP369E]: https://oebp.org/BP369
 
@@ -11737,17 +11165,15 @@
 |           |                        | symbols makes a        |               |
 |           |                        | torus.”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Gluing the labeled     |               |
-| (99%)     | img/derived/BP370D.svg | boundary edges as      |               |
-|           | type="image/svg+xml"   | indicated gives a      |               |
-|           | style="width:100%">    | sphere on the left and |               |
-|           | [![BP370D][img/BP370D] | a torus on the right.  |               |
-|           | ][img/BP370D]</object> |                        |               |
+| Derived   |                        | Gluing the labeled     |               |
+|           |                        | boundary edges as      |               |
+|           |                        | indicated gives a      |               |
+|           |                        | sphere on the left and |               |
+|           |                        | a torus on the right.  |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP370F]: img/corrected/BP370F.png
 [img/BP370E]: img/corrected/BP370E.png
-[img/BP370D]: img/derived/BP370D.svg
 [url/BP370F]: https://www.foundalis.com/res/bps/fairbanks/p370.htm
 [url/BP370E]: https://oebp.org/BP370
 
@@ -11825,17 +11251,16 @@
 | OEBP      | [![BP373E][img/BP373E] | “Intersection (AND)    | [BP373E       |
 |           | ][img/BP373E]          | vs. union (OR).”       | ][url/BP373E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Combining the inputs   |               |
-| (96%)     | img/derived/BP373D.svg | by intersection gives  |               |
-|           | type="image/svg+xml"   | the result on the      |               |
-|           | style="width:100%">    | left. Combining them   |               |
-|           | [![BP373D][img/BP373D] | by union gives it on   |               |
-|           | ][img/BP373D]</object> | the right.             |               |
+| Derived   |                        | Combining the inputs   |               |
+|           |                        | by intersection gives  |               |
+|           |                        | the result on the      |               |
+|           |                        | left. Combining them   |               |
+|           |                        | by union gives it on   |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP373F]: img/corrected/BP373F.png
 [img/BP373E]: img/corrected/BP373E.png
-[img/BP373D]: img/derived/BP373D.svg
 [url/BP373F]: https://www.foundalis.com/res/bps/fairbanks/p373.htm
 [url/BP373E]: https://oebp.org/BP373
 
@@ -11852,17 +11277,16 @@
 | OEBP      | [![BP374E][img/BP374E] | “Simple object vs.     | [BP374E       |
 |           | ][img/BP374E]          | complex object.”       | ][url/BP374E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The left examples have |               |
-| (93%)     | img/derived/BP374D.svg | little internal        |               |
-|           | type="image/svg+xml"   | structure. The right   |               |
-|           | style="width:100%">    | examples contain       |               |
-|           | [![BP374D][img/BP374D] | intricate arrangements |               |
-|           | ][img/BP374D]</object> | of parts.              |               |
+| Derived   |                        | The left examples have |               |
+|           |                        | little internal        |               |
+|           |                        | structure. The right   |               |
+|           |                        | examples contain       |               |
+|           |                        | intricate arrangements |               |
+|           |                        | of parts.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP374F]: img/corrected/BP374F.png
 [img/BP374E]: img/corrected/BP374E.png
-[img/BP374D]: img/derived/BP374D.svg
 [url/BP374F]: https://www.foundalis.com/res/bps/fairbanks/p374.htm
 [url/BP374E]: https://oebp.org/BP374
 
@@ -11883,18 +11307,17 @@
 |           |                        | representationally     |               |
 |           |                        | non-uniform.”          |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The whole figure uses  |               |
-| (95%)     | img/derived/BP375D.svg | one mode of            |               |
-|           | type="image/svg+xml"   | representation on the  |               |
-|           | style="width:100%">    | left. The right        |               |
-|           | [![BP375D][img/BP375D] | examples combine       |               |
-|           | ][img/BP375D]</object> | different modes of     |               |
+| Derived   |                        | The whole figure uses  |               |
+|           |                        | one mode of            |               |
+|           |                        | representation on the  |               |
+|           |                        | left. The right        |               |
+|           |                        | examples combine       |               |
+|           |                        | different modes of     |               |
 |           |                        | representation.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP375F]: img/corrected/BP375F.png
 [img/BP375E]: img/corrected/BP375E.png
-[img/BP375D]: img/derived/BP375D.svg
 [url/BP375F]: https://www.foundalis.com/res/bps/fairbanks/p375.htm
 [url/BP375E]: https://oebp.org/BP375
 
@@ -11950,17 +11373,15 @@
 |           |                        | dissimilar             |               |
 |           |                        | representations.”      |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The two objects use    |               |
-| (90%)     | img/derived/BP377D.svg | similar forms of       |               |
-|           | type="image/svg+xml"   | representation on the  |               |
-|           | style="width:100%">    | left and different     |               |
-|           | [![BP377D][img/BP377D] | forms on the right.    |               |
-|           | ][img/BP377D]</object> |                        |               |
+| Derived   |                        | The two objects use    |               |
+|           |                        | similar forms of       |               |
+|           |                        | representation on the  |               |
+|           |                        | left and different     |               |
+|           |                        | forms on the right.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP377F]: img/corrected/BP377F.png
 [img/BP377E]: img/corrected/BP377E.png
-[img/BP377D]: img/derived/BP377D.svg
 [url/BP377F]: https://www.foundalis.com/res/bps/fairbanks/p377.htm
 [url/BP377E]: https://oebp.org/BP377
 
@@ -11983,17 +11404,15 @@
 |           |                        | are conceptually       |               |
 |           |                        | unrelated.”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The pair of objects    |               |
-| (91%)     | img/derived/BP378D.svg | illustrates related    |               |
-|           | type="image/svg+xml"   | concepts on the left   |               |
-|           | style="width:100%">    | and unrelated concepts |               |
-|           | [![BP378D][img/BP378D] | on the right.          |               |
-|           | ][img/BP378D]</object> |                        |               |
+| Derived   |                        | The pair of objects    |               |
+|           |                        | illustrates related    |               |
+|           |                        | concepts on the left   |               |
+|           |                        | and unrelated concepts |               |
+|           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP378F]: img/corrected/BP378F.png
 [img/BP378E]: img/corrected/BP378E.png
-[img/BP378D]: img/derived/BP378D.svg
 [url/BP378F]: https://www.foundalis.com/res/bps/fairbanks/p378.htm
 [url/BP378E]: https://oebp.org/BP378
 
@@ -12074,17 +11493,16 @@
 |           |                        | bottom wave vs. not    |               |
 |           |                        | so.”                   |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Adding the heights of  |               |
-| (92%)     | img/derived/BP381D.svg | the top two waves      |               |
-|           | type="image/svg+xml"   | point by point gives   |               |
-|           | style="width:100%">    | the bottom wave on the |               |
-|           | [![BP381D][img/BP381D] | left and a different   |               |
-|           | ][img/BP381D]</object> | wave on the right.     |               |
+| Derived   |                        | Adding the heights of  |               |
+|           |                        | the top two waves      |               |
+|           |                        | point by point gives   |               |
+|           |                        | the bottom wave on the |               |
+|           |                        | left and a different   |               |
+|           |                        | wave on the right.     |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP381F]: img/corrected/BP381F.png
 [img/BP381E]: img/corrected/BP381E.png
-[img/BP381D]: img/derived/BP381D.svg
 [url/BP381F]: https://www.foundalis.com/res/bps/fairbanks/p381.htm
 [url/BP381E]: https://oebp.org/BP381
 
@@ -12101,17 +11519,16 @@
 | OEBP      | [![BP382E][img/BP382E] | “No knot (unknot) vs.  | [BP382E       |
 |           | ][img/BP382E]          | knot.”                 | ][url/BP382E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The closed strand can  |               |
-| (95%)     | img/derived/BP382D.svg | be deformed into a     |               |
-|           | type="image/svg+xml"   | simple loop on the     |               |
-|           | style="width:100%">    | left and forms a       |               |
-|           | [![BP382D][img/BP382D] | nontrivial knot on the |               |
-|           | ][img/BP382D]</object> | right.                 |               |
+| Derived   |                        | The closed strand can  |               |
+|           |                        | be deformed into a     |               |
+|           |                        | simple loop on the     |               |
+|           |                        | left and forms a       |               |
+|           |                        | nontrivial knot on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP382F]: img/corrected/BP382F.png
 [img/BP382E]: img/corrected/BP382E.png
-[img/BP382D]: img/derived/BP382D.svg
 [url/BP382F]: https://www.foundalis.com/res/bps/fairbanks/p382.htm
 [url/BP382E]: https://oebp.org/BP382
 
@@ -12137,18 +11554,17 @@
 |           |                        | it was (up to          |               |
 |           |                        | symmetry) vs. not so.” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots alone fix the |               |
-| (95%)     | img/derived/BP383D.svg | figure’s original      |               |
-|           | type="image/svg+xml"   | placement up to its    |               |
-|           | style="width:100%">    | symmetries on the left |               |
-|           | [![BP383D][img/BP383D] | and admit genuinely    |               |
-|           | ][img/BP383D]</object> | different placements   |               |
+| Derived   |                        | The dots alone fix the |               |
+|           |                        | figure’s original      |               |
+|           |                        | placement up to its    |               |
+|           |                        | symmetries on the left |               |
+|           |                        | and admit genuinely    |               |
+|           |                        | different placements   |               |
 |           |                        | on the right.          |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP383F]: img/corrected/BP383F.png
 [img/BP383E]: img/corrected/BP383E.png
-[img/BP383D]: img/derived/BP383D.svg
 [url/BP383F]: https://www.foundalis.com/res/bps/fairbanks/p383.htm
 [url/BP383E]: https://oebp.org/BP383
 
@@ -12193,17 +11609,15 @@
 | OEBP      | [![BP385E][img/BP385E] | “Nets of cubes vs. not | [BP385E       |
 |           | ][img/BP385E]          | nets of cubes.”        | ][url/BP385E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Folding the six        |               |
-| (100%)    | img/derived/BP385D.svg | squares gives a cube   |               |
-|           | type="image/svg+xml"   | on the left. The right |               |
-|           | style="width:100%">    | arrangements cannot    |               |
-|           | [![BP385D][img/BP385D] | fold into a cube.      |               |
-|           | ][img/BP385D]</object> |                        |               |
+| Derived   |                        | Folding the six        |               |
+|           |                        | squares gives a cube   |               |
+|           |                        | on the left. The right |               |
+|           |                        | arrangements cannot    |               |
+|           |                        | fold into a cube.      |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP385F]: img/corrected/BP385F.png
 [img/BP385E]: img/corrected/BP385E.png
-[img/BP385D]: img/derived/BP385D.svg
 [url/BP385F]: https://www.foundalis.com/res/bps/collins/p385.htm
 [url/BP385E]: https://oebp.org/BP385
 
@@ -12224,17 +11638,15 @@
 |           |                        | build the upper one    |               |
 |           |                        | vs. not so.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Copies of the smaller  |               |
-| (100%)    | img/derived/BP386D.svg | shape can tile the     |               |
-|           | type="image/svg+xml"   | larger shape on the    |               |
-|           | style="width:100%">    | left. They cannot tile |               |
-|           | [![BP386D][img/BP386D] | it on the right.       |               |
-|           | ][img/BP386D]</object> |                        |               |
+| Derived   |                        | Copies of the smaller  |               |
+|           |                        | shape can tile the     |               |
+|           |                        | larger shape on the    |               |
+|           |                        | left. They cannot tile |               |
+|           |                        | it on the right.       |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP386F]: img/corrected/BP386F.png
 [img/BP386E]: img/corrected/BP386E.png
-[img/BP386D]: img/derived/BP386D.svg
 [url/BP386F]: https://www.foundalis.com/res/bps/collins/p386.htm
 [url/BP386E]: https://oebp.org/BP386
 
@@ -12258,17 +11670,15 @@
 |           |                        | equally between        |               |
 |           |                        | figures.”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dots divide evenly |               |
-| (99%)     | img/derived/BP387D.svg | among the figures on   |               |
-|           | type="image/svg+xml"   | the left and leave a   |               |
-|           | style="width:100%">    | remainder on the       |               |
-|           | [![BP387D][img/BP387D] | right.                 |               |
-|           | ][img/BP387D]</object> |                        |               |
+| Derived   |                        | The dots divide evenly |               |
+|           |                        | among the figures on   |               |
+|           |                        | the left and leave a   |               |
+|           |                        | remainder on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP387F]: img/corrected/BP387F.png
 [img/BP387E]: img/corrected/BP387E.png
-[img/BP387D]: img/derived/BP387D.svg
 [url/BP387F]: https://www.foundalis.com/res/bps/collins/p387.htm
 [url/BP387E]: https://oebp.org/BP387
 
@@ -12293,18 +11703,17 @@
 |           |                        | straight lines) all    |               |
 |           |                        | black points.”         |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The white dot has an   |               |
-| (99%)     | img/derived/BP388D.svg | unobstructed straight  |               |
-|           | type="image/svg+xml"   | segment to every black |               |
-|           | style="width:100%">    | point on the left. At  |               |
-|           | [![BP388D][img/BP388D] | least one black point  |               |
-|           | ][img/BP388D]</object> | is hidden from it on   |               |
+| Derived   |                        | The white dot has an   |               |
+|           |                        | unobstructed straight  |               |
+|           |                        | segment to every black |               |
+|           |                        | point on the left. At  |               |
+|           |                        | least one black point  |               |
+|           |                        | is hidden from it on   |               |
 |           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP388F]: img/corrected/BP388F.png
 [img/BP388E]: img/corrected/BP388E.png
-[img/BP388D]: img/derived/BP388D.svg
 [url/BP388F]: https://www.foundalis.com/res/bps/collins/p388.htm
 [url/BP388E]: https://oebp.org/BP388
 
@@ -12324,17 +11733,15 @@
 |           |                        | be separated (in       |               |
 |           |                        | 3-D).”                 |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The closed strands are |               |
-| (93%)     | img/derived/BP389D.svg | linked on the left and |               |
-|           | type="image/svg+xml"   | can be separated       |               |
-|           | style="width:100%">    | without cutting on the |               |
-|           | [![BP389D][img/BP389D] | right.                 |               |
-|           | ][img/BP389D]</object> |                        |               |
+| Derived   |                        | The closed strands are |               |
+|           |                        | linked on the left and |               |
+|           |                        | can be separated       |               |
+|           |                        | without cutting on the |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP389F]: img/corrected/BP389F.png
 [img/BP389E]: img/corrected/BP389E.png
-[img/BP389D]: img/derived/BP389D.svg
 [url/BP389F]: https://www.foundalis.com/res/bps/collins/p389.htm
 [url/BP389E]: https://oebp.org/BP389
 
@@ -12365,19 +11772,18 @@
 |           |                        | nontrivial             |               |
 |           |                        | automorphisms.”        |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Only the identity      |               |
-| (88%)     | img/derived/BP390D.svg | permutation of         |               |
-|           | type="image/svg+xml"   | vertices preserves     |               |
-|           | style="width:100%">    | adjacency on the left. |               |
-|           | [![BP390D][img/BP390D] | The right graphs have  |               |
-|           | ][img/BP390D]</object> | a nonidentity          |               |
+| Derived   |                        | Only the identity      |               |
+|           |                        | permutation of         |               |
+|           |                        | vertices preserves     |               |
+|           |                        | adjacency on the left. |               |
+|           |                        | The right graphs have  |               |
+|           |                        | a nonidentity          |               |
 |           |                        | permutation that       |               |
 |           |                        | preserves adjacency.   |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP390F]: img/corrected/BP390F.png
 [img/BP390E]: img/corrected/BP390E.png
-[img/BP390D]: img/derived/BP390D.svg
 [url/BP390F]: https://www.foundalis.com/res/bps/collins/p390.htm
 [url/BP390E]: https://oebp.org/BP390
 
@@ -12416,18 +11822,17 @@
 |           |                        | disconnected graphs is |               |
 |           |                        | 2.”                    |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Removing one suitable  |               |
-| (91%)     | img/derived/BP391D.svg | edge disconnects the   |               |
-|           | type="image/svg+xml"   | graph on the left. On  |               |
-|           | style="width:100%">    | the right it takes at  |               |
-|           | [![BP391D][img/BP391D] | least two edges, and a |               |
-|           | ][img/BP391D]</object> | suitable pair          |               |
+| Derived   |                        | Removing one suitable  |               |
+|           |                        | edge disconnects the   |               |
+|           |                        | graph on the left. On  |               |
+|           |                        | the right it takes at  |               |
+|           |                        | least two edges, and a |               |
+|           |                        | suitable pair          |               |
 |           |                        | suffices.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP391F]: img/corrected/BP391F.png
 [img/BP391E]: img/corrected/BP391E.png
-[img/BP391D]: img/derived/BP391D.svg
 [url/BP391F]: https://www.foundalis.com/res/bps/collins/p391.htm
 [url/BP391E]: https://oebp.org/BP391
 
@@ -12469,18 +11874,17 @@
 | OEBP      | [![BP393E][img/BP393E] | “Correct vs.           | [BP393E       |
 |           | ][img/BP393E]          | incorrect.”            | ][url/BP393E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The indicated          |               |
-| (99%)     | img/derived/BP393D.svg | operation or inference |               |
-|           | type="image/svg+xml"   | gives the pictured     |               |
-|           | style="width:100%">    | result on the left.    |               |
-|           | [![BP393D][img/BP393D] | The proposed result is |               |
-|           | ][img/BP393D]</object> | incorrect on the       |               |
+| Derived   |                        | The indicated          |               |
+|           |                        | operation or inference |               |
+|           |                        | gives the pictured     |               |
+|           |                        | result on the left.    |               |
+|           |                        | The proposed result is |               |
+|           |                        | incorrect on the       |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP393F]: img/corrected/BP393F.png
 [img/BP393E]: img/corrected/BP393E.png
-[img/BP393D]: img/derived/BP393D.svg
 [url/BP393F]: https://www.foundalis.com/res/bps/collins/p393.htm
 [url/BP393E]: https://oebp.org/BP393
 
@@ -12515,18 +11919,17 @@
 |           |                        | of the figure exactly  |               |
 |           |                        | once.”                 |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Exactly the marked     |               |
-| (100%)    | img/derived/BP394D.svg | squares admit a path   |               |
-|           | type="image/svg+xml"   | visiting every square  |               |
-|           | style="width:100%">    | once on the left. No   |               |
-|           | [![BP394D][img/BP394D] | marked square admits   |               |
-|           | ][img/BP394D]</object> | such a path on the     |               |
+| Derived   |                        | Exactly the marked     |               |
+|           |                        | squares admit a path   |               |
+|           |                        | visiting every square  |               |
+|           |                        | once on the left. No   |               |
+|           |                        | marked square admits   |               |
+|           |                        | such a path on the     |               |
 |           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP394F]: img/corrected/BP394F.png
 [img/BP394E]: img/corrected/BP394E.png
-[img/BP394D]: img/derived/BP394D.svg
 [url/BP394F]: https://www.foundalis.com/res/bps/collins/p394.htm
 [url/BP394E]: https://oebp.org/BP394
 
@@ -12547,18 +11950,17 @@
 |           |                        | outside of a closed    |               |
 |           |                        | curve vs. not so.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The closed outline     |               |
-| (95%)     | img/derived/BP395D.svg | separates the objects  |               |
-|           | type="image/svg+xml"   | by a feature on the    |               |
-|           | style="width:100%">    | left. On the right the |               |
-|           | [![BP395D][img/BP395D] | same feature occurs on |               |
-|           | ][img/BP395D]</object> | both sides of the      |               |
+| Derived   |                        | The closed outline     |               |
+|           |                        | separates the objects  |               |
+|           |                        | by a feature on the    |               |
+|           |                        | left. On the right the |               |
+|           |                        | same feature occurs on |               |
+|           |                        | both sides of the      |               |
 |           |                        | outline.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP395F]: img/corrected/BP395F.png
 [img/BP395E]: img/corrected/BP395E.png
-[img/BP395D]: img/derived/BP395D.svg
 [url/BP395F]: https://www.foundalis.com/res/bps/foundal/p395.htm
 [url/BP395E]: https://oebp.org/BP395
 
@@ -12579,18 +11981,17 @@
 |           |                        | of an open curve vs.   |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | An open curve          |               |
-| (94%)     | img/derived/BP396D.svg | separates the objects  |               |
-|           | type="image/svg+xml"   | by a feature on the    |               |
-|           | style="width:100%">    | left. On the right the |               |
-|           | [![BP396D][img/BP396D] | same feature occurs on |               |
-|           | ][img/BP396D]</object> | both sides of the      |               |
+| Derived   |                        | An open curve          |               |
+|           |                        | separates the objects  |               |
+|           |                        | by a feature on the    |               |
+|           |                        | left. On the right the |               |
+|           |                        | same feature occurs on |               |
+|           |                        | both sides of the      |               |
 |           |                        | curve.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP396F]: img/corrected/BP396F.png
 [img/BP396E]: img/corrected/BP396E.png
-[img/BP396D]: img/derived/BP396D.svg
 [url/BP396F]: https://www.foundalis.com/res/bps/foundal/p396.htm
 [url/BP396E]: https://oebp.org/BP396
 
@@ -12611,18 +12012,17 @@
 |           |                        | dot-made closed curve  |               |
 |           |                        | vs. not so.”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dotted boundary    |               |
-| (96%)     | img/derived/BP397D.svg | separates the objects  |               |
-|           | type="image/svg+xml"   | by a feature on the    |               |
-|           | style="width:100%">    | left. On the right the |               |
-|           | [![BP397D][img/BP397D] | same feature occurs    |               |
-|           | ][img/BP397D]</object> | both inside and        |               |
+| Derived   |                        | The dotted boundary    |               |
+|           |                        | separates the objects  |               |
+|           |                        | by a feature on the    |               |
+|           |                        | left. On the right the |               |
+|           |                        | same feature occurs    |               |
+|           |                        | both inside and        |               |
 |           |                        | outside.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP397F]: img/corrected/BP397F.png
 [img/BP397E]: img/corrected/BP397E.png
-[img/BP397D]: img/derived/BP397D.svg
 [url/BP397F]: https://www.foundalis.com/res/bps/foundal/p397.htm
 [url/BP397E]: https://oebp.org/BP397
 
@@ -12643,18 +12043,17 @@
 |           |                        | separated groups vs.   |               |
 |           |                        | not so.”               |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Each spatial group on  |               |
-| (96%)     | img/derived/BP398D.svg | the left has a feature |               |
-|           | type="image/svg+xml"   | that distinguishes its |               |
-|           | style="width:100%">    | members from the other |               |
-|           | [![BP398D][img/BP398D] | group. On the right    |               |
-|           | ][img/BP398D]</object> | the groups mix these   |               |
+| Derived   |                        | Each spatial group on  |               |
+|           |                        | the left has a feature |               |
+|           |                        | that distinguishes its |               |
+|           |                        | members from the other |               |
+|           |                        | group. On the right    |               |
+|           |                        | the groups mix these   |               |
 |           |                        | features.              |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP398F]: img/corrected/BP398F.png
 [img/BP398E]: img/corrected/BP398E.png
-[img/BP398D]: img/derived/BP398D.svg
 [url/BP398F]: https://www.foundalis.com/res/bps/foundal/p398.htm
 [url/BP398E]: https://oebp.org/BP398
 
@@ -12673,18 +12072,17 @@
 |           | ][img/BP399E]          | dots share a feature   | ][url/BP399E] |
 |           |                        | vs. not so”            |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The dotted links join  |               |
-| (96%)     | img/derived/BP399D.svg | objects with a common  |               |
-|           | type="image/svg+xml"   | feature on the left.   |               |
-|           | style="width:100%">    | On the right a link    |               |
-|           | [![BP399D][img/BP399D] | joins objects that     |               |
-|           | ][img/BP399D]</object> | differ in that         |               |
+| Derived   |                        | The dotted links join  |               |
+|           |                        | objects with a common  |               |
+|           |                        | feature on the left.   |               |
+|           |                        | On the right a link    |               |
+|           |                        | joins objects that     |               |
+|           |                        | differ in that         |               |
 |           |                        | feature.               |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP399F]: img/corrected/BP399F.png
 [img/BP399E]: img/corrected/BP399E.png
-[img/BP399D]: img/derived/BP399D.svg
 [url/BP399F]: https://www.foundalis.com/res/bps/foundal/p399.htm
 [url/BP399E]: https://oebp.org/BP399
 
@@ -12741,17 +12139,15 @@
 |           |                        | branches form acute    |               |
 |           |                        | angles with stem.”     |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Side branches meet the |               |
-| (83%)     | img/derived/BP401D.svg | stem at roughly right  |               |
-|           | type="image/svg+xml"   | angles on the left and |               |
-|           | style="width:100%">    | acute angles on the    |               |
-|           | [![BP401D][img/BP401D] | right.                 |               |
-|           | ][img/BP401D]</object> |                        |               |
+| Derived   |                        | Side branches meet the |               |
+|           |                        | stem at roughly right  |               |
+|           |                        | angles on the left and |               |
+|           |                        | acute angles on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP401F]: img/corrected/BP401F.png
 [img/BP401E]: img/corrected/BP401E.png
-[img/BP401D]: img/derived/BP401D.svg
 [url/BP401F]: https://www.foundalis.com/res/bps/welling/p401.htm
 [url/BP401E]: https://oebp.org/BP401
 
@@ -12770,17 +12166,14 @@
 |           | ][img/BP402E]          | curvature vs. branches | ][url/BP402E] |
 |           |                        | have large curvature”  |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The side branches bend |               |
-| (83%)     | img/derived/BP402D.svg | gently on the left and |               |
-|           | type="image/svg+xml"   | more sharply on the    |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP402D][img/BP402D] |                        |               |
-|           | ][img/BP402D]</object> |                        |               |
+| Derived   |                        | The side branches bend |               |
+|           |                        | gently on the left and |               |
+|           |                        | more sharply on the    |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP402F]: img/corrected/BP402F.png
 [img/BP402E]: img/corrected/BP402E.png
-[img/BP402D]: img/derived/BP402D.svg
 [url/BP402F]: https://www.foundalis.com/res/bps/welling/p402.htm
 [url/BP402E]: https://oebp.org/BP402
 
@@ -12797,17 +12190,14 @@
 | OEBP      | [![BP403E][img/BP403E] | “Straight stems vs.    | [BP403E       |
 |           | ][img/BP403E]          | curved stems”          | ][url/BP403E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The main stem is       |               |
-| (82%)     | img/derived/BP403D.svg | straight on the left   |               |
-|           | type="image/svg+xml"   | and bends on the       |               |
-|           | style="width:100%">    | right.                 |               |
-|           | [![BP403D][img/BP403D] |                        |               |
-|           | ][img/BP403D]</object> |                        |               |
+| Derived   |                        | The main stem is       |               |
+|           |                        | straight on the left   |               |
+|           |                        | and bends on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP403F]: img/corrected/BP403F.png
 [img/BP403E]: img/corrected/BP403E.png
-[img/BP403D]: img/derived/BP403D.svg
 [url/BP403F]: https://www.foundalis.com/res/bps/welling/p403.htm
 [url/BP403E]: https://oebp.org/BP403
 
@@ -12853,17 +12243,15 @@
 |           |                        | point leftward ("wind" |               |
 |           |                        | from right)”           |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The stem and branches  |               |
-| (82%)     | img/derived/BP405D.svg | sweep toward the right |               |
-|           | type="image/svg+xml"   | in the left examples   |               |
-|           | style="width:100%">    | and toward the left in |               |
-|           | [![BP405D][img/BP405D] | the right examples.    |               |
-|           | ][img/BP405D]</object> |                        |               |
+| Derived   |                        | The stem and branches  |               |
+|           |                        | sweep toward the right |               |
+|           |                        | in the left examples   |               |
+|           |                        | and toward the left in |               |
+|           |                        | the right examples.    |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP405F]: img/corrected/BP405F.png
 [img/BP405E]: img/corrected/BP405E.png
-[img/BP405D]: img/derived/BP405D.svg
 [url/BP405F]: https://www.foundalis.com/res/bps/welling/p405.htm
 [url/BP405E]: https://oebp.org/BP405
 
@@ -12885,17 +12273,13 @@
 |           |                        | downward ("gravity"    |               |
 |           |                        | wins).”                |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The main stem grows    |               |
-| (81%)     | img/derived/BP406D.svg | upward on the left and |               |
-|           | type="image/svg+xml"   | downward on the right. |               |
-|           | style="width:100%">    |                        |               |
-|           | [![BP406D][img/BP406D] |                        |               |
-|           | ][img/BP406D]</object> |                        |               |
+| Derived   |                        | The main stem grows    |               |
+|           |                        | upward on the left and |               |
+|           |                        | downward on the right. |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP406F]: img/corrected/BP406F.png
 [img/BP406E]: img/corrected/BP406E.png
-[img/BP406D]: img/derived/BP406D.svg
 [url/BP406F]: https://www.foundalis.com/res/bps/welling/p406.htm
 [url/BP406E]: https://oebp.org/BP406
 
@@ -12916,17 +12300,15 @@
 |           |                        | branches turn toward   |               |
 |           |                        | the stem”              |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The side branches turn |               |
-| (81%)     | img/derived/BP407D.svg | away from the stem on  |               |
-|           | type="image/svg+xml"   | the left and curl back |               |
-|           | style="width:100%">    | toward it on the       |               |
-|           | [![BP407D][img/BP407D] | right.                 |               |
-|           | ][img/BP407D]</object> |                        |               |
+| Derived   |                        | The side branches turn |               |
+|           |                        | away from the stem on  |               |
+|           |                        | the left and curl back |               |
+|           |                        | toward it on the       |               |
+|           |                        | right.                 |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP407F]: img/corrected/BP407F.png
 [img/BP407E]: img/corrected/BP407E.png
-[img/BP407D]: img/derived/BP407D.svg
 [url/BP407F]: https://www.foundalis.com/res/bps/welling/p407.htm
 [url/BP407E]: https://oebp.org/BP407
 
@@ -12947,17 +12329,15 @@
 |           |                        | branches grow against  |               |
 |           |                        | the curve of the stem” |               |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | The side branches      |               |
-| (82%)     | img/derived/BP408D.svg | follow the bend of the |               |
-|           | type="image/svg+xml"   | stem on the left and   |               |
-|           | style="width:100%">    | curve against it on    |               |
-|           | [![BP408D][img/BP408D] | the right.             |               |
-|           | ][img/BP408D]</object> |                        |               |
+| Derived   |                        | The side branches      |               |
+|           |                        | follow the bend of the |               |
+|           |                        | stem on the left and   |               |
+|           |                        | curve against it on    |               |
+|           |                        | the right.             |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP408F]: img/corrected/BP408F.png
 [img/BP408E]: img/corrected/BP408E.png
-[img/BP408D]: img/derived/BP408D.svg
 [url/BP408F]: https://www.foundalis.com/res/bps/welling/p408.htm
 [url/BP408E]: https://oebp.org/BP408
 
@@ -12974,17 +12354,16 @@
 | OEBP      | [![BP409E][img/BP409E] | “Stem curves left vs.  | [BP409E       |
 |           | ][img/BP409E]          | stem curves right”     | ][url/BP409E] |
 +-----------+------------------------+------------------------+---------------+
-| Derived   | <object data=          | Following the stem     |               |
-| (82%)     | img/derived/BP409D.svg | from its base, it      |               |
-|           | type="image/svg+xml"   | bends to the left in   |               |
-|           | style="width:100%">    | the left examples and  |               |
-|           | [![BP409D][img/BP409D] | to the right in the    |               |
-|           | ][img/BP409D]</object> | right examples.        |               |
+| Derived   |                        | Following the stem     |               |
+|           |                        | from its base, it      |               |
+|           |                        | bends to the left in   |               |
+|           |                        | the left examples and  |               |
+|           |                        | to the right in the    |               |
+|           |                        | right examples.        |               |
 +-----------+------------------------+------------------------+---------------+
 
 [img/BP409F]: img/corrected/BP409F.png
 [img/BP409E]: img/corrected/BP409E.png
-[img/BP409D]: img/derived/BP409D.svg
 [url/BP409F]: https://www.foundalis.com/res/bps/welling/p409.htm
 [url/BP409E]: https://oebp.org/BP409
 

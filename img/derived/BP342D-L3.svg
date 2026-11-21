@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <polygon points="29.12,43.12 29.12,57.88 59.12,57.88 59.12,75.88 73.88,75.88 73.88,25.12 59.12,25.12 59.12,43.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <path d="M59.88 57.12L30.12 57.12L29.88 44.12L59.88 43.88L59.88 26.12L72.88 25.88L73.12 74.88L59.88 74.88L59.88 57.12Z" fill="white"/>
-</svg>

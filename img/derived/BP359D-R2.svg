@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <defs>
-  <pattern id="BP359DR2Tile" patternUnits="userSpaceOnUse" width="1" height="1">
-  <rect x="0" y="0" width="1" height="1" fill="white"/>
-  </pattern>
-  </defs>
-  <rect x="0" y="0" width="98" height="98" fill="url(#BP359DR2Tile)"/>
-</svg>

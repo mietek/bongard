@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <path d="M56.38 4.12L55.62 13.12L42.12 13.38L42.12 26.62L29.12 27.38L29.12 45.62L39.12 46.38L38.62 64.12L14.12 64.38L14.38 81.88L80.88 81.62L80.88 64.38L66.88 63.62L66.88 45.38L60.88 44.62L60.88 27.38L68.88 26.62L68.88 13.38L62.88 12.62L62.88 4.38L56.38 4.12Z" fill="black"/>
-  <rect x="15.88" y="65.88" width="63.25" height="14.25" fill="white"/>
-  <rect x="40.88" y="46.88" width="24.25" height="15.25" fill="white"/>
-  <rect x="30.88" y="28.88" width="28.25" height="15.25" fill="white"/>
-  <rect x="43.88" y="14.88" width="23.25" height="10.25" fill="white"/>
-  <rect x="57.88" y="5.88" width="3.25" height="5.25" fill="white"/>
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <rect x="12.12" y="78.12" width="17.75" height="9.75" fill="black"/>
-  <rect x="13.88" y="79.88" width="14.25" height="6.25" fill="white"/>
-  <rect x="54.12" y="70.12" width="17.75" height="9.75" fill="black"/>
-  <rect x="55.88" y="71.88" width="14.25" height="6.25" fill="white"/>
-  <path d="M12.12 44.62L14.38 46.88L19.62 46.88L20.38 47.88C42.89 52.12 64.19 58.51 86.62 62.88L86.88 14.38L85.38 14.12C65.27 23.63 43.73 30.58 23.62 40.12C18.72 39.06 16.74 43.18 12.38 43.12L12.12 44.62Z" fill="black"/>
-  <polygon points="85.12,16.54 85.12,61.03 15.61,44.65 65.62,24.88 80.38,17.88" fill="white"/>
-</svg>

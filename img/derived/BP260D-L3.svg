@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <path d="M9.12 91.38L9.12 91.88L28.88 91.88L28.88 72.12L28.12 72.12L28.12 90.88L9.12 91.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <path d="M65.12 90.38L65.12 90.88L84.88 90.88L84.88 71.12L84.12 71.12L84.12 89.88L65.12 90.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <path d="M10.12 52.38L10.12 52.88L29.88 52.88L29.88 33.12L29.12 33.12L29.12 51.88L10.12 52.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <path d="M68.12 29.38L68.12 29.88L87.88 29.88L87.88 10.12L87.12 10.12L87.12 28.88L68.12 29.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <path d="M39.12 28.38L39.12 28.88L58.88 28.88L58.88 9.12L58.12 9.12L58.12 27.88L39.12 28.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-</svg>

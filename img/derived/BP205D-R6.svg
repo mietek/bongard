@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
-  <rect width="98" height="98" fill="white"/>
-  <rect x="56.12" y="64.12" width="19.75" height="19.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <rect x="56.88" y="64.88" width="18.25" height="18.25" fill="white"/>
-  <polygon points="64.12,69.12 64.12,69.54 62.12,71.61 62.12,77.88 62.54,77.88 64.61,79.88 70.88,79.88 70.88,79.46 72.88,77.39 72.88,71.12 72.46,71.12 70.39,69.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <rect x="12.12" y="3.12" width="19.75" height="19.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <rect x="12.88" y="3.88" width="18.25" height="18.25" fill="white"/>
-  <path d="M16.12 7.62C17.54 8.92 19.21 10.05 20.12 11.88C18.3 12.59 17.99 14.55 16.12 15.12L16.12 15.88L16.88 15.88C17.45 14.01 19.41 13.7 20.12 11.88C22.21 12.68 22.93 15.03 24.88 15.88L24.88 15.12C23.01 14.55 22.7 12.59 20.88 11.88C21.68 9.79 24.03 9.07 24.88 7.12C22.93 7.97 22.21 10.32 20.12 11.12C19.41 9.3 17.45 8.99 16.88 7.12C16.44 7.11 15.92 7 16.12 7.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-</svg>
