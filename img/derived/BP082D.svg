@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP082, linked examples">
+  <title>BP082 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP082D-L1.svg" target="_parent" aria-label="Open BP082, left example 1">
+    <title>BP082, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="84.93" cy="77.32" r="5.95" fill="black"/>
+      <ellipse cx="84.55" cy="77.41" rx="4.66" ry="4.87" transform="rotate(120.32 84.55 77.41)" fill="white"/>
+      <path d="M16.12 55.38C17.58 60.31 13.78 60.39 10.12 60.38C10.46 63.72 18.34 59.72 16.12 65.62L17.62 65.88L17.88 62.38C19.36 60.69 24.16 63.56 23.88 60.38C20.81 60.53 15.34 59.73 17.88 56.38L16.12 55.38Z" fill="black"/>
+      <path d="M68.88 51.38L68.12 51.38C69.58 56.31 65.78 56.39 62.12 56.38L62.38 57.88C66.25 57.18 69.41 58.09 68.12 62.62L69.62 62.88C69.35 59.29 70.4 56.75 74.62 57.88L74.88 56.38C72.81 56.19 67.23 56.15 69.88 53.38L68.88 51.38Z" fill="black"/>
+      <path d="M39.38 39.12C39.75 42.68 37.68 44.75 34.12 44.38C34.42 47.39 41.2 44.27 39.12 49.62L40.62 49.88C41.87 47.6 38.63 46.34 41.38 44.88C43.2 45.48 44.85 46.21 44.88 43.38C43.64 42.69 42.11 43.18 41.38 44.12C39.19 43.23 40.46 40.41 39.38 39.12Z" fill="black"/>
+      <path d="M38.38 8.12L37.62 13.12C35.57 13.22 32.94 12.52 32.12 14.62L37.62 14.88L38.62 19.88C40.27 17.23 39.72 13.41 44.62 14.88L44.88 13.38C43.58 14.74 41.9 11.92 40.38 14.12C37.87 13.07 39.65 9.64 38.38 8.12Z" fill="black"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-L2.svg" target="_parent" aria-label="Open BP082, left example 2">
+    <title>BP082, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="73.06,79.12 71.12,79.12 71.12,84.24 64.12,85.38 71.12,85.78 71.12,91.36 72.73,89.57 71.64,87.69 73.46,85.88 79.36,85.88 77.41,84.12 72.46,84.12" fill="black"/>
+      <path d="M54.88 66.12C55.39 64.74 56.68 63.55 54.88 62.38C56.04 60.09 58.85 61.3 60.88 60.62L60.62 59.12L55.88 58.62C55.78 56.57 56.48 53.94 54.38 53.12C54.98 57.55 52.55 59.98 48.12 59.38L49.38 61.88C52.85 58.58 55.31 62.8 54.12 66.62L54.88 66.12Z" fill="black"/>
+      <ellipse cx="52.61" cy="41.19" rx="6.18" ry="6.48" transform="rotate(129.56 52.61 41.19)" fill="black"/>
+      <ellipse cx="52.64" cy="41.15" rx="4.73" ry="5.08" transform="rotate(174.28 52.64 41.15)" fill="white"/>
+      <path d="M14.38 31.12C14.39 34.78 14.31 38.58 9.38 37.12L9.12 38.62L10.62 38.88C14.47 35.38 13.93 42.95 14.62 44.88L14.88 39.38L20.88 38.62L20.62 37.12L14.88 36.62L14.38 31.12Z" fill="black"/>
+      <path d="M67.12 35.38L72.62 35.88L73.38 41.88C76.26 40.42 73.17 34.08 78.62 35.88L78.88 34.38L74.88 33.62C74.68 32.27 75.65 29.54 73.38 30.12C74.53 35.31 69.46 33.19 67.12 35.38Z" fill="black"/>
+      <path d="M83.38 5.12C83.95 9.41 81.62 10.65 78.12 11.38C81.54 11.32 83.13 13.81 83.62 16.88C83.41 13.72 84.9 10.91 88.62 11.88L88.88 10.38L83.88 9.62L83.38 5.12Z" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-L3.svg" target="_parent" aria-label="Open BP082, left example 3">
+    <title>BP082, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M23.88 76.12L23.62 75.12C19.83 76.05 17.95 74.17 18.88 70.38L17.38 70.12C18.2 75.01 13.97 75.47 10.12 75.38C10.79 77.15 13.56 77.48 14.62 75.88C16.96 76.56 18.32 79.72 16.12 81.62L17.38 82.88C20.15 82.08 17.68 73.9 21.62 76.88L23.62 76.88L23.88 76.12Z" fill="black"/>
+      <path d="M88.88 69.38C87.72 67.57 85.41 68.22 83.38 68.12L82.88 63.38L81.38 63.12C81.8 67.13 79.98 70.34 75.38 69.12L75.12 70.62C78.78 70.61 82.58 70.69 81.12 75.62L82.62 75.88L83.38 69.88L88.88 69.38Z" fill="black"/>
+      <path d="M49.38 68.88C49.05 64.83 52.22 64.57 55.88 64.62L55.62 63.12C50.4 64.67 50.97 60.15 49.62 57.12L47.62 62.12C45.69 62.09 43.12 62.63 43.12 64.62C46.55 64.5 49.05 65.35 49.38 68.88Z" fill="black"/>
+      <polygon points="43.12,10.12 43.12,14.65 38.12,16.31 38.12,18.15 43.12,16.19 43.12,21.88 44.88,21.88 44.88,16.88 51.93,16.88 44.88,14.61 44.88,10.12" fill="black"/>
+      <circle cx="85.62" cy="15.74" r="6.24" fill="black"/>
+      <circle cx="85.74" cy="15.73" r="4.98" fill="white"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-L4.svg" target="_parent" aria-label="Open BP082, left example 4">
+    <title>BP082, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M27.88 84.62C24.41 84.45 20.44 83.3 21.88 78.38L20.38 78.12C19.69 79.36 20.18 80.89 21.12 81.62C19.09 83.92 17.45 83.65 15.12 83.38L15.38 85.88C18.1 83.03 21.49 85.86 20.12 89.62L21.62 89.88L22.38 84.88C24.81 84.28 26.18 87.32 27.88 84.62Z" fill="black"/>
+      <path d="M74.38 89.88L75.38 83.88L81.88 83.62C81.76 80.7 71.75 83.39 75.88 78.38L74.62 76.12C74.45 79.59 73.3 83.56 68.38 82.12L67.12 83.62L73.62 83.88L74.38 89.88Z" fill="black"/>
+      <ellipse cx="50.54" cy="66.11" rx="5.99" ry="6.32" transform="rotate(97.65 50.54 66.11)" fill="black"/>
+      <path d="M46.88 62.12L53.62 61.88C55.54 64.32 55.54 67.68 53.62 70.12L47.12 70.12C46.05 66.89 46.21 65.44 46.88 62.12Z" fill="white"/>
+      <path d="M54.88 38.62L54.62 37.12C52.69 38.84 48.85 36.65 49.62 33.12C48.59 35.95 46.78 38.35 43.12 38.38L48.12 39.38C47.73 41.69 48.67 43.42 49.62 44.88C49.54 42.34 50.11 35.47 53.38 38.88L54.88 38.62Z" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-L5.svg" target="_parent" aria-label="Open BP082, left example 5">
+    <title>BP082, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="13.3" cy="59.29" r="6.26" fill="black"/>
+      <ellipse cx="13.02" cy="59.45" rx="4.54" ry="4.91" transform="rotate(10.75 13.02 59.45)" fill="white"/>
+      <path d="M74.38 40.88L74.88 35.38L80.88 34.62L80.62 33.12C75.97 34.24 73.76 32.03 74.88 27.38L73.38 27.12L73.12 32.62L68.12 33.38L68.38 34.88C71.27 34.47 73.2 34.95 74.12 37.38C72.63 38.41 73.07 39.86 74.38 40.88Z" fill="black"/>
+      <path d="M82.12 14.62L83.38 15.88C87.52 12.13 87.47 19.27 89.62 20.88C88.85 16.34 91.85 15.58 94.88 14.38C92.56 14.19 90.68 13.79 88.88 12.62C90.14 11.75 90.13 9.59 89.62 8.12L88.12 9.38C89.51 14.08 84.9 14.11 82.12 14.62Z" fill="black"/>
+      <path d="M71.88 12.62C68.57 12.54 65.73 10.6 66.88 6.38L65.38 6.12L64.62 12.12L59.12 12.38C59.94 14.48 62.57 13.78 64.62 13.88L66.62 18.88L67.88 17.62C66.17 16.5 66.73 13.86 68.38 12.88C69.41 14.37 70.86 13.93 71.88 12.62Z" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-L6.svg" target="_parent" aria-label="Open BP082, left example 6">
+    <title>BP082, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M58.62 70.12L58.12 75.62L52.12 76.38C52.94 78.48 55.57 77.78 57.62 77.88L58.38 82.88C60.12 82.19 59.96 80.2 59.88 78.38L64.62 77.88L64.88 76.38C61.09 76.75 57.79 74.82 59.88 71.38L58.62 70.12Z" fill="black"/>
+      <path d="M20.62 69.88L21.88 68.62L21.88 67.38C18.57 63.82 25.41 63.69 27.88 63.62C27.54 60.28 19.66 64.28 21.88 58.38L20.38 57.12C19.7 59.15 20.91 61.96 18.62 63.12C17.32 61.07 15.44 63.02 14.12 63.62C15.1 64.3 17.02 63.23 17.38 64.88C20.43 62.04 19.83 68.35 20.62 69.88Z" fill="black"/>
+      <ellipse cx="63.4" cy="58.68" rx="6.2" ry="6.48" transform="rotate(45.44 63.4 58.68)" fill="black"/>
+      <circle cx="63.49" cy="58.74" r="4.65" fill="white"/>
+      <path d="M48.12 35.88L48.38 36.88C52.17 35.95 54.05 37.83 53.12 41.62L54.62 41.88C54.14 37.85 55.85 36.14 59.88 36.62L59.62 35.12C54.69 36.58 54.61 32.78 54.62 29.12L53.12 29.38C53.85 32.88 52.37 36.17 48.38 35.12L48.12 35.88Z" fill="black"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-R1.svg" target="_parent" aria-label="Open BP082, right example 1">
+    <title>BP082, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M4.12 72.38L9.12 73.38C8.64 75.74 9.81 77.02 10.38 78.88L11.88 77.62C10.13 75.37 12.69 71.46 16.62 72.88L16.88 71.38C12.53 72.03 10.96 69.69 11.88 65.38L10.38 65.12C10.84 69.68 9.25 73.27 4.12 72.38Z" fill="black"/>
+      <ellipse cx="76.81" cy="68.51" rx="6.02" ry="6.26" transform="rotate(3.01 76.81 68.51)" fill="black"/>
+      <ellipse cx="76.89" cy="68.81" rx="4.33" ry="4.62" transform="rotate(29.5 76.89 68.81)" fill="white"/>
+      <path d="M13.12 16.38L18.12 17.38C16.58 18.57 18.68 20.65 18.38 22.88L19.88 22.62C19.15 19.12 20.63 15.83 24.62 16.88L24.88 15.38C20.85 15.86 19.14 14.15 19.62 10.12L18.12 10.38C18.41 13.88 16.08 15.7 13.12 16.38Z" fill="black"/>
+      <path d="M80.12 16.88L80.88 16.62C79.42 11.69 83.22 11.61 86.88 11.62L86.62 10.12C82.43 11.17 79.83 8.57 80.88 4.38L79.38 4.12C79.16 7.43 79.67 11.26 75.12 10.38L75.38 11.88C78.13 11.24 79.06 12.55 80.12 14.38C79.39 14.87 78.23 17.02 80.12 16.88Z" fill="black"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-R2.svg" target="_parent" aria-label="Open BP082, right example 2">
+    <title>BP082, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M2.12 77.12L2.12 77.88L3.88 77.88L4.12 76.88C4.85 76.67 5.33 77.15 5.12 77.88C7.12 78.07 5.69 81.33 6.12 82.88C8.02 82.55 8.03 80.34 7.88 78.12L9.88 77.88C9.37 76.54 11.63 76.54 11.12 77.88L11.88 77.88C11.38 76.51 13.31 77.33 12.88 76.12L7.88 75.88L7.88 70.12L6.12 70.12L6.12 75.88L2.12 76.12L2.12 77.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M64.12 72.38L64.12 72.88C65.39 73.23 68.19 71.99 68.12 73.88L70.12 74.12L70.12 78.88C72.02 78.55 72.03 76.34 71.88 74.12C73.12 73.21 75.99 74.9 76.12 72.88L76.88 72.88L76.88 72.12L74.12 72.12C73.91 70.86 73.09 70.86 72.88 72.12L72.12 72.12C71.13 70.62 73.02 67.23 70.88 66.88C71.02 66.23 70.77 65.98 70.12 66.12L70.12 66.88C68.18 67.21 69.52 70.23 69.12 71.88L64.12 72.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M44.38 65.88L44.88 65.88C44.13 62.04 46.04 60.13 49.88 60.88C50.68 58.24 47.75 59.34 46.12 59.12L45.88 54.12L44.12 54.12L43.88 59.12L40.12 59.12C40.49 60.47 38.95 60.09 38.12 60.12L38.12 60.88L42.88 60.88L43.12 61.88C45.21 61.7 43.41 65.13 44.38 65.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <circle cx="74.57" cy="43.48" r="6.31" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="74.74" cy="43.34" rx="4.58" ry="4.87" transform="rotate(105.87 74.74 43.34)" fill="white"/>
+      <path d="M91.62 11.12L91.12 11.12L91.12 15.88L90.12 16.12C90.19 18.01 87.39 16.77 86.12 17.12C86.45 19.02 88.66 19.03 90.88 18.88C91.15 19.73 91.74 22.4 90.12 22.12L90.12 22.88C91.67 22.92 93.54 23.29 92.88 21.12C91.53 21.49 91.91 19.95 91.88 19.12L97.88 18.88L97.88 17.12C96.33 16.69 93.07 18.12 92.88 16.12L91.88 15.88L91.62 11.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-R3.svg" target="_parent" aria-label="Open BP082, right example 3">
+    <title>BP082, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M80.12 80.38L85.12 81.38C85.22 83.43 84.52 86.06 86.62 86.88L86.88 81.38L92.88 80.62C88.99 80.63 85.79 78.87 86.62 74.12C84.85 74.79 84.52 77.56 86.12 78.62C84.96 80.91 82.15 79.7 80.12 80.38Z" fill="black"/>
+      <path d="M14.62 73.12L13.12 74.38C15.37 78.04 11.48 80.03 7.38 79.12L7.12 80.62C8.84 81.01 11.54 81.35 12.62 79.88L13.38 85.88L14.88 85.62C14.31 81.33 17.71 80.18 21.62 80.88L21.88 79.38L15.88 78.62C15.78 76.59 16.43 74.28 14.62 73.12Z" fill="black"/>
+      <path d="M76.88 45.62L70.88 44.62C70.78 42.57 71.48 39.94 69.38 39.12C69.39 42.78 69.31 46.58 64.38 45.12L64.12 46.62C68.15 46.14 69.86 47.85 69.38 51.88L70.88 51.62L71.38 46.88C73.41 46.78 75.72 47.43 76.88 45.62Z" fill="black"/>
+      <path d="M33.62 48.88C34.31 47.64 33.82 46.11 32.88 45.38C34.36 43.69 39.16 46.56 38.88 43.38C34.53 44.03 32.96 41.69 33.88 37.38L31.38 37.12C30.88 37.92 33.17 38.77 31.12 39.38C33.46 42.13 29.06 43.71 26.12 43.38C26.37 46.45 33.74 43.32 32.12 48.62L33.62 48.88Z" fill="black"/>
+      <ellipse cx="53.36" cy="16.35" rx="6.07" ry="6.43" transform="rotate(110.6 53.36 16.35)" fill="black"/>
+      <circle cx="53.41" cy="16.44" r="4.71" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-R4.svg" target="_parent" aria-label="Open BP082, right example 4">
+    <title>BP082, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M21.88 72.12L22.88 71.88L23.12 66.88C24.77 66.48 27.79 67.82 28.12 65.88C28.77 66.02 29.02 65.77 28.88 65.12L23.12 65.12L22.88 60.12L22.12 60.12C22.09 60.95 22.47 62.49 21.12 62.12L21.12 64.88L16.12 65.12L16.12 66.88C17.67 67.31 20.93 65.88 21.12 67.88C21.85 67.67 22.33 68.15 22.12 68.88L21.12 69.12L21.12 69.88C22.59 69.32 22.59 72.68 21.12 72.12L21.12 72.88C21.77 73.02 22.02 72.77 21.88 72.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M73.62 58.12C72.49 59.08 73.43 62.1 73.12 63.88L72.12 64.12C71.93 66.12 68.67 64.69 67.12 65.12C67.62 66.49 65.69 65.67 66.12 66.88L72.12 67.12L72.12 70.88C73.47 70.51 73.09 72.05 73.12 72.88L73.88 72.88L73.88 67.12L79.88 66.88L79.88 65.12L73.88 64.88L73.62 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="57.15" cy="48.15" rx="6.06" ry="6.6" transform="rotate(8.88 57.15 48.15)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="57.4" cy="48.34" rx="4.65" ry="4.99" transform="rotate(19.34 57.4 48.34)" fill="white"/>
+      <path d="M34.12 19.12L34.12 19.88C32.86 20.09 32.86 20.91 34.12 21.12L34.12 24.88L28.12 25.12L28.12 26.88C30 27.22 33.93 25.7 33.12 28.88L34.12 29.12L34.12 29.88C31.72 30.51 35 30.95 34.12 32.88L34.88 32.88L34.88 27.12L39.88 26.88C40.02 26.23 39.77 25.98 39.12 26.12C38.99 24.1 36.12 25.79 34.88 24.88L34.88 19.12L34.12 19.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M83.12 17.12L83.12 17.88C81.18 18.21 82.52 21.23 82.12 22.88C80.88 23.79 78.01 22.1 77.88 24.12C77.23 23.98 76.98 24.23 77.12 24.88L82.12 25.12L82.12 30.88C83.62 30.9 85.02 27.44 82.88 26.88L82.88 26.12L83.88 25.88C83.81 23.99 86.61 25.23 87.88 24.88L87.88 23.12L83.88 22.88L83.88 17.12L83.12 17.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-R5.svg" target="_parent" aria-label="Open BP082, right example 5">
+    <title>BP082, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M48.88 73.62C45.57 73.54 42.73 71.6 43.88 67.38L42.38 67.12L41.62 73.12L36.12 73.38C37.29 76.05 39.77 74.34 41.62 73.88C42.8 76.42 42.54 77.63 42.38 79.88C45.34 80.28 42.69 71.53 46.62 74.88L48.88 73.62Z" fill="black"/>
+      <path d="M70.12 72.38L75.62 72.88L76.38 78.88C76.37 74.99 78.13 71.79 82.88 72.62L82.12 72.12C76.44 73.67 79.17 66.82 76.38 65.12C76.84 69.68 75.25 73.27 70.12 72.38Z" fill="black"/>
+      <path d="M83.38 37.12C84.2 41.09 83.3 43.9 78.12 43.38L78.38 44.88C82.17 43.95 84.05 45.83 83.12 49.62L84.62 49.88C84.14 45.85 85.85 44.14 89.88 44.62L89.62 43.12C85.63 44.17 84.15 40.88 84.88 37.38L83.38 37.12Z" fill="black"/>
+      <path d="M28.88 49.62C30.14 48.71 30.14 47.29 28.88 46.38C30.04 44.09 32.85 45.3 34.88 44.62L34.62 43.12L29.88 42.62C29.78 40.57 30.48 37.94 28.38 37.12L28.12 42.62L23.12 43.38L23.38 44.88C27.17 43.95 29.05 45.83 28.12 49.62L28.88 49.62Z" fill="black"/>
+      <path d="M44.12 21.38C47.3 21.7 51.21 22.33 50.38 26.88C52.47 25.25 51.8 20.99 55.88 21.62L55.38 21.12C49.74 22.56 53.79 14.4 50.38 14.12L50.12 20.62L44.12 21.38Z" fill="black"/>
+      <ellipse cx="15.19" cy="13.07" rx="5.98" ry="6.8" transform="rotate(11.18 15.19 13.07)" fill="black"/>
+      <circle cx="15.46" cy="13.3" r="4.62" fill="white"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP082D-R6.svg" target="_parent" aria-label="Open BP082, right example 6">
+    <title>BP082, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M27.88 73.38C26.87 71.89 25.18 72.05 23.38 72.12L22.62 67.12L21.12 67.38C22.36 71.8 18.61 74.29 15.38 72.12L15.12 74.62C17.24 75.7 18.83 74.1 20.62 73.88L21.38 79.88L22.88 79.62C21.73 75.4 24.57 73.46 27.88 73.38Z" fill="black"/>
+      <path d="M54.12 65.62C55.58 67.92 56.75 66.04 58.62 65.88C60.26 66.92 60.27 68.68 60.12 70.62L61.62 70.88L62.38 65.88L67.88 65.38C66.72 63.57 64.41 64.22 62.38 64.12L61.88 59.38L60.38 59.12L59.12 60.38C62.68 64.07 56.79 65.55 54.12 65.62Z" fill="black"/>
+      <ellipse cx="41.27" cy="61.38" rx="5.96" ry="6.42" transform="rotate(12.24 41.27 61.38)" fill="black"/>
+      <ellipse cx="41.36" cy="61.18" rx="4.55" ry="4.92" transform="rotate(18.99 41.36 61.18)" fill="white"/>
+      <path d="M33.12 43.38L34.38 44.88C36.19 42.38 37.26 45.21 38.12 46.62C36.26 47.51 37.1 50.33 38.62 50.88C40.3 49.75 40.43 46.6 38.88 45.38C40.04 43.09 42.85 44.3 44.88 43.62C43.29 41.17 36.99 42.74 39.88 38.38L38.62 37.12C36.43 38.26 37.34 45.71 33.38 42.12L33.12 43.38Z" fill="black"/>
+      <path d="M86.62 20.88L85.62 19.12C82.95 21.06 79.82 17.9 80.62 14.12C78.88 14.81 79.04 16.8 79.12 18.62C77.61 19.77 75.11 18.36 74.12 20.38L78.62 20.88L79.38 25.88L80.88 25.62C79.83 21.63 83.12 20.15 86.62 20.88Z" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

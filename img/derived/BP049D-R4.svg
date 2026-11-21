@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP049, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="76.92" cy="73.21" rx="2.84" ry="3.04" transform="rotate(121.17 76.92 73.21)" fill="black"/>
+  <ellipse cx="77" cy="73.5" rx="1.24" ry="1.79" transform="rotate(0 77 73.5)" fill="white"/>
+  <ellipse cx="70" cy="65" rx="2.74" ry="3.07" transform="rotate(0 70 65)" fill="black"/>
+  <circle cx="70" cy="65" r="1.21" fill="white"/>
+  <ellipse cx="81" cy="63.5" rx="2.52" ry="3.01" transform="rotate(90 81 63.5)" fill="black"/>
+  <ellipse cx="81" cy="63.5" rx="1.24" ry="1.79" transform="rotate(0 81 63.5)" fill="white"/>
+  <path d="M47.38 81.88C49.83 78.09 50.55 73.01 53.88 69.62L53.88 66.38C57.49 61.98 58.38 56.06 61.88 51.62L61.88 49.38L63.88 47.62C63.91 46.06 63.51 44.17 64.88 43.38C63.51 43.01 63.92 41.51 63.88 40.38L62.38 40.12C54.75 30.22 46.6 22.34 38.62 12.12L37.38 12.12C30.42 22.41 22.44 30.97 16.12 41.62L14.12 42.38L14.12 43.62C17.16 48.43 21.8 51.69 24.38 55.88L25.62 55.88C31.71 65.48 40.41 71.99 46.12 81.62L47.38 81.88Z" fill="black"/>
+  <path d="M47.62 78.12L46.38 78.12L45.88 76.38C43.49 76.8 44.54 73.65 42.38 74.12C39.64 69.2 36.05 64.45 31.88 61.62C27.8 54.82 21.88 49.46 16.88 43.62C19.44 38.33 23.99 35.52 26.38 29.88L27.88 29.62C30 24.42 33.64 20.27 37.38 15.88L39.62 15.88C46.2 25.68 54.51 31.75 60.12 41.62L62.12 42.38C61.99 46.39 60.54 49.67 58.12 52.38L58.12 55.62L56.12 57.38C54.54 65.03 49.35 70.45 47.62 78.12Z" fill="white"/>
+  <ellipse cx="44.3" cy="68.72" rx="2.51" ry="2.99" transform="rotate(3.61 44.3 68.72)" fill="black"/>
+  <ellipse cx="44.53" cy="69.01" rx="1.25" ry="1.82" transform="rotate(92.62 44.53 69.01)" fill="white"/>
+  <ellipse cx="27.97" cy="45.57" rx="2.5" ry="2.71" transform="rotate(105.77 27.97 45.57)" fill="black"/>
+  <ellipse cx="28.22" cy="45.5" rx="1.12" ry="1.52" transform="rotate(0 28.22 45.5)" fill="white"/>
+  <ellipse cx="45.08" cy="34.65" rx="2.83" ry="3.11" transform="rotate(48.98 45.08 34.65)" fill="black"/>
+  <circle cx="45" cy="35" r="1.21" fill="white"/>
+</svg>

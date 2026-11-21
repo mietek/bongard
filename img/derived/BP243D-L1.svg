@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP243, left example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M16.38 74.12C14.95 78.42 12.12 81.74 10.12 85.62L22.62 85.88C21.6 81.9 18.46 77.82 16.38 74.12Z" fill="black"/>
+  <circle cx="30.45" cy="58.63" r="5.37" fill="black"/>
+  <circle cx="68.13" cy="57.07" r="5.29" fill="black"/>
+  <ellipse cx="48.21" cy="29.21" rx="5.27" ry="5.48" transform="rotate(135 48.21 29.21)" fill="black"/>
+</svg>

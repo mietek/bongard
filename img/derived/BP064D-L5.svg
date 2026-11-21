@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP064, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M71.62 80.88L72.88 79.62C70.45 77.92 72.59 73.88 75.62 74.88L75.88 73.38C74.02 72.17 73.08 74.31 71.38 74.12C70.46 72.81 71.26 70.68 69.38 70.12C69.97 74.27 67.74 75.05 65.12 76.62C68.78 76.57 71.95 76.83 71.62 80.88Z" fill="black"/>
+  <ellipse cx="62.99" cy="46.06" rx="8.03" ry="14.7" transform="rotate(172.1 62.99 46.06)" fill="black"/>
+  <ellipse cx="63.03" cy="46.22" rx="6.19" ry="12.2" transform="rotate(172.25 63.03 46.22)" fill="white"/>
+  <circle cx="21.98" cy="18.07" r="4.6" fill="black"/>
+  <ellipse cx="21.91" cy="18.05" rx="2.87" ry="3.11" transform="rotate(55.46 21.91 18.05)" fill="white"/>
+</svg>

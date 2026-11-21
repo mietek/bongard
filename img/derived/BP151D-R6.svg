@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP151, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="25.11" cy="14.64" fill="none" stroke="black" stroke-width="1.21" rx="2.94" ry="3.57" transform="rotate(112.63 25.11 14.64)"/>
+  <circle cx="55.01" cy="15.38" fill="none" stroke="black" stroke-width="1.09" r="3.47"/>
+  <ellipse cx="40.04" cy="31.39" fill="none" stroke="black" stroke-width="0.94" rx="3.08" ry="3.64" transform="rotate(95.48 40.04 31.39)"/>
+  <path d="M18.67 55.95L21.67 55.95M21.67 52.95L21.67 54.95M21.67 54.95L24.67 54.95M21.67 54.95L21.67 55.95M21.67 55.95L22.67 57.95" fill="none" stroke="black" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="78.79" cy="78.94" fill="none" stroke="black" stroke-width="0.95" rx="2.91" ry="3.69" transform="rotate(16.4 78.79 78.94)"/>
+</svg>

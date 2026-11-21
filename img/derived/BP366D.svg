@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP366, linked examples">
+  <title>BP366 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP366D-L1.svg" target="_parent" aria-label="Open BP366, left example 1">
+    <title>BP366, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M95.88 48.12L95.62 46.12L56.38 46.12C55.47 43.52 55.66 40.63 53.88 38.62C50.51 25.97 37.53 19.6 23.38 21.12C15.19 23.93 5.91 29.17 4.12 38.62L2.12 42.38C0.3 57.79 8.48 71.46 22.62 73.88L23.38 74.88C37.53 76.4 50.51 70.03 53.88 57.38C55.66 55.37 55.47 52.48 56.38 49.88L95.62 49.88L95.88 48.12Z" fill="black"/>
+      <circle cx="32" cy="48" r="2.08" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-L2.svg" target="_parent" aria-label="Open BP366, left example 2">
+    <title>BP366, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="26.12" y="25.12" width="47.75" height="47.75" fill="black"/>
+      <circle cx="50" cy="49" r="2.08" fill="white"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-L3.svg" target="_parent" aria-label="Open BP366, left example 3">
+    <title>BP366, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M38.12 30.62L44.12 31.38L44.12 42.62L32.38 43.12L31.88 37.38L24.38 37.12C21.2 43.12 21.2 52.88 24.38 58.88L31.62 58.88L32.38 52.88L44.12 53.38L44.12 64.62L38.38 65.12L38.12 72.62C43.37 75.55 51.58 75.47 57.62 73.88C61.08 72.91 59.58 68.63 59.88 65.38L53.88 64.62L53.88 53.38L65.62 52.88L66.38 58.88L73.62 58.88C76.8 52.88 76.8 43.12 73.62 37.12L66.12 37.38L65.62 43.12L53.88 42.62L53.88 31.38L59.62 30.88L59.88 23.38C53.88 20.2 44.12 20.2 38.12 23.38L38.12 30.62Z" fill="black"/>
+      <circle cx="49" cy="48" r="2.08" fill="white"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-L4.svg" target="_parent" aria-label="Open BP366, left example 4">
+    <title>BP366, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="83.88,10.12 43.12,10.12 43.12,78.12 13.12,78.12 13.12,88.88 54.88,88.88 54.88,20.88 83.88,20.88" fill="black"/>
+      <circle cx="49" cy="50" r="2.08" fill="white"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-L5.svg" target="_parent" aria-label="Open BP366, left example 5">
+    <title>BP366, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="77.98,18.27 42.58,16.01 10.6,42.19 6.23,59.71 20.56,81.06 55.66,86.73 83.02,70.6 88.69,39.59" fill="black"/>
+      <circle cx="49" cy="51" r="2.08" fill="white"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-L6.svg" target="_parent" aria-label="Open BP366, left example 6">
+    <title>BP366, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M15.12 45.62L35.12 60.38C33.38 68.75 29.7 76.68 28.38 84.88C35.18 80.48 41.95 76.02 48.38 70.88C55.92 74.75 62.28 80.7 69.62 84.88C68.3 76.68 64.62 68.75 62.88 60.38C69.99 55.98 76.22 50.21 82.88 45.38L58.38 45.12C55.01 39.22 53.86 32.38 50.88 26.38L56.88 25.62L56.62 10.12L41.12 10.38L41.12 25.62L47.12 26.38C44.14 32.38 42.99 39.22 39.62 45.12L15.12 45.62Z" fill="black"/>
+      <circle cx="49" cy="50" r="2.08" fill="white"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-R1.svg" target="_parent" aria-label="Open BP366, right example 1">
+    <title>BP366, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M95.88 48.12L95.62 46.12L56.38 46.12C55.47 43.52 55.66 40.63 53.88 38.62C50.51 25.97 37.53 19.6 23.38 21.12C15.19 23.93 5.91 29.17 4.12 38.62L2.12 42.38C0.3 57.79 8.48 71.46 22.62 73.88L23.38 74.88C37.53 76.4 50.51 70.03 53.88 57.38C55.66 55.37 55.47 52.48 56.38 49.88L95.62 49.88L95.88 48.12Z" fill="black"/>
+      <circle cx="52" cy="48" r="2.08" fill="white"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-R2.svg" target="_parent" aria-label="Open BP366, right example 2">
+    <title>BP366, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="26.12" y="25.12" width="47.75" height="47.75" fill="black"/>
+      <circle cx="44" cy="43" r="2.08" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-R3.svg" target="_parent" aria-label="Open BP366, right example 3">
+    <title>BP366, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="89.82,7.71 12.07,9.53 15.19,90.82 91.99,84.83 22.11,52.41 37.38,41.88 40.62,40.88 88.48,8.92" fill="black"/>
+      <circle cx="35" cy="25" r="2.08" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-R4.svg" target="_parent" aria-label="Open BP366, right example 4">
+    <title>BP366, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="83.88,10.12 43.12,10.12 43.12,78.12 13.12,78.12 13.12,88.88 54.88,88.88 54.88,20.88 83.88,20.88" fill="black"/>
+      <circle cx="79" cy="15" r="2.08" fill="white"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-R5.svg" target="_parent" aria-label="Open BP366, right example 5">
+    <title>BP366, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="77.98,18.27 42.58,16.01 10.6,42.19 6.23,59.71 20.56,81.06 55.66,86.73 83.02,70.6 88.69,39.59" fill="black"/>
+      <circle cx="21" cy="45" r="2.08" fill="white"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP366D-R6.svg" target="_parent" aria-label="Open BP366, right example 6">
+    <title>BP366, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M15.12 45.62L35.12 60.38C33.38 68.75 29.7 76.68 28.38 84.88C35.18 80.48 41.95 76.02 48.38 70.88C55.92 74.75 62.28 80.7 69.62 84.88C68.3 76.68 64.62 68.75 62.88 60.38C69.99 55.98 76.22 50.21 82.88 45.38L58.38 45.12C55.01 39.22 53.86 32.38 50.88 26.38L56.88 25.62L56.62 10.12L41.12 10.38L41.12 25.62L47.12 26.38C44.14 32.38 42.99 39.22 39.62 45.12L15.12 45.62Z" fill="black"/>
+      <circle cx="40" cy="54" r="2.08" fill="white"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

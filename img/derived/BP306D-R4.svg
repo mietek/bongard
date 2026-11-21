@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP306, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="68.12" y="77.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="68.88" y="77.88" width="5.25" height="5.25" fill="white"/>
+  <rect x="31.12" y="77.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="86.12" y="76.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="86.88" y="76.88" width="5.25" height="5.25" fill="white"/>
+  <rect x="16.12" y="75.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="78.12" y="58.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="78.88" y="58.88" width="5.25" height="5.25" fill="white"/>
+  <rect x="78.12" y="40.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="78.88" y="40.88" width="5.25" height="5.25" fill="white"/>
+  <rect x="25.12" y="27.12" width="41.75" height="41.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="25.88" y="27.88" width="40.25" height="40.25" fill="white"/>
+  <rect x="57.12" y="58.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="57.88" y="58.88" width="5.25" height="5.25" fill="white"/>
+  <rect x="31.12" y="57.12" width="6.75" height="6.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="45.12,43.59 45.12,45.12 44.12,45.12 44.12,47.12 43.12,47.12 43.12,49.12 42.12,49.12 42.12,50.88 48.88,50.88 48.88,49.12 48.51,49.12 46.31,45.07" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M32.12 32.12L32.12 32.88C33.69 33.08 33.6 34.77 35.12 35.12C34.68 36.9 32.61 37.24 32.12 38.88C33.76 38.39 34.1 36.32 35.88 35.88C36.23 37.4 37.92 37.31 38.12 38.88L38.88 38.88L38.88 38.12C37.31 37.92 37.4 36.23 35.88 35.88C36.32 34.1 38.39 33.76 38.88 32.12L38.12 32.12C37.92 33.69 36.23 33.6 35.88 35.12C34.1 34.68 33.76 32.61 32.12 32.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M45.12 31.12C45.61 32.76 47.68 33.1 48.12 34.88C46.6 35.23 46.69 36.92 45.12 37.12L45.12 37.88C46.76 37.39 47.1 35.32 48.88 34.88C49.23 36.4 50.92 36.31 51.12 37.88L51.88 37.88C51.39 36.24 49.32 35.9 48.88 34.12C50.4 33.77 50.31 32.08 51.88 31.88L51.88 31.12L51.12 31.12C50.92 32.69 49.23 32.6 48.88 34.12C47.1 33.68 46.76 31.61 45.12 31.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M45.12 15.12C45.61 16.76 47.68 17.1 48.12 18.88C46.6 19.23 46.69 20.92 45.12 21.12L45.12 21.88C46.76 21.39 47.1 19.32 48.88 18.88C49.23 20.4 50.92 20.31 51.12 21.88L51.88 21.88C51.39 20.24 49.32 19.9 48.88 18.12C50.4 17.77 50.31 16.08 51.88 15.88L51.88 15.12L51.12 15.12C50.92 16.69 49.23 16.6 48.88 18.12C47.1 17.68 46.76 15.61 45.12 15.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M33.12 13.12C33.61 14.76 35.68 15.1 36.12 16.88C34.6 17.23 34.69 18.92 33.12 19.12L33.12 19.88C34.76 19.39 35.1 17.32 36.88 16.88C37.23 18.4 38.92 18.31 39.12 19.88L39.88 19.88C39.39 18.24 37.32 17.9 36.88 16.12C38.4 15.77 38.31 14.08 39.88 13.88L39.88 13.12L39.12 13.12C38.92 14.69 37.23 14.6 36.88 16.12C35.1 15.68 34.76 13.61 33.12 13.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="81.12,11.59 81.12,13.12 80.12,13.12 80.12,15.12 79.12,15.12 79.12,17.12 78.12,17.12 78.12,18.88 84.88,18.88 84.88,17.12 84.51,17.12 82.31,13.07" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M20.12 10.12L20.12 10.88C21.69 11.08 21.6 12.77 23.12 13.12C22.68 14.9 20.61 15.24 20.12 16.88C21.76 16.39 22.1 14.32 23.88 13.88C24.23 15.4 25.92 15.31 26.12 16.88L26.88 16.88C26.39 15.24 24.32 14.9 23.88 13.12C25.4 12.77 25.31 11.08 26.88 10.88L26.88 10.12C25.24 10.61 24.9 12.68 23.12 13.12C22.77 11.6 21.08 11.69 20.88 10.12L20.12 10.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

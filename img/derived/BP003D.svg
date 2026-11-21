@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP003, linked examples">
+  <title>BP003 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP003D-L1.svg" target="_parent" aria-label="Open BP003, left example 1">
+    <title>BP003, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M 17.5,67.8        C 19.2,63.7 23.2,61.7 24.2,54.5        C 25,42.3 30.1,43.4 38.7,44.4        C 45.2,43.2 50.7,32 55.2,27.5        C 62,22.2 70.3,29.9 74.2,29.2        C 78.6,29.1 78.9,23.9 83.7,25.2        C 89,25.6 86.6,37.3 86.1,43        C 85.2,54.6 83.8,59.2 74.2,64        C 63.3,68.6 55.3,76 46.4,77.5        C 37.2,79 34.6,84.6 27.4,82.1        C 22.1,80.8 18.9,76.3 17.5,67.8        Z" fill="none" stroke="black" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-L2.svg" target="_parent" aria-label="Open BP003, left example 2">
+    <title>BP003, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="27.1" cy="48.3" r="5.8" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-L3.svg" target="_parent" aria-label="Open BP003, left example 3">
+    <title>BP003, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="36.5,29 47.7,47.7 83.8,32.9 80.2,53.3 68,58.7 77.3,66.3 73.6,82.3 25.8,72.9" fill="none" stroke="black" stroke-width="2.6" stroke-linejoin="miter" stroke-linecap="round"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-L4.svg" target="_parent" aria-label="Open BP003, left example 4">
+    <title>BP003, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="49.8,22.6 78.4,55.9 35.5,56.1" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-L5.svg" target="_parent" aria-label="Open BP003, left example 5">
+    <title>BP003, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="-3.8" y="-4.3" width="7.5" height="8.5" transform="translate(51.2 47.2) rotate(-1.5)" fill="none" stroke="black" stroke-width="3" stroke-linejoin="miter" stroke-linecap="round"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-L6.svg" target="_parent" aria-label="Open BP003, left example 6">
+    <title>BP003, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="80.8,79.1 91.4,81.6 83.9,93.7" fill="none" stroke="black" stroke-width="3" stroke-linejoin="miter" stroke-linecap="round"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-R1.svg" target="_parent" aria-label="Open BP003, right example 1">
+    <title>BP003, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="49.2,10.7 72.1,70 18.4,69" fill="black"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-R2.svg" target="_parent" aria-label="Open BP003, right example 2">
+    <title>BP003, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="-6.1" y="-5.2" width="12.2" height="10.3" transform="translate(81.1 78.9) rotate(94.4)" fill="black"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-R3.svg" target="_parent" aria-label="Open BP003, right example 3">
+    <title>BP003, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="12,65 32.4,65 27.2,74.2 34.6,85.5 11.5,84.7 17.2,74" fill="black"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-R4.svg" target="_parent" aria-label="Open BP003, right example 4">
+    <title>BP003, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M 52.5,19.2        C 54.8,12.6 59.9,11.4 65.4,16        C 68.2,17.5 68.5,11.7 73,10.3        C 77,8.8 78.4,14.4 75.1,20.7        C 73.1,24.3 70.3,23.2 67.4,21.4        C 63.9,20.2 63.2,28.5 58,27.9        C 53.8,27.4 51.4,23.5 52.5,19.2        Z" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-R5.svg" target="_parent" aria-label="Open BP003, right example 5">
+    <title>BP003, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="18" cy="17.3" r="7.5" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP003D-R6.svg" target="_parent" aria-label="Open BP003, right example 6">
+    <title>BP003, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="-23.3" y="-24.4" width="46.6" height="48.9" transform="translate(51.7 46.4) rotate(27.2)" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

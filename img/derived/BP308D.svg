@@ -1,0 +1,568 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP308, linked examples">
+  <title>BP308 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP308D-L1.svg" target="_parent" aria-label="Open BP308, left example 1">
+    <title>BP308, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="77.12" y="83.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="78.5" cy="84.5" r="0.61" fill="white"/>
+      <rect x="27.12" y="82.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="28.5" cy="83.5" r="0.61" fill="white"/>
+      <rect x="19.12" y="81.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="20.5" cy="82.5" r="0.61" fill="white"/>
+      <rect x="70.12" y="79.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="71.5" cy="80.5" r="0.61" fill="white"/>
+      <rect x="79.12" y="76.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="80.5" cy="77.5" r="0.61" fill="white"/>
+      <rect x="11.12" y="76.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="12.5" cy="77.5" r="0.61" fill="white"/>
+      <rect x="28.12" y="75.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="29.5" cy="76.5" r="0.61" fill="white"/>
+      <rect x="19.12" y="72.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="20.5" cy="73.5" r="0.61" fill="white"/>
+      <rect x="86.12" y="71.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="87.5" cy="72.5" r="0.61" fill="white"/>
+      <rect x="11.12" y="68.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="12.5" cy="69.5" r="0.61" fill="white"/>
+      <rect x="81.12" y="65.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="82.5" cy="66.5" r="0.61" fill="white"/>
+      <rect x="21.12" y="65.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="22.5" cy="66.5" r="0.61" fill="white"/>
+      <rect x="43.12" y="30.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="44.5" cy="31.5" r="0.61" fill="white"/>
+      <rect x="58.12" y="27.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="59.5" cy="28.5" r="0.61" fill="white"/>
+      <rect x="42.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="43.5" cy="22.5" r="0.61" fill="white"/>
+      <rect x="49.12" y="19.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="50.5" cy="20.5" r="0.61" fill="white"/>
+      <rect x="58.12" y="18.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="59.5" cy="19.5" r="0.61" fill="white"/>
+      <rect x="43.12" y="12.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="44.5" cy="13.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-L2.svg" target="_parent" aria-label="Open BP308, left example 2">
+    <title>BP308, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="65.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="66.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="17.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="18.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="75.12" y="83.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="76.5" cy="84.5" r="0.61" fill="white"/>
+      <rect x="26.12" y="80.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="27.5" cy="81.5" r="0.61" fill="white"/>
+      <rect x="71.12" y="78.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="72.5" cy="79.5" r="0.61" fill="white"/>
+      <rect x="62.12" y="77.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="63.5" cy="78.5" r="0.61" fill="white"/>
+      <rect x="21.12" y="77.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="22.5" cy="78.5" r="0.61" fill="white"/>
+      <rect x="78.12" y="74.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="79.5" cy="75.5" r="0.61" fill="white"/>
+      <rect x="29.12" y="74.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="30.5" cy="75.5" r="0.61" fill="white"/>
+      <rect x="14.12" y="71.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="15.5" cy="72.5" r="0.61" fill="white"/>
+      <rect x="74.12" y="69.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="75.5" cy="70.5" r="0.61" fill="white"/>
+      <rect x="21.12" y="66.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="22.5" cy="67.5" r="0.61" fill="white"/>
+      <rect x="75.12" y="29.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="76.5" cy="30.5" r="0.61" fill="white"/>
+      <rect x="20.12" y="29.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="21.5" cy="30.5" r="0.61" fill="white"/>
+      <rect x="14.12" y="25.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="15.5" cy="26.5" r="0.61" fill="white"/>
+      <rect x="80.12" y="24.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="81.5" cy="25.5" r="0.61" fill="white"/>
+      <rect x="66.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="67.5" cy="22.5" r="0.61" fill="white"/>
+      <rect x="28.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="29.5" cy="22.5" r="0.61" fill="white"/>
+      <rect x="73.12" y="20.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="74.5" cy="21.5" r="0.61" fill="white"/>
+      <rect x="19.12" y="19.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="20.5" cy="20.5" r="0.61" fill="white"/>
+      <rect x="61.12" y="17.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="62.5" cy="18.5" r="0.61" fill="white"/>
+      <rect x="12.12" y="16.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="13.5" cy="17.5" r="0.61" fill="white"/>
+      <rect x="80.12" y="15.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="81.5" cy="16.5" r="0.61" fill="white"/>
+      <rect x="23.12" y="14.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="24.5" cy="15.5" r="0.61" fill="white"/>
+      <rect x="69.12" y="11.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="70.5" cy="12.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-L3.svg" target="_parent" aria-label="Open BP308, left example 3">
+    <title>BP308, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="73.12" y="89.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="74.5" cy="90.5" r="0.61" fill="white"/>
+      <rect x="76.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="77.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="69.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="70.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="38.12" y="80.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="39.5" cy="81.5" r="0.61" fill="white"/>
+      <path d="M30.38 80.12C29.29 82.12 30.73 83.52 32.88 82.88C33.1 84.69 33.02 86.64 35.62 85.88C36.71 83.88 35.27 82.48 33.12 83.12C32.9 81.31 32.98 79.36 30.38 80.12Z" fill="black"/>
+      <circle cx="34.5" cy="84.5" r="0.61" fill="white"/>
+      <circle cx="31.5" cy="81.5" r="0.61" fill="white"/>
+      <rect x="26.12" y="80.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="27.5" cy="81.5" r="0.61" fill="white"/>
+      <rect x="81.12" y="79.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="82.5" cy="80.5" r="0.61" fill="white"/>
+      <rect x="77.12" y="75.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="78.5" cy="76.5" r="0.61" fill="white"/>
+      <rect x="30.12" y="75.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="31.5" cy="76.5" r="0.61" fill="white"/>
+      <rect x="84.12" y="49.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="85.5" cy="50.5" r="0.61" fill="white"/>
+      <rect x="18.12" y="47.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="19.5" cy="48.5" r="0.61" fill="white"/>
+      <rect x="90.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="91.5" cy="45.5" r="0.61" fill="white"/>
+      <rect x="13.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="14.5" cy="45.5" r="0.61" fill="white"/>
+      <rect x="16.12" y="40.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="17.5" cy="41.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="39.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="40.5" r="0.61" fill="white"/>
+      <rect x="23.12" y="38.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="24.5" cy="39.5" r="0.61" fill="white"/>
+      <rect x="83.12" y="36.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="84.5" cy="37.5" r="0.61" fill="white"/>
+      <rect x="19.12" y="34.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="20.5" cy="35.5" r="0.61" fill="white"/>
+      <rect x="64.12" y="24.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="65.5" cy="25.5" r="0.61" fill="white"/>
+      <rect x="46.12" y="16.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="47.5" cy="17.5" r="0.61" fill="white"/>
+      <rect x="55.12" y="12.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="56.5" cy="13.5" r="0.61" fill="white"/>
+      <rect x="50.12" y="8.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="51.5" cy="9.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-L4.svg" target="_parent" aria-label="Open BP308, left example 4">
+    <title>BP308, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="6.12" y="87.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="7.5" cy="88.5" r="0.61" fill="white"/>
+      <rect x="89.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="90.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="19.12" y="83.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="20.5" cy="84.5" r="0.61" fill="white"/>
+      <rect x="77.12" y="81.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="78.5" cy="82.5" r="0.61" fill="white"/>
+      <rect x="11.12" y="77.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="12.5" cy="78.5" r="0.61" fill="white"/>
+      <rect x="25.12" y="76.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="26.5" cy="77.5" r="0.61" fill="white"/>
+      <rect x="72.12" y="75.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="73.5" cy="76.5" r="0.61" fill="white"/>
+      <rect x="32.12" y="74.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="33.5" cy="75.5" r="0.61" fill="white"/>
+      <rect x="81.12" y="71.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="82.5" cy="72.5" r="0.61" fill="white"/>
+      <rect x="88.12" y="67.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="89.5" cy="68.5" r="0.61" fill="white"/>
+      <rect x="17.12" y="66.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="18.5" cy="67.5" r="0.61" fill="white"/>
+      <rect x="7.12" y="66.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="8.5" cy="67.5" r="0.61" fill="white"/>
+      <rect x="79.12" y="61.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="80.5" cy="62.5" r="0.61" fill="white"/>
+      <rect x="20.12" y="57.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="21.5" cy="58.5" r="0.61" fill="white"/>
+      <rect x="40.12" y="26.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="41.5" cy="27.5" r="0.61" fill="white"/>
+      <rect x="67.12" y="24.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="68.5" cy="25.5" r="0.61" fill="white"/>
+      <rect x="58.12" y="24.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="59.5" cy="25.5" r="0.61" fill="white"/>
+      <rect x="52.12" y="22.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="53.5" cy="23.5" r="0.61" fill="white"/>
+      <rect x="47.12" y="13.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="48.5" cy="14.5" r="0.61" fill="white"/>
+      <rect x="59.12" y="10.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="60.5" cy="11.5" r="0.61" fill="white"/>
+      <rect x="36.12" y="9.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="37.5" cy="10.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-L5.svg" target="_parent" aria-label="Open BP308, left example 5">
+    <title>BP308, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="62.12" y="86.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="63.5" cy="87.5" r="0.61" fill="white"/>
+      <rect x="67.12" y="82.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="68.5" cy="83.5" r="0.61" fill="white"/>
+      <rect x="61.12" y="80.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="62.5" cy="81.5" r="0.61" fill="white"/>
+      <rect x="75.12" y="79.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="76.5" cy="80.5" r="0.61" fill="white"/>
+      <rect x="24.12" y="76.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="25.5" cy="77.5" r="0.61" fill="white"/>
+      <rect x="17.12" y="76.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="18.5" cy="77.5" r="0.61" fill="white"/>
+      <rect x="71.12" y="75.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="72.5" cy="76.5" r="0.61" fill="white"/>
+      <rect x="14.12" y="72.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="15.5" cy="73.5" r="0.61" fill="white"/>
+      <rect x="21.12" y="71.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="22.5" cy="72.5" r="0.61" fill="white"/>
+      <rect x="16.12" y="65.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="17.5" cy="66.5" r="0.61" fill="white"/>
+      <rect x="83.12" y="35.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="84.5" cy="36.5" r="0.61" fill="white"/>
+      <rect x="78.12" y="34.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="79.5" cy="35.5" r="0.61" fill="white"/>
+      <rect x="78.12" y="28.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="79.5" cy="29.5" r="0.61" fill="white"/>
+      <rect x="72.12" y="26.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="73.5" cy="27.5" r="0.61" fill="white"/>
+      <rect x="25.12" y="26.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="26.5" cy="27.5" r="0.61" fill="white"/>
+      <rect x="76.12" y="23.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="77.5" cy="24.5" r="0.61" fill="white"/>
+      <rect x="23.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="24.5" cy="22.5" r="0.61" fill="white"/>
+      <rect x="36.12" y="19.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="37.5" cy="20.5" r="0.61" fill="white"/>
+      <rect x="30.12" y="19.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="31.5" cy="20.5" r="0.61" fill="white"/>
+      <rect x="25.12" y="16.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="26.5" cy="17.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-L6.svg" target="_parent" aria-label="Open BP308, left example 6">
+    <title>BP308, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="44.12" y="87.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="45.5" cy="88.5" r="0.61" fill="white"/>
+      <rect x="48.12" y="86.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="49.5" cy="87.5" r="0.61" fill="white"/>
+      <rect x="53.12" y="85.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="54.5" cy="86.5" r="0.61" fill="white"/>
+      <rect x="41.12" y="82.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="42.5" cy="83.5" r="0.61" fill="white"/>
+      <rect x="51.12" y="80.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="52.5" cy="81.5" r="0.61" fill="white"/>
+      <rect x="12.12" y="66.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="13.5" cy="67.5" r="0.61" fill="white"/>
+      <rect x="80.12" y="64.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="81.5" cy="65.5" r="0.61" fill="white"/>
+      <rect x="75.12" y="63.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="76.5" cy="64.5" r="0.61" fill="white"/>
+      <rect x="17.12" y="63.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="18.5" cy="64.5" r="0.61" fill="white"/>
+      <rect x="11.12" y="61.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="12.5" cy="62.5" r="0.61" fill="white"/>
+      <rect x="83.12" y="60.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="84.5" cy="61.5" r="0.61" fill="white"/>
+      <rect x="79.12" y="56.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="80.5" cy="57.5" r="0.61" fill="white"/>
+      <rect x="13.12" y="56.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="14.5" cy="57.5" r="0.61" fill="white"/>
+      <rect x="69.12" y="25.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="70.5" cy="26.5" r="0.61" fill="white"/>
+      <rect x="22.12" y="25.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="23.5" cy="26.5" r="0.61" fill="white"/>
+      <rect x="60.12" y="23.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="61.5" cy="24.5" r="0.61" fill="white"/>
+      <rect x="29.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="30.5" cy="22.5" r="0.61" fill="white"/>
+      <rect x="64.12" y="20.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="65.5" cy="21.5" r="0.61" fill="white"/>
+      <rect x="24.12" y="19.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="25.5" cy="20.5" r="0.61" fill="white"/>
+      <rect x="28.12" y="16.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="29.5" cy="17.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-R1.svg" target="_parent" aria-label="Open BP308, right example 1">
+    <title>BP308, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="33.12" y="88.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="34.5" cy="89.5" r="0.61" fill="white"/>
+      <rect x="79.12" y="86.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="80.5" cy="87.5" r="0.61" fill="white"/>
+      <rect x="47.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="48.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="13.12" y="81.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="14.5" cy="82.5" r="0.61" fill="white"/>
+      <rect x="89.12" y="69.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="90.5" cy="70.5" r="0.61" fill="white"/>
+      <rect x="70.12" y="61.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="71.5" cy="62.5" r="0.61" fill="white"/>
+      <rect x="24.12" y="61.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="25.5" cy="62.5" r="0.61" fill="white"/>
+      <rect x="84.12" y="59.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="85.5" cy="60.5" r="0.61" fill="white"/>
+      <rect x="11.12" y="57.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="12.5" cy="58.5" r="0.61" fill="white"/>
+      <rect x="16.12" y="30.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="17.5" cy="31.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="29.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="30.5" r="0.61" fill="white"/>
+      <rect x="31.12" y="25.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="32.5" cy="26.5" r="0.61" fill="white"/>
+      <rect x="71.12" y="22.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="72.5" cy="23.5" r="0.61" fill="white"/>
+      <rect x="61.12" y="20.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="62.5" cy="21.5" r="0.61" fill="white"/>
+      <rect x="19.12" y="12.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="20.5" cy="13.5" r="0.61" fill="white"/>
+      <rect x="83.12" y="10.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="84.5" cy="11.5" r="0.61" fill="white"/>
+      <rect x="6.12" y="9.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="7.5" cy="10.5" r="0.61" fill="white"/>
+      <rect x="51.12" y="6.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="52.5" cy="7.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-R2.svg" target="_parent" aria-label="Open BP308, right example 2">
+    <title>BP308, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="41.12" y="88.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="42.5" cy="89.5" r="0.61" fill="white"/>
+      <rect x="80.12" y="86.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="81.5" cy="87.5" r="0.61" fill="white"/>
+      <rect x="10.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="11.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="69.12" y="80.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="70.5" cy="81.5" r="0.61" fill="white"/>
+      <rect x="25.12" y="77.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="26.5" cy="78.5" r="0.61" fill="white"/>
+      <rect x="39.12" y="68.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="40.5" cy="69.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="67.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="68.5" r="0.61" fill="white"/>
+      <rect x="71.12" y="65.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="72.5" cy="66.5" r="0.61" fill="white"/>
+      <rect x="9.12" y="54.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="10.5" cy="55.5" r="0.61" fill="white"/>
+      <rect x="20.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="21.5" cy="45.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="42.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="43.5" r="0.61" fill="white"/>
+      <rect x="4.12" y="31.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="5.5" cy="32.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="24.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="25.5" r="0.61" fill="white"/>
+      <rect x="65.12" y="24.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="66.5" cy="25.5" r="0.61" fill="white"/>
+      <rect x="34.12" y="20.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="35.5" cy="21.5" r="0.61" fill="white"/>
+      <rect x="7.12" y="11.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="8.5" cy="12.5" r="0.61" fill="white"/>
+      <rect x="70.12" y="8.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="71.5" cy="9.5" r="0.61" fill="white"/>
+      <rect x="50.12" y="8.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="51.5" cy="9.5" r="0.61" fill="white"/>
+      <rect x="26.12" y="6.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="27.5" cy="7.5" r="0.61" fill="white"/>
+      <rect x="84.12" y="5.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="85.5" cy="6.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-R3.svg" target="_parent" aria-label="Open BP308, right example 3">
+    <title>BP308, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="67.12" y="88.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="68.5" cy="89.5" r="0.61" fill="white"/>
+      <rect x="27.12" y="83.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="28.5" cy="84.5" r="0.61" fill="white"/>
+      <rect x="81.12" y="81.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="82.5" cy="82.5" r="0.61" fill="white"/>
+      <rect x="59.12" y="81.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="60.5" cy="82.5" r="0.61" fill="white"/>
+      <rect x="15.12" y="78.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="16.5" cy="79.5" r="0.61" fill="white"/>
+      <rect x="33.12" y="70.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="34.5" cy="71.5" r="0.61" fill="white"/>
+      <rect x="8.12" y="64.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="9.5" cy="65.5" r="0.61" fill="white"/>
+      <rect x="68.12" y="62.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="69.5" cy="63.5" r="0.61" fill="white"/>
+      <rect x="86.12" y="60.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="87.5" cy="61.5" r="0.61" fill="white"/>
+      <rect x="70.12" y="50.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="71.5" cy="51.5" r="0.61" fill="white"/>
+      <rect x="16.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="17.5" cy="45.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="35.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="36.5" r="0.61" fill="white"/>
+      <rect x="4.12" y="27.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="5.5" cy="28.5" r="0.61" fill="white"/>
+      <rect x="30.12" y="19.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="31.5" cy="20.5" r="0.61" fill="white"/>
+      <rect x="48.12" y="13.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="49.5" cy="14.5" r="0.61" fill="white"/>
+      <rect x="18.12" y="10.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="19.5" cy="11.5" r="0.61" fill="white"/>
+      <rect x="90.12" y="9.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="91.5" cy="10.5" r="0.61" fill="white"/>
+      <rect x="71.12" y="7.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="72.5" cy="8.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-R4.svg" target="_parent" aria-label="Open BP308, right example 4">
+    <title>BP308, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="71.12" y="90.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="72.5" cy="91.5" r="0.61" fill="white"/>
+      <rect x="34.12" y="88.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="35.5" cy="89.5" r="0.61" fill="white"/>
+      <rect x="86.12" y="84.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="87.5" cy="85.5" r="0.61" fill="white"/>
+      <rect x="18.12" y="83.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="19.5" cy="84.5" r="0.61" fill="white"/>
+      <rect x="72.12" y="74.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="73.5" cy="75.5" r="0.61" fill="white"/>
+      <rect x="25.12" y="66.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="26.5" cy="67.5" r="0.61" fill="white"/>
+      <rect x="89.12" y="65.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="90.5" cy="66.5" r="0.61" fill="white"/>
+      <rect x="9.12" y="59.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="10.5" cy="60.5" r="0.61" fill="white"/>
+      <rect x="85.12" y="38.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="86.5" cy="39.5" r="0.61" fill="white"/>
+      <rect x="16.12" y="31.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="17.5" cy="32.5" r="0.61" fill="white"/>
+      <rect x="85.12" y="26.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="86.5" cy="27.5" r="0.61" fill="white"/>
+      <rect x="8.12" y="20.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="9.5" cy="21.5" r="0.61" fill="white"/>
+      <rect x="39.12" y="13.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="40.5" cy="14.5" r="0.61" fill="white"/>
+      <rect x="64.12" y="10.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="65.5" cy="11.5" r="0.61" fill="white"/>
+      <rect x="79.12" y="8.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="80.5" cy="9.5" r="0.61" fill="white"/>
+      <rect x="23.12" y="7.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="24.5" cy="8.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-R5.svg" target="_parent" aria-label="Open BP308, right example 5">
+    <title>BP308, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="87.12" y="87.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="88.5" r="0.61" fill="white"/>
+      <rect x="42.12" y="86.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="43.5" cy="87.5" r="0.61" fill="white"/>
+      <rect x="57.12" y="83.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="58.5" cy="84.5" r="0.61" fill="white"/>
+      <rect x="80.12" y="82.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="81.5" cy="83.5" r="0.61" fill="white"/>
+      <rect x="22.12" y="81.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="23.5" cy="82.5" r="0.61" fill="white"/>
+      <rect x="37.12" y="75.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="38.5" cy="76.5" r="0.61" fill="white"/>
+      <rect x="84.12" y="67.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="85.5" cy="68.5" r="0.61" fill="white"/>
+      <rect x="8.12" y="67.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="9.5" cy="68.5" r="0.61" fill="white"/>
+      <rect x="16.12" y="54.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="17.5" cy="55.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="46.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="47.5" r="0.61" fill="white"/>
+      <rect x="77.12" y="42.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="78.5" cy="43.5" r="0.61" fill="white"/>
+      <rect x="16.12" y="40.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="17.5" cy="41.5" r="0.61" fill="white"/>
+      <rect x="79.12" y="23.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="80.5" cy="24.5" r="0.61" fill="white"/>
+      <rect x="8.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="9.5" cy="22.5" r="0.61" fill="white"/>
+      <rect x="90.12" y="19.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="91.5" cy="20.5" r="0.61" fill="white"/>
+      <rect x="41.12" y="11.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="42.5" cy="12.5" r="0.61" fill="white"/>
+      <rect x="64.12" y="9.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="65.5" cy="10.5" r="0.61" fill="white"/>
+      <rect x="19.12" y="7.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="20.5" cy="8.5" r="0.61" fill="white"/>
+      <rect x="82.12" y="6.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="83.5" cy="7.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP308D-R6.svg" target="_parent" aria-label="Open BP308, right example 6">
+    <title>BP308, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="77.12" y="86.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="78.5" cy="87.5" r="0.61" fill="white"/>
+      <rect x="37.12" y="85.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="38.5" cy="86.5" r="0.61" fill="white"/>
+      <rect x="11.12" y="81.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="12.5" cy="82.5" r="0.61" fill="white"/>
+      <rect x="62.12" y="78.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="63.5" cy="79.5" r="0.61" fill="white"/>
+      <rect x="87.12" y="77.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="88.5" cy="78.5" r="0.61" fill="white"/>
+      <rect x="37.12" y="73.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="38.5" cy="74.5" r="0.61" fill="white"/>
+      <rect x="88.12" y="54.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="89.5" cy="55.5" r="0.61" fill="white"/>
+      <rect x="27.12" y="48.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="28.5" cy="49.5" r="0.61" fill="white"/>
+      <rect x="11.12" y="46.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="12.5" cy="47.5" r="0.61" fill="white"/>
+      <rect x="84.12" y="39.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="85.5" cy="40.5" r="0.61" fill="white"/>
+      <rect x="62.12" y="26.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="63.5" cy="27.5" r="0.61" fill="white"/>
+      <rect x="23.12" y="25.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="24.5" cy="26.5" r="0.61" fill="white"/>
+      <rect x="75.12" y="10.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="76.5" cy="11.5" r="0.61" fill="white"/>
+      <rect x="8.12" y="7.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="9.5" cy="8.5" r="0.61" fill="white"/>
+      <rect x="42.12" y="6.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="43.5" cy="7.5" r="0.61" fill="white"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

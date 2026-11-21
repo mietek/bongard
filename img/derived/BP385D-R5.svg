@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP385, right example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="29.13,12.12 29.12,88.88 48.88,88.88 48.88,50.88 67.88,50.88 67.88,12.12" fill="black"/>
+  <rect x="29.88" y="69.88" width="18.25" height="18.25" fill="white"/>
+  <rect x="29.88" y="50.88" width="18.25" height="18.25" fill="white"/>
+  <rect x="48.88" y="31.88" width="18.25" height="18.25" fill="white"/>
+  <rect x="29.88" y="31.88" width="18.25" height="18.25" fill="white"/>
+  <rect x="48.88" y="12.88" width="18.25" height="18.25" fill="white"/>
+  <rect x="29.88" y="12.88" width="18.25" height="18.25" fill="white"/>
+</svg>

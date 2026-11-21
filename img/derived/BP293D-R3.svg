@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP293, right example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="12.12" y="28.12" width="60.75" height="60.75" fill="black"/>
+  <rect x="12.88" y="58.88" width="29.25" height="29.25" fill="white"/>
+  <path d="M42.88 58.38L28.38 58.12L28.38 43.88L56.62 43.88L56.62 88.12L42.88 87.62L42.88 58.38Z" fill="white"/>
+  <rect x="57.88" y="28.88" width="14.25" height="59.25" fill="white"/>
+  <path d="M27.38 43.12L27.12 57.62L12.88 57.62L12.88 29.38L57.12 29.38L56.62 43.12L27.38 43.12Z" fill="white"/>
+</svg>

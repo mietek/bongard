@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP351, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="56.64,34.14 52.84,35.5 47.12,52.65 47.12,58.05 48.95,61.48 52.38,62.88 62.42,62.88 67.03,59.77 68.18,53.96 59.85,35.4" fill="black"/>
+  <ellipse cx="62.5" cy="55.5" rx="1.68" ry="2.38" transform="rotate(0 62.5 55.5)" fill="white"/>
+  <ellipse cx="52.5" cy="55.5" rx="1.68" ry="2.38" transform="rotate(0 52.5 55.5)" fill="white"/>
+  <ellipse cx="56.5" cy="41.5" rx="1.68" ry="2.38" transform="rotate(0 56.5 41.5)" fill="white"/>
+  <ellipse cx="34.49" cy="48.78" rx="7.57" ry="14.76" transform="rotate(178.26 34.49 48.78)" fill="black"/>
+  <ellipse cx="34.58" cy="54.47" rx="3.55" ry="4.53" transform="rotate(173.52 34.58 54.47)" fill="white"/>
+  <ellipse cx="34.5" cy="42.5" rx="3.74" ry="4.61" transform="rotate(0 34.5 42.5)" fill="white"/>
+  <ellipse cx="12.51" cy="48.61" rx="10.43" ry="14.54" transform="rotate(2.76 12.51 48.61)" fill="black"/>
+  <circle cx="12.5" cy="48.5" r="2.7" fill="white"/>
+  <path d="M76.38 34.12C70.89 40.27 73.17 52.68 74.12 60.62C78.62 65.17 86.58 63.94 92.62 62.88C98.54 56.8 95.43 44.35 94.88 36.38C93.28 33.82 90.42 33.95 87.38 34.12C84.13 31.19 80.28 34.97 76.38 34.12Z" fill="black"/>
+  <ellipse cx="90" cy="54.79" rx="3.23" ry="3.64" transform="rotate(0 90 54.79)" fill="white"/>
+  <ellipse cx="79.59" cy="54.96" rx="3.42" ry="4.04" transform="rotate(169.06 79.59 54.96)" fill="white"/>
+  <ellipse cx="89.62" cy="41.62" rx="3.29" ry="3.89" transform="rotate(146.48 89.62 41.62)" fill="white"/>
+  <ellipse cx="79" cy="41.79" rx="3.23" ry="3.64" transform="rotate(0 79 41.79)" fill="white"/>
+</svg>

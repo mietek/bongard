@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP049, left example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="36.5" cy="77" rx="2.55" ry="3.03" transform="rotate(0 36.5 77)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="35.88" y="75.88" width="2.25" height="2.25" fill="white"/>
+  <ellipse cx="17.69" cy="46.63" rx="2.57" ry="2.88" transform="rotate(4.39 17.69 46.63)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.88" y="45.88" width="2.25" height="2.25" fill="white"/>
+  <path d="M48.62 69.88L51.88 69.88L52.12 68.88L59.88 68.88L60.12 67.88L78.88 67.88C78.6 65.65 82.33 68.07 82.12 65.88L82.88 65.88L82.88 58.12L81.88 57.88L81.88 38.12L80.88 37.88L80.88 29.12C80.15 29.33 79.67 28.85 79.88 28.12L68.12 28.12L67.88 29.12L58.12 29.12L57.88 30.12L45.12 30.12L45.12 37.88L46.12 38.12L46.12 55.88L47.12 56.12L47.12 65.88C49.38 65.62 47.1 69.6 48.62 69.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M78.88 29.88L79.12 35.88L80.12 36.12L80.12 59.88L81.12 60.12L81.12 64.88L76.12 65.12L75.88 66.12L62.12 66.12L61.88 67.12L52.12 67.12C52.49 68.47 50.95 68.09 50.12 68.12C49.86 67.26 49.74 67.14 48.88 66.88L48.88 58.12L47.88 57.88L47.88 40.12C45.04 39.84 49.65 38.15 46.88 37.88L46.88 32.12L61.88 31.88L62.12 30.88L71.88 30.88L72.12 29.88L78.88 29.88Z" fill="white"/>
+  <ellipse cx="73.05" cy="55.92" rx="2.82" ry="3.14" transform="rotate(77.32 73.05 55.92)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="73.1" cy="55.71" rx="1.2" ry="1.77" transform="rotate(16.19 73.1 55.71)" fill="white"/>
+  <circle cx="65.5" cy="52.28" r="2.66" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="65.83" cy="52.17" rx="1.02" ry="1.37" transform="rotate(135 65.83 52.17)" fill="white"/>
+  <circle cx="73.5" cy="47.72" r="2.66" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="71.88" y="45.88" width="2.25" height="3.25" fill="white"/>
+  <ellipse cx="33.29" cy="18.29" rx="2.55" ry="3.02" transform="rotate(93 33.29 18.29)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="31.88" y="16.88" width="2.25" height="2.25" fill="white"/>
+</svg>

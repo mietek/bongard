@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP319, linked examples">
+  <title>BP319 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP319D-L1.svg" target="_parent" aria-label="Open BP319, left example 1">
+    <title>BP319, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="80.59" cy="61.59" rx="2.41" ry="2.67" transform="rotate(135 80.59 61.59)" fill="black"/>
+      <ellipse cx="86.67" cy="60.79" rx="2.39" ry="2.75" transform="rotate(175.1 86.67 60.79)" fill="black"/>
+      <ellipse cx="80.5" cy="55.5" rx="2.37" ry="2.85" transform="rotate(135 80.5 55.5)" fill="black"/>
+      <circle cx="86.5" cy="54.5" r="2.46" fill="black"/>
+      <ellipse cx="20.5" cy="27.81" rx="2.56" ry="2.78" transform="rotate(0 20.5 27.81)" fill="black"/>
+      <ellipse cx="20.14" cy="20.03" rx="2.72" ry="3.09" transform="rotate(121.47 20.14 20.03)" fill="black"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-L2.svg" target="_parent" aria-label="Open BP319, left example 2">
+    <title>BP319, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="86.66" cy="52.2" rx="2.64" ry="3.05" transform="rotate(144.6 86.66 52.2)" fill="black"/>
+      <ellipse cx="78.42" cy="52.15" rx="2.63" ry="3.11" transform="rotate(141.5 78.42 52.15)" fill="black"/>
+      <ellipse cx="86.1" cy="44.69" rx="2.36" ry="2.89" transform="rotate(81.2 86.1 44.69)" fill="black"/>
+      <ellipse cx="78.13" cy="44.13" rx="2.61" ry="2.99" transform="rotate(135 78.13 44.13)" fill="black"/>
+      <ellipse cx="85.26" cy="37.56" rx="2.14" ry="2.76" transform="rotate(135.92 85.26 37.56)" fill="black"/>
+      <ellipse cx="78.38" cy="37.08" rx="1.96" ry="2.51" transform="rotate(74.65 78.38 37.08)" fill="black"/>
+      <ellipse cx="14.73" cy="31.58" rx="2.44" ry="2.79" transform="rotate(108.82 14.73 31.58)" fill="black"/>
+      <ellipse cx="17.54" cy="25.73" rx="2.38" ry="3.11" transform="rotate(154.08 17.54 25.73)" fill="black"/>
+      <ellipse cx="11.58" cy="25.73" rx="2.44" ry="2.79" transform="rotate(161.18 11.58 25.73)" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-L3.svg" target="_parent" aria-label="Open BP319, left example 3">
+    <title>BP319, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="54.73" cy="84.62" rx="2.39" ry="2.85" transform="rotate(118.58 54.73 84.62)" fill="black"/>
+      <circle cx="47.6" cy="84.5" r="2.38" fill="black"/>
+      <ellipse cx="56.37" cy="79.09" rx="2.08" ry="2.71" transform="rotate(100.96 56.37 79.09)" fill="black"/>
+      <rect x="40.12" y="77.12" width="4.75" height="3.75" fill="black"/>
+      <ellipse cx="50.03" cy="77.14" rx="2.08" ry="2.43" transform="rotate(172.71 50.03 77.14)" fill="black"/>
+      <ellipse cx="58.35" cy="73.84" rx="2.38" ry="2.69" transform="rotate(132.42 58.35 73.84)" fill="black"/>
+      <ellipse cx="44.35" cy="73.65" rx="2.19" ry="2.55" transform="rotate(135 44.35 73.65)" fill="black"/>
+      <ellipse cx="51.94" cy="70.41" rx="2.26" ry="2.56" transform="rotate(118.19 51.94 70.41)" fill="black"/>
+      <ellipse cx="20.5" cy="28.5" rx="2.37" ry="2.85" transform="rotate(45 20.5 28.5)" fill="black"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-L4.svg" target="_parent" aria-label="Open BP319, left example 4">
+    <title>BP319, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="14.38" cy="74.08" rx="1.96" ry="2.51" transform="rotate(74.65 14.38 74.08)" fill="black"/>
+      <ellipse cx="21.25" cy="73.78" rx="2.55" ry="2.96" transform="rotate(128.64 21.25 73.78)" fill="black"/>
+      <ellipse cx="72.25" cy="49.78" rx="2.55" ry="2.96" transform="rotate(128.64 72.25 49.78)" fill="black"/>
+      <ellipse cx="64.91" cy="49.53" rx="2.53" ry="2.92" transform="rotate(98.58 64.91 49.53)" fill="black"/>
+      <ellipse cx="87" cy="48.71" rx="2.8" ry="3.23" transform="rotate(128.48 87 48.71)" fill="black"/>
+      <circle cx="79.08" cy="48.22" r="2.85" fill="black"/>
+      <ellipse cx="72.42" cy="43.15" rx="2.63" ry="3.11" transform="rotate(141.5 72.42 43.15)" fill="black"/>
+      <ellipse cx="64.13" cy="43.13" rx="2.61" ry="2.99" transform="rotate(135 64.13 43.13)" fill="black"/>
+      <circle cx="86.87" cy="41.13" r="2.9" fill="black"/>
+      <ellipse cx="78.6" cy="41.26" rx="2.54" ry="3.1" transform="rotate(142.13 78.6 41.26)" fill="black"/>
+      <ellipse cx="85.91" cy="34.53" rx="2.53" ry="2.92" transform="rotate(98.58 85.91 34.53)" fill="black"/>
+      <circle cx="71.54" cy="35.1" r="2.62" fill="black"/>
+      <ellipse cx="64.61" cy="34.84" rx="2.4" ry="2.95" transform="rotate(161.23 64.61 34.84)" fill="black"/>
+      <ellipse cx="78.82" cy="33.85" rx="2.46" ry="2.84" transform="rotate(129.74 78.82 33.85)" fill="black"/>
+      <ellipse cx="73.46" cy="28.85" rx="2.46" ry="2.9" transform="rotate(2.73 73.46 28.85)" fill="black"/>
+      <ellipse cx="65.84" cy="28.61" rx="2.4" ry="2.95" transform="rotate(108.77 65.84 28.61)" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-L5.svg" target="_parent" aria-label="Open BP319, left example 5">
+    <title>BP319, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="83.86" cy="88.14" rx="2.48" ry="2.71" transform="rotate(135 83.86 88.14)" fill="black"/>
+      <ellipse cx="77.38" cy="87.83" rx="2.22" ry="2.72" transform="rotate(153.6 77.38 87.83)" fill="black"/>
+      <ellipse cx="62.67" cy="87.81" rx="2.42" ry="2.74" transform="rotate(151.56 62.67 87.81)" fill="black"/>
+      <ellipse cx="85.9" cy="82.01" rx="2.45" ry="3.26" transform="rotate(140.14 85.9 82.01)" fill="black"/>
+      <ellipse cx="78.59" cy="81.59" rx="2.41" ry="2.67" transform="rotate(135 78.59 81.59)" fill="black"/>
+      <path d="M69.88 85.38C73.24 85.84 74.03 81.17 71.62 79.12C68.04 78.09 67.71 80.7 68.12 83.62C71.82 83.94 68.58 86.16 67.12 87.38L67.12 88.62C69.48 94.38 76.6 87.28 70.38 86.12L69.88 85.38Z" fill="black"/>
+      <circle cx="62.35" cy="81.68" r="2.5" fill="black"/>
+      <ellipse cx="26.59" cy="49.59" rx="2.41" ry="2.67" transform="rotate(135 26.59 49.59)" fill="black"/>
+      <ellipse cx="19.31" cy="50.27" rx="2.52" ry="2.99" transform="rotate(177.85 19.31 50.27)" fill="black"/>
+      <ellipse cx="25.94" cy="43.43" rx="2.44" ry="3.02" transform="rotate(81.77 25.94 43.43)" fill="black"/>
+      <ellipse cx="17.93" cy="42.69" rx="2.38" ry="3.13" transform="rotate(115.12 17.93 42.69)" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-L6.svg" target="_parent" aria-label="Open BP319, left example 6">
+    <title>BP319, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="56.41" cy="89.41" rx="2.41" ry="2.67" transform="rotate(135 56.41 89.41)" fill="black"/>
+      <ellipse cx="50.03" cy="89.14" rx="2.08" ry="2.43" transform="rotate(172.71 50.03 89.14)" fill="black"/>
+      <ellipse cx="44.03" cy="85.14" rx="2.08" ry="2.43" transform="rotate(172.71 44.03 85.14)" fill="black"/>
+      <ellipse cx="58.35" cy="83.84" rx="2.38" ry="2.69" transform="rotate(132.42 58.35 83.84)" fill="black"/>
+      <ellipse cx="51.35" cy="83.65" rx="2.19" ry="2.55" transform="rotate(135 51.35 83.65)" fill="black"/>
+      <circle cx="55.78" cy="77.45" r="2.58" fill="black"/>
+      <ellipse cx="46.65" cy="77.84" rx="2.38" ry="2.69" transform="rotate(47.58 46.65 77.84)" fill="black"/>
+      <ellipse cx="23.42" cy="43.15" rx="2.63" ry="3.11" transform="rotate(141.5 23.42 43.15)" fill="black"/>
+      <ellipse cx="15.98" cy="43.6" rx="2.82" ry="3.3" transform="rotate(141.17 15.98 43.6)" fill="black"/>
+      <ellipse cx="27.91" cy="37.53" rx="2.53" ry="2.92" transform="rotate(98.58 27.91 37.53)" fill="black"/>
+      <circle cx="19.54" cy="36.1" r="2.62" fill="black"/>
+      <ellipse cx="12.61" cy="35.84" rx="2.4" ry="2.95" transform="rotate(161.23 12.61 35.84)" fill="black"/>
+      <ellipse cx="30.13" cy="31.13" rx="2.61" ry="2.99" transform="rotate(135 30.13 31.13)" fill="black"/>
+      <ellipse cx="21.81" cy="30.07" rx="2.63" ry="3.19" transform="rotate(137.1 21.81 30.07)" fill="black"/>
+      <ellipse cx="13.84" cy="29.61" rx="2.4" ry="2.95" transform="rotate(108.77 13.84 29.61)" fill="black"/>
+      <ellipse cx="33.11" cy="23.66" rx="2.8" ry="3.64" transform="rotate(148.65 33.11 23.66)" fill="black"/>
+      <ellipse cx="25.11" cy="23.23" rx="2.68" ry="3.26" transform="rotate(143.16 25.11 23.23)" fill="black"/>
+      <ellipse cx="17.83" cy="22.96" rx="2.69" ry="3.15" transform="rotate(167.51 17.83 22.96)" fill="black"/>
+      <ellipse cx="10.06" cy="22.43" rx="2.44" ry="3.02" transform="rotate(98.23 10.06 22.43)" fill="black"/>
+      <ellipse cx="25.26" cy="15.69" rx="2.69" ry="3.6" transform="rotate(154.09 25.26 15.69)" fill="black"/>
+      <ellipse cx="17.1" cy="15.36" rx="2.73" ry="3.11" transform="rotate(160.65 17.1 15.36)" fill="black"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-R1.svg" target="_parent" aria-label="Open BP319, right example 1">
+    <title>BP319, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="84.25" cy="50.25" rx="2.86" ry="3.07" transform="rotate(135 84.25 50.25)" fill="black"/>
+      <ellipse cx="12.31" cy="47.27" rx="2.52" ry="2.99" transform="rotate(177.85 12.31 47.27)" fill="black"/>
+      <ellipse cx="87.88" cy="42.6" rx="2.97" ry="3.78" transform="rotate(142.18 87.88 42.6)" fill="black"/>
+      <ellipse cx="78.87" cy="42.13" rx="2.83" ry="3.15" transform="rotate(135 78.87 42.13)" fill="black"/>
+      <ellipse cx="13.46" cy="40.27" rx="2.38" ry="3.11" transform="rotate(154.08 13.46 40.27)" fill="black"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-R2.svg" target="_parent" aria-label="Open BP319, right example 2">
+    <title>BP319, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="17.17" cy="79.17" r="2.89" fill="black"/>
+      <ellipse cx="22.91" cy="72.8" rx="2.63" ry="3.1" transform="rotate(35.95 22.91 72.8)" fill="black"/>
+      <ellipse cx="12.41" cy="72.59" rx="2.41" ry="2.67" transform="rotate(45 12.41 72.59)" fill="black"/>
+      <ellipse cx="16.94" cy="66.57" rx="2.44" ry="3.02" transform="rotate(98.23 16.94 66.57)" fill="black"/>
+      <ellipse cx="81.34" cy="21.34" rx="2.86" ry="3.11" transform="rotate(45 81.34 21.34)" fill="black"/>
+      <ellipse cx="73.83" cy="21" rx="2.74" ry="3.06" transform="rotate(134.79 73.83 21)" fill="black"/>
+      <ellipse cx="80.65" cy="13.9" rx="2.56" ry="2.97" transform="rotate(19.07 80.65 13.9)" fill="black"/>
+      <ellipse cx="73" cy="14" rx="2.83" ry="3.16" transform="rotate(119.16 73 14)" fill="black"/>
+      <ellipse cx="72.59" cy="7.59" rx="2.41" ry="2.67" transform="rotate(135 72.59 7.59)" fill="black"/>
+      <circle cx="80.08" cy="7.11" r="2.95" fill="black"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-R3.svg" target="_parent" aria-label="Open BP319, right example 3">
+    <title>BP319, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="13.35" cy="51.65" rx="2.19" ry="2.55" transform="rotate(135 13.35 51.65)" fill="black"/>
+      <ellipse cx="7" cy="51.5" rx="1.94" ry="2.36" transform="rotate(0 7 51.5)" fill="black"/>
+      <ellipse cx="10.26" cy="45.56" rx="2.14" ry="2.76" transform="rotate(135.92 10.26 45.56)" fill="black"/>
+      <ellipse cx="80.94" cy="28.41" rx="2.26" ry="2.56" transform="rotate(118.19 80.94 28.41)" fill="black"/>
+      <ellipse cx="74.39" cy="28.21" rx="2.26" ry="2.63" transform="rotate(112.13 74.39 28.21)" fill="black"/>
+      <ellipse cx="76.38" cy="22.92" rx="1.96" ry="2.51" transform="rotate(105.35 76.38 22.92)" fill="black"/>
+      <ellipse cx="84.61" cy="22.6" rx="2.18" ry="2.51" transform="rotate(88.11 84.61 22.6)" fill="black"/>
+      <circle cx="79" cy="16.78" r="2.02" fill="black"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-R4.svg" target="_parent" aria-label="Open BP319, right example 4">
+    <title>BP319, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="23.37" cy="56.8" rx="2.51" ry="2.9" transform="rotate(145.19 23.37 56.8)" fill="black"/>
+      <ellipse cx="17.5" cy="56" rx="2.51" ry="2.85" transform="rotate(157.99 17.5 56)" fill="black"/>
+      <ellipse cx="10.61" cy="55.84" rx="2.4" ry="2.95" transform="rotate(161.23 10.61 55.84)" fill="black"/>
+      <ellipse cx="19.81" cy="50.07" rx="2.63" ry="3.19" transform="rotate(137.1 19.81 50.07)" fill="black"/>
+      <ellipse cx="11.84" cy="49.61" rx="2.4" ry="2.95" transform="rotate(108.77 11.84 49.61)" fill="black"/>
+      <ellipse cx="14.91" cy="42.53" rx="2.53" ry="2.92" transform="rotate(98.58 14.91 42.53)" fill="black"/>
+      <ellipse cx="82.46" cy="32.23" rx="2.38" ry="2.89" transform="rotate(170.22 82.46 32.23)" fill="black"/>
+      <ellipse cx="89.73" cy="28.58" rx="2.44" ry="2.79" transform="rotate(108.82 89.73 28.58)" fill="black"/>
+      <ellipse cx="75.79" cy="27.61" rx="2.26" ry="2.63" transform="rotate(157.87 75.79 27.61)" fill="black"/>
+      <circle cx="82.5" cy="25.5" r="2.46" fill="black"/>
+      <ellipse cx="88.61" cy="21.16" rx="2.4" ry="2.95" transform="rotate(18.77 88.61 21.16)" fill="black"/>
+      <ellipse cx="76.74" cy="21" rx="2.37" ry="2.79" transform="rotate(0 76.74 21)" fill="black"/>
+      <ellipse cx="82.65" cy="17.08" rx="2.43" ry="2.84" transform="rotate(15.65 82.65 17.08)" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-R5.svg" target="_parent" aria-label="Open BP319, right example 5">
+    <title>BP319, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="86.56" cy="84.44" rx="2.95" ry="3.21" transform="rotate(135 86.56 84.44)" fill="black"/>
+      <ellipse cx="80.41" cy="80.59" rx="2.41" ry="2.67" transform="rotate(45 80.41 80.59)" fill="black"/>
+      <ellipse cx="88.91" cy="75.53" rx="2.53" ry="2.92" transform="rotate(98.58 88.91 75.53)" fill="black"/>
+      <ellipse cx="81.32" cy="71.87" rx="2.56" ry="2.83" transform="rotate(117.3 81.32 71.87)" fill="black"/>
+      <ellipse cx="17.47" cy="26.91" rx="2.53" ry="2.92" transform="rotate(8.58 17.47 26.91)" fill="black"/>
+      <ellipse cx="10.42" cy="25.15" rx="2.63" ry="3.11" transform="rotate(141.5 10.42 25.15)" fill="black"/>
+      <ellipse cx="24.05" cy="23.91" rx="2.71" ry="3.19" transform="rotate(140.61 24.05 23.91)" fill="black"/>
+      <circle cx="16.7" cy="19.5" r="2.62" fill="black"/>
+      <ellipse cx="22.6" cy="16.4" rx="2.58" ry="2.8" transform="rotate(135 22.6 16.4)" fill="black"/>
+      <ellipse cx="10.13" cy="17.13" rx="2.61" ry="2.99" transform="rotate(135 10.13 17.13)" fill="black"/>
+      <ellipse cx="16.58" cy="12.1" rx="2.55" ry="3.13" transform="rotate(167.34 16.58 12.1)" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP319D-R6.svg" target="_parent" aria-label="Open BP319, right example 6">
+    <title>BP319, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="72.45" cy="73.59" rx="2.25" ry="2.89" transform="rotate(129.48 72.45 73.59)" fill="black"/>
+      <ellipse cx="66.13" cy="74.13" rx="2.61" ry="2.99" transform="rotate(135 66.13 74.13)" fill="black"/>
+      <ellipse cx="81.41" cy="72.59" rx="2.41" ry="2.67" transform="rotate(45 81.41 72.59)" fill="black"/>
+      <circle cx="61.22" cy="68.55" r="2.58" fill="black"/>
+      <ellipse cx="75.5" cy="68" rx="2.33" ry="3.05" transform="rotate(165.77 75.5 68)" fill="black"/>
+      <ellipse cx="68.35" cy="66.4" rx="2.78" ry="3.16" transform="rotate(171.91 68.35 66.4)" fill="black"/>
+      <ellipse cx="80.73" cy="63.62" rx="2.39" ry="2.85" transform="rotate(118.58 80.73 63.62)" fill="black"/>
+      <ellipse cx="71.73" cy="60.62" rx="2.39" ry="2.85" transform="rotate(118.58 71.73 60.62)" fill="black"/>
+      <circle cx="65.5" cy="59.5" r="2.46" fill="black"/>
+      <circle cx="79.5" cy="56.5" r="2.46" fill="black"/>
+      <ellipse cx="69.81" cy="53.09" rx="2.39" ry="2.94" transform="rotate(163.71 69.81 53.09)" fill="black"/>
+      <ellipse cx="15.59" cy="23.41" rx="2.41" ry="2.67" transform="rotate(45 15.59 23.41)" fill="black"/>
+      <ellipse cx="18.92" cy="17.06" rx="2.22" ry="2.99" transform="rotate(164.45 18.92 17.06)" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

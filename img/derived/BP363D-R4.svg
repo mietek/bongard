@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP363, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="24" y="24" width="50" height="51" stroke="black" stroke-width="2" fill="none"/>
+  <polyline points="17.8,56 24,49.5 30.2,56" stroke="black" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

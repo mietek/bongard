@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP142, left example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M16.05 29.88C13.39 30.21 16.72 33.54 17.05 30.88M16.05 29.88C16.75 27.24 16.6 22.89 19.8 22.13L20.3 23.63L22.05 23.88M16.05 29.88L17.05 30.88M17.05 30.88C19.61 31.46 21.43 29.88 23.8 29.63C24.93 27.36 21.52 26.09 22.05 23.88M22.05 23.88C26.24 20.35 31.77 19.33 37.05 18.63C39.87 17.07 42.78 16.54 46.05 16.88C49.52 15.29 54.58 15.29 58.05 16.88C62.75 16.38 66.87 18.75 71.05 19.88M71.05 19.88C72.3 20.04 71.9 18.49 72.3 17.88L74.05 16.13L76.3 14.13C82.23 14.47 79.87 23.97 75.05 23.88M71.05 19.88C71.07 21.25 70.78 22.9 72.05 23.88" fill="none" stroke="black" stroke-width="1.06" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23.05 36.95L22.05 35.95L21.05 34.95C18.6 36.5 15.19 39.37 16.3 42.7L23.8 43.7C25.11 41.21 22.44 39.43 23.05 36.95M23.05 36.95C27.3 35.88 31.16 32.83 35.3 31.2L39.05 30.95C48.16 27.29 59.6 26.16 68.3 31.7L71.05 31.95M71.05 31.95C72.85 31.07 74.75 27.22 77.05 29.95M71.05 31.95L71.8 35.95L72.05 37.95C74.33 43.46 81.39 34.99 78.05 31.95" fill="none" stroke="black" stroke-width="1.13" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M25.05 49.95L24.05 48.95C23.46 46.74 21.27 49.75 20.8 50.7C19.17 51.19 16.37 52.59 17.3 54.7C19.68 56.58 23.04 56.02 25.8 55.7C26.68 54.31 25.55 53.12 25.05 51.95L25.05 49.95M25.05 49.95L26.8 49.7C33.05 44.64 40.89 41.95 49.05 41.95" fill="none" stroke="black" stroke-width="1.38" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="53.5" cy="41" r="0.8" fill="black"/>
+  <path d="M55.5 40.5C57.66 41.97 60.56 40.76 62.5 42.5" fill="none" stroke="black" stroke-width="1.02" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M64.81 43.05C67.41 43.02 69.69 44.75 71.81 46.05M71.81 46.05L75.81 42.05M71.81 46.05L71.81 48.05L70.81 50.05C73.53 55.43 79.22 49.28 77.81 45.05" fill="none" stroke="black" stroke-width="1.11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M46.09 54.67C54.68 52.22 63.73 55.85 70.34 61.42L72.09 61.67M72.09 61.67L72.84 59.42L73.34 57.92C78.66 54.49 80.04 66.61 74.09 65.67L72.34 64.67L72.09 61.67" fill="none" stroke="black" stroke-width="1.22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20.5 66.5C19.34 63.62 22.59 59.05 25.5 61.5L27.5 63.5M21.5 68.5C24.54 71.43 28.52 66.77 27.5 63.5M27.5 63.5C32.8 60.72 37.37 56.2 43.5 55.5" fill="none" stroke="black" stroke-width="0.92" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28.95 75.05C32.3 74.43 34.58 70.75 36.95 68.3C41.33 67.96 45.48 62.67 49.95 66.05M28.95 75.05L28.95 77.05C30.7 82.35 21.2 82.35 22.95 77.05L23.95 74.05C24.82 73.76 24.67 71.72 25.95 72.3L28.95 75.05" fill="none" stroke="black" stroke-width="1.21" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="51.5" cy="66.5" r="0.56" fill="black"/>
+  <path d="M53.94 67.56C56.28 67.74 58.9 65.16 60.94 67.56" fill="none" stroke="black" stroke-width="2.04" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="63.73,68.64 71.59,74.54 73.55,80.43 76.5,81.41 80.43,77.48 80.43,74.54 76.5,71.59 72.57,75.52 66.68,69.63" fill="none" stroke="black" stroke-width="1.34" stroke-linejoin="miter"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP260, right example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M80.88 70.12C79.67 69.69 80.49 71.62 79.12 71.12C78.92 68.83 77.75 67.71 75.12 68.12L74.88 69.12L74.12 69.12C74.45 71.02 76.66 71.03 78.88 70.88C79.17 72.92 80.62 70.92 80.88 70.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M11.12 85.38L11.12 85.88L30.88 85.88L30.88 66.12L30.12 66.12L30.12 84.88L11.12 85.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M69.12 81.38L69.12 81.88L88.88 81.88L88.88 62.12L88.12 62.12L88.12 80.88L69.12 81.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="57.12,25.12 57.12,29.88 58.12,30.12 58.12,33.88 58.88,33.88 58.88,30.12 57.88,29.88 57.88,25.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="18.12" y="22.12" width="7.75" height="0.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M50.12 39.38L50.12 39.88L69.88 39.88L69.88 20.12L69.12 20.12L69.12 38.88L50.12 39.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M12.12 32.38L12.12 32.88L31.88 32.88L31.88 13.12L31.12 13.12L31.12 31.88L12.12 32.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

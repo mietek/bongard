@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP393, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="5.12" y="89.12" width="87.75" height="0.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="79.12" y="79.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="56.12" y="79.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M33.12 83.12C32.53 85.14 34.74 84.78 34.12 86.88C34.95 86.91 36.49 86.53 36.12 87.88L38.88 87.88L39.12 86.88L40.88 86.88L40.88 85.12L41.88 84.88L41.88 82.12C40.53 82.49 40.91 80.95 40.88 80.12C40.05 80.09 38.51 80.47 38.88 79.12L36.12 79.12L35.88 80.12L34.12 80.12L34.12 81.88C33.47 82.22 32.84 82.07 33.12 83.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M14.12 79.12L14.12 79.88C12.3 80.59 11.99 82.55 10.12 83.12L10.12 83.88C12.21 84.68 12.93 87.03 14.88 87.88L14.88 87.12C16.7 86.41 17.01 84.45 18.88 83.88C18.03 81.93 15.68 81.21 14.88 79.12L14.12 79.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M45.12 71.12C45.61 72.76 47.68 73.1 48.12 74.88C49.76 74.39 50.1 72.32 51.88 71.88L51.88 71.12C50.52 71.22 50.62 73.07 49.12 73.12L48.88 63.12L48.12 63.12L47.88 73.12C47.15 73.33 46.67 72.85 46.88 72.12C46.15 72.33 45.67 71.85 45.88 71.12L45.12 71.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="5.12" y="58.12" width="87.75" height="0.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M90.62 50.12C89.49 51.08 90.43 54.1 90.12 55.88L84.88 55.88L84.88 50.12L84.12 50.12L84.12 56.88L90.88 56.88L90.62 50.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M76.38 56.88C77.51 55.92 76.57 52.9 76.88 51.12L82.12 51.12L82.12 56.88L82.88 56.88L82.88 50.12L76.12 50.12L76.38 56.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M61.12 50.12L61.12 50.88C62.69 51.08 62.6 52.77 64.12 53.12C63.68 54.9 61.61 55.24 61.12 56.88C62.76 56.39 63.1 54.32 64.88 53.88C65.23 55.4 66.92 55.31 67.12 56.88L67.88 56.88C67.39 55.24 65.32 54.9 64.88 53.12C66.4 52.77 66.31 51.08 67.88 50.88L67.88 50.12L67.12 50.12C66.92 51.69 65.23 51.6 64.88 53.12C63.1 52.68 62.76 50.61 61.12 50.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M53.12 56.88L53.88 56.88L53.88 56.12C56.34 54.72 57.37 52.14 59.88 50.88L59.88 50.12L59.12 50.12C57.86 52.63 55.28 53.66 53.88 56.12L53.12 56.12L53.12 56.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M38.12 56.88L38.88 56.88L38.88 56.12C41.34 54.72 42.37 52.14 44.88 50.88L44.88 50.12L44.12 50.12C42.86 52.63 40.28 53.66 38.88 56.12L38.12 56.12L38.12 56.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M36.62 50.12C35.49 51.08 36.43 54.1 36.12 55.88L30.88 55.88L30.88 50.12L30.12 50.12L30.12 56.88L36.88 56.88L36.62 50.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M15.12 50.12L15.12 50.88C16.69 51.08 16.6 52.77 18.12 53.12C17.68 54.9 15.61 55.24 15.12 56.88C16.76 56.39 17.1 54.32 18.88 53.88C19.23 55.4 20.92 55.31 21.12 56.88L21.88 56.88L21.88 56.12C20.31 55.92 20.4 54.23 18.88 53.88C19.32 52.1 21.39 51.76 21.88 50.12L21.12 50.12C20.92 51.69 19.23 51.6 18.88 53.12C17.1 52.68 16.76 50.61 15.12 50.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M7.12 56.88L7.88 56.88L7.88 56.12C10.34 54.72 11.37 52.14 13.88 50.88L13.88 50.12L13.12 50.12C11.86 52.63 9.28 53.66 7.88 56.12L7.12 56.12L7.12 56.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="8.12" y="8.12" width="80.75" height="22.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="68.88" y="18.88" width="19.25" height="11.25" fill="white"/>
+  <rect x="74.12" y="20.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="48.88" y="18.88" width="19.25" height="11.25" fill="white"/>
+  <path d="M58.12 20.38C58.15 21.17 58.35 22.48 57.12 22.12C57.09 22.95 57.47 24.49 56.12 24.12C56.09 24.95 56.47 26.49 55.12 26.12C55.7 27.79 54.23 27.86 54.12 28.88L62.88 28.88C62.77 27.86 61.3 27.79 61.88 26.12C60.53 26.49 60.91 24.95 60.88 24.12C59.53 24.49 59.91 22.95 59.88 22.12C58.53 22.49 58.91 20.95 58.88 20.12L58.12 20.38Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="28.88" y="18.88" width="19.25" height="11.25" fill="white"/>
+  <path d="M34.12 24.12C33.53 26.14 35.74 25.78 35.12 27.88C35.95 27.91 37.49 27.53 37.12 28.88L39.88 28.88L40.12 27.88L41.88 27.88L41.88 26.12L42.88 25.88L42.88 23.12C41.53 23.49 41.91 21.95 41.88 21.12C41.05 21.09 39.51 21.47 39.88 20.12L37.12 20.12L36.88 21.12L35.12 21.12L35.12 22.88C34.47 23.22 33.84 23.07 34.12 24.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="8.88" y="18.88" width="19.25" height="11.25" fill="white"/>
+  <path d="M18.12 20.12C17.55 21.99 15.59 22.3 14.88 24.12L14.12 24.12C14.97 26.07 17.32 26.79 18.12 28.88L18.88 28.88L18.88 28.12C20.7 27.41 21.01 25.45 22.88 24.88L22.88 24.12C20.79 23.32 20.07 20.97 18.12 20.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="68.88" y="8.88" width="19.25" height="9.25" fill="white"/>
+  <path d="M79.12 16.88L79.88 16.88L79.88 16.12C82.34 14.72 83.37 12.14 85.88 10.88L85.88 10.12L85.12 10.12C83.86 12.63 81.28 13.66 79.88 16.12L79.12 16.12L79.12 16.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M77.62 10.12C76.49 11.08 77.43 14.1 77.12 15.88L71.88 15.88L71.88 10.12L71.12 10.12L71.12 16.88L77.88 16.88L77.62 10.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="48.88" y="8.88" width="19.25" height="9.25" fill="white"/>
+  <path d="M65.62 10.12C64.49 11.08 65.43 14.1 65.12 15.88L59.88 15.88L59.88 10.12L59.12 10.12L59.12 16.88L65.88 16.88L65.62 10.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M51.38 16.88C52.51 15.92 51.57 12.9 51.88 11.12L57.12 11.12L57.12 16.88L57.88 16.88L57.88 10.12L51.12 10.12L51.38 16.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="28.88" y="8.88" width="19.25" height="9.25" fill="white"/>
+  <path d="M39.12 10.12L39.12 10.88C40.69 11.08 40.6 12.77 42.12 13.12C41.68 14.9 39.61 15.24 39.12 16.88C40.76 16.39 41.1 14.32 42.88 13.88C43.23 15.4 44.92 15.31 45.12 16.88L45.88 16.88L45.88 16.12C44.31 15.92 44.4 14.23 42.88 13.88C43.32 12.1 45.39 11.76 45.88 10.12L45.12 10.12C44.92 11.69 43.23 11.6 42.88 13.12C41.1 12.68 40.76 10.61 39.12 10.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M31.12 16.88L31.88 16.88L31.88 16.12C34.34 14.72 35.37 12.14 37.88 10.88L37.88 10.12L37.12 10.12C35.86 12.63 33.28 13.66 31.88 16.12L31.12 16.12L31.12 16.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="8.88" y="8.88" width="19.25" height="9.25" fill="white"/>
+  <path d="M25.62 10.12C24.49 11.08 25.43 14.1 25.12 15.88L19.88 15.88L19.88 10.12L19.12 10.12L19.12 16.88L25.88 16.88L25.62 10.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M17.62 10.12C16.49 11.08 17.43 14.1 17.12 15.88L11.88 15.88L11.88 10.12L11.12 10.12L11.12 16.88L17.88 16.88L17.62 10.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+</svg>

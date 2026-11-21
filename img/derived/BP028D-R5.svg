@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP028, right example 5</title>
+  <rect width="98" height="98" fill="white" />
+  <polygon points="64.1,15 82.1,15 72.6,31.2" fill="black" />
+  <circle cx="51" cy="21.3" r="7.4" fill="none" stroke="black" stroke-width="2.2" />
+  <polygon points="11.1,17 28.4,17 20,31.9" fill="black" />
+  <circle cx="38.9" cy="48.7" r="7.5" fill="none" stroke="black" stroke-width="2.2" />
+  <polygon points="75.7,40.7 75.9,57.5 62.8,48.5" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round" />
+  <circle cx="54" cy="66.8" r="8.5" fill="black" />
+  <polygon points="23.3,58.2 31.9,74.1 13.2,75.4" fill="black" />
+  <polygon points="73.4,60.9 82.7,77 64,77" fill="black" />
+</svg>

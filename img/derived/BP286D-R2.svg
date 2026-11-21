@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP286, right example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="63.12" y="60.12" width="19.75" height="19.75" fill="black"/>
+  <rect x="63.88" y="60.88" width="18.25" height="18.25" fill="white"/>
+  <rect x="65.12" y="41.12" width="16.75" height="16.75" fill="black"/>
+  <rect x="65.88" y="41.88" width="15.25" height="15.25" fill="white"/>
+  <rect x="69.12" y="30.12" width="7.75" height="7.75" fill="black"/>
+  <rect x="69.88" y="30.88" width="6.25" height="6.25" fill="white"/>
+</svg>

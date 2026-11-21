@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP260, left example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="15.12" y="16.12" width="62.75" height="61.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.88" y="16.88" width="59.25" height="59.25" fill="white"/>
+  <path d="M52.88 49.12L52.12 49.12L52.12 60.88L58.88 60.88C58.77 59.86 57.3 59.79 57.88 58.12C56.53 58.49 56.91 56.95 56.88 56.12L55.88 55.88C56.47 53.86 54.26 54.22 54.88 52.12C53.53 52.49 53.91 50.95 53.88 50.12C53.15 50.33 52.67 49.85 52.88 49.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M53.38 51.88L54.12 52.12C53.53 54.14 55.74 53.78 55.12 55.88C56.47 55.51 56.09 57.05 56.12 57.88C57.48 57.46 57.31 59.48 56.88 60.12L52.88 59.88C53.18 57.31 52.24 53.85 53.38 51.88Z" fill="white"/>
+  <path d="M47.12 65.38L47.12 65.88L66.88 65.88L66.88 46.12L66.12 46.12L66.12 64.88L47.12 65.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M26.12 28.12C26.33 28.85 25.85 29.33 25.12 29.12L25.12 39.88L25.88 39.88L26.12 40.88L35.88 40.88C35.67 40.15 36.15 39.67 36.88 39.88L36.88 37.12L36.12 37.12C35.77 35.6 34.08 35.69 33.88 34.12C32.53 34.49 32.91 32.95 32.88 32.12L32.12 32.12C31.41 30.3 29.45 29.99 28.88 28.12L26.12 28.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M21.12 43.38L21.12 43.88L40.88 43.88L40.88 24.12L40.12 24.12L40.12 42.88L21.12 43.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

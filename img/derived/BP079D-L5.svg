@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP079, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="13.84,66.12 2.98,84.85 24.07,86.28 25.45,84.9 24.75,82.04 14.57,66.12" fill="black"/>
+  <path d="M7.88 82.62C8.04 77.73 12 75.18 13.38 70.88C17.97 71.64 17.25 77.39 21.12 79.38C22.97 84.28 15.71 83.93 13.62 82.12C12.57 83.55 9.43 83.48 7.88 82.62Z" fill="white"/>
+  <circle cx="41.02" cy="54.96" r="8.04" fill="black"/>
+  <circle cx="40.87" cy="55.04" r="5.37" fill="white"/>
+  <circle cx="87.66" cy="14.43" r="8.71" fill="black"/>
+</svg>

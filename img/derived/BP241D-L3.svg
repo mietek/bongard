@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP241, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="49.75" cy="47.44" fill="none" stroke="black" stroke-width="0.95" r="42.6"/>
+  <path d="M23.5 22.5L73.25 22.75L73.25 74.25L23.75 74.25L23.75 30.75L66.25 30.75L66.25 67.25L29.75 67.25L29.75 37.75L57.25 37.75L57.25 59.25L36.75 59.25L36.75 42.75L51.25 42.75L51.25 52.25L43.5 52.5" fill="none" stroke="black" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

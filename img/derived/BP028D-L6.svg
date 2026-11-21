@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP028, left example 6</title>
+  <rect width="98" height="98" fill="white" />
+  <circle cx="26.2" cy="24.5" r="7.5" fill="none" stroke="black" stroke-width="2.6" />
+  <circle cx="62.9" cy="30.4" r="8.8" fill="black" />
+  <circle cx="24" cy="53.1" r="8.9" fill="black" />
+  <circle cx="54.4" cy="63.9" r="7.3" fill="none" stroke="black" stroke-width="2.6" />
+  <circle cx="77.9" cy="72.1" r="9" fill="black" />
+</svg>

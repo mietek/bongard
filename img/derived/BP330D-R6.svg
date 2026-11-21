@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP330, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M18.12 42.62C20.86 47.49 24.82 52.07 30.12 54.38C30.64 61.75 27.37 67.65 28.38 74.88C35.21 71.79 41.4 67.56 47.38 62.88L48.38 63.88C54.59 63.72 58.62 68.6 64.88 67.62C63.87 60.66 60.46 55.03 58.88 48.38C61.51 43.35 64.86 38.72 66.88 33.38C61.42 33.5 55.41 34.52 50.38 36.12C47.2 30.74 43.9 25.55 39.38 21.12C36.6 26.13 36.01 32.2 34.12 37.62C29.28 40.34 23.66 41.53 18.12 42.62Z" fill="black"/>
+  <ellipse cx="30.5" cy="70.5" rx="0.68" ry="1.73" transform="rotate(0 30.5 70.5)" fill="white"/>
+  <circle cx="62.5" cy="65.5" r="0.61" fill="white"/>
+  <ellipse cx="60.5" cy="62.5" rx="0.69" ry="3.07" transform="rotate(0 60.5 62.5)" fill="white"/>
+  <path d="M58.38 53.88C59.74 56.68 59.31 61.91 58.62 65.12C57.26 62.32 57.69 57.09 58.38 53.88Z" fill="white"/>
+  <circle cx="22.5" cy="44.5" r="0.61" fill="white"/>
+  <ellipse cx="26.5" cy="46.5" rx="0.68" ry="4.59" transform="rotate(0 26.5 46.5)" fill="white"/>
+  <ellipse cx="24.5" cy="45.5" rx="0.69" ry="3.07" transform="rotate(0 24.5 45.5)" fill="white"/>
+  <path d="M28.38 41.88C29.73 44.03 29.32 48.56 28.62 51.12C27.27 48.97 27.68 44.44 28.38 41.88Z" fill="white"/>
+  <rect x="31.88" y="40.88" width="1.25" height="29.25" fill="white"/>
+  <path d="M30.38 40.88C31.74 43.68 31.31 48.91 30.62 52.12C29.26 49.32 29.69 44.09 30.38 40.88Z" fill="white"/>
+  <rect x="33.88" y="39.88" width="1.25" height="29.25" fill="white"/>
+  <rect x="51.88" y="37.88" width="1.25" height="24.25" fill="white"/>
+  <rect x="49.88" y="37.88" width="1.25" height="24.25" fill="white"/>
+  <rect x="55.88" y="36.88" width="1.25" height="27.25" fill="white"/>
+  <rect x="53.88" y="36.88" width="1.25" height="26.25" fill="white"/>
+  <rect x="47.88" y="36.88" width="1.25" height="24.25" fill="white"/>
+  <rect x="35.88" y="36.88" width="1.25" height="31.25" fill="white"/>
+  <ellipse cx="62.5" cy="37" rx="0.67" ry="1.14" transform="rotate(0 62.5 37)" fill="white"/>
+  <ellipse cx="60.5" cy="38.5" rx="0.69" ry="3.07" transform="rotate(0 60.5 38.5)" fill="white"/>
+  <path d="M58.38 35.88C59.73 38.03 59.32 42.56 58.62 45.12C57.27 42.97 57.68 38.44 58.38 35.88Z" fill="white"/>
+  <rect x="45.88" y="33.88" width="1.25" height="27.25" fill="white"/>
+  <rect x="43.88" y="30.88" width="1.25" height="32.25" fill="white"/>
+  <rect x="37.88" y="29.88" width="1.25" height="37.25" fill="white"/>
+  <rect x="41.88" y="27.88" width="1.25" height="36.25" fill="white"/>
+  <rect x="39.88" y="24.88" width="1.25" height="40.25" fill="white"/>
+</svg>

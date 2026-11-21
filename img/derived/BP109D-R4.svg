@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP109, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M47.12 64.38L47.12 64.88C50.96 64.13 52.87 66.04 52.12 69.88L52.88 69.88L53.12 64.88L57.88 64.88C57.65 63.27 54.56 64.52 53.12 64.12L52.88 59.12L52.12 59.12C51.77 60.39 53.01 63.19 51.12 63.12L50.88 64.12L47.12 64.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="39.64" cy="63.52" rx="5.47" ry="6.04" transform="rotate(10.2 39.64 63.52)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="42.5" cy="59.5" r="0.69" fill="white"/>
+  <circle cx="39.46" cy="63.67" r="4.68" fill="white"/>
+  <path d="M51.38 48.88C52.47 48.56 51.59 46.26 51.88 45.12L55.88 44.88L55.88 44.12C53.95 45 53.51 41.72 52.88 44.12L52.12 44.12L51.88 39.12C49.98 39.45 49.97 41.66 50.12 43.88L46.12 44.12L46.12 44.88C46.95 44.91 48.49 44.53 48.12 45.88C49.23 45.95 50.02 46.04 50.12 44.88L50.88 44.88L51.38 48.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M26.12 23.38C26.76 24.49 29.42 23.58 30.88 23.88L31.12 28.88L31.88 28.88L31.88 24.12L35.88 23.88L35.88 23.12L31.88 22.88L31.88 19.12L31.12 19.12L30.88 23.12L26.12 23.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M49.38 26.88C50.47 26.56 49.59 24.26 49.88 23.12L53.88 22.88L53.88 22.12C53.05 22.09 51.51 22.47 51.88 21.12C49.6 21.82 49.74 19.77 49.88 18.12L49.12 18.12L49.12 21.88L45.12 22.12L45.12 22.88C47.05 22 47.49 25.28 48.12 22.88L48.88 22.88L49.38 26.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

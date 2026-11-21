@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP051, left example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="55.71" cy="75.88" r="4.52" fill="black"/>
+  <circle cx="55.82" cy="75.82" r="2.56" fill="white"/>
+  <ellipse cx="19.64" cy="48.06" rx="4.52" ry="4.91" transform="rotate(173.37 19.64 48.06)" fill="black"/>
+  <circle cx="19.71" cy="48.15" r="2.62" fill="white"/>
+  <ellipse cx="32.25" cy="34.84" rx="4.32" ry="5.03" transform="rotate(5.53 32.25 34.84)" fill="black"/>
+  <ellipse cx="32.33" cy="34.63" rx="2.78" ry="3.07" transform="rotate(173.83 32.33 34.63)" fill="white"/>
+  <ellipse cx="78.5" cy="20.9" rx="4.52" ry="5.01" transform="rotate(12.32 78.5 20.9)" fill="black"/>
+  <ellipse cx="78.7" cy="20.73" rx="2.56" ry="3.25" transform="rotate(12.47 78.7 20.73)" fill="white"/>
+</svg>

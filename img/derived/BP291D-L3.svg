@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP291, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M61.12 74.38C61.15 75.17 61.35 76.48 60.12 76.12C60.09 76.95 60.47 78.49 59.12 78.12C59.09 78.95 59.47 80.49 58.12 80.12C58.74 82.22 56.53 81.86 57.12 83.88L65.88 83.88C66.47 81.86 64.26 82.22 64.88 80.12C63.53 80.49 63.91 78.95 63.88 78.12C62.53 78.49 62.91 76.95 62.88 76.12C61.53 76.49 61.91 74.95 61.88 74.12L61.12 74.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M61.38 75.88L62.12 76.12C61.53 78.14 63.74 77.78 63.12 79.88C64.47 79.51 64.09 81.05 64.12 81.88L65.12 82.12L64.88 83.12L57.88 82.88C57.67 82.15 58.15 81.67 58.88 81.88C58.91 81.05 58.53 79.51 59.88 79.88C59.91 79.05 59.53 77.51 60.88 77.88C61.04 77.24 60.46 75.96 61.38 75.88Z" fill="white"/>
+  <path d="M80.12 72.38C80.15 73.17 80.35 74.48 79.12 74.12C79.09 74.95 79.47 76.49 78.12 76.12C78.09 76.95 78.47 78.49 77.12 78.12C77.74 80.22 75.53 79.86 76.12 81.88L84.88 81.88C85.47 79.86 83.26 80.22 83.88 78.12C82.53 78.49 82.91 76.95 82.88 76.12C81.53 76.49 81.91 74.95 81.88 74.12C80.53 74.49 80.91 72.95 80.88 72.12L80.12 72.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M80.38 73.88L81.12 74.12C80.53 76.14 82.74 75.78 82.12 77.88C83.47 77.51 83.09 79.05 83.12 79.88L84.12 80.12L83.88 81.12L76.88 80.88C76.67 80.15 77.15 79.67 77.88 79.88C77.91 79.05 77.53 77.51 78.88 77.88C78.91 77.05 78.53 75.51 79.88 75.88C80.04 75.24 79.46 73.96 80.38 73.88Z" fill="white"/>
+  <rect x="65.12" y="62.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="65.88" y="62.88" width="7.25" height="7.25" fill="white"/>
+  <path d="M80.12 48.38C80.15 49.17 80.35 50.48 79.12 50.12C79.09 50.95 79.47 52.49 78.12 52.12C78.09 52.95 78.47 54.49 77.12 54.12C77.74 56.22 75.53 55.86 76.12 57.88L84.88 57.88C85.47 55.86 83.26 56.22 83.88 54.12C82.53 54.49 82.91 52.95 82.88 52.12C81.53 52.49 81.91 50.95 81.88 50.12C80.53 50.49 80.91 48.95 80.88 48.12L80.12 48.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M80.38 49.88L81.12 50.12C80.53 52.14 82.74 51.78 82.12 53.88C83.47 53.51 83.09 55.05 83.12 55.88L84.12 56.12L83.88 57.12L76.88 56.88C76.67 56.15 77.15 55.67 77.88 55.88C77.91 55.05 77.53 53.51 78.88 53.88C78.91 53.05 78.53 51.51 79.88 51.88C80.04 51.24 79.46 49.96 80.38 49.88Z" fill="white"/>
+  <rect x="16.12" y="30.12" width="33.75" height="33.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="16.88" y="30.88" width="32.25" height="32.25" fill="white"/>
+  <circle cx="26.5" cy="53.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="26.5" cy="53.5" r="3.96" fill="white"/>
+  <circle cx="41.5" cy="52.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="41.5" cy="52.5" r="3.96" fill="white"/>
+  <circle cx="28.5" cy="38.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="28.5" cy="38.5" r="3.96" fill="white"/>
+  <rect x="65.12" y="15.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="65.88" y="15.88" width="7.25" height="7.25" fill="white"/>
+  <rect x="83.12" y="8.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="83.88" y="8.88" width="7.25" height="7.25" fill="white"/>
+</svg>

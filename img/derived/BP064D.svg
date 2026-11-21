@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP064, linked examples">
+  <title>BP064 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP064D-L1.svg" target="_parent" aria-label="Open BP064, left example 1">
+    <title>BP064, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M22.12 77.62L23.62 77.88C25.63 73.3 27.14 79.7 29.88 78.62L28.88 76.38C23.99 75.47 30.07 72.68 29.88 70.38L28.38 70.12C28.05 73.19 23.64 73.84 23.62 70.12L22.38 70.12C21.35 72.31 26.69 75.82 22.12 76.38L22.12 77.62Z" fill="black"/>
+      <ellipse cx="69.4" cy="68.08" rx="4.29" ry="4.5" transform="rotate(93.16 69.4 68.08)" fill="black"/>
+      <circle cx="69.5" cy="68" r="2.8" fill="white"/>
+      <path d="M83.88 18.38L79.38 17.12L78.62 18.12L74.38 18.12C60.94 24.05 50.33 33.85 48.12 49.62L50.38 51.88C54.04 51.78 58.16 52.58 60.38 49.88C63.32 50.52 64.86 48.82 66.38 46.88C71.43 45.27 75.56 40.28 78.38 35.88L79.88 35.62L83.88 27.62L83.88 18.38Z" fill="black"/>
+      <path d="M81.62 19.88L82.12 25.62C77 37.79 66.38 48.48 52.38 50.12L50.88 48.62L51.88 41.38C53.63 39.25 55.94 37.49 55.88 34.38L57.62 33.88C62.94 25.89 70.98 20.33 81.62 19.88Z" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-L2.svg" target="_parent" aria-label="Open BP064, left example 2">
+    <title>BP064, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="14.94" cy="47.44" rx="4.21" ry="4.58" transform="rotate(12.16 14.94 47.44)" fill="black"/>
+      <rect x="12.88" y="44.88" width="4.25" height="5.25" fill="white"/>
+      <path d="M51.88 43.38L48.62 40.12L44.38 40.12L41.62 42.12L38.38 42.12L36.62 44.12L34.38 44.12C27.08 48.97 21.96 53.3 17.12 60.38L17.12 62.62L15.12 64.38L15.12 67.62L14.12 68.38L15.12 73.62L18.38 75.88C30.1 73.71 39.92 67.29 46.88 57.62L46.88 55.38L50.88 50.62L51.88 43.38Z" fill="black"/>
+      <path d="M18.38 73.12C16.1 71.76 17.07 68.8 16.88 66.38C18.9 64.08 20.39 61.51 20.88 58.38L22.62 57.88C25.46 52.64 30.64 49.89 35.38 45.88L37.62 45.88C40.23 43.17 45.16 42.23 49.12 43.38L49.12 48.62L47.12 50.38L47.12 52.62L45.12 54.38C41.65 63.7 33.75 67.18 25.62 72.12L18.38 73.12Z" fill="white"/>
+      <path d="M72.12 22.62L73.62 22.88C76.22 17.87 77.01 24.48 79.88 23.62L76.88 19.38C79.27 19 79.75 16.99 80.88 15.38L79.38 15.12C78.09 16.29 77.29 18.46 75.12 18.12C75.05 16.26 73.63 15.17 72.38 14.12C70.66 17.1 78.25 18.9 73.38 20.12L72.12 21.38L72.12 22.62Z" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-L3.svg" target="_parent" aria-label="Open BP064, left example 3">
+    <title>BP064, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M73.62 80.88L75.88 77.62C76.69 70.14 73.11 65.16 70.88 59.38L68.88 58.62C64.3 50.58 56.62 46.51 47.38 45.12L43.38 47.12C43.19 48.59 42.36 49.6 41.12 50.38L42.12 51.38C43.12 65.44 53.33 75.95 65.38 80.88L73.62 80.88Z" fill="black"/>
+      <path d="M72.62 79.12C69.52 79.27 66.42 79.3 64.62 77.12C59.78 77.26 56.37 74.53 54.62 71.12C52.03 69.71 49.14 67.22 48.88 63.38C45.82 61.26 45.82 57.39 43.88 54.62C43.45 52.17 44.49 50.7 45.38 48.88C48.14 48.11 49.85 48.6 51.62 47.88C58.4 50.85 66.51 54.92 69.12 62.62L71.12 63.38C71.07 68.37 74.51 71.43 74.12 76.62L72.62 79.12Z" fill="white"/>
+      <path d="M27.88 21.38C25.89 20.4 24.96 23.13 23.62 24.12C22.57 22.95 20.51 23.28 20.62 21.12L19.38 21.12C17.8 23.69 21.38 24.36 21.12 26.62C19.16 27.11 18.43 28.69 18.12 30.62L19.62 30.88C20.91 27.92 25.03 26.66 25.38 30.88L27.88 30.62C25.8 27.99 23.33 24.73 27.88 22.62L27.88 21.38Z" fill="black"/>
+      <ellipse cx="46.06" cy="19.02" rx="4.52" ry="4.82" transform="rotate(81.38 46.06 19.02)" fill="black"/>
+      <ellipse cx="45.96" cy="19.15" rx="2.46" ry="3.05" transform="rotate(84.27 45.96 19.15)" fill="white"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-L4.svg" target="_parent" aria-label="Open BP064, left example 4">
+    <title>BP064, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M87.88 44.12L87.62 43.12C84.53 46.34 83.34 41.93 83.62 39.12L82.12 39.38C83.1 43.22 80.79 44.71 78.12 45.62C82.07 44.9 81.76 47.97 83.62 49.88C83.79 47.07 83.56 43.65 87.62 44.88L87.88 44.12Z" fill="black"/>
+      <path d="M65.88 47.62L65.88 45.38C63.54 44.06 62.7 40.5 59.38 41.12C53.92 35.82 44.69 37.32 36.38 37.12L22.38 43.12C22.19 44.59 21.36 45.6 20.12 46.38L20.12 51.62C21.36 52.4 22.19 53.41 22.38 54.88L24.62 54.88L26.38 56.88L29.62 56.88L33.38 58.88C39.66 58.11 47.81 60.72 52.38 56.88C55.86 56.97 59.18 55.7 60.38 52.88C62.79 52.38 65.02 49.78 65.88 47.62Z" fill="black"/>
+      <path d="M21.88 51.62L21.88 47.38L23.88 46.62C23.58 44.3 26.41 45.21 26.38 42.88L28.62 42.88L30.38 40.88L33.62 40.88L36.38 38.88C46.71 38.54 56.65 38.65 63.12 45.38L62.12 50.62L56.38 53.12L54.62 55.12C44.07 58.7 30.44 57.63 21.88 51.62Z" fill="white"/>
+      <circle cx="67.78" cy="25" r="4.13" fill="black"/>
+      <ellipse cx="67.65" cy="24.85" rx="2.61" ry="2.92" transform="rotate(48.24 67.65 24.85)" fill="white"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-L5.svg" target="_parent" aria-label="Open BP064, left example 5">
+    <title>BP064, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M71.62 80.88L72.88 79.62C70.45 77.92 72.59 73.88 75.62 74.88L75.88 73.38C74.02 72.17 73.08 74.31 71.38 74.12C70.46 72.81 71.26 70.68 69.38 70.12C69.97 74.27 67.74 75.05 65.12 76.62C68.78 76.57 71.95 76.83 71.62 80.88Z" fill="black"/>
+      <ellipse cx="62.99" cy="46.06" rx="8.03" ry="14.7" transform="rotate(172.1 62.99 46.06)" fill="black"/>
+      <ellipse cx="63.03" cy="46.22" rx="6.19" ry="12.2" transform="rotate(172.25 63.03 46.22)" fill="white"/>
+      <circle cx="21.98" cy="18.07" r="4.6" fill="black"/>
+      <ellipse cx="21.91" cy="18.05" rx="2.87" ry="3.11" transform="rotate(55.46 21.91 18.05)" fill="white"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-L6.svg" target="_parent" aria-label="Open BP064, left example 6">
+    <title>BP064, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="60.77" cy="59.7" rx="4.38" ry="4.68" transform="rotate(1.4 60.77 59.7)" fill="black"/>
+      <ellipse cx="60.76" cy="59.68" rx="2.66" ry="3.1" transform="rotate(13.72 60.76 59.68)" fill="white"/>
+      <ellipse cx="64.83" cy="32.08" rx="8.47" ry="13.49" transform="rotate(109.25 64.83 32.08)" fill="black"/>
+      <ellipse cx="64.91" cy="32.17" rx="6.48" ry="11.17" transform="rotate(111.26 64.91 32.17)" fill="white"/>
+      <path d="M32.88 25.38C32.56 23.32 29.25 24.14 27.88 22.62C29.14 21.75 29.13 19.59 28.62 18.12C26.32 18.78 27.77 21.6 26.62 23.12C24.83 22.9 23.24 21.3 21.12 22.38C24.19 23.15 25.72 25.2 25.38 28.88L26.88 28.62C25.32 23.13 31.03 25.65 32.88 25.38Z" fill="black"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-R1.svg" target="_parent" aria-label="Open BP064, right example 1">
+    <title>BP064, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="53.11" cy="71.11" rx="4.07" ry="4.34" transform="rotate(45 53.11 71.11)" fill="black"/>
+      <ellipse cx="53" cy="71.25" rx="2.3" ry="2.8" transform="rotate(0 53 71.25)" fill="white"/>
+      <path d="M47.38 25.12C37.43 30.46 38.3 55.67 53.62 52.88L56.88 48.62C57.85 38.47 56.29 28.29 47.38 25.12Z" fill="black"/>
+      <ellipse cx="49.09" cy="39.75" rx="6.22" ry="11.94" transform="rotate(174.35 49.09 39.75)" fill="white"/>
+      <path d="M57.12 20.38L57.88 20.88C62.99 18.94 59.42 25.92 62.62 25.88C62.57 22.63 62.98 19.99 66.88 20.62C65.39 18.59 61.55 19.47 62.88 15.38L61.38 15.12C61.43 18.37 61.02 21.01 57.12 20.38Z" fill="black"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-R2.svg" target="_parent" aria-label="Open BP064, right example 2">
+    <title>BP064, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="62.7" cy="48.13" rx="7.71" ry="13.43" transform="rotate(149.22 62.7 48.13)" fill="black"/>
+      <ellipse cx="62.68" cy="47.99" rx="5.99" ry="11.52" transform="rotate(148.14 62.68 47.99)" fill="white"/>
+      <path d="M79.38 26.12C79.43 29.37 79.02 32.01 75.12 31.38C78.24 31.38 79.36 34.2 79.62 36.88C79.57 33.63 79.98 30.99 83.88 31.62C80.19 31.9 79.67 29.16 79.38 26.12Z" fill="black"/>
+      <circle cx="41.39" cy="16.14" r="4.43" fill="black"/>
+      <circle cx="41.5" cy="16.3" r="2.86" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-R3.svg" target="_parent" aria-label="Open BP064, right example 3">
+    <title>BP064, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="37.01" cy="62.67" rx="8.13" ry="13.83" transform="rotate(52.5 37.01 62.67)" fill="black"/>
+      <polygon points="47.12,54.88 47.12,57.97 43.54,65.1 41.83,66.82 34.81,71.12 26.88,71.12 26.88,64.98 32.52,57.63 38.1,54.88" fill="white"/>
+      <path d="M78.38 41.12C79.43 45.84 75 44.34 73.12 46.62L78.12 47.38L78.62 51.88C78.25 48.32 80.32 46.25 83.88 46.62C80.81 46.13 78.32 44.54 78.38 41.12Z" fill="black"/>
+      <ellipse cx="75.38" cy="30.07" rx="4.18" ry="4.64" transform="rotate(4.46 75.38 30.07)" fill="black"/>
+      <ellipse cx="75.54" cy="30.22" rx="2.62" ry="3.12" transform="rotate(10.26 75.54 30.22)" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-R4.svg" target="_parent" aria-label="Open BP064, right example 4">
+    <title>BP064, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M44.38 70.12L44.12 71.88C41.89 72.66 43.51 75.9 45.12 76.12C44.32 78.76 47.25 77.66 48.88 77.88L48.88 77.12C49.32 76.66 50.2 77.14 49.88 76.12C51.92 75.54 50.42 72.04 50.88 70.12L49.12 70.12C49.02 68.96 48.23 69.05 47.12 69.12C47.44 70.75 45.33 69.93 44.38 70.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="47.47" cy="73.36" rx="2.64" ry="3.33" transform="rotate(20.59 47.47 73.36)" fill="white"/>
+      <path d="M80.38 52.88C81.79 52.85 79.78 49.4 81.88 49.88C81.18 47.6 83.23 47.74 84.88 47.88L84.88 46.12L80.88 45.88L80.88 45.12C83.28 44.49 80 44.05 80.88 42.12L80.12 42.12L79.88 46.12C77.87 45.83 76.5 46.42 76.12 47.88L80.12 48.12L80.38 52.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M59.12 48.88L59.88 48.88C60.46 50.92 63.96 49.42 65.88 49.88C65.67 49.15 66.15 48.67 66.88 48.88C66.51 47.53 68.05 47.91 68.88 47.88C68.67 47.15 69.15 46.67 69.88 46.88C69.67 46.15 70.15 45.67 70.88 45.88C71.06 44.12 73.45 44.43 72.88 42.12C74.46 41.46 75.21 40.36 74.88 38.12C76.04 38.02 75.95 37.23 75.88 36.12L76.88 35.88L76.88 29.12C76.15 29.33 75.67 28.85 75.88 28.12C74.53 28.49 74.91 26.95 74.88 26.12L69.12 26.12C69.49 27.47 67.95 27.09 67.12 27.12C67.49 28.47 65.95 28.09 65.12 28.12L64.88 30.12L63.12 30.12L63.12 31.88C61.99 32.57 60.84 33.04 61.12 34.88C59.96 34.98 60.05 35.77 60.12 36.88L59.12 37.12L59.12 48.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M61.88 48.12L60.88 47.88C60.57 46.47 61.68 44.02 59.88 43.88L59.88 43.12C61.92 42.54 60.42 39.04 60.88 37.12C62.01 36.43 63.16 35.96 62.88 34.12C64.04 34.02 63.95 33.23 63.88 32.12C66.65 32.1 66.74 29.55 68.88 28.88L69.12 27.88L73.88 27.88L74.12 29.88C76.12 30.07 74.69 33.33 75.12 34.88L74.12 35.12C73.89 36.14 74.82 38.4 73.12 38.12C73.09 38.95 73.47 40.49 72.12 40.12C72.33 40.85 71.85 41.33 71.12 41.12C71.09 41.95 71.47 43.49 70.12 43.12C70.33 43.85 69.85 44.33 69.12 44.12L69.12 45.88L67.12 46.12C67.49 47.47 65.95 47.09 65.12 47.12C65.35 48.88 62.95 47.85 61.88 48.12Z" fill="white"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-R5.svg" target="_parent" aria-label="Open BP064, right example 5">
+    <title>BP064, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="85.78" cy="50" r="4.13" fill="black"/>
+      <ellipse cx="85.91" cy="49.63" rx="2.32" ry="2.93" transform="rotate(168.04 85.91 49.63)" fill="white"/>
+      <path d="M17.12 46.62L18.12 51.62C20.46 51.67 20.91 54.68 23.62 53.88L25.38 55.88L27.62 55.88L30.38 57.88C42.42 59.21 56.28 59.49 62.88 49.62L61.88 45.38C59.93 43.71 58.3 41.89 55.38 42.12L53.62 40.12C43.83 36.95 29.43 36.77 21.62 43.12L18.38 44.12L17.12 46.62Z" fill="black"/>
+      <polygon points="19.13,48.11 22.08,43.86 34.2,39.88 46.86,39.88 58.05,44.01 61.09,48.5 59.77,52.12 57.38,52.12 49.15,56.2 37.38,57.12 27.08,54.67 19.92,50.28" fill="white"/>
+      <path d="M10.12 32.88L10.38 33.88C15.08 32.03 12.97 37.59 15.62 37.88C15.33 34.71 16.71 33.33 19.88 33.62C19.59 30.97 14.03 33.08 15.88 28.38L14.38 28.12C15.13 31.92 12.23 31.98 10.12 32.88Z" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP064D-R6.svg" target="_parent" aria-label="Open BP064, right example 6">
+    <title>BP064, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M37.12 80.12C39.14 84.71 45.98 81.57 44.88 76.38L43.12 75.12C41.25 70.42 36.33 75.23 36.38 77.88L37.88 77.62L38.88 75.38C46.8 71.25 41.53 86.11 37.62 79.12L37.12 80.12Z" fill="black"/>
+      <polygon points="39.16,28.12 36.47,33.05 35.68,33.14 33.12,39.89 33.12,47.11 35.77,54.1 38.55,56.88 42.86,56.88 46.47,51.6 49.31,40.83 45.19,30.84 42.47,28.12" fill="black"/>
+      <polygon points="39.56,30.88 43.06,30.88 47.36,41.36 45.89,48.33 42.63,55.12 38.37,55.12 34.88,47.83 34.88,37.02 36.88,36.8 36.88,35" fill="white"/>
+      <path d="M81.38 15.12C82.43 19.84 78 18.34 76.12 20.62L81.12 21.38L81.62 25.88C81.14 21.85 82.85 20.14 86.88 20.62C86.19 18.88 84.2 19.04 82.38 19.12L81.38 15.12Z" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

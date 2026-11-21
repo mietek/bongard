@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP290, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M26.38 72.12C27.45 76.83 35.63 77.14 37.88 72.62L37.38 72.12C35.77 76.51 28.06 76.01 26.38 72.12Z" fill="black"/>
+  <circle cx="37" cy="62" r="2.66" fill="black"/>
+  <circle cx="37" cy="62" r="2.13" fill="white"/>
+  <circle cx="27" cy="62" r="2.66" fill="black"/>
+  <circle cx="27" cy="62" r="2.13" fill="white"/>
+  <path d="M48.38 52.12C49.45 56.83 57.63 57.14 59.88 52.62L59.38 52.12C57.77 56.51 50.06 56.01 48.38 52.12Z" fill="black"/>
+  <circle cx="54" cy="48" r="2.66" fill="black"/>
+  <circle cx="54" cy="48" r="2.13" fill="white"/>
+  <circle cx="59" cy="42" r="2.66" fill="black"/>
+  <circle cx="59" cy="42" r="2.13" fill="white"/>
+  <circle cx="49" cy="42" r="2.66" fill="black"/>
+  <circle cx="49" cy="42" r="2.13" fill="white"/>
+</svg>

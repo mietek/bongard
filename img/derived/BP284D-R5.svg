@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP284, right example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="57.12" y="46.12" width="35.75" height="35.75" fill="black"/>
+  <polygon points="92.12,46.88 92.12,63.52 74.52,81.12 57.88,81.12 57.88,64.48 75.48,46.88" fill="white"/>
+</svg>

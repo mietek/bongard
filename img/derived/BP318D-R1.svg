@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP318, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="78.98" cy="64.6" rx="2.82" ry="3.3" transform="rotate(141.17 78.98 64.6)" fill="black"/>
+  <circle cx="71.08" cy="64.22" r="2.85" fill="black"/>
+  <ellipse cx="81.11" cy="57.66" rx="2.8" ry="3.64" transform="rotate(148.65 81.11 57.66)" fill="black"/>
+  <ellipse cx="72.6" cy="57.26" rx="2.54" ry="3.1" transform="rotate(142.13 72.6 57.26)" fill="black"/>
+  <ellipse cx="30.31" cy="47.27" rx="2.52" ry="2.99" transform="rotate(177.85 30.31 47.27)" fill="black"/>
+  <ellipse cx="31.46" cy="40.27" rx="2.38" ry="3.11" transform="rotate(154.08 31.46 40.27)" fill="black"/>
+</svg>

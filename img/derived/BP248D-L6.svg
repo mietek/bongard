@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP248, left example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="50.12" cy="48.71" rx="17.3" ry="33.85" transform="rotate(179.89 50.12 48.71)" fill="black"/>
+  <ellipse cx="50.08" cy="48.67" rx="15.31" ry="31.64" transform="rotate(0.11 50.08 48.67)" fill="white"/>
+  <ellipse cx="53.46" cy="75.83" rx="1.28" ry="3.97" transform="rotate(59.4 53.46 75.83)" fill="black"/>
+  <ellipse cx="43.21" cy="71.81" rx="1.22" ry="4.07" transform="rotate(141.93 43.21 71.81)" fill="black"/>
+  <ellipse cx="60" cy="65" rx="1.25" ry="3.41" transform="rotate(22.7 60 65)" fill="black"/>
+  <path d="M40.62 62.88C38.72 61.59 41.85 54.93 37.38 56.12C38.47 57.85 36.66 63.79 40.62 62.88Z" fill="black"/>
+  <rect x="61.12" y="47.12" width="1.75" height="7.75" fill="black"/>
+  <rect x="37.12" y="43.12" width="1.75" height="6.75" fill="black"/>
+  <ellipse cx="61.21" cy="36.93" rx="1.37" ry="3.42" transform="rotate(162.24 61.21 36.93)" fill="black"/>
+  <ellipse cx="39.91" cy="33.6" rx="1.34" ry="3.91" transform="rotate(18.41 39.91 33.6)" fill="black"/>
+  <ellipse cx="56.41" cy="24.6" rx="1.24" ry="4.13" transform="rotate(147.86 56.41 24.6)" fill="black"/>
+  <ellipse cx="46.07" cy="22.26" rx="1.31" ry="3.69" transform="rotate(51.97 46.07 22.26)" fill="black"/>
+</svg>

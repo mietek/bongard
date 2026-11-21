@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP196, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <defs>
+  <pattern id="BP196DR6Tile" patternUnits="userSpaceOnUse" width="8" height="8">
+  <rect x="0" y="0" width="8" height="8" fill="black"/>
+  <circle cx="4.5" cy="2.5" r=".58" fill="white"/>
+  <circle cx="0.5" cy="6.5" r=".58" fill="white"/>
+  </pattern>
+  </defs>
+  <rect x="0" y="0" width="98" height="98" fill="url(#BP196DR6Tile)"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP284, left example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="52.12" y="8.12" width="35.75" height="35.75" fill="black"/>
+  <path d="M53.12 10.12L86.12 42.62L53.38 43.12L53.12 10.12Z" fill="white"/>
+</svg>

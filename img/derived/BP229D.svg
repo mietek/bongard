@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP229, linked examples">
+  <title>BP229 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP229D-L1.svg" target="_parent" aria-label="Open BP229, left example 1">
+    <title>BP229, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="62.5" cy="63.5" r="2.46" fill="black"/>
+      <rect x="66.12" y="59.12" width="9.75" height="9.75" fill="black"/>
+      <rect x="66.88" y="59.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="16.12" y="27.12" width="9.75" height="18.75" fill="black"/>
+      <rect x="16.88" y="27.88" width="8.25" height="17.25" fill="white"/>
+      <circle cx="20.5" cy="23.5" r="2.46" fill="black"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-L2.svg" target="_parent" aria-label="Open BP229, left example 2">
+    <title>BP229, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="64.5" cy="68.5" r="2.46" fill="black"/>
+      <circle cx="54.5" cy="68.5" r="2.46" fill="black"/>
+      <circle cx="45.5" cy="59.5" r="2.46" fill="black"/>
+      <polygon points="41.12,46.12 41.12,55.88 50.12,55.88 50.12,64.88 69.88,64.88 69.88,46.12" fill="black"/>
+      <rect x="50.88" y="46.88" width="8.25" height="17.25" fill="white"/>
+      <rect x="41.88" y="46.88" width="8.25" height="8.25" fill="white"/>
+      <circle cx="18.5" cy="40.5" r="2.46" fill="black"/>
+      <circle cx="18.5" cy="31.5" r="2.46" fill="black"/>
+      <circle cx="27.5" cy="22.5" r="2.46" fill="black"/>
+      <polygon points="5.13,17.12 5.12,45.88 14.88,45.88 14.88,26.88 23.88,26.88 23.88,17.12" fill="black"/>
+      <rect x="5.88" y="26.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="5.88" y="17.88" width="17.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-L3.svg" target="_parent" aria-label="Open BP229, left example 3">
+    <title>BP229, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="29.5" cy="67.5" r="2.46" fill="black"/>
+      <polygon points="16.12,62.12 16.12,80.88 34.88,80.88 34.88,71.12 25.88,71.12 25.88,62.12" fill="black"/>
+      <rect x="16.88" y="62.88" width="8.25" height="17.25" fill="white"/>
+      <circle cx="20.5" cy="58.5" r="2.46" fill="black"/>
+      <circle cx="54.5" cy="37.5" r="2.46" fill="black"/>
+      <circle cx="64.5" cy="27.5" r="2.46" fill="black"/>
+      <polygon points="77.88,23.12 68.12,23.12 68.12,32.12 58.12,32.12 58.12,41.88 77.88,41.88" fill="black"/>
+      <rect x="68.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-L4.svg" target="_parent" aria-label="Open BP229, left example 4">
+    <title>BP229, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="24.12" y="63.12" width="29.75" height="9.75" fill="black"/>
+      <rect x="44.88" y="63.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="63.88" width="8.25" height="8.25" fill="white"/>
+      <circle cx="48.5" cy="59.5" r="2.46" fill="black"/>
+      <circle cx="38.5" cy="59.5" r="2.46" fill="black"/>
+      <circle cx="28.5" cy="59.5" r="2.46" fill="black"/>
+      <rect x="26.12" y="11.12" width="29.75" height="18.75" fill="black"/>
+      <rect x="46.88" y="11.88" width="8.25" height="17.25" fill="white"/>
+      <rect x="26.88" y="11.88" width="8.25" height="17.25" fill="white"/>
+      <circle cx="50.5" cy="7.5" r="2.46" fill="black"/>
+      <circle cx="40.5" cy="7.5" r="2.46" fill="black"/>
+      <circle cx="30.5" cy="7.5" r="2.46" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-L5.svg" target="_parent" aria-label="Open BP229, left example 5">
+    <title>BP229, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="75.5" cy="85.5" r="2.46" fill="black"/>
+      <circle cx="57.5" cy="85.5" r="2.46" fill="black"/>
+      <circle cx="66.5" cy="76.5" r="2.46" fill="black"/>
+      <polygon points="52.12,63.12 52.12,81.88 61.88,81.88 61.88,72.88 71.12,72.88 71.12,81.88 80.88,81.88 80.88,63.12" fill="black"/>
+      <rect x="71.88" y="63.88" width="8.25" height="17.25" fill="white"/>
+      <rect x="52.88" y="63.88" width="8.25" height="17.25" fill="white"/>
+      <circle cx="42.5" cy="30.5" r="2.46" fill="black"/>
+      <circle cx="25.5" cy="30.5" r="2.46" fill="black"/>
+      <polygon points="20.12,34.12 20.12,43.88 47.88,43.88 47.88,34.12 38.88,34.12 38.88,24.12 29.12,24.12 29.12,34.12" fill="black"/>
+      <rect x="38.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="20.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <circle cx="33.5" cy="20.5" r="2.46" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-L6.svg" target="_parent" aria-label="Open BP229, left example 6">
+    <title>BP229, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="55.5" cy="84.5" r="2.46" fill="black"/>
+      <rect x="42.12" y="80.12" width="9.75" height="9.75" fill="black"/>
+      <circle cx="20.5" cy="51.5" r="2.46" fill="black"/>
+      <rect x="15.12" y="29.12" width="9.75" height="18.75" fill="black"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-R1.svg" target="_parent" aria-label="Open BP229, right example 1">
+    <title>BP229, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="70.5" cy="74.5" r="2.46" fill="black"/>
+      <circle cx="61.5" cy="65.5" r="2.46" fill="black"/>
+      <circle cx="70.5" cy="55.5" r="2.46" fill="black"/>
+      <polygon points="74.12,51.12 74.12,60.12 65.12,60.12 65.12,69.88 74.12,69.88 74.12,79.88 83.88,79.88 83.88,51.12" fill="black"/>
+      <rect x="65.88" y="60.88" width="17.25" height="8.25" fill="white"/>
+      <circle cx="44.5" cy="27.5" r="2.46" fill="black"/>
+      <circle cx="53.5" cy="18.5" r="2.46" fill="black"/>
+      <circle cx="36.5" cy="18.5" r="2.46" fill="black"/>
+      <polygon points="31.12,5.12 31.12,14.88 40.12,14.88 40.12,23.88 49.88,23.88 49.88,14.88 58.88,14.88 58.88,5.12" fill="black"/>
+      <rect x="49.88" y="5.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="5.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-R2.svg" target="_parent" aria-label="Open BP229, right example 2">
+    <title>BP229, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="52.5" cy="78.5" r="2.46" fill="black"/>
+      <polygon points="28.12,73.12 28.12,91.88 56.88,91.88 56.88,82.12 47.88,82.12 47.88,73.12" fill="black"/>
+      <rect x="47.88" y="82.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="38.88" y="73.88" width="8.25" height="17.25" fill="white"/>
+      <circle cx="42.5" cy="69.5" r="2.46" fill="black"/>
+      <circle cx="33.5" cy="69.5" r="2.46" fill="black"/>
+      <circle cx="59.5" cy="39.5" r="2.46" fill="black"/>
+      <circle cx="59.5" cy="31.5" r="2.46" fill="black"/>
+      <circle cx="50.5" cy="21.5" r="2.46" fill="black"/>
+      <polygon points="37.12,16.12 37.12,43.88 55.88,43.88 55.88,26.12 46.88,26.12 46.88,16.12" fill="black"/>
+      <rect x="37.88" y="34.88" width="17.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="26.88" width="17.25" height="7.25" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-R3.svg" target="_parent" aria-label="Open BP229, right example 3">
+    <title>BP229, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="68.5" cy="78.5" r="2.46" fill="black"/>
+      <circle cx="77.5" cy="69.5" r="2.46" fill="black"/>
+      <circle cx="77.5" cy="59.5" r="2.46" fill="black"/>
+      <polygon points="81.12,55.12 81.12,73.12 72.12,73.12 72.12,82.88 90.88,82.88 90.88,55.12" fill="black"/>
+      <rect x="72.88" y="73.88" width="17.25" height="8.25" fill="white"/>
+      <rect x="81.88" y="64.88" width="8.25" height="8.25" fill="white"/>
+      <circle cx="52.5" cy="54.5" r="2.46" fill="black"/>
+      <circle cx="43.5" cy="54.5" r="2.46" fill="black"/>
+      <circle cx="62.5" cy="45.5" r="2.46" fill="black"/>
+      <polygon points="39.12,32.12 39.12,50.88 57.88,50.88 57.88,41.88 66.88,41.88 66.88,32.12" fill="black"/>
+      <rect x="57.88" y="32.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="48.88" y="32.88" width="8.25" height="17.25" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-R4.svg" target="_parent" aria-label="Open BP229, right example 4">
+    <title>BP229, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="32.5" cy="74.5" r="2.46" fill="black"/>
+      <rect x="28.12" y="61.12" width="9.75" height="9.75" fill="black"/>
+      <rect x="28.88" y="61.88" width="8.25" height="8.25" fill="white"/>
+      <circle cx="60.5" cy="15.5" r="2.46" fill="black"/>
+      <rect x="38.12" y="11.12" width="18.75" height="9.75" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-R5.svg" target="_parent" aria-label="Open BP229, right example 5">
+    <title>BP229, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="22.5" cy="67.5" r="2.46" fill="black"/>
+      <rect x="26.12" y="62.12" width="18.75" height="9.75" fill="black"/>
+      <rect x="26.88" y="62.88" width="17.25" height="8.25" fill="white"/>
+      <circle cx="59.5" cy="37.5" r="2.46" fill="black"/>
+      <rect x="37.12" y="32.12" width="18.75" height="9.75" fill="black"/>
+      <rect x="37.88" y="32.88" width="17.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP229D-R6.svg" target="_parent" aria-label="Open BP229, right example 6">
+    <title>BP229, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="49.5" cy="75.5" r="2.46" fill="black"/>
+      <circle cx="68.5" cy="66.5" r="2.46" fill="black"/>
+      <circle cx="59.5" cy="66.5" r="2.46" fill="black"/>
+      <polygon points="45.12,53.12 45.12,71.88 54.88,71.88 54.88,62.88 72.88,62.88 72.88,53.12" fill="black"/>
+      <rect x="63.88" y="53.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="53.88" width="8.25" height="8.25" fill="white"/>
+      <circle cx="14.5" cy="17.5" r="2.46" fill="black"/>
+      <polygon points="10.12,21.12 10.12,30.88 37.88,30.88 37.88,12.12 19.12,12.12 19.12,21.12" fill="black"/>
+      <rect x="10.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="28.88" y="12.88" width="8.25" height="17.25" fill="white"/>
+      <circle cx="33.5" cy="8.5" r="2.46" fill="black"/>
+      <circle cx="24.5" cy="8.5" r="2.46" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

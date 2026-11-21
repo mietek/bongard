@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP078, right example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="21.12" y="52.12" width="1.75" height="21.75" fill="black"/>
+  <path d="M75.88 59.88L76.88 59.62L76.88 30.38L75.38 29.12L74.12 30.38C75.68 39.43 74.99 49.76 75.12 59.62L75.88 59.88Z" fill="black"/>
+  <path d="M22.12 20.88L22.38 21.88C33.52 22.1 45.31 21.17 55.62 22.88L56.88 21.62L54.62 20.12L22.38 20.12L22.12 20.88Z" fill="black"/>
+</svg>

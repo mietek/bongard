@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP230, right example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="48.12" y="90.12" width="2.75" height="2.75" fill="black"/>
+  <rect x="18.12" y="73.12" width="63.75" height="2.75" fill="black"/>
+  <polygon points="84.88,10.56 23.12,13.61 23.12,17.04 46.48,54.88 49.47,54.88 80.88,18.07 80.88,17.51 84.88,13.42" fill="black"/>
+  <polygon points="79.98,13.51 75.85,18.12 76.17,18.08 63,33.12 62.12,33.12 62.12,33.95 48.64,50.3 47.04,48.7 44.88,44.38 38.87,35.86 37.12,32.61 26.93,16.41" fill="white"/>
+</svg>

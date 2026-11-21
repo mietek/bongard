@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP237, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="27.12,68.24 68.88,66.45 68.88,65.59 80.36,67.63 77.23,65.12 48.12,65.12 48.12,67.08 46.12,64.59 46.12,66.12 27.12,66.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="45.12,42.12 45.12,43.88 59.41,43.88 57.23,42.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

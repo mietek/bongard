@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP303, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="57.12" y="58.12" width="19.75" height="19.75" fill="black"/>
+  <rect x="57.88" y="58.88" width="18.25" height="18.25" fill="white"/>
+  <rect x="26.12" y="58.12" width="18.75" height="18.75" fill="black"/>
+  <rect x="57.12" y="23.12" width="18.75" height="18.75" fill="black"/>
+  <rect x="26.12" y="23.12" width="19.75" height="19.75" fill="black"/>
+  <rect x="26.88" y="23.88" width="18.25" height="18.25" fill="white"/>
+  <path d="M50.38 15.12L50.12 48.62L19.12 49.38L50.12 50.38L50.62 82.88L50.88 50.38L80.88 49.38L50.88 48.62L50.38 15.12Z" fill="black"/>
+</svg>

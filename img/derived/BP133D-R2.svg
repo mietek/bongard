@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP133, right example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="59.85" cy="36.67" r="2.71" fill="black"/>
+  <path d="M34.11 44.46C35.8 47.28 34.28 50.79 36.36 53.46C38.06 55.68 40.61 57.04 43.11 58.21C45.46 58.89 47.92 58.4 50.11 57.46L53.11 54.46C61.6 46.93 51.14 32.08 41.11 37.21C39.3 37.44 37.82 38.73 36.86 40.21C35.17 41.18 35.24 43.13 34.11 44.46" fill="none" stroke="black" stroke-width="1.19" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="44.64" cy="40.5" r="2.65" fill="black"/>
+</svg>

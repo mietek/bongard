@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP229, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="75.5" cy="85.5" r="2.46" fill="black"/>
+  <circle cx="57.5" cy="85.5" r="2.46" fill="black"/>
+  <circle cx="66.5" cy="76.5" r="2.46" fill="black"/>
+  <polygon points="52.12,63.12 52.12,81.88 61.88,81.88 61.88,72.88 71.12,72.88 71.12,81.88 80.88,81.88 80.88,63.12" fill="black"/>
+  <rect x="71.88" y="63.88" width="8.25" height="17.25" fill="white"/>
+  <rect x="52.88" y="63.88" width="8.25" height="17.25" fill="white"/>
+  <circle cx="42.5" cy="30.5" r="2.46" fill="black"/>
+  <circle cx="25.5" cy="30.5" r="2.46" fill="black"/>
+  <polygon points="20.12,34.12 20.12,43.88 47.88,43.88 47.88,34.12 38.88,34.12 38.88,24.12 29.12,24.12 29.12,34.12" fill="black"/>
+  <rect x="38.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="20.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+  <circle cx="33.5" cy="20.5" r="2.46" fill="black"/>
+</svg>

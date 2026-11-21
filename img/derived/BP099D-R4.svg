@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP099, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="43.53,7.09 39.95,14.24 48,14.24 48,12.45" fill="none" stroke="black" stroke-width="2.17" stroke-linejoin="miter"/>
+  <path d="M52.73 16.74L53.73 15.74M53.73 15.74L56.73 15.74L58.73 15.74C62.44 16.33 59.99 11.16 57.73 10.99C55.87 11.31 53.46 13.53 53.73 15.74" fill="none" stroke="black" stroke-width="1.99" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M66.95 13.84L66.95 15.84M66.95 15.84C69.69 16.14 73.12 19.47 71.7 22.59L64.2 22.59C63.2 20 66.03 18.05 66.95 15.84" fill="none" stroke="black" stroke-width="1.79" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M29.12 19.12L29.12 19.88C27.26 19.63 29.03 22.47 27.12 22.12C27.09 22.95 27.47 24.49 26.12 24.12C26.7 25.79 25.23 25.86 25.12 26.88L25.88 26.88L26.12 27.88L34.88 27.88C34.38 26.51 36.31 27.33 35.88 26.12L34.88 25.88C34.95 24.77 35.04 23.98 33.88 23.88C34.45 21.57 32.06 21.88 31.88 20.12C31.15 20.33 30.67 19.85 30.88 19.12L29.12 19.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="30.4" cy="24.23" rx="2.36" ry="2.76" transform="rotate(96.63 30.4 24.23)" fill="white"/>
+  <path d="M74.6 31.58C74.58 32.24 74.42 33.73 75.6 33.58L78.6 33.58L80.6 33.58C85.61 33.97 80.05 23.66 77.35 27.58L76.35 29.33L74.6 31.58" fill="none" stroke="black" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M14.87 35.95C14.92 37.54 16.92 36.76 17.87 36.95L19.87 36.95C26.34 38.73 20.61 27.15 17.62 31.7C16.82 32.21 15.77 32.82 15.87 33.95L14.87 35.95" fill="none" stroke="black" stroke-width="1.88" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="44.39" cy="32.85" fill="none" stroke="black" stroke-width="1.99" r="2.7"/>
+  <circle cx="55.33" cy="31.94" fill="none" stroke="black" stroke-width="2.03" r="3.06"/>
+  <ellipse cx="64.42" cy="39.6" fill="none" stroke="black" stroke-width="1.93" rx="2.67" ry="3.51" transform="rotate(0 64.42 39.6)"/>
+  <circle cx="37.96" cy="43.45" fill="none" stroke="black" stroke-width="2.12" r="3.19"/>
+  <polygon points="10.55,42.99 7.77,47.62 6.84,52.26 17.04,52.26 17.04,50.41" fill="none" stroke="black" stroke-width="1.95" stroke-linejoin="miter"/>
+  <path d="M87.73 50.33L85.73 50.58C80.44 54.19 83.21 42.95 86.98 47.08L87.73 48.33L87.73 50.33M87.73 50.33L90.73 51.33" fill="none" stroke="black" stroke-width="2.07" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="68.74" cy="50.45" fill="none" stroke="black" stroke-width="2.13" r="2.93"/>
+  <circle cx="33.49" cy="54.93" fill="none" stroke="black" stroke-width="1.91" r="3.34"/>
+  <circle cx="65.26" cy="61.11" fill="none" stroke="black" stroke-width="1.7" r="3.1"/>
+  <polygon points="9.55,58.84 6.72,64.5 6.72,67.33 15.21,67.33 14.26,63.56" fill="none" stroke="black" stroke-width="1.63" stroke-linejoin="miter"/>
+  <circle cx="39.37" cy="65.03" fill="none" stroke="black" stroke-width="2" r="3.31"/>
+  <path d="M79.64 68.11C79.2 66.03 80.49 63.53 82.64 63.11C84.52 63.48 86.36 65.93 85.39 67.86L82.64 68.11" fill="none" stroke="black" stroke-width="1.85" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="51.69" cy="66.76" fill="none" stroke="black" stroke-width="1.79" rx="2.84" ry="3.51" transform="rotate(91.78 51.69 66.76)"/>
+  <polygon points="17.97,76.32 18.89,78.16 28.06,77.24 24.39,69.91 21.64,69.91" fill="none" stroke="black" stroke-width="2.08" stroke-linejoin="miter"/>
+  <polygon points="32.87,85.27 42.99,85.27 37.47,77.91 34.71,79.75" fill="none" stroke="black" stroke-width="2.04" stroke-linejoin="miter"/>
+  <path d="M77.88 83.62C77.32 82.46 75.39 82.27 75.88 80.12C75.15 80.33 74.67 79.85 74.88 79.12C72.97 79.47 74.74 76.63 72.88 76.88L72.88 76.12C70.57 75.83 68.86 76.55 69.12 78.88L68.12 79.12C68.09 79.95 68.47 81.49 67.12 81.12C67.09 81.95 67.47 83.49 66.12 83.12C65.69 84.33 67.62 83.51 67.12 84.88L76.88 84.88C76.45 83.82 77.69 84.03 77.88 83.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="71.18" cy="81.38" r="2.88" fill="white"/>
+  <polygon points="53.59,78.92 49.9,84.46 49.9,87.22 60.04,87.22 56.35,79.84" fill="none" stroke="black" stroke-width="2.01" stroke-linejoin="miter"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP015, right example 2</title>
+  <rect width="98" height="98" fill="white" />
+  <path d="M 31.5,29.6 C 39.3,17.9 57.1,17.8 66.9,28.6 C 81.1,47 68.2,68.2 50.9,69.9 C 34.1,70.6 24.5,55.9 26,43" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

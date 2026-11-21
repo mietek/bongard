@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP006, left example 1</title>
+  <rect width="98" height="98" fill="white" />
+  <polygon points="46.8,26.5 69.6,68.2 27.2,69.7" fill="none" stroke="black" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="round" />
+</svg>

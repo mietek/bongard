@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP008, right example 4</title>
+  <rect width="98" height="98" fill="white" />
+  <path d="M 3.5,30.4
+       C 3.8,23.4 6.8,22.9 11.4,26.1
+       C 18.7,31.6 22.4,40.2 20.5,48.5
+       C 19.2,53.5 15.3,58.8 12.6,59.2
+       C 8,57.3 6.8,54.4 10.6,49.8
+       C 14.5,44.2 9.4,38.7 5.2,34.4
+       Z" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

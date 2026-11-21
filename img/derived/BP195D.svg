@@ -1,0 +1,859 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP195, linked examples">
+  <title>BP195 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP195D-L1.svg" target="_parent" aria-label="Open BP195, left example 1">
+    <title>BP195, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M72.12 50.88C72.28 51.62 72.03 52.4 71.12 52.12C71.09 52.95 71.47 54.49 70.12 54.12C70.74 56.22 68.53 55.86 69.12 57.88L68.12 58.12L68.12 59.88L67.12 60.12L67.12 61.88L77.88 61.88L77.88 60.12L76.88 59.88C77.47 57.86 75.26 58.22 75.88 56.12C74.53 56.49 74.91 54.95 74.88 54.12C73.53 54.49 73.91 52.95 73.88 52.12C72.53 52.49 72.91 50.95 72.88 50.12C72.23 49.98 71.98 50.23 72.12 50.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M72.12 51.88L73.12 52.12L73.12 53.88L74.12 54.12C73.53 56.14 75.74 55.78 75.12 57.88C76.47 57.51 76.09 59.05 76.12 59.88C76.98 59.52 77.54 60.59 76.88 61.12L67.88 60.88C67.67 60.15 68.15 59.67 68.88 59.88C68.91 59.05 68.53 57.51 69.88 57.88C69.91 57.05 69.53 55.51 70.88 55.88C70.91 55.05 70.53 53.51 71.88 53.88L72.12 51.88Z" fill="white"/>
+      <path d="M25.12 50.88C25.28 51.62 25.03 52.4 24.12 52.12C24.09 52.95 24.47 54.49 23.12 54.12C23.74 56.22 21.53 55.86 22.12 57.88L21.12 58.12L21.12 59.88L20.12 60.12L20.12 61.88L30.88 61.88L30.88 60.12L29.88 59.88C30.47 57.86 28.26 58.22 28.88 56.12C27.53 56.49 27.91 54.95 27.88 54.12C26.53 54.49 26.91 52.95 26.88 52.12C25.53 52.49 25.91 50.95 25.88 50.12C25.23 49.98 24.98 50.23 25.12 50.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M25.12 51.88L26.12 52.12L26.12 53.88L27.12 54.12C26.53 56.14 28.74 55.78 28.12 57.88C29.47 57.51 29.09 59.05 29.12 59.88C29.98 59.52 30.54 60.59 29.88 61.12L20.88 60.88C20.67 60.15 21.15 59.67 21.88 59.88C21.91 59.05 21.53 57.51 22.88 57.88C22.91 57.05 22.53 55.51 23.88 55.88C23.91 55.05 23.53 53.51 24.88 53.88L25.12 51.88Z" fill="white"/>
+      <ellipse cx="83" cy="39" rx="4.94" ry="6.94" transform="rotate(90 83 39)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="58.12" y="34.12" width="10.75" height="9.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="33" cy="39" rx="4.94" ry="6.94" transform="rotate(90 33 39)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="8.12" y="34.12" width="10.75" height="9.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-L2.svg" target="_parent" aria-label="Open BP195, left example 2">
+    <title>BP195, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M62.38 57.12L62.62 58.88C63.57 59.74 64.05 61.2 65.62 60.88C70.85 65.6 74.64 50.97 79.38 57.88L80.62 57.88C81.75 58.21 82.08 57.33 81.88 56.38C80.51 55.77 80.19 53.74 78.38 54.12C73.15 49.4 69.36 64.03 64.62 57.12L62.38 57.12Z" fill="black"/>
+      <path d="M15.38 57.12L15.62 58.88C16.57 59.74 17.05 61.2 18.62 60.88C23.85 65.6 27.64 50.97 32.38 57.88L33.62 57.88C34.75 58.21 35.08 57.33 34.88 56.38C33.51 55.77 33.19 53.74 31.38 54.12C26.15 49.4 22.36 64.03 17.62 57.12L15.38 57.12Z" fill="black"/>
+      <ellipse cx="90" cy="41" rx="3.98" ry="6.1" transform="rotate(0 90 41)" fill="black"/>
+      <ellipse cx="80" cy="41" rx="3.98" ry="6.1" transform="rotate(0 80 41)" fill="black"/>
+      <ellipse cx="80" cy="41" rx="2.29" ry="4.25" transform="rotate(0 80 41)" fill="white"/>
+      <ellipse cx="70" cy="41" rx="3.98" ry="6.1" transform="rotate(0 70 41)" fill="black"/>
+      <ellipse cx="60" cy="41" rx="3.98" ry="6.1" transform="rotate(0 60 41)" fill="black"/>
+      <ellipse cx="60" cy="41" rx="2.29" ry="4.25" transform="rotate(0 60 41)" fill="white"/>
+      <ellipse cx="40" cy="41" rx="3.98" ry="6.1" transform="rotate(0 40 41)" fill="black"/>
+      <ellipse cx="30" cy="41" rx="3.98" ry="6.1" transform="rotate(0 30 41)" fill="black"/>
+      <ellipse cx="30" cy="41" rx="2.29" ry="4.25" transform="rotate(0 30 41)" fill="white"/>
+      <ellipse cx="20" cy="41" rx="3.98" ry="6.1" transform="rotate(0 20 41)" fill="black"/>
+      <ellipse cx="10" cy="41" rx="3.98" ry="6.1" transform="rotate(0 10 41)" fill="black"/>
+      <ellipse cx="10" cy="41" rx="2.29" ry="4.25" transform="rotate(0 10 41)" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-L3.svg" target="_parent" aria-label="Open BP195, left example 3">
+    <title>BP195, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M69.38 53.12C66.99 54.38 65.62 58.82 62.12 59.38C62.81 62.65 66.62 64.09 68.38 66.88C71.42 65.65 74.65 62.42 75.88 59.38C72.92 58.54 70.68 55.51 69.38 53.12Z" fill="black"/>
+      <path d="M74.12 60.38C72.29 61.92 71.04 64.87 68.38 65.12L63.88 60.62C65.71 59.08 66.96 56.13 69.62 55.88L74.12 60.38Z" fill="white"/>
+      <path d="M30.38 52.12C27.99 53.38 26.62 57.82 23.12 58.38C23.81 61.65 27.62 63.09 29.38 65.88C32.42 64.65 35.65 61.42 36.88 58.38C33.92 57.54 31.68 54.51 30.38 52.12Z" fill="black"/>
+      <path d="M35.12 59.38C33.29 60.92 32.04 63.87 29.38 64.12L24.88 59.62C26.71 58.08 27.96 55.13 30.62 54.88L35.12 59.38Z" fill="white"/>
+      <path d="M67.12 47.38L88.62 47.88L88.88 46.38C85.47 42.63 80.73 39.71 78.62 35.12L77.38 35.12C75.48 40.16 69.25 42.58 67.12 47.38Z" fill="black"/>
+      <path d="M86.12 45.62C81.26 46.3 74.33 46.77 69.88 45.38L77.38 37.88C81.08 39.07 83.26 43.13 86.12 45.62Z" fill="white"/>
+      <ellipse cx="60" cy="41.5" rx="5.96" ry="6.39" transform="rotate(0 60 41.5)" fill="black"/>
+      <ellipse cx="60" cy="41.5" rx="4.27" ry="4.72" transform="rotate(0 60 41.5)" fill="white"/>
+      <path d="M24.12 47.38L45.62 47.88L45.88 46.38C42.47 42.63 37.73 39.71 35.62 35.12L34.38 35.12C32.48 40.16 26.25 42.58 24.12 47.38Z" fill="black"/>
+      <path d="M43.12 45.62C38.26 46.3 31.33 46.77 26.88 45.38L34.38 37.88C38.08 39.07 40.26 43.13 43.12 45.62Z" fill="white"/>
+      <ellipse cx="17" cy="41.5" rx="5.96" ry="6.39" transform="rotate(0 17 41.5)" fill="black"/>
+      <ellipse cx="17" cy="41.5" rx="4.27" ry="4.72" transform="rotate(0 17 41.5)" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-L4.svg" target="_parent" aria-label="Open BP195, left example 4">
+    <title>BP195, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="68.12" y="51.12" width="10.75" height="10.75" fill="black"/>
+      <rect x="69.88" y="52.88" width="7.25" height="7.25" fill="white"/>
+      <rect x="23.12" y="51.12" width="10.75" height="10.75" fill="black"/>
+      <rect x="24.88" y="52.88" width="7.25" height="7.25" fill="white"/>
+      <path d="M58.12 38.38C57.29 44.38 63.66 45.42 68.62 44.88C71.64 41.92 79.36 41.92 82.38 44.88L88.62 44.88L92.88 41.62C93.71 35.62 87.34 34.58 82.38 35.12C79.36 38.08 71.64 38.08 68.62 35.12L62.38 35.12L58.12 38.38Z" fill="black"/>
+      <path d="M91.12 39.38C91.45 41.31 89.38 41.72 88.62 43.12L82.38 43.12C80.06 39.42 74.38 41.79 70.38 41.12C68.36 44.45 61.73 43.83 59.88 40.62C59.55 38.69 61.62 38.28 62.38 36.88L68.62 36.88C70.94 40.58 76.62 38.21 80.62 38.88C82.64 35.55 89.27 36.17 91.12 39.38Z" fill="white"/>
+      <path d="M7.12 38.38C6.29 44.38 12.66 45.42 17.62 44.88C20.64 41.92 28.36 41.92 31.38 44.88L37.62 44.88L41.88 41.62C42.71 35.62 36.34 34.58 31.38 35.12C28.36 38.08 20.64 38.08 17.62 35.12L11.38 35.12L7.12 38.38Z" fill="black"/>
+      <path d="M40.12 39.38C40.45 41.31 38.38 41.72 37.62 43.12L31.38 43.12C29.06 39.42 23.38 41.79 19.38 41.12C17.36 44.45 10.73 43.83 8.88 40.62C8.55 38.69 10.62 38.28 11.38 36.88L17.62 36.88C19.94 40.58 25.62 38.21 29.62 38.88C31.64 35.55 38.27 36.17 40.12 39.38Z" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-L5.svg" target="_parent" aria-label="Open BP195, left example 5">
+    <title>BP195, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="67.12" y="53.12" width="10.75" height="10.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M68.38 53.88C69.33 54.07 71.44 53.25 71.12 54.88L71.88 54.88C71.45 53.35 75.55 53.35 75.12 54.88L75.88 54.88C75.67 54.15 76.15 53.67 76.88 53.88L76.88 63.12C76.15 63.33 75.67 62.85 75.88 62.12L75.12 62.12C75.55 63.65 71.45 63.65 71.88 62.12L71.12 62.12C71.4 63.82 69.14 62.89 68.12 63.12L67.88 54.12L68.38 53.88Z" fill="white"/>
+      <path d="M73.12 61.12C72.98 61.77 73.23 62.02 73.88 61.88C74.02 61.23 73.77 60.98 73.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M69.12 61.12C68.98 61.77 69.23 62.02 69.88 61.88C70.02 61.23 69.77 60.98 69.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M75.12 60.12C74.98 60.77 75.23 61.02 75.88 60.88C76.02 60.23 75.77 59.98 75.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M71.12 60.12C70.98 60.77 71.23 61.02 71.88 60.88C72.02 60.23 71.77 59.98 71.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M73.12 59.12C72.98 59.77 73.23 60.02 73.88 59.88C74.02 59.23 73.77 58.98 73.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M69.12 59.12C68.98 59.77 69.23 60.02 69.88 59.88C70.02 59.23 69.77 58.98 69.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M75.12 58.12C74.98 58.77 75.23 59.02 75.88 58.88C76.02 58.23 75.77 57.98 75.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M71.12 58.12C70.98 58.77 71.23 59.02 71.88 58.88C72.02 58.23 71.77 57.98 71.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M73.12 57.12C72.98 57.77 73.23 58.02 73.88 57.88C74.02 57.23 73.77 56.98 73.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M69.12 57.12C68.98 57.77 69.23 58.02 69.88 57.88C70.02 57.23 69.77 56.98 69.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M75.12 56.12C74.98 56.77 75.23 57.02 75.88 56.88C76.02 56.23 75.77 55.98 75.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M71.12 56.12C70.98 56.77 71.23 57.02 71.88 56.88C72.02 56.23 71.77 55.98 71.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M73.12 55.12C72.98 55.77 73.23 56.02 73.88 55.88C74.02 55.23 73.77 54.98 73.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M69.12 55.12C68.98 55.77 69.23 56.02 69.88 55.88C70.02 55.23 69.77 54.98 69.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="22.12" y="53.12" width="10.75" height="10.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M23.38 53.88C24.33 54.07 26.44 53.25 26.12 54.88L26.88 54.88C26.45 53.35 30.55 53.35 30.12 54.88L30.88 54.88C30.67 54.15 31.15 53.67 31.88 53.88L31.88 63.12C31.15 63.33 30.67 62.85 30.88 62.12L30.12 62.12C30.55 63.65 26.45 63.65 26.88 62.12L26.12 62.12C26.4 63.82 24.14 62.89 23.12 63.12L22.88 54.12L23.38 53.88Z" fill="white"/>
+      <path d="M28.12 61.12C27.98 61.77 28.23 62.02 28.88 61.88C29.02 61.23 28.77 60.98 28.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M24.12 61.12C23.98 61.77 24.23 62.02 24.88 61.88C25.02 61.23 24.77 60.98 24.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M30.12 60.12C29.98 60.77 30.23 61.02 30.88 60.88C31.02 60.23 30.77 59.98 30.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M26.12 60.12C25.98 60.77 26.23 61.02 26.88 60.88C27.02 60.23 26.77 59.98 26.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M28.12 59.12C27.98 59.77 28.23 60.02 28.88 59.88C29.02 59.23 28.77 58.98 28.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M24.12 59.12C23.98 59.77 24.23 60.02 24.88 59.88C25.02 59.23 24.77 58.98 24.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M30.12 58.12C29.98 58.77 30.23 59.02 30.88 58.88C31.02 58.23 30.77 57.98 30.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M26.12 58.12C25.98 58.77 26.23 59.02 26.88 58.88C27.02 58.23 26.77 57.98 26.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M28.12 57.12C27.98 57.77 28.23 58.02 28.88 57.88C29.02 57.23 28.77 56.98 28.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M24.12 57.12C23.98 57.77 24.23 58.02 24.88 57.88C25.02 57.23 24.77 56.98 24.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M30.12 56.12C29.98 56.77 30.23 57.02 30.88 56.88C31.02 56.23 30.77 55.98 30.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M26.12 56.12C25.98 56.77 26.23 57.02 26.88 56.88C27.02 56.23 26.77 55.98 26.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M28.12 55.12C27.98 55.77 28.23 56.02 28.88 55.88C29.02 55.23 28.77 54.98 28.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M24.12 55.12C23.98 55.77 24.23 56.02 24.88 55.88C25.02 55.23 24.77 54.98 24.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="60.12" y="34.12" width="29.75" height="11.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <circle cx="88.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="35.5" r="0.69" fill="white"/>
+      <rect x="10.12" y="34.12" width="29.75" height="11.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <circle cx="38.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="35.5" r="0.69" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-L6.svg" target="_parent" aria-label="Open BP195, left example 6">
+    <title>BP195, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M65.88 65.88L65.88 65.12C68.07 65.33 65.65 61.6 67.88 61.88C67.67 61.15 68.15 60.67 68.88 60.88L69.12 61.88L69.88 61.88C69.46 60.52 71.48 60.69 72.12 61.12L72.12 61.88C70.62 61.81 70.62 65.19 72.12 65.12L72.12 65.88C75.58 66.67 75.61 63.57 77.88 62.88C77.91 62.05 77.53 60.51 78.88 60.88L79.12 63.88C79.85 63.67 80.33 64.15 80.12 64.88L80.88 64.88C80.91 64.05 80.53 62.51 81.88 62.88C81.6 61.18 83.86 62.11 84.88 61.88L85.12 65.88L85.88 65.88C85.67 65.15 86.15 64.67 86.88 64.88L86.88 62.12C85.18 62.4 86.11 60.14 85.88 59.12C84.04 58.84 83.57 59.99 82.88 61.12C81.3 61.52 80.48 60.7 80.88 59.12C79.86 59.23 79.79 60.7 78.12 60.12C78.63 61.46 76.37 61.46 76.88 60.12C76.15 60.33 75.67 59.85 75.88 59.12C74.66 59.28 72.91 58.55 72.88 60.12C71.86 59.89 69.6 60.82 69.88 59.12L69.12 59.12C69.33 59.85 68.85 60.33 68.12 60.12C68.33 60.85 67.85 61.33 67.12 61.12C66.38 60.6 67.57 58.72 66.12 59.12C66.49 60.47 64.95 60.09 64.12 60.12L64.12 60.88C66.62 60.84 63.75 65.76 65.88 65.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="74.37" cy="62.24" rx="1.35" ry="2.42" transform="rotate(144.68 74.37 62.24)" fill="white"/>
+      <path d="M20.88 65.88L20.88 65.12C23.07 65.33 20.65 61.6 22.88 61.88C22.67 61.15 23.15 60.67 23.88 60.88L24.12 61.88L24.88 61.88C24.46 60.52 26.48 60.69 27.12 61.12L27.12 61.88C25.62 61.81 25.62 65.19 27.12 65.12L27.12 65.88C30.58 66.67 30.61 63.57 32.88 62.88C32.91 62.05 32.53 60.51 33.88 60.88L34.12 63.88C34.85 63.67 35.33 64.15 35.12 64.88L35.88 64.88C35.91 64.05 35.53 62.51 36.88 62.88C36.6 61.18 38.86 62.11 39.88 61.88L40.12 65.88L40.88 65.88C40.67 65.15 41.15 64.67 41.88 64.88L41.88 62.12C40.18 62.4 41.11 60.14 40.88 59.12C39.04 58.84 38.57 59.99 37.88 61.12C36.3 61.52 35.48 60.7 35.88 59.12C34.86 59.23 34.79 60.7 33.12 60.12C33.63 61.46 31.37 61.46 31.88 60.12C31.15 60.33 30.67 59.85 30.88 59.12C29.66 59.28 27.91 58.55 27.88 60.12C26.86 59.89 24.6 60.82 24.88 59.12L24.12 59.12C24.33 59.85 23.85 60.33 23.12 60.12C23.33 60.85 22.85 61.33 22.12 61.12C21.38 60.6 22.57 58.72 21.12 59.12C21.49 60.47 19.95 60.09 19.12 60.12L19.12 60.88C21.62 60.84 18.75 65.76 20.88 65.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="29.37" cy="62.24" rx="1.35" ry="2.42" transform="rotate(144.68 29.37 62.24)" fill="white"/>
+      <path d="M87.12 60.88C91.42 59.6 86.88 67.02 90.88 65.88L90.88 61.12C92.3 61.17 92.3 58.83 90.88 58.88L90.88 57.12C89.24 57.61 88.9 59.68 87.12 60.12L87.12 60.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M42.12 60.88C46.42 59.6 41.88 67.02 45.88 65.88L45.88 61.12C47.3 61.17 47.3 58.83 45.88 58.88L45.88 57.12L45.12 57.12C44.68 58.9 42.61 59.24 42.12 60.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M57.88 65.88L57.88 65.12C59.7 65.13 58.34 62.91 59.12 61.88C61.13 62.17 62.5 61.58 62.88 60.12C61.05 60.22 57.64 60.6 59.12 57.88L61.88 57.88C61.51 56.53 63.05 56.91 63.88 56.88L63.88 56.12L56.12 56.12L56.12 56.88C57.65 56.45 57.65 60.55 56.12 60.12L56.12 60.88C58.62 60.84 55.75 65.76 57.88 65.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M12.88 65.88L12.88 65.12C14.7 65.13 13.34 62.91 14.12 61.88C16.13 62.17 17.5 61.58 17.88 60.12C16.05 60.22 12.64 60.6 14.12 57.88L16.88 57.88C16.51 56.53 18.05 56.91 18.88 56.88L18.88 56.12L11.12 56.12L11.12 56.88C12.65 56.45 12.65 60.55 11.12 60.12L11.12 60.88C13.62 60.84 10.75 65.76 12.88 65.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M92.88 48.38L92.88 45.12L91.88 44.88L91.88 43.12C91.15 43.33 90.67 42.85 90.88 42.12C89.53 42.49 89.91 40.95 89.88 40.12C89.15 40.33 88.67 39.85 88.88 39.12C87.53 39.49 87.91 37.95 87.88 37.12C87.15 37.33 86.67 36.85 86.88 36.12C86.15 36.33 85.67 35.85 85.88 35.12L84.12 35.12L83.88 34.12L73.12 34.12L73.12 41.88L73.88 41.88L74.12 42.88C76.63 44.14 77.66 46.72 80.12 48.12L80.12 48.88L92.88 48.88L92.88 48.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M73.88 35.62L74.12 34.88L83.88 34.88L84.12 35.88C84.95 35.91 86.49 35.53 86.12 36.88C87.47 36.51 87.09 38.05 87.12 38.88C87.85 38.67 88.33 39.15 88.12 39.88C89.47 39.51 89.09 41.05 89.12 41.88C89.85 41.67 90.33 42.15 90.12 42.88C91.47 42.51 91.09 44.05 91.12 44.88C92.82 44.6 91.89 46.86 92.12 47.88L81.12 48.12C80.55 47.22 81.36 45.87 79.88 45.88C80.16 44.04 79.01 43.57 77.88 42.88C77.95 41.77 78.04 40.98 76.88 40.88C77.49 38.24 74.23 38.87 74.88 36.12L73.88 35.62Z" fill="white"/>
+      <path d="M85.62 44.88C86.36 44.11 84.06 43.8 84.88 42.12C83.53 42.49 83.91 40.95 83.88 40.12C83.15 40.33 82.67 39.85 82.88 39.12C81.53 39.49 81.91 37.95 81.88 37.12L80.12 37.12L80.12 38.88L81.12 39.12L81.12 40.88C82.47 40.51 82.09 42.05 82.12 42.88C83.85 42.99 83.5 45.34 85.62 44.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M73.88 48.38L73.88 45.12C73.15 45.33 72.67 44.85 72.88 44.12C71.53 44.49 71.91 42.95 71.88 42.12C71.15 42.33 70.67 41.85 70.88 41.12C70.15 41.33 69.67 40.85 69.88 40.12C68.53 40.49 68.91 38.95 68.88 38.12C68.15 38.33 67.67 37.85 67.88 37.12C65.97 37.47 67.74 34.63 65.88 34.88L65.88 34.12L55.12 34.12L55.12 42.88L55.88 42.88C56.02 44.68 58.47 43.57 59.88 43.88L60.12 46.88C60.85 46.67 61.33 47.15 61.12 47.88C61.85 47.67 62.33 48.15 62.12 48.88L73.88 48.88L73.88 48.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M66.88 43.88C66.5 42.42 65.13 41.83 63.12 42.12L62.88 40.12L63.88 39.88C64.02 39.23 63.77 38.98 63.12 39.12C63.17 37.7 60.83 37.7 60.88 39.12C59.14 39 56.06 39.92 56.88 37.12C55.53 37.49 55.91 35.95 55.88 35.12L64.88 34.88C65.33 36.61 67.61 36.43 67.12 38.88C67.85 38.67 68.33 39.15 68.12 39.88C68.85 39.67 69.33 40.15 69.12 40.88C70.47 40.51 70.09 42.05 70.12 42.88C70.85 42.67 71.33 43.15 71.12 43.88C72.47 43.51 72.09 45.05 72.12 45.88C73.47 45.51 73.09 47.05 73.12 47.88L63.12 48.12C63.18 46.84 61.65 47.47 61.88 46.12C60.53 46.49 60.91 44.95 60.88 44.12L64.88 43.88C64.65 45.19 67.4 45.45 66.88 43.88Z" fill="white"/>
+      <path d="M44.88 48.38L44.88 45.12L43.88 44.88L43.88 43.12C43.15 43.33 42.67 42.85 42.88 42.12C41.53 42.49 41.91 40.95 41.88 40.12C41.15 40.33 40.67 39.85 40.88 39.12C39.53 39.49 39.91 37.95 39.88 37.12C39.15 37.33 38.67 36.85 38.88 36.12C38.15 36.33 37.67 35.85 37.88 35.12L36.12 35.12L35.88 34.12L25.12 34.12L25.12 41.88L25.88 41.88L26.12 42.88C28.63 44.14 29.66 46.72 32.12 48.12L32.12 48.88L44.88 48.88L44.88 48.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M25.88 35.62L26.12 34.88L35.88 34.88L36.12 35.88C36.95 35.91 38.49 35.53 38.12 36.88C39.47 36.51 39.09 38.05 39.12 38.88C39.85 38.67 40.33 39.15 40.12 39.88C41.47 39.51 41.09 41.05 41.12 41.88C41.85 41.67 42.33 42.15 42.12 42.88C43.47 42.51 43.09 44.05 43.12 44.88C44.82 44.6 43.89 46.86 44.12 47.88L33.12 48.12C32.55 47.22 33.36 45.87 31.88 45.88C32.16 44.04 31.01 43.57 29.88 42.88C29.95 41.77 30.04 40.98 28.88 40.88C29.49 38.24 26.23 38.87 26.88 36.12L25.88 35.62Z" fill="white"/>
+      <path d="M37.62 44.88C38.36 44.11 36.06 43.8 36.88 42.12C35.53 42.49 35.91 40.95 35.88 40.12C35.15 40.33 34.67 39.85 34.88 39.12C33.53 39.49 33.91 37.95 33.88 37.12L32.12 37.12L32.12 38.88L33.12 39.12L33.12 40.88C34.47 40.51 34.09 42.05 34.12 42.88C35.85 42.99 35.5 45.34 37.62 44.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M25.88 48.38L25.88 45.12C25.15 45.33 24.67 44.85 24.88 44.12C23.53 44.49 23.91 42.95 23.88 42.12C23.15 42.33 22.67 41.85 22.88 41.12C22.15 41.33 21.67 40.85 21.88 40.12C20.53 40.49 20.91 38.95 20.88 38.12C20.15 38.33 19.67 37.85 19.88 37.12C17.97 37.47 19.74 34.63 17.88 34.88L17.88 34.12L7.12 34.12L7.12 42.88L7.88 42.88C8.02 44.68 10.47 43.57 11.88 43.88L12.12 46.88C12.85 46.67 13.33 47.15 13.12 47.88C13.85 47.67 14.33 48.15 14.12 48.88L25.88 48.88L25.88 48.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M18.88 43.88C18.5 42.42 17.13 41.83 15.12 42.12L14.88 40.12L15.88 39.88C16.02 39.23 15.77 38.98 15.12 39.12C15.17 37.7 12.83 37.7 12.88 39.12C11.14 39 8.06 39.92 8.88 37.12C7.53 37.49 7.91 35.95 7.88 35.12L16.88 34.88C17.33 36.61 19.61 36.43 19.12 38.88C19.85 38.67 20.33 39.15 20.12 39.88C20.85 39.67 21.33 40.15 21.12 40.88C22.47 40.51 22.09 42.05 22.12 42.88C22.85 42.67 23.33 43.15 23.12 43.88C24.47 43.51 24.09 45.05 24.12 45.88C25.47 45.51 25.09 47.05 25.12 47.88L15.12 48.12C15.18 46.84 13.65 47.47 13.88 46.12C12.53 46.49 12.91 44.95 12.88 44.12L16.88 43.88C16.65 45.19 19.4 45.45 18.88 43.88Z" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-R1.svg" target="_parent" aria-label="Open BP195, right example 1">
+    <title>BP195, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="74.12" y="53.12" width="10.75" height="10.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M83.62 53.88L84.12 54.12L83.88 63.12C82.86 62.89 80.6 63.82 80.88 62.12L80.12 62.12C80.55 63.65 76.45 63.65 76.88 62.12L76.12 62.12C76.33 62.85 75.85 63.33 75.12 63.12L75.12 53.88C75.85 53.67 76.33 54.15 76.12 54.88L76.88 54.88C76.45 53.35 80.55 53.35 80.12 54.88L80.88 54.88C80.56 53.25 82.67 54.07 83.62 53.88Z" fill="white"/>
+      <path d="M82.12 61.12C81.98 61.77 82.23 62.02 82.88 61.88C83.02 61.23 82.77 60.98 82.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M78.12 61.12C77.98 61.77 78.23 62.02 78.88 61.88C79.02 61.23 78.77 60.98 78.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M80.12 60.12C79.98 60.77 80.23 61.02 80.88 60.88C81.02 60.23 80.77 59.98 80.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M76.12 60.12C75.98 60.77 76.23 61.02 76.88 60.88C77.02 60.23 76.77 59.98 76.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M82.12 59.12C81.98 59.77 82.23 60.02 82.88 59.88C83.02 59.23 82.77 58.98 82.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M78.12 59.12C77.98 59.77 78.23 60.02 78.88 59.88C79.02 59.23 78.77 58.98 78.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M80.12 58.12C79.98 58.77 80.23 59.02 80.88 58.88C81.02 58.23 80.77 57.98 80.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M76.12 58.12C75.98 58.77 76.23 59.02 76.88 58.88C77.02 58.23 76.77 57.98 76.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M82.12 57.12C81.98 57.77 82.23 58.02 82.88 57.88C83.02 57.23 82.77 56.98 82.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M78.12 57.12C77.98 57.77 78.23 58.02 78.88 57.88C79.02 57.23 78.77 56.98 78.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M80.12 56.12C79.98 56.77 80.23 57.02 80.88 56.88C81.02 56.23 80.77 55.98 80.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M76.12 56.12C75.98 56.77 76.23 57.02 76.88 56.88C77.02 56.23 76.77 55.98 76.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M82.12 55.12C81.98 55.77 82.23 56.02 82.88 55.88C83.02 55.23 82.77 54.98 82.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M78.12 55.12C77.98 55.77 78.23 56.02 78.88 55.88C79.02 55.23 78.77 54.98 78.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="17.12" y="53.12" width="10.75" height="10.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M26.62 53.88L27.12 54.12L26.88 63.12C25.86 62.89 23.6 63.82 23.88 62.12L23.12 62.12C23.55 63.65 19.45 63.65 19.88 62.12L19.12 62.12C19.33 62.85 18.85 63.33 18.12 63.12L18.12 53.88C18.85 53.67 19.33 54.15 19.12 54.88L19.88 54.88C19.45 53.35 23.55 53.35 23.12 54.88L23.88 54.88C23.56 53.25 25.67 54.07 26.62 53.88Z" fill="white"/>
+      <path d="M25.12 61.12C24.98 61.77 25.23 62.02 25.88 61.88C26.02 61.23 25.77 60.98 25.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M21.12 61.12C20.98 61.77 21.23 62.02 21.88 61.88C22.02 61.23 21.77 60.98 21.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M23.12 60.12C22.98 60.77 23.23 61.02 23.88 60.88C24.02 60.23 23.77 59.98 23.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M19.12 60.12C18.98 60.77 19.23 61.02 19.88 60.88C20.02 60.23 19.77 59.98 19.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M25.12 59.12C24.98 59.77 25.23 60.02 25.88 59.88C26.02 59.23 25.77 58.98 25.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M21.12 59.12C20.98 59.77 21.23 60.02 21.88 59.88C22.02 59.23 21.77 58.98 21.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M23.12 58.12C22.98 58.77 23.23 59.02 23.88 58.88C24.02 58.23 23.77 57.98 23.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M19.12 58.12C18.98 58.77 19.23 59.02 19.88 58.88C20.02 58.23 19.77 57.98 19.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M25.12 57.12C24.98 57.77 25.23 58.02 25.88 57.88C26.02 57.23 25.77 56.98 25.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M21.12 57.12C20.98 57.77 21.23 58.02 21.88 57.88C22.02 57.23 21.77 56.98 21.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M23.12 56.12C22.98 56.77 23.23 57.02 23.88 56.88C24.02 56.23 23.77 55.98 23.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M19.12 56.12C18.98 56.77 19.23 57.02 19.88 56.88C20.02 56.23 19.77 55.98 19.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M25.12 55.12C24.98 55.77 25.23 56.02 25.88 55.88C26.02 55.23 25.77 54.98 25.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M21.12 55.12C20.98 55.77 21.23 56.02 21.88 55.88C22.02 55.23 21.77 54.98 21.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="60.12" y="34.12" width="29.75" height="11.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <circle cx="87.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="87.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="85.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="83.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="81.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="79.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="77.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="75.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="73.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="71.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="69.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="67.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="65.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="63.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="61.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="88.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="86.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="84.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="82.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="80.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="78.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="76.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="74.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="72.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="70.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="68.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="66.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="64.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="62.5" cy="35.5" r="0.69" fill="white"/>
+      <rect x="10.12" y="34.12" width="29.75" height="11.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <circle cx="37.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="44.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="43.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="42.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="41.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="40.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="39.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="38.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="37.5" r="0.69" fill="white"/>
+      <circle cx="37.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="35.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="33.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="31.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="29.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="27.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="25.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="23.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="21.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="19.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="17.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="15.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="13.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="11.5" cy="36.5" r="0.69" fill="white"/>
+      <circle cx="38.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="36.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="34.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="32.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="30.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="28.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="26.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="24.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="22.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="20.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="18.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="16.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="14.5" cy="35.5" r="0.69" fill="white"/>
+      <circle cx="12.5" cy="35.5" r="0.69" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-R2.svg" target="_parent" aria-label="Open BP195, right example 2">
+    <title>BP195, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="49" y="5" width="2" height="88" fill="black"/>
+      <polygon points="7.81,34.75 7.81,42.47 11.67,43.44 14.56,48.26 25.18,48.26 25.18,45.37 17.46,34.75" fill="none" stroke="black" stroke-width="1.69" stroke-linejoin="miter"/>
+      <polygon points="25.71,34.65 25.71,41.5 32.56,48.35 44.3,48.35 43.32,43.46 37.45,35.63" fill="none" stroke="black" stroke-width="1.45" stroke-linejoin="miter"/>
+      <polygon points="55.81,34.75 55.81,42.47 59.67,43.44 62.56,48.26 73.18,48.26 73.18,45.37 65.46,34.75" fill="none" stroke="black" stroke-width="1.69" stroke-linejoin="miter"/>
+      <polygon points="73.71,34.65 73.71,41.5 80.56,48.35 92.3,48.35 91.32,43.46 85.45,35.63" fill="none" stroke="black" stroke-width="1.45" stroke-linejoin="miter"/>
+      <path d="M33.35 38.06L36.35 44.06" fill="none" stroke="black" stroke-width="2.49" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M81.35 38.06L84.35 44.06" fill="none" stroke="black" stroke-width="2.49" stroke-linecap="round" stroke-linejoin="round"/>
+      <polygon points="7.75,55.93 6.83,56.85 7.75,65.13 11.43,65.13 14.18,62.37 14.18,60.53 12.35,59.61 13.26,56.85" fill="none" stroke="black" stroke-width="1.97" stroke-linejoin="miter"/>
+      <path d="M31.91 56.09L31.91 64.09" fill="none" stroke="black" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"/>
+      <polygon points="63.75,55.93 62.83,56.85 63.75,65.13 67.43,65.13 70.18,62.37 70.18,60.53 68.35,59.61 69.26,56.85" fill="none" stroke="black" stroke-width="1.97" stroke-linejoin="miter"/>
+      <path d="M87.91 56.09L87.91 64.09" fill="none" stroke="black" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M19.9 60.23L19.9 62.23M19.9 62.23C17.47 61.09 15.71 65.44 18.9 64.98L20.9 63.23M19.9 62.23L20.9 63.23M20.9 63.23C21.93 63.55 22.96 64.87 23.9 63.23M23.9 63.23L26.9 65.23M23.9 63.23C24.12 61.14 25.81 59.46 27.9 59.23" fill="none" stroke="black" stroke-width="1.74" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M35.95 60.57C35.97 61.94 35.68 63.59 36.95 64.57" fill="none" stroke="black" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M75.9 60.23L75.9 62.23M75.9 62.23C73.47 61.09 71.71 65.44 74.9 64.98L76.9 63.23M75.9 62.23L76.9 63.23M76.9 63.23C77.93 63.55 78.96 64.87 79.9 63.23M79.9 63.23L82.9 65.23M79.9 63.23C80.12 61.14 81.81 59.46 83.9 59.23" fill="none" stroke="black" stroke-width="1.74" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M91.95 60.57C91.97 61.94 91.68 63.59 92.95 64.57" fill="none" stroke="black" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-R3.svg" target="_parent" aria-label="Open BP195, right example 3">
+    <title>BP195, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="76.12" y="51.12" width="10.75" height="10.75" fill="black"/>
+      <rect x="77.88" y="52.88" width="7.25" height="7.25" fill="white"/>
+      <rect x="15.12" y="51.12" width="10.75" height="10.75" fill="black"/>
+      <rect x="16.88" y="52.88" width="7.25" height="7.25" fill="white"/>
+      <path d="M58.12 38.38C57.29 44.38 63.66 45.42 68.62 44.88C71.64 41.92 79.36 41.92 82.38 44.88L88.62 44.88L92.88 41.62C93.71 35.62 87.34 34.58 82.38 35.12C79.36 38.08 71.64 38.08 68.62 35.12L62.38 35.12L58.12 38.38Z" fill="black"/>
+      <path d="M91.12 39.38C91.45 41.31 89.38 41.72 88.62 43.12L82.38 43.12C80.06 39.42 74.38 41.79 70.38 41.12C68.36 44.45 61.73 43.83 59.88 40.62C59.55 38.69 61.62 38.28 62.38 36.88L68.62 36.88C70.94 40.58 76.62 38.21 80.62 38.88C82.64 35.55 89.27 36.17 91.12 39.38Z" fill="white"/>
+      <path d="M7.12 38.38C6.29 44.38 12.66 45.42 17.62 44.88C20.64 41.92 28.36 41.92 31.38 44.88L37.62 44.88L41.88 41.62C42.71 35.62 36.34 34.58 31.38 35.12C28.36 38.08 20.64 38.08 17.62 35.12L11.38 35.12L7.12 38.38Z" fill="black"/>
+      <path d="M40.12 39.38C40.45 41.31 38.38 41.72 37.62 43.12L31.38 43.12C29.06 39.42 23.38 41.79 19.38 41.12C17.36 44.45 10.73 43.83 8.88 40.62C8.55 38.69 10.62 38.28 11.38 36.88L17.62 36.88C19.94 40.58 25.62 38.21 29.62 38.88C31.64 35.55 38.27 36.17 40.12 39.38Z" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-R4.svg" target="_parent" aria-label="Open BP195, right example 4">
+    <title>BP195, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M76.38 53.12C73.99 54.38 72.62 58.82 69.12 59.38C69.81 62.65 73.62 64.09 75.38 66.88C78.42 65.65 81.65 62.42 82.88 59.38C79.92 58.54 77.68 55.51 76.38 53.12Z" fill="black"/>
+      <path d="M81.12 60.38C79.29 61.92 78.04 64.87 75.38 65.12L70.88 60.62C72.71 59.08 73.96 56.13 76.62 55.88L81.12 60.38Z" fill="white"/>
+      <path d="M26.38 53.12C23.99 54.38 22.62 58.82 19.12 59.38C19.81 62.65 23.62 64.09 25.38 66.88C28.42 65.65 31.65 62.42 32.88 59.38C29.92 58.54 27.68 55.51 26.38 53.12Z" fill="black"/>
+      <path d="M31.12 60.38C29.29 61.92 28.04 64.87 25.38 65.12L20.88 60.62C22.71 59.08 23.96 56.13 26.62 55.88L31.12 60.38Z" fill="white"/>
+      <path d="M67.12 47.38L88.62 47.88L88.88 46.38C85.47 42.63 80.73 39.71 78.62 35.12L77.38 35.12C75.48 40.16 69.25 42.58 67.12 47.38Z" fill="black"/>
+      <path d="M86.12 45.62C81.26 46.3 74.33 46.77 69.88 45.38L77.38 37.88C81.08 39.07 83.26 43.13 86.12 45.62Z" fill="white"/>
+      <ellipse cx="60" cy="41.5" rx="5.96" ry="6.39" transform="rotate(0 60 41.5)" fill="black"/>
+      <ellipse cx="60" cy="41.5" rx="4.27" ry="4.72" transform="rotate(0 60 41.5)" fill="white"/>
+      <path d="M24.12 47.38L45.62 47.88L45.88 46.38C42.47 42.63 37.73 39.71 35.62 35.12L34.38 35.12C32.48 40.16 26.25 42.58 24.12 47.38Z" fill="black"/>
+      <path d="M43.12 45.62C38.26 46.3 31.33 46.77 26.88 45.38L34.38 37.88C38.08 39.07 40.26 43.13 43.12 45.62Z" fill="white"/>
+      <ellipse cx="17" cy="41.5" rx="5.96" ry="6.39" transform="rotate(0 17 41.5)" fill="black"/>
+      <ellipse cx="17" cy="41.5" rx="4.27" ry="4.72" transform="rotate(0 17 41.5)" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-R5.svg" target="_parent" aria-label="Open BP195, right example 5">
+    <title>BP195, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M77.12 50.88C77.28 51.62 77.03 52.4 76.12 52.12C76.09 52.95 76.47 54.49 75.12 54.12C75.74 56.22 73.53 55.86 74.12 57.88L73.12 58.12L73.12 59.88L72.12 60.12L72.12 61.88L82.88 61.88L82.88 60.12L81.88 59.88C82.47 57.86 80.26 58.22 80.88 56.12C79.53 56.49 79.91 54.95 79.88 54.12C78.53 54.49 78.91 52.95 78.88 52.12C77.53 52.49 77.91 50.95 77.88 50.12C77.23 49.98 76.98 50.23 77.12 50.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M77.12 51.88L78.12 52.12L78.12 53.88L79.12 54.12C78.53 56.14 80.74 55.78 80.12 57.88C81.47 57.51 81.09 59.05 81.12 59.88C81.98 59.52 82.54 60.59 81.88 61.12L72.88 60.88C72.67 60.15 73.15 59.67 73.88 59.88C73.91 59.05 73.53 57.51 74.88 57.88C74.91 57.05 74.53 55.51 75.88 55.88C75.91 55.05 75.53 53.51 76.88 53.88L77.12 51.88Z" fill="white"/>
+      <path d="M19.12 50.88C19.28 51.62 19.03 52.4 18.12 52.12C18.09 52.95 18.47 54.49 17.12 54.12C17.74 56.22 15.53 55.86 16.12 57.88L15.12 58.12L15.12 59.88L14.12 60.12L14.12 61.88L24.88 61.88L24.88 60.12L23.88 59.88C24.47 57.86 22.26 58.22 22.88 56.12C21.53 56.49 21.91 54.95 21.88 54.12C20.53 54.49 20.91 52.95 20.88 52.12C19.53 52.49 19.91 50.95 19.88 50.12C19.23 49.98 18.98 50.23 19.12 50.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M19.12 51.88L20.12 52.12L20.12 53.88L21.12 54.12C20.53 56.14 22.74 55.78 22.12 57.88C23.47 57.51 23.09 59.05 23.12 59.88C23.98 59.52 24.54 60.59 23.88 61.12L14.88 60.88C14.67 60.15 15.15 59.67 15.88 59.88C15.91 59.05 15.53 57.51 16.88 57.88C16.91 57.05 16.53 55.51 17.88 55.88C17.91 55.05 17.53 53.51 18.88 53.88L19.12 51.88Z" fill="white"/>
+      <ellipse cx="83" cy="39" rx="4.94" ry="6.94" transform="rotate(90 83 39)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="58.12" y="34.12" width="10.75" height="9.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="33" cy="39" rx="4.94" ry="6.94" transform="rotate(90 33 39)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="8.12" y="34.12" width="10.75" height="9.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP195D-R6.svg" target="_parent" aria-label="Open BP195, right example 6">
+    <title>BP195, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M11.38 57.12L11.62 58.88C12.57 59.74 13.05 61.2 14.62 60.88C19.85 65.6 23.64 50.97 28.38 57.88L29.62 57.88C30.75 58.21 31.08 57.33 30.88 56.38C29.51 55.77 29.19 53.74 27.38 54.12C22.15 49.4 18.36 64.03 13.62 57.12L11.38 57.12Z" fill="black"/>
+      <path d="M68.38 56.12L68.62 57.88C69.57 58.74 70.05 60.2 71.62 59.88C76.85 64.6 80.64 49.97 85.38 56.88L86.62 56.88C87.75 57.21 88.08 56.33 87.88 55.38C86.51 54.77 86.19 52.74 84.38 53.12C79.15 48.4 75.36 63.03 70.62 56.12L68.38 56.12Z" fill="black"/>
+      <ellipse cx="90" cy="41" rx="3.98" ry="6.1" transform="rotate(0 90 41)" fill="black"/>
+      <ellipse cx="80" cy="41" rx="3.98" ry="6.1" transform="rotate(0 80 41)" fill="black"/>
+      <ellipse cx="80" cy="41" rx="2.29" ry="4.25" transform="rotate(0 80 41)" fill="white"/>
+      <ellipse cx="70" cy="41" rx="3.98" ry="6.1" transform="rotate(0 70 41)" fill="black"/>
+      <ellipse cx="60" cy="41" rx="3.98" ry="6.1" transform="rotate(0 60 41)" fill="black"/>
+      <ellipse cx="60" cy="41" rx="2.29" ry="4.25" transform="rotate(0 60 41)" fill="white"/>
+      <ellipse cx="40" cy="41" rx="3.98" ry="6.1" transform="rotate(0 40 41)" fill="black"/>
+      <ellipse cx="30" cy="41" rx="3.98" ry="6.1" transform="rotate(0 30 41)" fill="black"/>
+      <ellipse cx="30" cy="41" rx="2.29" ry="4.25" transform="rotate(0 30 41)" fill="white"/>
+      <ellipse cx="20" cy="41" rx="3.98" ry="6.1" transform="rotate(0 20 41)" fill="black"/>
+      <ellipse cx="10" cy="41" rx="3.98" ry="6.1" transform="rotate(0 10 41)" fill="black"/>
+      <ellipse cx="10" cy="41" rx="2.29" ry="4.25" transform="rotate(0 10 41)" fill="white"/>
+      <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

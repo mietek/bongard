@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP269, right example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <g aria-label="J" transform="translate(33 66) scale(0.0227273 -0.0251924) translate(-31 20)">
+  <path transform="translate(0 0)" d="M524 -20Q305 -20 187.5 75.0Q70 170 31 382L324 425Q342 316 391.0 263.5Q440 211 526 211Q614 211 659.5 270.0Q705 329 705 439V1178H424V1409H999V446Q999 226 874.0 103.0Q749 -20 524 -20Z"/>
+  </g>
+</svg>

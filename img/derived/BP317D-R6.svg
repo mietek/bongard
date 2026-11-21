@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP317, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="21.93" cy="70.92" r="10.01" fill="black"/>
+  <circle cx="21.87" cy="70.96" r="7.84" fill="white"/>
+  <circle cx="22" cy="71" r="3.96" fill="black"/>
+  <path d="M71.88 54.38L68.38 54.12L64.62 52.12C45.76 48.43 37.01 75.12 51.38 84.88C54.02 85.18 55.42 87.61 58.62 86.88L59.38 87.88C78.41 91.1 86.97 63.78 71.88 54.38Z" fill="black"/>
+  <circle cx="61.85" cy="70.02" r="15.98" fill="white"/>
+  <circle cx="61.5" cy="70.5" r="4.57" fill="black"/>
+  <circle cx="73.49" cy="30.04" r="14.65" fill="black"/>
+  <circle cx="73.55" cy="30.06" r="12.67" fill="white"/>
+  <circle cx="74.5" cy="29.73" r="5.4" fill="black"/>
+  <path d="M46.62 45.88C48.01 43.98 48.72 41.88 48.88 39.38C50.67 38.51 49.58 36.07 49.88 34.38L50.88 33.62C52.53 15.24 25.14 8.55 16.12 23.38L15.12 28.62C13.52 30.44 13.52 35.56 15.12 37.38C15.3 50.27 34.46 56.54 43.38 47.88C45.09 48.31 45.39 46.37 46.62 45.88Z" fill="black"/>
+  <circle cx="32.22" cy="33.55" r="16.42" fill="white"/>
+  <ellipse cx="32.21" cy="33.63" rx="5.01" ry="5.43" transform="rotate(19.84 32.21 33.63)" fill="black"/>
+</svg>

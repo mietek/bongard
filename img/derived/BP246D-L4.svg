@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP246, left example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <line x1="18.36" y1="21.25" x2="20.64" y2="90.75" stroke="black" stroke-width="1.01" stroke-linecap="round"/>
+  <ellipse cx="57" cy="58.05" fill="none" stroke="black" stroke-width="0.9" rx="10.56" ry="19.37" transform="rotate(179.98 57 58.05)"/>
+</svg>

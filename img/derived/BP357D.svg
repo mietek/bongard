@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP357, linked examples">
+  <title>BP357 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP357D-L1.svg" target="_parent" aria-label="Open BP357, left example 1">
+    <title>BP357, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="79.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="79.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="79.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="79.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="65.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="51.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="37.88" y="40.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="23.88" y="56.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="52.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="48.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="44.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="40.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="9.88" y="76.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="72.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="68.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="64.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="60.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="56.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="52.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="48.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="44.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="40.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-L2.svg" target="_parent" aria-label="Open BP357, left example 2">
+    <title>BP357, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="87.5" cy="47.5" r="8.28" fill="black"/>
+      <path d="M92.12 43.12C95.65 44.18 95.86 49.86 92.62 52.12C91.14 50.02 91.97 45.8 92.12 43.12Z" fill="white"/>
+      <circle cx="68.5" cy="47.5" r="8.28" fill="black"/>
+      <path d="M72.38 41.88C76.91 44.44 76.96 50.24 72.62 53.12C71.26 50.32 71.69 45.09 72.38 41.88Z" fill="white"/>
+      <circle cx="49.5" cy="47.5" r="8.28" fill="black"/>
+      <path d="M51.12 41.12C57.75 41.82 58.71 51.04 52.62 54.12L50.88 53.62L51.12 41.12Z" fill="white"/>
+      <circle cx="30.5" cy="47.5" r="8.28" fill="black"/>
+      <path d="M29.38 39.88C33.7 39.7 36.13 43.38 38.12 46.38C38.3 50.7 34.62 53.13 31.62 55.12L28.88 54.62L29.38 39.88Z" fill="white"/>
+      <circle cx="11.5" cy="47.5" r="8.28" fill="black"/>
+      <ellipse cx="11.95" cy="47.5" rx="6.64" ry="7.39" transform="rotate(0 11.95 47.5)" fill="white"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-L3.svg" target="_parent" aria-label="Open BP357, left example 3">
+    <title>BP357, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="65.12" y="40.12" width="14.75" height="17.75" fill="black"/>
+      <rect x="47.12" y="40.12" width="12.75" height="17.75" fill="black"/>
+      <rect x="32.12" y="40.12" width="9.75" height="17.75" fill="black"/>
+      <rect x="22.12" y="40.12" width="5.75" height="17.75" fill="black"/>
+      <rect x="17.12" y="40.12" width="0.75" height="17.75" fill="black"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-L4.svg" target="_parent" aria-label="Open BP357, left example 4">
+    <title>BP357, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M70.12 94.88L70.38 95.88L95.62 95.88L95.88 72.38L74.12 72.38L74.38 91.88L91.88 91.62L91.88 76.38L78.12 76.38L78.12 87.62L87.88 87.62L87.88 80.38L82.12 80.38L82.38 83.88L83.62 83.88C84.13 79.42 87.86 83.81 85.62 86.12L79.88 85.62L79.88 78.38L90.12 78.38L89.62 90.12L75.88 89.62L76.38 73.88L93.62 73.88L94.12 93.62L70.38 94.12L70.12 94.88Z" fill="black"/>
+      <path d="M55.12 70.88L55.38 71.88L72.88 71.62L72.62 48.12L51.12 48.38L51.38 67.88L68.88 67.62L68.88 52.38L55.12 52.38L55.12 63.62L64.88 63.62L64.88 56.38L59.12 56.38L59.38 59.88L60.62 59.88C61.13 55.42 64.86 59.81 62.62 62.12L56.88 61.62L56.88 54.38L67.12 54.38L66.62 66.12L52.88 65.62L53.38 49.88L70.62 49.88L71.12 69.62C66.39 71.26 59.2 68.83 55.12 70.88Z" fill="black"/>
+      <path d="M49.88 43.88L50.88 43.62L50.62 28.12L29.12 28.38L29.38 47.88L46.88 47.62L46.88 32.38L33.12 32.38L33.12 43.62L42.88 43.62L42.88 36.38L37.12 36.38L37.38 39.88L38.62 39.88C39.13 35.42 42.86 39.81 40.62 42.12L34.88 41.62L34.88 34.38L45.12 34.38L44.62 46.12L30.88 45.62L31.38 29.88L48.62 29.88C50.25 33.95 47.84 40.46 49.88 43.88Z" fill="black"/>
+      <path d="M11.12 14.12L10.12 14.38L10.38 27.88L27.88 27.62L27.62 12.12L14.12 12.38L14.12 23.62L23.88 23.62L23.62 16.12L18.38 16.12C18.07 17.3 17.39 20.51 19.62 19.88C19.59 18.56 20.82 16.91 22.12 18.38C23.43 22.69 19.46 22.36 16.38 22.12L15.88 14.38L26.12 14.38L26.12 25.62L12.38 26.12C10.76 22.71 13.15 16.88 11.12 14.12Z" fill="black"/>
+      <polygon points="2.13,2.12 2.12,11.88 11.88,11.88 11.88,4.12 6.12,4.12 6.12,7.88 7.88,7.88 7.88,6.05 10.12,5.71 10.12,10.12 3.87,10.12 3.88,2.12" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-L5.svg" target="_parent" aria-label="Open BP357, left example 5">
+    <title>BP357, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="9.12" y="80.12" width="8.75" height="8.75" fill="black"/>
+      <rect x="23.12" y="60.12" width="8.75" height="28.75" fill="black"/>
+      <rect x="37.12" y="44.12" width="8.75" height="44.75" fill="black"/>
+      <rect x="51.12" y="32.12" width="8.75" height="56.75" fill="black"/>
+      <rect x="65.12" y="24.12" width="8.75" height="64.75" fill="black"/>
+      <rect x="79.12" y="20.12" width="8.75" height="68.75" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-L6.svg" target="_parent" aria-label="Open BP357, left example 6">
+    <title>BP357, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="77.12,13.12 77.12,75.54 75.12,77.61 75.12,79.39 77.12,81.46 77.12,83.88 87.88,83.88 87.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="77.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <polygon points="60.12,13.12 60.12,83.88 67.54,83.88 69.61,85.88 71.38,85.88 72.88,84.38 72.88,82.61 70.88,80.54 70.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="60.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <polygon points="43.12,13.12 43.12,83.88 53.88,83.88 53.88,66.46 55.88,64.39 55.88,62.61 53.88,60.54 53.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="43.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <polygon points="26.13,13.12 26.12,83.88 36.88,83.88 36.88,41.46 38.88,39.39 38.88,37.61 36.88,35.54 36.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="26.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <rect x="9.12" y="11.12" width="10.75" height="72.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="9.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-R1.svg" target="_parent" aria-label="Open BP357, right example 1">
+    <title>BP357, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="79.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="79.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="79.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="79.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="65.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="65.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="51.88" y="52.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="48.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="44.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="40.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="51.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="37.88" y="64.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="60.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="56.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="52.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="48.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="44.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="40.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="37.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="23.88" y="72.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="68.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="64.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="60.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="56.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="52.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="48.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="44.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="40.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="23.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.12" y="8.12" width="8.75" height="80.75" fill="black"/>
+      <rect x="9.88" y="76.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="72.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="68.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="64.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="60.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="56.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="52.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="48.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="44.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="40.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="36.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="32.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="28.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="24.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="20.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="16.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="12.88" width="7.25" height="3.25" fill="white"/>
+      <rect x="9.88" y="8.88" width="7.25" height="3.25" fill="white"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-R2.svg" target="_parent" aria-label="Open BP357, right example 2">
+    <title>BP357, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="87.5" cy="47.5" r="8.28" fill="black"/>
+      <path d="M91.38 41.88C95.91 44.44 95.96 50.24 91.62 53.12C90.26 50.32 90.69 45.09 91.38 41.88Z" fill="white"/>
+      <circle cx="68.5" cy="47.5" r="8.28" fill="black"/>
+      <path d="M68.38 39.88C72.03 40.35 74.32 43.56 76.12 46.38C76.3 50.7 72.62 53.13 69.62 55.12L67.88 54.62L68.38 39.88Z" fill="white"/>
+      <circle cx="49.5" cy="47.5" r="8.28" fill="black"/>
+      <path d="M45.88 53.62C46.66 48.56 43.15 39.17 50.62 39.88L51.38 40.88C52.79 40.55 53.47 41.79 54.12 42.62C61.68 47.02 51.94 58.81 45.88 53.62Z" fill="white"/>
+      <circle cx="30.5" cy="47.5" r="8.28" fill="black"/>
+      <ellipse cx="30.95" cy="47.5" rx="6.64" ry="7.39" transform="rotate(0 30.95 47.5)" fill="white"/>
+      <circle cx="11.5" cy="47.5" r="8.28" fill="black"/>
+      <ellipse cx="11.65" cy="47.5" rx="7.02" ry="7.29" transform="rotate(0 11.65 47.5)" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-R3.svg" target="_parent" aria-label="Open BP357, right example 3">
+    <title>BP357, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="57.12" y="40.12" width="22.75" height="17.75" fill="black"/>
+      <rect x="40.12" y="40.12" width="12.75" height="17.75" fill="black"/>
+      <rect x="30.12" y="40.12" width="5.75" height="17.75" fill="black"/>
+      <rect x="24.12" y="40.12" width="1.75" height="17.75" fill="black"/>
+      <rect x="19.12" y="40.12" width="0.75" height="17.75" fill="black"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-R4.svg" target="_parent" aria-label="Open BP357, right example 4">
+    <title>BP357, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M73.88 61.12C71.63 59.05 65.6 60.39 62.12 60.38L62.12 95.62L95.62 95.88L95.62 64.12L66.12 64.38L66.38 91.88L91.88 91.62L91.62 68.12L70.12 68.38L70.38 87.88L87.88 87.62L87.88 72.38L74.12 72.38L74.12 83.62L83.88 83.62L83.88 76.38L78.12 76.38L78.38 79.88L79.62 79.88C80.13 75.42 83.86 79.81 81.62 82.12L75.88 81.62L75.88 74.38L86.12 74.38L85.62 86.12L71.88 85.62L72.38 69.88L89.62 69.88L90.12 89.62L68.38 90.12L67.88 66.38L93.62 65.88L94.12 93.62L64.38 94.12L63.88 62.38C66.63 60.78 71.77 63.13 73.88 61.12Z" fill="black"/>
+      <path d="M41.88 30.12C41.55 28.09 38.07 29.58 36.38 29.12L36.12 56.62L61.62 56.88L61.62 33.12L40.12 33.38L40.38 52.88L57.88 52.62L57.88 37.38L44.12 37.38L44.12 48.62L53.88 48.62L53.88 41.38L48.12 41.38L48.38 44.88L49.62 44.88C50.13 40.42 53.86 44.81 51.62 47.12L45.88 46.62L45.88 39.38L56.12 39.38L55.62 51.12L41.88 50.62L42.38 34.88L59.62 34.88L60.12 54.62L38.38 55.12L37.88 31.38L41.88 30.12Z" fill="black"/>
+      <path d="M16.12 10.12L15.12 10.38L15.12 29.62L32.62 29.88L32.62 14.12L19.38 14.12L19.38 25.88L28.88 25.62L28.88 18.38L23.12 18.38L23.38 21.88L24.62 21.88C25.13 17.42 28.86 21.81 26.62 24.12L20.88 23.62L20.88 16.38L30.62 15.88L30.62 28.12L17.38 28.12C15.74 22.72 18.18 14.87 16.12 10.12Z" fill="black"/>
+      <polygon points="2.13,2.12 2.12,11.88 11.88,11.88 11.88,4.12 6.12,4.12 6.12,7.88 7.88,7.88 7.88,6.05 10.12,5.71 10.12,10.12 3.87,10.12 3.88,2.12" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-R5.svg" target="_parent" aria-label="Open BP357, right example 5">
+    <title>BP357, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="9.12" y="80.12" width="8.75" height="8.75" fill="black"/>
+      <rect x="23.12" y="76.12" width="8.75" height="12.75" fill="black"/>
+      <rect x="37.12" y="68.12" width="8.75" height="20.75" fill="black"/>
+      <rect x="51.12" y="56.12" width="8.75" height="32.75" fill="black"/>
+      <rect x="65.12" y="40.12" width="8.75" height="48.75" fill="black"/>
+      <rect x="79.12" y="20.12" width="8.75" height="68.75" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP357D-R6.svg" target="_parent" aria-label="Open BP357, right example 6">
+    <title>BP357, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="77.12,13.12 77.12,15.54 75.12,17.61 75.12,19.39 77.12,21.46 77.12,83.88 87.88,83.88 87.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="77.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <polygon points="60.12,13.12 60.12,60.54 58.12,62.61 58.12,64.39 60.12,66.46 60.12,83.88 70.88,83.88 70.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="60.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <polygon points="43.12,13.12 43.12,83.88 53.88,83.88 53.88,76.46 55.88,74.39 55.88,72.61 53.88,70.54 53.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="43.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <polygon points="26.13,13.12 26.12,83.88 36.88,83.88 36.88,41.46 38.88,39.39 38.88,37.61 36.88,35.54 36.88,13.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="26.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+      <rect x="9.12" y="11.12" width="10.75" height="72.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="9.88" y="13.88" width="9.25" height="69.25" fill="white"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

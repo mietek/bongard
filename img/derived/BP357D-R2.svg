@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP357, right example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="87.5" cy="47.5" r="8.28" fill="black"/>
+  <path d="M91.38 41.88C95.91 44.44 95.96 50.24 91.62 53.12C90.26 50.32 90.69 45.09 91.38 41.88Z" fill="white"/>
+  <circle cx="68.5" cy="47.5" r="8.28" fill="black"/>
+  <path d="M68.38 39.88C72.03 40.35 74.32 43.56 76.12 46.38C76.3 50.7 72.62 53.13 69.62 55.12L67.88 54.62L68.38 39.88Z" fill="white"/>
+  <circle cx="49.5" cy="47.5" r="8.28" fill="black"/>
+  <path d="M45.88 53.62C46.66 48.56 43.15 39.17 50.62 39.88L51.38 40.88C52.79 40.55 53.47 41.79 54.12 42.62C61.68 47.02 51.94 58.81 45.88 53.62Z" fill="white"/>
+  <circle cx="30.5" cy="47.5" r="8.28" fill="black"/>
+  <ellipse cx="30.95" cy="47.5" rx="6.64" ry="7.39" transform="rotate(0 30.95 47.5)" fill="white"/>
+  <circle cx="11.5" cy="47.5" r="8.28" fill="black"/>
+  <ellipse cx="11.65" cy="47.5" rx="7.02" ry="7.29" transform="rotate(0 11.65 47.5)" fill="white"/>
+</svg>

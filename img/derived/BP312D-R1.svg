@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP312, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="82.22,34.12 81.12,34.12 81.12,58.74 80.05,59.4 81.69,61.04" fill="black"/>
+  <path d="M20.12 49.12L20.62 49.88C26.3 41.43 33.47 33.35 38.62 25.12L37.38 25.12C31.96 33.4 25.01 40.65 20.12 49.12Z" fill="black"/>
+</svg>

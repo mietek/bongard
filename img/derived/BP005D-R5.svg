@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP005, right example 5</title>
+  <rect width="98" height="98" fill="white" />
+  <ellipse cx="51" cy="50.6" rx="30.7" ry="16.5" transform="rotate(124.6 51 50.6)" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

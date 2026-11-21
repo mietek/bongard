@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP024, left example 4</title>
+  <rect width="98" height="98" fill="white" />
+  <circle cx="31.2" cy="26.7" r="9.3" fill="none" stroke="black" stroke-width="2.5" />
+  <polygon points="68,23.1 81.9,39.2 60.4,42.6" fill="none" stroke="black" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="round" />
+  <rect x="27" y="55" width="17.5" height="17.9" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="miter" />
+</svg>

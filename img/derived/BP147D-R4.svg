@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP147, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="53.73" cy="80.14" rx="4.24" ry="4.72" transform="rotate(163.66 53.73 80.14)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="53.58" cy="80.06" rx="2.71" ry="3.29" transform="rotate(7.54 53.58 80.06)" fill="white"/>
+  <path d="M23.12 76.12L23.12 78.88L22.12 79.12C21.55 81.43 23.94 81.12 24.12 82.88L28.88 82.88C28.89 81.57 30.48 81.89 29.88 80.12L30.88 79.88L30.88 77.12C30.15 77.33 29.67 76.85 29.88 76.12C29.15 76.33 28.67 75.85 28.88 75.12L27.12 75.12L26.88 76.12L23.12 76.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M23.88 77.12C25.78 77.11 30.85 75.51 30.12 78.88L29.12 79.12C29.09 79.95 29.47 81.49 28.12 81.12C28.68 82.59 25.32 82.59 25.88 81.12C23.08 81.94 24 78.86 23.88 77.12Z" fill="white"/>
+  <ellipse cx="76.66" cy="64.43" rx="2.8" ry="3.22" transform="rotate(110.66 76.66 64.43)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="76.64" cy="64.64" rx="1.63" ry="1.94" transform="rotate(45 76.64 64.64)" fill="white"/>
+  <ellipse cx="46.75" cy="45.36" rx="3.38" ry="3.83" transform="rotate(91.47 46.75 45.36)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="46.77" cy="45.1" rx="2.33" ry="3.19" transform="rotate(83.51 46.77 45.1)" fill="white"/>
+  <circle cx="21.33" cy="28.74" r="4.34" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="21" cy="28.66" rx="3.04" ry="3.76" transform="rotate(38.37 21 28.66)" fill="white"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP288, left example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="23.12" y="52.12" width="37.75" height="37.75" fill="black"/>
+  <path d="M42.12 70.62L59.62 70.88L59.62 89.12L24.38 89.12L23.88 53.38L41.62 52.88L42.12 70.62Z" fill="white"/>
+  <rect x="59.12" y="16.12" width="13.75" height="13.75" fill="black"/>
+  <rect x="59.88" y="22.88" width="6.25" height="6.25" fill="white"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP280, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <g aria-label="^V">
+  <path transform="translate(21 49) scale(0.0198915 -0.0212291) translate(-45 -514)" d="M922 514 596 1266 272 514H45L436 1409H758L1151 514Z"/>
+  <path transform="translate(47 65) scale(0.0231689 -0.0248403) translate(-14 0)" d="M834 0H535L14 1409H322L612 504Q639 416 686 238L707 324L758 504L1047 1409H1352Z"/>
+  </g>
+</svg>

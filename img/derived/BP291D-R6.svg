@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP291, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="61.5" cy="57.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="61.5" cy="57.5" r="3.96" fill="white"/>
+  <path d="M75.12 52.38C75.15 53.17 75.35 54.48 74.12 54.12C74.09 54.95 74.47 56.49 73.12 56.12C73.09 56.95 73.47 58.49 72.12 58.12C72.74 60.22 70.53 59.86 71.12 61.88L79.88 61.88C80.47 59.86 78.26 60.22 78.88 58.12C77.53 58.49 77.91 56.95 77.88 56.12C76.53 56.49 76.91 54.95 76.88 54.12C75.53 54.49 75.91 52.95 75.88 52.12L75.12 52.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M75.38 53.88L76.12 54.12C75.53 56.14 77.74 55.78 77.12 57.88C78.47 57.51 78.09 59.05 78.12 59.88L79.12 60.12L78.88 61.12L71.88 60.88C71.67 60.15 72.15 59.67 72.88 59.88C72.91 59.05 72.53 57.51 73.88 57.88C73.91 57.05 73.53 55.51 74.88 55.88C75.04 55.24 74.46 53.96 75.38 53.88Z" fill="white"/>
+  <rect x="60.12" y="42.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="60.88" y="42.88" width="7.25" height="7.25" fill="white"/>
+  <rect x="15.12" y="34.12" width="33.75" height="33.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.88" y="34.88" width="32.25" height="32.25" fill="white"/>
+  <circle cx="25.5" cy="57.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="25.5" cy="57.5" r="3.96" fill="white"/>
+  <path d="M39.12 52.38C39.15 53.17 39.35 54.48 38.12 54.12C38.09 54.95 38.47 56.49 37.12 56.12C37.09 56.95 37.47 58.49 36.12 58.12C36.74 60.22 34.53 59.86 35.12 61.88L43.88 61.88C44.47 59.86 42.26 60.22 42.88 58.12C41.53 58.49 41.91 56.95 41.88 56.12C40.53 56.49 40.91 54.95 40.88 54.12C39.53 54.49 39.91 52.95 39.88 52.12L39.12 52.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M39.38 53.88L40.12 54.12C39.53 56.14 41.74 55.78 41.12 57.88C42.47 57.51 42.09 59.05 42.12 59.88L43.12 60.12L42.88 61.12L35.88 60.88C35.67 60.15 36.15 59.67 36.88 59.88C36.91 59.05 36.53 57.51 37.88 57.88C37.91 57.05 37.53 55.51 38.88 55.88C39.04 55.24 38.46 53.96 39.38 53.88Z" fill="white"/>
+  <rect x="24.12" y="42.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="24.88" y="42.88" width="7.25" height="7.25" fill="white"/>
+</svg>

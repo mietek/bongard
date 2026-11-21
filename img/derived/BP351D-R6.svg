@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP351, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="79.12" y="24.12" width="8.75" height="48.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="79.88" y="24.88" width="7.25" height="1.25" fill="white"/>
+  <rect x="65.12" y="24.12" width="8.75" height="48.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="65.88" y="24.88" width="7.25" height="10.25" fill="white"/>
+  <rect x="51.12" y="24.12" width="8.75" height="48.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="51.88" y="24.88" width="7.25" height="19.25" fill="white"/>
+  <rect x="37.12" y="24.12" width="8.75" height="48.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="37.88" y="24.88" width="7.25" height="28.25" fill="white"/>
+  <rect x="23.12" y="24.12" width="8.75" height="48.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="23.88" y="24.88" width="7.25" height="37.25" fill="white"/>
+  <rect x="9.12" y="24.12" width="8.75" height="48.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="9.88" y="24.88" width="7.25" height="46.25" fill="white"/>
+</svg>

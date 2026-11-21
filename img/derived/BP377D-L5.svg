@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP377, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M32.38 58.12C31.94 63.53 27.58 61.84 24.38 60.12C24.7 63.54 28.03 67.91 22.12 68.38L26.12 70.38C26.34 72.59 23.52 73.74 24.38 75.88L29.62 73.88L32.62 78.88L35.38 73.88C36.77 74.54 38.17 76.28 39.88 75.62L37.88 71.38L41.88 68.38L37.88 65.62C38.81 64.06 39.8 61.88 39.62 60.12L34.38 62.12L32.38 58.12Z" fill="black"/>
+  <polygon points="32.54,72.83 33.84,74.19 32.5,77.85 31.15,74.15" fill="white"/>
+  <ellipse cx="36.5" cy="72" rx="0.67" ry="1.14" transform="rotate(0 36.5 72)" fill="white"/>
+  <path d="M27.38 70.88C29.84 71.65 28.79 74.38 26.38 74.12C25.5 73.15 27.22 72.14 27.38 70.88Z" fill="white"/>
+  <ellipse cx="26" cy="68.5" rx="0.67" ry="1.14" transform="rotate(90 26 68.5)" fill="white"/>
+  <ellipse cx="38.22" cy="68.22" rx="1" ry="1.77" transform="rotate(109.03 38.22 68.22)" fill="white"/>
+  <ellipse cx="32.33" cy="68.5" rx="3.35" ry="3.61" transform="rotate(0 32.33 68.5)" fill="white"/>
+  <ellipse cx="36.7" cy="63.7" rx="0.94" ry="2.14" transform="rotate(45 36.7 63.7)" fill="white"/>
+  <path d="M26.38 61.88C28.37 62.71 30.46 64.27 27.62 66.12C27.04 65 25.05 63.36 26.38 61.88Z" fill="white"/>
+  <ellipse cx="32.5" cy="62" rx="0.67" ry="1.14" transform="rotate(0 32.5 62)" fill="white"/>
+  <path d="M67.62 14.12L67.62 22.12L60.12 21.38L67.12 26.38L61.12 32.62C63.98 32.96 66.18 30.23 69.62 30.88L71.62 37.88L74.38 30.88C76.43 31.87 78.52 33.94 80.88 33.62L76.88 27.38L83.88 24.38L76.88 22.62L78.62 15.12L72.38 21.12L67.62 14.12Z" fill="black"/>
+  <ellipse cx="71.93" cy="31.77" rx="1.21" ry="2.2" transform="rotate(7.44 71.93 31.77)" fill="white"/>
+  <ellipse cx="76" cy="29.5" rx="0.91" ry="1.72" transform="rotate(146.39 76 29.5)" fill="white"/>
+  <ellipse cx="67.7" cy="28.7" rx="0.94" ry="2.14" transform="rotate(45 67.7 28.7)" fill="white"/>
+  <ellipse cx="77.29" cy="24.9" rx="1.15" ry="1.68" transform="rotate(72.09 77.29 24.9)" fill="white"/>
+  <ellipse cx="72.5" cy="26" rx="2.17" ry="2.59" transform="rotate(90 72.5 26)" fill="white"/>
+  <ellipse cx="67.71" cy="23.9" rx="1.15" ry="1.68" transform="rotate(107.91 67.71 23.9)" fill="white"/>
+  <ellipse cx="75.11" cy="21.68" rx="1.14" ry="1.73" transform="rotate(19.33 75.11 21.68)" fill="white"/>
+  <circle cx="76.5" cy="19.56" r="0.65" fill="white"/>
+  <ellipse cx="69.9" cy="20.71" rx="1.15" ry="1.68" transform="rotate(162.09 69.9 20.71)" fill="white"/>
+</svg>

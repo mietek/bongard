@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP398, linked examples">
+  <title>BP398 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP398D-L1.svg" target="_parent" aria-label="Open BP398, left example 1">
+    <title>BP398, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M37.38 73.12L37.12 87.62L48.62 87.88C45.89 82.92 40.87 77.98 37.38 73.12Z" fill="black"/>
+      <path d="M39.38 77.88C40.44 80.78 45.16 83.03 44.62 86.12L38.88 85.62L39.38 77.88Z" fill="white"/>
+      <polygon points="19.55,69.2 11.97,82.88 27.97,82.88 20.77,70.42" fill="black"/>
+      <path d="M19.88 72.12C21.33 75.12 24.48 78.24 24.62 81.12L14.88 80.62C16.94 78.16 17.64 73.63 19.88 72.12Z" fill="white"/>
+      <polygon points="74.13,38.12 77.74,57.88 85.11,57.88 87.88,44.62 87.88,38.12" fill="black"/>
+      <polygon points="76.03,39.88 86.86,39.88 83.86,56.12 79.23,56.12 78.33,53.65" fill="white"/>
+      <rect x="49.12" y="34.12" width="14.75" height="12.75" fill="black"/>
+      <rect x="50.88" y="35.88" width="12.25" height="9.25" fill="white"/>
+      <rect x="76.12" y="19.12" width="10.75" height="11.75" fill="black"/>
+      <rect x="77.88" y="20.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="46.12" y="15.12" width="19.75" height="8.75" fill="black"/>
+      <rect x="47.88" y="16.88" width="17.25" height="5.25" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-L2.svg" target="_parent" aria-label="Open BP398, left example 2">
+    <title>BP398, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M78.12 75.38L82.38 86.88C85.53 86.41 89.74 88.02 91.88 85.62L94.88 75.38L78.12 75.38Z" fill="black"/>
+      <path d="M79.88 77.62C83.34 76.25 89.25 76.69 93.12 77.38L89.62 85.12C85.55 85.61 81.16 85.28 81.88 80.38L79.88 77.62Z" fill="white"/>
+      <rect x="56.12" y="69.12" width="13.75" height="16.75" fill="black"/>
+      <rect x="57.88" y="70.88" width="10.25" height="13.25" fill="white"/>
+      <path d="M76.38 66.88L94.62 66.88L94.88 64.38C90.76 62.01 89.53 56.67 85.38 55.12C84.07 60 76.86 62.05 76.38 66.88Z" fill="black"/>
+      <path d="M93.12 64.62L80.38 65.12L79.88 63.38C82.38 61.78 83.55 58.32 86.62 57.88L93.12 64.62Z" fill="white"/>
+      <path d="M34.38 31.12L29.12 39.38C31.34 42.01 32.62 46.49 35.62 47.88L40.88 40.62C40.23 36.84 36.76 34.73 35.62 31.12L34.38 31.12Z" fill="black"/>
+      <ellipse cx="13.64" cy="32.89" rx="5.62" ry="8.18" transform="rotate(89.04 13.64 32.89)" fill="black"/>
+      <rect x="26.12" y="11.12" width="10.75" height="11.75" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-L3.svg" target="_parent" aria-label="Open BP398, left example 3">
+    <title>BP398, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="21.61" cy="71.91" rx="5.55" ry="11.2" transform="rotate(89.76 21.61 71.91)" fill="black"/>
+      <ellipse cx="21.54" cy="71.91" rx="4.13" ry="9.49" transform="rotate(90.33 21.54 71.91)" fill="white"/>
+      <path d="M78.12 53.88C80.39 55.66 85.12 56.36 88.88 55.62L88.62 35.12L86.38 35.12L68.38 52.88C75.2 49.23 80.02 41.99 86.62 37.88L87.12 53.62C85.42 54.31 81.79 54.82 80.62 53.12C79.81 53.33 78.01 52.56 78.12 53.88Z" fill="black"/>
+      <path d="M27.62 35.12L27.12 57.62L39.62 57.88C36.29 50.41 31.62 42.72 27.62 35.12Z" fill="black"/>
+      <path d="M29.62 41.88C32.14 46.5 35.67 51.53 36.62 56.12L28.88 55.62C29.34 51.18 27.93 45.57 29.62 41.88Z" fill="white"/>
+      <rect x="9.12" y="33.12" width="10.75" height="24.75" fill="black"/>
+      <rect x="10.88" y="34.88" width="8.25" height="21.25" fill="white"/>
+      <path d="M66.88 22.62C64.26 21.26 62.52 26.25 60.12 27.38C60.34 32.27 61.91 38.05 67.62 37.88C68.27 39.49 70.19 38.69 71.62 38.88C75.95 36.28 75.9 30.02 75.88 24.38L74.38 24.12L74.12 28.62L74.12 31.88C74.19 32.9 74.27 34.06 73.12 34.38C69.14 43.22 55.66 29.16 64.88 24.62C65.05 23.26 67.53 24.52 66.88 22.62Z" fill="black"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-L4.svg" target="_parent" aria-label="Open BP398, left example 4">
+    <title>BP398, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="48.23,89.88 94.88,89.88 94.88,88.54 84.55,72.23 82.45,70.12 60.57,70.12" fill="black"/>
+      <path d="M93.12 88.62L51.38 89.12L50.88 88.38L61.38 71.88L82.62 71.88L93.12 88.62Z" fill="white"/>
+      <rect x="19.12" y="57.12" width="25.75" height="29.75" fill="black"/>
+      <rect x="20.88" y="58.88" width="22.25" height="26.25" fill="white"/>
+      <rect x="80.12" y="32.12" width="9.75" height="9.75" fill="black"/>
+      <rect x="81.88" y="33.88" width="6.25" height="6.25" fill="white"/>
+      <rect x="64.12" y="22.12" width="10.75" height="11.75" fill="black"/>
+      <rect x="65.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <polygon points="81.12,14.3 81.12,28.88 95.23,28.88 83.88,16.38" fill="black"/>
+      <path d="M83.38 18.88C85.2 21.5 90.64 23.61 89.62 27.12L82.88 26.62L83.38 18.88Z" fill="white"/>
+      <ellipse cx="11.62" cy="37.33" rx="8.34" ry="21.63" transform="rotate(179.97 11.62 37.33)" fill="black"/>
+      <ellipse cx="11.57" cy="37.16" rx="6.75" ry="20.05" transform="rotate(0.35 11.57 37.16)" fill="white"/>
+      <circle cx="54.85" cy="17.93" r="4.46" fill="black"/>
+      <circle cx="54.77" cy="17.92" r="3.08" fill="white"/>
+      <circle cx="71.81" cy="11.98" r="5.42" fill="black"/>
+      <circle cx="71.83" cy="11.93" r="4.08" fill="white"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-L5.svg" target="_parent" aria-label="Open BP398, left example 5">
+    <title>BP398, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="18.12" y="75.12" width="1.75" height="13.75" fill="black"/>
+      <rect x="31.12" y="71.12" width="1.75" height="16.75" fill="black"/>
+      <rect x="63.12" y="55.12" width="18.75" height="1.75" fill="black"/>
+      <rect x="7.12" y="53.12" width="1.75" height="29.75" fill="black"/>
+      <rect x="19.12" y="50.12" width="1.75" height="17.75" fill="black"/>
+      <rect x="80.12" y="46.12" width="12.75" height="1.75" fill="black"/>
+      <rect x="58.12" y="41.12" width="12.75" height="1.75" fill="black"/>
+      <rect x="36.12" y="41.12" width="1.75" height="20.75" fill="black"/>
+      <rect x="72.12" y="33.12" width="20.75" height="1.75" fill="black"/>
+      <rect x="56.12" y="26.12" width="38.75" height="1.75" fill="black"/>
+      <rect x="27.12" y="24.12" width="1.75" height="14.75" fill="black"/>
+      <rect x="63.12" y="16.12" width="16.75" height="1.75" fill="black"/>
+      <rect x="10.12" y="14.12" width="1.75" height="34.75" fill="black"/>
+      <rect x="17.12" y="12.12" width="1.75" height="21.75" fill="black"/>
+      <rect x="32.12" y="10.12" width="1.75" height="7.75" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-L6.svg" target="_parent" aria-label="Open BP398, left example 6">
+    <title>BP398, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="75.89,63.12 69.31,74.3 75.87,85.88 89.11,85.88 95.83,74.46 89.3,63.12" fill="black"/>
+      <circle cx="79.77" cy="70.92" r="3.08" fill="white"/>
+      <polygon points="64.88,56.49 49.12,81.38 47.6,84.88 64.88,84.88" fill="black"/>
+      <circle cx="58.77" cy="77.92" r="3.08" fill="white"/>
+      <polygon points="19.09,42.12 7.31,52.06 12.08,68.88 28.13,68.88 32.78,52.06 21.09,42.12" fill="black"/>
+      <circle cx="22.77" cy="61.92" r="3.08" fill="white"/>
+      <circle cx="16.77" cy="53.92" r="3.08" fill="white"/>
+      <rect x="2.12" y="15.12" width="34.75" height="20.75" fill="black"/>
+      <circle cx="10.77" cy="28.92" r="3.08" fill="white"/>
+      <circle cx="27.77" cy="22.92" r="3.08" fill="white"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-R1.svg" target="_parent" aria-label="Open BP398, right example 1">
+    <title>BP398, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M20.62 77.12C19.19 77.31 17.27 76.51 16.62 78.12C13.8 77.72 12.6 80 10.12 80.38C9.29 89.97 21.75 90.96 28.62 88.88C33.95 85.77 31.92 78.26 28.38 75.12C27.17 76.98 29.31 77.92 29.12 79.62L30.12 80.38C32.5 92.07 13 89.45 10.88 82.38L15.62 79.88C15.99 78.51 17.49 78.92 18.62 78.88L20.62 77.12Z" fill="black"/>
+      <rect x="36.12" y="71.12" width="11.75" height="18.75" fill="black"/>
+      <rect x="37.88" y="72.88" width="9.25" height="15.25" fill="white"/>
+      <path d="M52.12 29.62C56.39 26.68 58.91 20.36 63.62 16.88L64.12 29.62C62.65 30.96 60.04 29.69 59.12 29.38C59.32 32 63.42 32.27 65.88 31.62L65.62 13.12C59.82 16.15 57.4 23.24 52.12 27.38L52.12 29.62Z" fill="black"/>
+      <ellipse cx="79.64" cy="23.5" rx="5.35" ry="13" transform="rotate(0 79.64 23.5)" fill="black"/>
+      <ellipse cx="79.52" cy="23.43" rx="3.75" ry="11.29" transform="rotate(0.34 79.52 23.43)" fill="white"/>
+      <polygon points="50.63,9.14 32.12,20.9 32.12,21.63 44.48,41.7" fill="black"/>
+      <polygon points="48.12,12.51 48.12,17.62 43.7,37.41 33.72,21.62" fill="white"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-R2.svg" target="_parent" aria-label="Open BP398, right example 2">
+    <title>BP398, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="31.12" y="77.12" width="1.75" height="13.75" fill="black"/>
+      <rect x="24.12" y="67.12" width="1.75" height="20.75" fill="black"/>
+      <rect x="20.12" y="59.12" width="12.75" height="1.75" fill="black"/>
+      <rect x="16.12" y="57.12" width="1.75" height="14.75" fill="black"/>
+      <rect x="65.12" y="49.12" width="18.75" height="1.75" fill="black"/>
+      <rect x="10.12" y="47.12" width="20.75" height="1.75" fill="black"/>
+      <rect x="79.12" y="41.12" width="12.75" height="1.75" fill="black"/>
+      <rect x="68.12" y="20.12" width="1.75" height="17.75" fill="black"/>
+      <rect x="13.12" y="19.12" width="1.75" height="21.75" fill="black"/>
+      <rect x="58.12" y="18.12" width="1.75" height="29.75" fill="black"/>
+      <rect x="85.12" y="17.12" width="1.75" height="16.75" fill="black"/>
+      <rect x="62.12" y="11.12" width="16.75" height="1.75" fill="black"/>
+      <rect x="6.12" y="11.12" width="15.75" height="1.75" fill="black"/>
+      <rect x="26.12" y="7.12" width="1.75" height="34.75" fill="black"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-R3.svg" target="_parent" aria-label="Open BP398, right example 3">
+    <title>BP398, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="55.88,58.49 40.12,83.38 38.6,86.88 55.88,86.88" fill="black"/>
+      <circle cx="49.77" cy="78.92" r="3.08" fill="white"/>
+      <polygon points="22.09,55.12 10.31,65.06 15.08,81.88 31.13,81.88 35.78,65.06 24.09,55.12" fill="black"/>
+      <circle cx="25.77" cy="74.92" r="3.08" fill="white"/>
+      <circle cx="19.77" cy="66.92" r="3.08" fill="white"/>
+      <polygon points="30.89,13.12 24.31,24.3 30.87,35.88 44.11,35.88 48.88,28.62 50.83,24.21 44.22,13.12" fill="black"/>
+      <circle cx="34.77" cy="20.92" r="3.08" fill="white"/>
+      <rect x="56.12" y="11.12" width="34.75" height="20.75" fill="black"/>
+      <circle cx="64.77" cy="24.92" r="3.08" fill="white"/>
+      <circle cx="81.77" cy="18.92" r="3.08" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-R4.svg" target="_parent" aria-label="Open BP398, right example 4">
+    <title>BP398, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="20.55,68.2 12.97,81.88 28.97,81.88 21.77,69.42" fill="black"/>
+      <path d="M20.88 71.12C22.33 74.12 25.48 77.24 25.62 80.12L15.88 79.62C17.94 77.16 18.64 72.63 20.88 71.12Z" fill="white"/>
+      <rect x="60.12" y="65.12" width="14.75" height="12.75" fill="black"/>
+      <rect x="61.88" y="66.88" width="12.25" height="9.25" fill="white"/>
+      <rect x="10.12" y="52.12" width="19.75" height="8.75" fill="black"/>
+      <rect x="11.88" y="53.88" width="17.25" height="5.25" fill="white"/>
+      <path d="M79.38 46.12L79.12 60.62L90.62 60.88C87.89 55.92 82.87 50.98 79.38 46.12Z" fill="black"/>
+      <path d="M81.38 50.88C82.44 53.78 87.16 56.03 86.62 59.12L80.88 58.62L81.38 50.88Z" fill="white"/>
+      <rect x="15.12" y="32.12" width="10.75" height="11.75" fill="black"/>
+      <rect x="16.88" y="33.88" width="8.25" height="8.25" fill="white"/>
+      <polygon points="31.13,15.12 34.74,34.88 42.11,34.88 44.88,21.62 44.88,15.12" fill="black"/>
+      <polygon points="33.03,16.88 43.86,16.88 40.86,33.12 36.23,33.12 35.33,30.65" fill="white"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-R5.svg" target="_parent" aria-label="Open BP398, right example 5">
+    <title>BP398, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="13.12" y="71.12" width="13.75" height="16.75" fill="black"/>
+      <rect x="14.88" y="72.88" width="10.25" height="13.25" fill="white"/>
+      <ellipse cx="45.64" cy="75.89" rx="5.62" ry="8.18" transform="rotate(89.04 45.64 75.89)" fill="black"/>
+      <polygon points="20.12,60.51 20.12,61.88 40.78,61.88 30.29,50.12 30.55,50.12" fill="black"/>
+      <path d="M37.12 59.62L24.38 60.12L23.88 58.38C26.38 56.78 27.55 53.32 30.62 52.88L37.12 59.62Z" fill="white"/>
+      <path d="M65.12 35.38L69.38 46.88C72.53 46.41 76.74 48.02 78.88 45.62L81.88 35.38L65.12 35.38Z" fill="black"/>
+      <path d="M66.88 37.62C70.34 36.25 76.25 36.69 80.12 37.38L76.62 45.12C72.55 45.61 68.16 45.28 68.88 40.38L66.88 37.62Z" fill="white"/>
+      <path d="M56.38 14.12L51.12 22.38C53.34 25.01 54.62 29.49 57.62 30.88L62.88 23.62C62.23 19.84 58.76 17.73 57.62 14.12L56.38 14.12Z" fill="black"/>
+      <ellipse cx="81.29" cy="19.72" rx="6.84" ry="8.24" transform="rotate(0.51 81.29 19.72)" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP398D-R6.svg" target="_parent" aria-label="Open BP398, right example 6">
+    <title>BP398, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="53.12" y="76.12" width="14.75" height="8.75" fill="black"/>
+      <rect x="54.88" y="77.88" width="12.25" height="5.25" fill="white"/>
+      <ellipse cx="82.05" cy="65.66" rx="12.8" ry="16.23" transform="rotate(0.44 82.05 65.66)" fill="black"/>
+      <ellipse cx="82.05" cy="65.61" rx="11.24" ry="14.77" transform="rotate(178.96 82.05 65.61)" fill="white"/>
+      <polygon points="22.12,39.3 22.12,53.88 36.23,53.88 24.88,41.38" fill="black"/>
+      <path d="M24.38 43.88C26.2 46.5 31.64 48.61 30.62 52.12L23.88 51.62L24.38 43.88Z" fill="white"/>
+      <ellipse cx="79.86" cy="40.91" rx="4.59" ry="7.27" transform="rotate(89.98 79.86 40.91)" fill="black"/>
+      <ellipse cx="79.94" cy="40.96" rx="3.14" ry="5.97" transform="rotate(88.83 79.94 40.96)" fill="white"/>
+      <rect x="33.12" y="30.12" width="10.75" height="11.75" fill="black"/>
+      <rect x="34.88" y="31.88" width="8.25" height="8.25" fill="white"/>
+      <circle cx="85.85" cy="27.93" r="4.46" fill="black"/>
+      <circle cx="85.77" cy="27.92" r="3.08" fill="white"/>
+      <polygon points="11.86,9.12 4.22,22.57 11.77,35.88 26.61,35.88 33.81,22.55 26.26,9.12" fill="black"/>
+      <polygon points="12.56,10.88 25.44,10.88 27.86,14.6 32.14,22.9 25.89,34.12 12.3,34.12 5.92,22.45" fill="white"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

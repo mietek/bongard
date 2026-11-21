@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP386, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="32.12" y="73.12" width="36.75" height="9.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="59.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="50.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="41.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="32.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+  <path d="M41.12 16.12L41.12 24.88L32.12 25.12L32.12 33.88L23.12 34.12L23.12 43.88L32.12 44.12L32.12 51.88L23.12 52.12L23.12 61.88L59.88 61.88L59.88 53.12L68.88 52.88L68.88 26.12L77.88 25.88L77.88 16.12L41.12 16.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="50.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="41.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="32.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="23.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="59.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="50.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="41.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="32.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="59.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="50.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="41.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="32.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="23.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="59.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="50.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="41.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="32.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="68.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="59.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="50.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="41.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+</svg>

@@ -1,0 +1,409 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP386, linked examples">
+  <title>BP386 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP386D-L1.svg" target="_parent" aria-label="Open BP386, left example 1">
+    <title>BP386, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="37.12" y="63.12" width="18.75" height="18.75" fill="black"/>
+      <rect x="46.88" y="72.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="72.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="46.88" y="63.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="63.88" width="8.25" height="8.25" fill="white"/>
+      <polygon points="22.12,12.12 22.12,30.88 31.12,30.88 31.12,48.88 67.88,48.88 67.88,30.12 58.88,30.12 58.88,12.12" fill="black"/>
+      <rect x="58.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="22.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="22.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-L2.svg" target="_parent" aria-label="Open BP386, left example 2">
+    <title>BP386, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="32.12,61.12 32.12,70.88 41.12,70.88 41.12,79.88 59.88,79.88 59.88,70.12 50.88,70.12 50.88,61.12" fill="black"/>
+      <rect x="50.88" y="70.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="70.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="61.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="32.88" y="61.88" width="8.25" height="8.25" fill="white"/>
+      <polygon points="18.12,24.12 18.12,33.88 27.12,33.88 27.12,42.88 63.88,42.88 63.88,33.88 72.88,33.88 72.88,24.12 63.88,24.12 63.88,15.12 45.12,15.12 45.12,24.12" fill="black"/>
+      <rect x="54.88" y="33.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="33.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="33.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="27.88" y="33.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="63.88" y="24.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="24.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="24.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="24.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="27.88" y="24.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="18.88" y="24.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="15.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="15.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-L3.svg" target="_parent" aria-label="Open BP386, left example 3">
+    <title>BP386, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="33.12,70.12 33.12,79.88 60.88,79.88 60.88,70.12 51.88,70.12 51.88,61.12 42.12,61.12 42.12,70.12" fill="black"/>
+      <rect x="51.88" y="70.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="42.88" y="70.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="70.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="42.88" y="61.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M24.38 12.12L24.12 20.62L15.38 21.12L15.12 30.62L24.12 31.38L23.62 39.12L15.12 39.38L15.38 48.88L42.62 48.88L43.38 39.88L50.62 39.88L51.38 48.88L78.88 48.62L78.62 39.12L69.88 38.62L69.88 31.38L78.88 30.62L78.88 21.38L70.38 21.12L69.88 12.38L60.38 12.12L59.62 21.12L34.38 21.12L33.62 12.12L24.38 12.12Z" fill="black"/>
+      <rect x="69.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="60.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="51.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="15.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="60.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="51.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="42.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="69.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="60.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="51.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="42.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="15.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="60.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-L4.svg" target="_parent" aria-label="Open BP386, left example 4">
+    <title>BP386, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="31.12,66.12 31.12,84.88 58.88,84.88 58.88,75.12 40.88,75.12 40.88,66.12" fill="black"/>
+      <rect x="49.88" y="75.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="75.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="75.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="66.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M35.38 14.12L35.12 22.62L26.38 23.12L26.12 31.62L17.12 32.38L17.38 50.88L44.62 50.88L45.38 41.88L52.62 41.88L53.38 50.88L80.88 50.62L80.62 41.12L62.88 40.62L62.62 23.12L45.38 23.12L44.62 14.12L35.38 14.12Z" fill="black"/>
+      <rect x="71.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="62.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="53.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="35.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="26.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="17.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="53.88" y="32.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="44.88" y="32.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="35.88" y="32.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="26.88" y="32.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="17.88" y="32.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="53.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="44.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="35.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="26.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="35.88" y="14.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-L5.svg" target="_parent" aria-label="Open BP386, left example 5">
+    <title>BP386, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="44.12,62.12 44.12,71.12 35.12,71.12 35.12,89.88 53.88,89.88 53.88,80.88 62.88,80.88 62.88,71.12 53.88,71.12 53.88,62.12" fill="black"/>
+      <rect x="44.88" y="80.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="35.88" y="80.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="53.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="44.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="35.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="44.88" y="62.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M48.38 8.12L48.12 16.62L39.12 17.38L39.12 25.62L30.38 26.12L30.12 34.62L21.12 35.38L21.38 53.88L39.62 53.88L40.38 44.88L47.62 44.88L48.38 53.88L66.62 53.88L67.38 44.88L75.88 44.62L75.88 35.38L66.88 34.62L66.88 17.38L58.38 17.12L57.88 8.38L48.38 8.12Z" fill="black"/>
+      <rect x="57.88" y="44.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="48.88" y="44.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="30.88" y="44.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="21.88" y="44.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="66.88" y="35.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="57.88" y="35.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="48.88" y="35.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="39.88" y="35.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="30.88" y="35.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="21.88" y="35.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="57.88" y="26.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="48.88" y="26.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="39.88" y="26.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="30.88" y="26.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="57.88" y="17.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="48.88" y="17.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="39.88" y="17.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="48.88" y="8.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-L6.svg" target="_parent" aria-label="Open BP386, left example 6">
+    <title>BP386, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="45.12,60.12 45.12,78.12 36.12,78.12 36.12,87.88 54.88,87.88 54.88,69.88 63.88,69.88 63.88,60.12" fill="black"/>
+      <rect x="45.88" y="78.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="78.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="69.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="60.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="60.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M27.38 9.12L27.12 26.62L18.12 27.38L18.12 36.62L26.88 37.12L27.38 45.88L45.62 45.88L46.38 36.88L53.62 36.88L54.38 45.88L72.88 45.62L72.88 28.38L81.88 27.62L81.88 18.38L73.12 17.88L72.62 9.12L54.38 9.12L53.62 18.12L46.38 18.12L45.62 9.12L27.38 9.12Z" fill="black"/>
+      <rect x="63.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="27.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="63.88" y="27.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="27.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="27.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="27.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="27.88" y="27.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="18.88" y="27.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="72.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="63.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="27.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="63.88" y="9.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="54.88" y="9.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="9.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="27.88" y="9.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-R1.svg" target="_parent" aria-label="Open BP386, right example 1">
+    <title>BP386, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="38.12" y="62.12" width="18.75" height="18.75" fill="black"/>
+      <rect x="47.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="38.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="47.88" y="62.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="38.88" y="62.88" width="8.25" height="8.25" fill="white"/>
+      <polygon points="15.12,29.12 15.12,47.88 42.88,47.88 42.88,29.88 51.12,29.88 51.12,47.88 78.88,47.88 78.88,29.12 60.88,29.12 60.88,11.12 24.12,11.12 24.12,29.12" fill="black"/>
+      <rect x="69.88" y="38.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="60.88" y="38.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="51.88" y="38.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="38.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="38.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="15.88" y="38.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="69.88" y="29.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="60.88" y="29.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="51.88" y="29.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="29.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="29.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="15.88" y="29.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="51.88" y="20.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="42.88" y="20.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="20.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="20.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="51.88" y="11.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="42.88" y="11.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="33.88" y="11.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="24.88" y="11.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-R2.svg" target="_parent" aria-label="Open BP386, right example 2">
+    <title>BP386, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="46.12,69.12 46.12,78.12 37.12,78.12 37.12,87.88 55.88,87.88 55.88,78.88 64.88,78.88 64.88,69.12" fill="black"/>
+      <rect x="46.88" y="78.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="78.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="55.88" y="69.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="46.88" y="69.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M55.38 12.12L54.62 21.12L28.38 21.12L28.12 29.62L19.38 30.12L19.12 39.62L28.12 40.38L28.38 48.88L37.12 49.38L37.38 57.88L55.62 57.88L56.38 48.88L73.88 48.62L73.88 31.38L82.62 30.88L82.88 21.38L73.88 20.62L73.62 12.12L55.38 12.12Z" fill="black"/>
+      <rect x="46.88" y="48.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="48.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="64.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="55.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="46.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="28.88" y="39.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="64.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="55.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="46.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="28.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="19.88" y="30.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="73.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="64.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="55.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="46.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="37.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="28.88" y="21.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="64.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="55.88" y="12.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-R3.svg" target="_parent" aria-label="Open BP386, right example 3">
+    <title>BP386, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="40.12,71.12 40.12,80.88 58.12,80.88 58.12,89.88 67.88,89.88 67.88,71.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="58.88" y="80.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="71.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M49.12 14.12L49.12 22.88L40.12 23.12L40.12 32.88L58.12 33.12L58.12 40.88L13.12 41.12L13.12 50.88L30.88 50.88L31.12 59.88L40.88 59.88L40.88 51.12L49.12 51.12L49.12 59.88L58.88 59.88L58.88 51.12L67.12 51.12L67.12 59.88L76.88 59.88L76.88 41.12L67.88 40.88L67.88 33.12L76.88 32.88L76.88 14.12L49.12 14.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="67.88" y="50.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="50.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="50.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="67.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="22.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="13.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="32.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="67.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="23.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="67.88" y="14.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="14.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="14.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-R4.svg" target="_parent" aria-label="Open BP386, right example 4">
+    <title>BP386, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="32.12" y="73.12" width="36.75" height="9.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="59.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="50.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="32.88" y="73.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M41.12 16.12L41.12 24.88L32.12 25.12L32.12 33.88L23.12 34.12L23.12 43.88L32.12 44.12L32.12 51.88L23.12 52.12L23.12 61.88L59.88 61.88L59.88 53.12L68.88 52.88L68.88 26.12L77.88 25.88L77.88 16.12L41.12 16.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="50.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="32.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="23.88" y="52.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="59.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="50.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="32.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="59.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="50.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="32.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="23.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="59.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="50.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="32.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="68.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="59.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="50.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-R5.svg" target="_parent" aria-label="Open BP386, right example 5">
+    <title>BP386, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="36.12,70.12 36.12,88.88 63.88,88.88 63.88,79.12 45.88,79.12 45.88,70.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="54.88" y="79.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="45.88" y="79.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="79.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="36.88" y="70.88" width="8.25" height="8.25" fill="white"/>
+      <path d="M38.12 9.12L38.12 27.88L47.12 28.12L46.88 36.12L38.12 36.12L37.88 45.12L21.12 45.12L20.88 36.12L11.12 36.12L11.12 54.88L83.88 54.88L83.88 45.12L74.88 44.88L74.88 36.12L56.88 35.88L56.88 28.12L65.88 27.88L65.88 18.12L48.12 18.12L47.88 9.12L38.12 9.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="74.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="65.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="56.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="47.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="38.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="29.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="20.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="11.88" y="45.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="65.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="56.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="47.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="38.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="11.88" y="36.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="47.88" y="27.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="56.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="47.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="38.88" y="18.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="38.88" y="9.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP386D-R6.svg" target="_parent" aria-label="Open BP386, right example 6">
+    <title>BP386, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="50.12,66.12 50.12,75.12 41.12,75.12 41.12,84.88 59.88,84.88 59.88,66.12" fill="black"/>
+      <rect x="50.88" y="75.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="41.88" y="75.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="50.88" y="66.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="13.12" y="16.12" width="72.75" height="36.75" fill="black"/>
+      <rect x="76.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="67.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="22.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="13.88" y="43.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="76.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="67.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="22.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="13.88" y="34.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="76.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="67.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="22.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="13.88" y="25.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="76.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="67.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="58.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="49.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="40.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="31.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="22.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+      <rect x="13.88" y="16.88" width="8.25" height="8.25" fill="white"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

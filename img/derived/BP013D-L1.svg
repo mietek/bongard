@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP013, left example 1</title>
+  <rect width="98" height="98" fill="white" />
+  <rect x="-23" y="-8" width="46" height="16" transform="translate(36 46) rotate(90)" fill="none" stroke="black" stroke-width="2" stroke-linejoin="miter" stroke-linecap="round" />
+</svg>

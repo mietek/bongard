@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP388, left example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="50.5,14.12 18.05,38.88 26.12,64.84 26.12,65.54 30.63,78.88 70.53,78.88 82.88,38.83" fill="black"/>
+  <ellipse cx="70.65" cy="56.35" rx="2.42" ry="2.78" transform="rotate(135 70.65 56.35)" fill="white"/>
+</svg>

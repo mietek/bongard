@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP291, right example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="68.5" cy="80.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="68.5" cy="80.5" r="3.96" fill="white"/>
+  <path d="M82.12 75.38C82.15 76.17 82.35 77.48 81.12 77.12C81.09 77.95 81.47 79.49 80.12 79.12C80.09 79.95 80.47 81.49 79.12 81.12C79.74 83.22 77.53 82.86 78.12 84.88L86.88 84.88C87.47 82.86 85.26 83.22 85.88 81.12C84.53 81.49 84.91 79.95 84.88 79.12C83.53 79.49 83.91 77.95 83.88 77.12C82.53 77.49 82.91 75.95 82.88 75.12L82.12 75.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M82.38 76.88L83.12 77.12C82.53 79.14 84.74 78.78 84.12 80.88C85.47 80.51 85.09 82.05 85.12 82.88L86.12 83.12L85.88 84.12L78.88 83.88C78.67 83.15 79.15 82.67 79.88 82.88C79.91 82.05 79.53 80.51 80.88 80.88C80.91 80.05 80.53 78.51 81.88 78.88C82.04 78.24 81.46 76.96 82.38 76.88Z" fill="white"/>
+  <circle cx="58.5" cy="71.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="58.5" cy="71.5" r="3.96" fill="white"/>
+  <rect x="67.12" y="65.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="67.88" y="65.88" width="7.25" height="7.25" fill="white"/>
+  <rect x="19.12" y="30.12" width="33.75" height="33.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="19.88" y="30.88" width="32.25" height="32.25" fill="white"/>
+  <rect x="39.12" y="50.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="39.88" y="50.88" width="7.25" height="7.25" fill="white"/>
+  <rect x="27.12" y="37.12" width="8.75" height="8.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="27.88" y="37.88" width="7.25" height="7.25" fill="white"/>
+  <circle cx="68.5" cy="33.5" r="4.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="68.5" cy="33.5" r="3.96" fill="white"/>
+  <path d="M82.12 28.38C82.15 29.17 82.35 30.48 81.12 30.12C81.09 30.95 81.47 32.49 80.12 32.12C80.09 32.95 80.47 34.49 79.12 34.12C79.74 36.22 77.53 35.86 78.12 37.88L86.88 37.88C87.47 35.86 85.26 36.22 85.88 34.12C84.53 34.49 84.91 32.95 84.88 32.12C83.53 32.49 83.91 30.95 83.88 30.12C82.53 30.49 82.91 28.95 82.88 28.12L82.12 28.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M82.38 29.88L83.12 30.12C82.53 32.14 84.74 31.78 84.12 33.88C85.47 33.51 85.09 35.05 85.12 35.88L86.12 36.12L85.88 37.12L78.88 36.88C78.67 36.15 79.15 35.67 79.88 35.88C79.91 35.05 79.53 33.51 80.88 33.88C80.91 33.05 80.53 31.51 81.88 31.88C82.04 31.24 81.46 29.96 82.38 29.88Z" fill="white"/>
+  <path d="M76.12 16.38C76.15 17.17 76.35 18.48 75.12 18.12C75.09 18.95 75.47 20.49 74.12 20.12C74.09 20.95 74.47 22.49 73.12 22.12C73.74 24.22 71.53 23.86 72.12 25.88L80.88 25.88C81.47 23.86 79.26 24.22 79.88 22.12C78.53 22.49 78.91 20.95 78.88 20.12C77.53 20.49 77.91 18.95 77.88 18.12C76.53 18.49 76.91 16.95 76.88 16.12L76.12 16.38Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M76.38 17.88L77.12 18.12C76.53 20.14 78.74 19.78 78.12 21.88C79.47 21.51 79.09 23.05 79.12 23.88L80.12 24.12L79.88 25.12L72.88 24.88C72.67 24.15 73.15 23.67 73.88 23.88C73.91 23.05 73.53 21.51 74.88 21.88C74.91 21.05 74.53 19.51 75.88 19.88C76.04 19.24 75.46 17.96 76.38 17.88Z" fill="white"/>
+</svg>

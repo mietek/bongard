@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP157, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="0.12" y="0.12" width="97.75" height="97.75" fill="black"/>
+  <circle cx="72.5" cy="45.5" r="0.65" fill="white"/>
+  <ellipse cx="73.5" cy="44" rx="0.68" ry="1.22" transform="rotate(6.12 73.5 44)" fill="white"/>
+  <circle cx="74.5" cy="42.5" r="0.65" fill="white"/>
+  <ellipse cx="75.5" cy="41" rx="0.68" ry="1.22" transform="rotate(6.12 75.5 41)" fill="white"/>
+  <ellipse cx="76.5" cy="38.5" rx="0.69" ry="1.83" transform="rotate(2.1 76.5 38.5)" fill="white"/>
+  <rect x="76.88" y="27.88" width="1.25" height="9.25" fill="white"/>
+  <ellipse cx="76.5" cy="26.5" rx="0.69" ry="1.83" transform="rotate(177.9 76.5 26.5)" fill="white"/>
+  <ellipse cx="75.5" cy="24" rx="0.68" ry="1.22" transform="rotate(173.88 75.5 24)" fill="white"/>
+  <ellipse cx="44.02" cy="50.93" rx="26.33" ry="27.22" transform="rotate(90.48 44.02 50.93)" fill="white"/>
+  <path d="M38.62 37.12C36.81 35.02 38.63 30.8 37.62 28.12C25.67 30.69 17.34 41.96 19.12 55.62L20.12 56.38L20.12 59.62C25.59 69.65 35.42 76.4 48.62 74.88L49.38 73.88L52.62 73.88C61.71 69.52 70.03 61.34 68.88 49.38L67.88 48.88C70.14 46.89 67.01 45.21 67.88 42.38C62.52 32.72 53.16 25.77 40.38 27.12C37.59 29.28 40.29 34.53 38.62 37.12Z" fill="black"/>
+  <rect x="52.88" y="50.88" width="10.25" height="1.25" fill="white"/>
+  <ellipse cx="64.5" cy="50.5" rx="0.69" ry="1.83" transform="rotate(87.9 64.5 50.5)" fill="white"/>
+  <ellipse cx="51.5" cy="50.5" rx="0.69" ry="1.83" transform="rotate(92.1 51.5 50.5)" fill="white"/>
+  <ellipse cx="67" cy="49.5" rx="0.68" ry="1.22" transform="rotate(83.88 67 49.5)" fill="white"/>
+  <ellipse cx="49" cy="49.5" rx="0.68" ry="1.22" transform="rotate(96.12 49 49.5)" fill="white"/>
+  <circle cx="47.5" cy="48.5" r="0.65" fill="white"/>
+  <ellipse cx="46" cy="47.5" rx="0.68" ry="1.22" transform="rotate(96.12 46 47.5)" fill="white"/>
+  <circle cx="44.5" cy="46.5" r="0.65" fill="white"/>
+  <circle cx="43.5" cy="45.5" r="0.65" fill="white"/>
+  <ellipse cx="42.5" cy="44" rx="0.68" ry="1.22" transform="rotate(173.88 42.5 44)" fill="white"/>
+  <circle cx="41.5" cy="42.5" r="0.65" fill="white"/>
+  <ellipse cx="40.5" cy="41" rx="0.68" ry="1.22" transform="rotate(173.88 40.5 41)" fill="white"/>
+  <ellipse cx="39.5" cy="38.5" rx="0.69" ry="1.83" transform="rotate(177.9 39.5 38.5)" fill="white"/>
+  <circle cx="74.5" cy="22.5" r="0.65" fill="white"/>
+  <circle cx="41.5" cy="22.5" r="0.65" fill="white"/>
+  <ellipse cx="73.5" cy="21" rx="0.68" ry="1.22" transform="rotate(173.88 73.5 21)" fill="white"/>
+  <ellipse cx="42.5" cy="21" rx="0.68" ry="1.22" transform="rotate(6.12 42.5 21)" fill="white"/>
+  <circle cx="72.5" cy="19.5" r="0.65" fill="white"/>
+  <circle cx="43.5" cy="19.5" r="0.65" fill="white"/>
+  <circle cx="71.5" cy="18.5" r="0.65" fill="white"/>
+  <circle cx="44.5" cy="18.5" r="0.65" fill="white"/>
+  <ellipse cx="70" cy="17.5" rx="0.68" ry="1.22" transform="rotate(96.12 70 17.5)" fill="white"/>
+  <ellipse cx="46" cy="17.5" rx="0.68" ry="1.22" transform="rotate(83.88 46 17.5)" fill="white"/>
+  <circle cx="68.5" cy="16.5" r="0.65" fill="white"/>
+  <circle cx="47.5" cy="16.5" r="0.65" fill="white"/>
+  <ellipse cx="67" cy="15.5" rx="0.68" ry="1.22" transform="rotate(96.12 67 15.5)" fill="white"/>
+  <ellipse cx="49" cy="15.5" rx="0.68" ry="1.22" transform="rotate(83.88 49 15.5)" fill="white"/>
+  <ellipse cx="64.5" cy="14.5" rx="0.69" ry="1.83" transform="rotate(92.1 64.5 14.5)" fill="white"/>
+  <ellipse cx="51.5" cy="14.5" rx="0.69" ry="1.83" transform="rotate(87.9 51.5 14.5)" fill="white"/>
+  <rect x="52.88" y="12.88" width="10.25" height="1.25" fill="white"/>
+</svg>

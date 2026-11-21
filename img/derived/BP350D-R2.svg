@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP350, right example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="11.12" y="49.12" width="2.75" height="1.75" fill="black"/>
+  <ellipse cx="28" cy="49.32" rx="1.47" ry="1.97" transform="rotate(90 28 49.32)" fill="black"/>
+  <rect x="32.12" y="46.12" width="2.75" height="5.75" fill="black"/>
+  <path d="M37.38 53.88L45.62 53.88L48.88 44.38L40.38 44.12C39.36 47.37 37.57 50.66 37.38 53.88Z" fill="black"/>
+  <circle cx="59" cy="49" r="8.02" fill="black"/>
+  <path d="M91.88 57.38C83.94 52.32 76.78 45.04 69.12 40.38L69.38 57.88L91.88 57.38Z" fill="black"/>
+  <rect x="16.12" y="34.12" width="7.75" height="30.75" fill="black"/>
+</svg>

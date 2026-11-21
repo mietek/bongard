@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP151, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="73.83" cy="81.65" rx="3.31" ry="3.66" transform="rotate(91.73 73.83 81.65)" fill="black"/>
+  <ellipse cx="73.82" cy="81.78" rx="2.17" ry="2.55" transform="rotate(91.91 73.82 81.78)" fill="white"/>
+  <path d="M84.88 63.38C81.18 61.86 77.29 69.57 82.88 69.88L83.38 70.88C86.56 71.04 90.1 66.52 86.38 64.12C86.73 66.47 86.74 67.95 84.88 70.12C81.06 70.25 79.84 65.74 83.12 63.88L84.62 64.88L84.88 63.38Z" fill="black"/>
+  <ellipse cx="64.49" cy="67.04" rx="3.32" ry="4.26" transform="rotate(15.25 64.49 67.04)" fill="black"/>
+  <ellipse cx="64.24" cy="67.16" rx="2.32" ry="2.98" transform="rotate(22.77 64.24 67.16)" fill="white"/>
+  <ellipse cx="50.68" cy="63.15" rx="3.89" ry="4.22" transform="rotate(8.37 50.68 63.15)" fill="black"/>
+  <ellipse cx="50.53" cy="63.08" rx="2.74" ry="3.53" transform="rotate(28.74 50.53 63.08)" fill="white"/>
+  <polygon points="17.38,10.12 17.12,14.6 14.12,13.15 14.12,14.72 17.12,14.95 17.62,18.88 17.88,14.98 20.88,14.81 20.88,13.12 17.97,13.12" fill="black"/>
+</svg>

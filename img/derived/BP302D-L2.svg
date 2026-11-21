@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP302, left example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="43" cy="81" r="0.99" fill="black"/>
+  <circle cx="60" cy="41" r="0.99" fill="black"/>
+  <circle cx="63" cy="38" r="0.99" fill="black"/>
+  <circle cx="69" cy="32" r="0.99" fill="black"/>
+  <circle cx="72" cy="29" r="0.99" fill="black"/>
+</svg>

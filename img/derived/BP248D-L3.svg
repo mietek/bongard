@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP248, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="20.12" y="26.12" width="63.75" height="38.75" fill="black"/>
+  <rect x="21.88" y="27.88" width="60.25" height="35.25" fill="white"/>
+  <rect x="62.12" y="59.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="49.12" y="59.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="36.12" y="59.12" width="6.75" height="1.75" fill="black"/>
+  <path d="M25.38 58.12C23.62 61.34 27.84 61.29 29.88 60.62C30.02 58.4 26.74 59.06 25.38 58.12Z" fill="black"/>
+  <path d="M78.38 57.12C79.11 60.2 73.89 58 75.38 60.88C78.84 62.63 82.18 58.07 78.38 57.12Z" fill="black"/>
+  <rect x="78.12" y="44.12" width="1.75" height="6.75" fill="black"/>
+  <rect x="25.12" y="44.12" width="1.75" height="6.75" fill="black"/>
+  <rect x="78.12" y="31.12" width="1.75" height="6.75" fill="black"/>
+  <rect x="65.12" y="31.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="52.12" y="31.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="38.12" y="31.12" width="6.75" height="1.75" fill="black"/>
+  <path d="M25.88 37.88L26.88 37.62L27.38 32.88C28.93 32.65 32.95 33.78 31.62 31.12L25.12 31.38C25.54 33.4 24.25 36.84 25.88 37.88Z" fill="black"/>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP307, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="62.12" y="86.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="63.5" cy="87.5" r="0.69" fill="white"/>
+  <rect x="67.12" y="82.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="68.5" cy="83.5" r="0.69" fill="white"/>
+  <rect x="61.12" y="80.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="62.5" cy="81.5" r="0.69" fill="white"/>
+  <rect x="75.12" y="79.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="76.5" cy="80.5" r="0.69" fill="white"/>
+  <rect x="24.12" y="76.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="25.5" cy="77.5" r="0.69" fill="white"/>
+  <rect x="17.12" y="76.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="18.5" cy="77.5" r="0.69" fill="white"/>
+  <rect x="71.12" y="75.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="72.5" cy="76.5" r="0.69" fill="white"/>
+  <rect x="14.12" y="72.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="15.5" cy="73.5" r="0.69" fill="white"/>
+  <rect x="21.12" y="71.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="22.5" cy="72.5" r="0.69" fill="white"/>
+  <rect x="16.12" y="65.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="17.5" cy="66.5" r="0.69" fill="white"/>
+  <rect x="83.12" y="35.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="84.5" cy="36.5" r="0.69" fill="white"/>
+  <rect x="78.12" y="34.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="79.5" cy="35.5" r="0.69" fill="white"/>
+  <rect x="78.12" y="28.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="79.5" cy="29.5" r="0.69" fill="white"/>
+  <rect x="72.12" y="26.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="73.5" cy="27.5" r="0.69" fill="white"/>
+  <rect x="25.12" y="26.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="26.5" cy="27.5" r="0.69" fill="white"/>
+  <path d="M30.12 24.12C29.89 25.14 30.82 27.4 29.12 27.12C28.64 28.97 30.2 32.65 28.12 33.12C27.64 34.97 29.2 38.65 27.12 39.12C26.69 40.67 28.12 43.93 26.12 44.12L26.12 49.88C24.18 50.21 25.52 53.23 25.12 54.88L24.12 55.12C23.64 56.97 25.2 60.65 23.12 61.12L23.12 66.88C21.55 66.91 22.28 68.66 22.12 69.88C23.14 70.11 25.4 69.18 25.12 70.88C26.97 71.36 30.65 69.8 31.12 71.88C32.97 72.36 36.65 70.8 37.12 72.88C38.67 73.31 41.93 71.88 42.12 73.88L47.88 73.88C48.21 75.82 51.23 74.48 52.88 74.88L53.12 75.88C54.97 76.36 58.65 74.8 59.12 76.88L64.88 76.88C64.91 78.45 66.66 77.72 67.88 77.88C68.11 76.86 67.18 74.6 68.88 74.88C69.36 73.03 67.8 69.35 69.88 68.88C70.36 67.03 68.8 63.35 70.88 62.88C71.31 61.33 69.88 58.07 71.88 57.88L71.88 52.12C73.82 51.79 72.48 48.77 72.88 47.12L73.88 46.88C74.36 45.03 72.8 41.35 74.88 40.88L74.88 35.12C76.45 35.09 75.72 33.34 75.88 32.12C74.86 31.89 72.6 32.82 72.88 31.12C71.03 30.64 67.35 32.2 66.88 30.12C65.03 29.64 61.35 31.2 60.88 29.12C59.33 28.69 56.07 30.12 55.88 28.12L50.12 28.12C49.79 26.18 46.77 27.52 45.12 27.12L44.88 26.12C43.03 25.64 39.35 27.2 38.88 25.12L33.12 25.12C33.09 23.55 31.34 24.28 30.12 24.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M31.12 24.88C31.95 24.91 33.49 24.53 33.12 25.88C34.97 26.36 38.65 24.8 39.12 26.88L44.88 26.88C45.21 28.82 48.23 27.48 49.88 27.88L50.12 28.88C51.97 29.36 55.65 27.8 56.12 29.88C57.67 30.31 60.93 28.88 61.12 30.88L66.88 30.88C67.46 32.92 70.96 31.42 72.88 31.88C72.87 33.36 74.22 32.55 75.12 33.12C75.09 33.95 75.47 35.49 74.12 35.12C73.64 36.97 75.2 40.65 73.12 41.12L73.12 46.88C71.18 47.21 72.52 50.23 72.12 51.88L71.12 52.12C70.64 53.97 72.2 57.65 70.12 58.12C69.69 59.67 71.12 62.93 69.12 63.12L69.12 68.88C67.08 69.46 68.58 72.96 68.12 74.88C66.64 74.87 67.45 76.22 66.88 77.12C66.05 77.09 64.51 77.47 64.88 76.12C63.03 75.64 59.35 77.2 58.88 75.12L53.12 75.12C52.79 73.18 49.77 74.52 48.12 74.12L47.88 73.12C46.03 72.64 42.35 74.2 41.88 72.12C40.33 71.69 37.07 73.12 36.88 71.12L31.12 71.12C30.54 69.08 27.04 70.58 25.12 70.12C25.13 68.64 23.78 69.45 22.88 68.88C22.91 68.05 22.53 66.51 23.88 66.88C24.36 65.03 22.8 61.35 24.88 60.88L24.88 55.12C26.82 54.79 25.48 51.77 25.88 50.12L26.88 49.88C27.36 48.03 25.8 44.35 27.88 43.88C28.31 42.33 26.88 39.07 28.88 38.88L28.88 33.12C30.92 32.54 29.42 29.04 29.88 27.12C31.36 27.13 30.55 25.78 31.12 24.88Z" fill="white"/>
+  <rect x="76.12" y="23.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="77.5" cy="24.5" r="0.69" fill="white"/>
+  <rect x="23.12" y="21.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="24.5" cy="22.5" r="0.69" fill="white"/>
+  <rect x="36.12" y="19.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="37.5" cy="20.5" r="0.69" fill="white"/>
+  <rect x="30.12" y="19.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="31.5" cy="20.5" r="0.69" fill="white"/>
+  <rect x="25.12" y="16.12" width="2.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="26.5" cy="17.5" r="0.69" fill="white"/>
+</svg>

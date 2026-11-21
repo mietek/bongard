@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP189, left example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="80.47" cy="86.47" rx="5.41" ry="6.24" transform="rotate(86.94 80.47 86.47)" fill="black"/>
+  <ellipse cx="80.44" cy="86.38" rx="3.6" ry="4.65" transform="rotate(84.33 80.44 86.38)" fill="white"/>
+  <rect x="12.12" y="72.12" width="12.75" height="12.75" fill="black"/>
+  <rect x="84.12" y="69.12" width="9.75" height="9.75" fill="black"/>
+  <rect x="85.88" y="70.88" width="6.25" height="6.25" fill="white"/>
+  <ellipse cx="33.96" cy="65.48" rx="5.48" ry="8.63" transform="rotate(89.26 33.96 65.48)" fill="black"/>
+  <ellipse cx="73.5" cy="67" rx="7.49" ry="7.92" transform="rotate(0 73.5 67)" fill="black"/>
+  <ellipse cx="73.5" cy="67" rx="5.77" ry="6.22" transform="rotate(0 73.5 67)" fill="white"/>
+  <rect x="7.12" y="52.12" width="12.75" height="11.75" fill="black"/>
+  <polygon points="52.46,31.26 60.88,37.88 63.44,37.88 73.08,31.53 68.17,23.12 58.53,23.12 56.56,27.06" fill="black"/>
+  <rect x="71.12" y="9.12" width="13.75" height="13.75" fill="black"/>
+  <path d="M55.62 6.12L54.12 6.38C53.53 11.59 49.93 15.12 48.12 19.62L63.62 19.88L63.88 18.38C60.22 14.81 57.63 10.71 55.62 6.12Z" fill="black"/>
+</svg>

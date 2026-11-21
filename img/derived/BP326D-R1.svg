@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP326, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M55.5 97.5L56.5 95.5C57.29 87.73 60.03 80.32 60.5 72.5M60.5 72.5C48.45 71.44 47.31 52.13 59.5 50.25C61.38 48.76 63.59 49.82 65.5 50.5M60.5 72.5C62.18 72.42 64.03 72.84 65.5 71.75C75.86 69.68 76.15 52.61 65.5 50.5M65.5 50.5L75.5 0.5" fill="none" stroke="black" stroke-width="1.04" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

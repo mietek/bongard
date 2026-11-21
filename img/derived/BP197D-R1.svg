@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP197, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="59.12" y="49.12" width="1.75" height="0.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="40.12" y="49.12" width="2.75" height="0.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="26.12" y="49.12" width="1.75" height="0.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M74.12 48.12C73.98 48.77 74.23 49.02 74.88 48.88C75.02 48.23 74.77 47.98 74.12 48.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M34.12 48.12C33.98 48.77 34.23 49.02 34.88 48.88C35.02 48.23 34.77 47.98 34.12 48.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <polygon points="67.12,45.59 67.12,48.88 67.23,48.88 68.77,47.64" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="38.12" y="46.12" width="0.75" height="1.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <polygon points="46.88,45.12 46.12,45.12 46.12,46.85 44.12,48.88 46.88,46.62" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <polygon points="58.4,45.25 57.12,46.85 57.12,48.41 58.88,46.23 58.88,45.05" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M40.12 44.12C39.98 44.77 40.23 45.02 40.88 44.88C41.02 44.23 40.77 43.98 40.12 44.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M36.12 44.12C35.98 44.77 36.23 45.02 36.88 44.88C37.02 44.23 36.77 43.98 36.12 44.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M29.12 47.88L29.88 47.88C29.9 45.76 31.83 47.48 31.12 48.88C32.49 48.38 31.67 50.31 32.88 49.88L32.88 49.12C30.88 48.93 32.31 45.67 31.88 44.12L31.12 44.12C31.7 46.44 29.37 46.35 29.12 47.88Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <polygon points="73.64,44.26 73.12,44.05 73.12,45.88 72.12,46.12 72.12,49.88 72.88,49.88 72.88,46.12 73.88,45.88 73.88,44.51" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M67.12 43.12C67.34 43.93 68.07 44.66 68.88 44.88C68.66 44.07 67.93 43.34 67.12 43.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <polygon points="61.12,43.12 61.12,43.88 62.95,43.88 62.74,43.36 62.49,43.12" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <path d="M55.12 43.12C55.34 43.93 56.07 44.66 56.88 44.88C56.66 44.07 55.93 43.34 55.12 43.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <polygon points="51.64,44.26 51.12,44.05 51.12,49.12 50.12,49.12 51.24,49.51 51.88,48.88 51.88,44.51" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="42.12" y="43.12" width="2.75" height="0.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <polygon points="27.64,44.26 27.18,44.07 26.12,45.12 26.12,47.88 26.88,47.88 26.88,44.92 27.97,44.62" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+  <rect x="97.12" y="0.12" width="0.75" height="97.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
+</svg>

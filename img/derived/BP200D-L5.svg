@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP200, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="65.12" y="66.12" width="16.75" height="16.75" fill="black"/>
+  <path d="M79.62 82.12C76.44 80.55 73.56 82.7 70.38 81.12L69.38 82.12L68.38 81.12L67.38 82.12L65.88 80.62L66.88 78.62C65.91 78.03 65.21 76.13 66.88 75.62C65.91 75.03 65.21 73.13 66.88 72.62C65.91 72.03 65.21 70.13 66.88 69.62C66.25 69.06 65.15 67.76 66.38 66.88L81.12 67.38C79.59 69.55 82.17 70.72 80.12 72.62C81.79 73.13 81.09 75.03 80.12 75.62C81.79 76.13 81.09 78.03 80.12 78.62C82.15 79.44 80.67 81.28 79.62 82.12Z" fill="white"/>
+  <circle cx="78.5" cy="78.5" r="0.4" fill="black"/>
+  <circle cx="76.5" cy="78.5" r="0.4" fill="black"/>
+  <circle cx="74.5" cy="78.5" r="0.4" fill="black"/>
+  <circle cx="72.5" cy="78.5" r="0.4" fill="black"/>
+  <circle cx="70.5" cy="78.5" r="0.4" fill="black"/>
+  <circle cx="68.5" cy="78.5" r="0.4" fill="black"/>
+  <circle cx="78.5" cy="75.5" r="0.4" fill="black"/>
+  <circle cx="76.5" cy="75.5" r="0.4" fill="black"/>
+  <circle cx="74.5" cy="75.5" r="0.4" fill="black"/>
+  <circle cx="72.5" cy="75.5" r="0.4" fill="black"/>
+  <circle cx="70.5" cy="75.5" r="0.4" fill="black"/>
+  <circle cx="68.5" cy="75.5" r="0.4" fill="black"/>
+  <circle cx="78.5" cy="72.5" r="0.4" fill="black"/>
+  <circle cx="76.5" cy="72.5" r="0.4" fill="black"/>
+  <circle cx="74.5" cy="72.5" r="0.4" fill="black"/>
+  <circle cx="72.5" cy="72.5" r="0.4" fill="black"/>
+  <circle cx="70.5" cy="72.5" r="0.4" fill="black"/>
+  <circle cx="68.5" cy="72.5" r="0.4" fill="black"/>
+  <circle cx="78.5" cy="69.5" r="0.4" fill="black"/>
+  <circle cx="76.5" cy="69.5" r="0.4" fill="black"/>
+  <circle cx="74.5" cy="69.5" r="0.4" fill="black"/>
+  <circle cx="72.5" cy="69.5" r="0.4" fill="black"/>
+  <circle cx="70.5" cy="69.5" r="0.4" fill="black"/>
+  <circle cx="68.5" cy="69.5" r="0.4" fill="black"/>
+  <rect x="17.12" y="66.12" width="16.75" height="16.75" fill="black"/>
+  <rect x="31.88" y="66.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="27.88" y="66.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="23.88" y="66.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="19.88" y="66.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="65.12" y="37.12" width="16.75" height="16.75" fill="black"/>
+  <rect x="65.88" y="49.88" width="15.25" height="1.25" fill="white"/>
+  <rect x="65.88" y="47.88" width="15.25" height="1.25" fill="white"/>
+  <rect x="65.88" y="43.88" width="15.25" height="1.25" fill="white"/>
+  <rect x="65.88" y="41.88" width="15.25" height="1.25" fill="white"/>
+  <rect x="65.88" y="37.88" width="15.25" height="1.25" fill="white"/>
+  <rect x="17.12" y="37.12" width="16.75" height="16.75" fill="black"/>
+  <rect x="17.88" y="37.88" width="15.25" height="15.25" fill="white"/>
+  <circle cx="29.5" cy="50.5" r="0.4" fill="black"/>
+  <circle cx="25.5" cy="50.5" r="0.4" fill="black"/>
+  <circle cx="21.5" cy="50.5" r="0.4" fill="black"/>
+  <circle cx="29.5" cy="48.5" r="0.4" fill="black"/>
+  <circle cx="25.5" cy="48.5" r="0.4" fill="black"/>
+  <circle cx="21.5" cy="48.5" r="0.4" fill="black"/>
+  <circle cx="29.5" cy="46.5" r="0.4" fill="black"/>
+  <circle cx="25.5" cy="46.5" r="0.4" fill="black"/>
+  <circle cx="21.5" cy="46.5" r="0.4" fill="black"/>
+  <circle cx="29.5" cy="44.5" r="0.4" fill="black"/>
+  <circle cx="25.5" cy="44.5" r="0.4" fill="black"/>
+  <circle cx="21.5" cy="44.5" r="0.4" fill="black"/>
+  <circle cx="29.5" cy="42.5" r="0.4" fill="black"/>
+  <circle cx="25.5" cy="42.5" r="0.4" fill="black"/>
+  <circle cx="21.5" cy="42.5" r="0.4" fill="black"/>
+  <circle cx="29.5" cy="40.5" r="0.4" fill="black"/>
+  <circle cx="25.5" cy="40.5" r="0.4" fill="black"/>
+  <circle cx="21.5" cy="40.5" r="0.4" fill="black"/>
+  <rect x="65.12" y="9.12" width="16.75" height="16.75" fill="black"/>
+  <path d="M80.38 25.12L65.88 24.62C67.06 22.93 65.34 21.6 68.88 21.62C68.01 20.81 64.39 21.28 66.88 19.38C64.17 17.69 68.34 18.2 68.88 17.38C64.13 17.45 67.76 14.31 65.88 12.38C68.03 11.56 68.03 11.44 65.88 10.62L66.38 9.88L81.12 10.38C79.16 11.48 81.68 11.94 80.62 13.12L78.12 13.62C79.57 13.87 82.35 13.98 80.12 15.62C81.64 16.12 80.8 16.98 80.12 17.62C82.6 19.05 79.22 19.12 78.12 19.38C81.53 19.05 82.42 23.9 78.12 23.38L81.12 24.38L80.38 25.12Z" fill="white"/>
+  <ellipse cx="76" cy="23.5" rx="0.42" ry="0.97" transform="rotate(90 76 23.5)" fill="black"/>
+  <ellipse cx="72.5" cy="23.5" rx="0.42" ry="1.64" transform="rotate(90 72.5 23.5)" fill="black"/>
+  <ellipse cx="69" cy="23.5" rx="0.42" ry="0.97" transform="rotate(90 69 23.5)" fill="black"/>
+  <ellipse cx="78.5" cy="21.5" rx="0.42" ry="1.64" transform="rotate(90 78.5 21.5)" fill="black"/>
+  <ellipse cx="75" cy="21.5" rx="0.42" ry="0.97" transform="rotate(90 75 21.5)" fill="black"/>
+  <ellipse cx="71.5" cy="21.5" rx="0.42" ry="1.64" transform="rotate(90 71.5 21.5)" fill="black"/>
+  <ellipse cx="76" cy="19.5" rx="0.42" ry="0.97" transform="rotate(90 76 19.5)" fill="black"/>
+  <ellipse cx="72.5" cy="19.5" rx="0.42" ry="1.64" transform="rotate(90 72.5 19.5)" fill="black"/>
+  <ellipse cx="69" cy="19.5" rx="0.42" ry="0.97" transform="rotate(90 69 19.5)" fill="black"/>
+  <ellipse cx="78" cy="17.5" rx="0.42" ry="0.97" transform="rotate(90 78 17.5)" fill="black"/>
+  <ellipse cx="75" cy="17.5" rx="0.42" ry="0.97" transform="rotate(90 75 17.5)" fill="black"/>
+  <ellipse cx="71.5" cy="17.5" rx="0.42" ry="1.64" transform="rotate(90 71.5 17.5)" fill="black"/>
+  <ellipse cx="78" cy="15.5" rx="0.42" ry="0.97" transform="rotate(90 78 15.5)" fill="black"/>
+  <ellipse cx="75" cy="15.5" rx="0.42" ry="0.97" transform="rotate(90 75 15.5)" fill="black"/>
+  <ellipse cx="72" cy="15.5" rx="0.42" ry="0.97" transform="rotate(90 72 15.5)" fill="black"/>
+  <ellipse cx="69" cy="15.5" rx="0.42" ry="0.97" transform="rotate(90 69 15.5)" fill="black"/>
+  <ellipse cx="76" cy="13.5" rx="0.42" ry="0.97" transform="rotate(90 76 13.5)" fill="black"/>
+  <ellipse cx="73" cy="13.5" rx="0.42" ry="0.97" transform="rotate(90 73 13.5)" fill="black"/>
+  <ellipse cx="69.5" cy="13.5" rx="0.42" ry="1.64" transform="rotate(90 69.5 13.5)" fill="black"/>
+  <ellipse cx="78" cy="11.5" rx="0.42" ry="0.97" transform="rotate(90 78 11.5)" fill="black"/>
+  <ellipse cx="74.5" cy="11.5" rx="0.42" ry="1.64" transform="rotate(90 74.5 11.5)" fill="black"/>
+  <ellipse cx="70.5" cy="11.5" rx="0.42" ry="1.64" transform="rotate(90 70.5 11.5)" fill="black"/>
+  <rect x="17.12" y="9.12" width="16.75" height="16.75" fill="black"/>
+  <rect x="31.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="29.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="27.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="25.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="23.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="21.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="19.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="17.88" y="9.88" width="1.25" height="15.25" fill="white"/>
+  <rect x="50.12" y="5.12" width="1.75" height="83.75" fill="black"/>
+</svg>

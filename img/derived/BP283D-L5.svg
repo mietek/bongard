@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP283, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="97.5" cy="97.5" r="0.4" fill="black"/>
+  <polygon points="62.78,85.88 70.77,85.88 71.13,86.55 89.88,87.51 89.88,86.96 77.25,72.39 70.38,78.12" fill="black"/>
+  <polygon points="7.13,81.88 19.69,81.88 20.23,80.88 31.62,80.88 34.73,79.71 20.11,67.08" fill="black"/>
+  <rect x="40.12" y="64.12" width="10.75" height="19.75" fill="black"/>
+  <polygon points="17.12,17.12 17.12,36.12 6.78,36.12 26.53,55.88 27.47,55.88 47.22,36.12 36.88,36.12 36.88,17.12" fill="black"/>
+  <rect x="51.12" y="5.12" width="39.75" height="40.75" fill="black"/>
+  <rect x="51.88" y="6.88" width="38.25" height="37.25" fill="white"/>
+  <path d="M1.38 97.88C3.89 97.89 2.11 97.09 0.88 96.62L0.38 0.12L0.12 97.62L1.38 97.88Z" fill="black"/>
+</svg>

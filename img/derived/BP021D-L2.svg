@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP021, left example 2</title>
+  <rect width="98" height="98" fill="white" />
+  <polygon points="30.3,17.7 37.7,30 29.4,30" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round" />
+  <circle cx="67.8" cy="34.2" r="3.6" fill="none" stroke="black" stroke-width="2.3" />
+  <ellipse cx="37.3" cy="69.8" rx="3.7" ry="3.4" transform="rotate(97.1 37.3 69.8)" fill="none" stroke="black" stroke-width="2.5" />
+</svg>

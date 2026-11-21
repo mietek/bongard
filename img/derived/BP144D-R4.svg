@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP144, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="34.19" cy="15.62" fill="none" stroke="black" stroke-width="1" rx="6.13" ry="6.76" transform="rotate(105.3 34.19 15.62)"/>
+  <polygon points="50.49,27.55 43.53,29.53 41.54,33.51 41.54,36.49 44.52,41.46 51.48,41.46 54.46,38.48 54.46,32.51" fill="none" stroke="black" stroke-width="1.1" stroke-linejoin="miter"/>
+  <ellipse cx="22.74" cy="35.24" fill="none" stroke="black" stroke-width="1.16" rx="6.43" ry="7.09" transform="rotate(149.96 22.74 35.24)"/>
+  <polygon points="52.51,67.68 46.64,80.4 60.34,80.4 54.47,68.66" fill="none" stroke="black" stroke-width="1.35" stroke-linejoin="miter"/>
+  <polygon points="71.52,67.68 65.65,80.4 79.35,80.4 75.43,71.59" fill="none" stroke="black" stroke-width="1.35" stroke-linejoin="miter"/>
+</svg>

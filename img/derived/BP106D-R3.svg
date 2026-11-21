@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP106, right example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M84.12 95.62L85.88 95.88C85.67 95.15 86.15 94.67 86.88 94.88C86.67 94.15 87.15 93.67 87.88 93.88L87.88 91.12L87.12 91.12C87.26 92.77 87.4 94.82 85.12 94.12C85.64 95.39 83.93 94.75 84.12 95.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="85.88,89.12 84.12,89.12 84.12,90.12 82.62,90.12 80.97,91.78 82.66,94.88 82.88,94.88 82.88,92.45 84.45,90.88 85.88,90.88" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="94.03" cy="48.24" rx="3.07" ry="3.87" transform="rotate(176.19 94.03 48.24)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

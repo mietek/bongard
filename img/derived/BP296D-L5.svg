@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP296, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="63.12" y="63.12" width="27.75" height="27.75" fill="black"/>
+  <rect x="63.88" y="63.88" width="26.25" height="26.25" fill="white"/>
+  <rect x="11.12" y="41.12" width="27.75" height="27.75" fill="black"/>
+  <rect x="11.88" y="41.88" width="26.25" height="26.25" fill="white"/>
+  <rect x="68.12" y="33.12" width="13.75" height="13.75" fill="black"/>
+  <rect x="68.88" y="33.88" width="12.25" height="12.25" fill="white"/>
+  <rect x="49.12" y="33.12" width="13.75" height="13.75" fill="black"/>
+  <rect x="49.88" y="33.88" width="12.25" height="12.25" fill="white"/>
+  <rect x="62.12" y="26.12" width="5.75" height="5.75" fill="black"/>
+  <rect x="62.88" y="26.88" width="4.25" height="4.25" fill="white"/>
+  <rect x="68.12" y="10.12" width="13.75" height="13.75" fill="black"/>
+  <rect x="68.88" y="10.88" width="12.25" height="12.25" fill="white"/>
+  <rect x="50.12" y="10.12" width="13.75" height="13.75" fill="black"/>
+  <rect x="50.88" y="10.88" width="12.25" height="12.25" fill="white"/>
+  <rect x="11.12" y="7.12" width="27.75" height="27.75" fill="black"/>
+  <rect x="11.88" y="7.88" width="26.25" height="26.25" fill="white"/>
+</svg>

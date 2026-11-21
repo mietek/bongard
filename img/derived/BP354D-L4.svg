@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP354, left example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="85" cy="84" r="10.71" fill="black"/>
+  <circle cx="79" cy="90" r="1.21" fill="white"/>
+  <circle cx="85" cy="77" r="2.08" fill="white"/>
+  <circle cx="67" cy="68" r="10.71" fill="black"/>
+  <circle cx="67" cy="76" r="1.21" fill="white"/>
+  <circle cx="67" cy="61" r="2.08" fill="white"/>
+  <circle cx="50" cy="50" r="10.71" fill="black"/>
+  <circle cx="56" cy="56" r="1.21" fill="white"/>
+  <circle cx="50" cy="43" r="2.08" fill="white"/>
+  <circle cx="33" cy="32" r="10.71" fill="black"/>
+  <circle cx="41" cy="32" r="1.21" fill="white"/>
+  <circle cx="33" cy="25" r="2.08" fill="white"/>
+  <circle cx="16" cy="14" r="10.71" fill="black"/>
+  <circle cx="22" cy="8" r="1.21" fill="white"/>
+  <circle cx="16" cy="7" r="2.08" fill="white"/>
+</svg>

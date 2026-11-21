@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP255, left example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="94.12" y="76.12" width="1.75" height="12.75" fill="black"/>
+  <rect x="12.12" y="76.12" width="1.75" height="12.75" fill="black"/>
+  <rect x="1.12" y="39.12" width="11.75" height="1.75" fill="black"/>
+  <rect x="1.12" y="18.12" width="11.75" height="1.75" fill="black"/>
+  <path d="M84.88 21.88C87.52 19.49 87.76 14.52 89.88 11.38L88.62 10.12C85.85 13.12 85.03 17.49 84.12 21.62L84.88 21.88Z" fill="black"/>
+  <polygon points="73.88,5.12 72.58,5.12 70.91,8.58 67.39,18.24 70.88,15.67 70.88,15.18 73.88,6.33" fill="black"/>
+</svg>

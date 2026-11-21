@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP079, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="38.12,83.78 38.12,85.88 55.62,85.88 59.42,84.58 48.09,67.78 45.46,70.11" fill="black"/>
+  <path d="M41.38 83.12L40.88 82.38C43.97 79.69 44.83 75.96 47.38 72.88C51.97 73.64 51.25 79.39 55.12 81.38L54.62 83.12L41.38 83.12Z" fill="white"/>
+  <circle cx="23.7" cy="50.94" r="7.8" fill="black"/>
+  <ellipse cx="23.93" cy="50.77" rx="5.39" ry="5.6" transform="rotate(173.79 23.93 50.77)" fill="white"/>
+  <ellipse cx="59.25" cy="15.81" rx="8.57" ry="8.9" transform="rotate(13.7 59.25 15.81)" fill="black"/>
+</svg>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP405, linked examples">
+  <title>BP405 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP405D-L1.svg" target="_parent" aria-label="Open BP405, left example 1">
+    <title>BP405, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M17.3 12.14C7.17 22.63 17.22 43.18 31.63 41.87L31.53 39.99C18.5 41.4 9.48 22.63 18.62 13.27Z" fill="black"/>
+      <path d="M31.64 41.78C33.85 31.21 34.8 18.97 43.52 11.4L42.36 10.14C33.4 17.98 32.47 30.5 29.55 41.27Z" fill="black"/>
+      <path d="M30.51 41.77C33.6 55.32 38.01 70.94 51.3 77.88L57.51 79.9L57.95 78.03C40.97 74.88 35.32 56.03 32.22 41.38Z" fill="black"/>
+      <path d="M58.08 79.38C55.95 70.08 57.09 59.07 64.49 52.31L63.29 51.11C55.57 58.32 54.37 69.84 55.74 79.76Z" fill="black"/>
+      <path d="M56.92 80.16C64.01 86.03 73.73 86.08 82.17 88.7L82.65 87.09C74.45 84.57 64.94 84.66 58.29 78.53Z" fill="black"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-L2.svg" target="_parent" aria-label="Open BP405, left example 2">
+    <title>BP405, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M14.03 91.63L17.09 92.6L19.91 92.7C29.36 90.69 31.38 79.54 37.69 73.58L35.97 72C30.69 77.67 29.13 86.74 21.8 90.48L18.6 91.04L14.65 90.03Z" fill="black"/>
+      <path d="M38.95 72.41L38.46 73.32L37.8 73.83C35.78 73.89 39.87 73.51 39.59 72.38L39.78 71.65L36.21 71.22L36.52 70.54L37.09 70.11C38.19 69.92 36.36 69.49 36.08 69.75C34.72 70.08 33.97 71.53 34.05 72.85Z" fill="black"/>
+      <path d="M38.03 74.26C39.59 73.63 40.01 71.49 38.81 70.33L39.11 70.73L39.17 71.72L38.57 72.82L36.51 68.8C35.63 69.41 34.98 70.55 35.39 71.63L35.78 72.25C36.53 73.38 35.56 71.8 35.99 71.38L36.33 70.74Z" fill="black"/>
+      <path d="M39.64 70.91C40.48 62.65 45.53 55.7 47.49 47.78L45.35 47.29C43.99 55.53 38.71 62.46 36.96 70.51Z" fill="black"/>
+      <path d="M39.1 72.14C40.38 71.17 41.38 69.88 42.13 68.46L39.73 67.19C39.23 68.37 37.89 68.77 37.02 69.61Z" fill="black"/>
+      <path d="M41.4 68.94C50.2 64.57 58.08 56.54 68.55 56.95L68.58 55.19C57.77 54.59 49.98 63.36 40.48 66.83Z" fill="black"/>
+      <path d="M45.14 11.26C39.48 22.53 40.01 36.45 45.53 47.65L47.36 46.73C41.54 36.16 41.37 22.78 46.59 11.94Z" fill="black"/>
+      <path d="M46.88 49.2C48.42 47.96 48.32 45.66 49.57 44.16L48.05 43.09C47.23 44.65 45.47 45 44.12 45.78Z" fill="black"/>
+      <path d="M49.78 43.86C53.47 24.82 70.74 8.39 90.57 8.24L90.49 6.52C69.88 6.72 52.12 23.76 48.06 43.46Z" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-L3.svg" target="_parent" aria-label="Open BP405, left example 3">
+    <title>BP405, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M24.9 91.63C31.68 89.14 38.45 84.14 40.35 76.86L38.16 76.33C36.85 83.25 30.46 87.65 24.27 89.96Z" fill="black"/>
+      <path d="M38.07 38.23C31.2 49.63 29.81 66.02 38.59 76.78L40.18 75.43C31.52 65.44 33.25 49.9 39.68 39.2Z" fill="black"/>
+      <path d="M39.21 77.09C49.74 65.6 49.72 48.99 55.11 35.07L53.16 34.39C48.17 48.1 48.29 64.52 37.58 75.55Z" fill="black"/>
+      <path d="M51.88 34.63L52.65 35.13C54.28 36.09 46 28.04 53.21 31.86L55.34 31.49L54.26 30.95C49.05 33.53 52.01 34.93 53.74 36.14L56.3 31.94L54.5 31.02C48.33 33.51 53.97 37.08 56.27 35.47C58.22 33.38 56.49 31.68 55.11 30.47Z" fill="black"/>
+      <path d="M53.13 32.5L52.38 34.5L56.62 34.5L55.87 32.5Z" fill="black"/>
+      <path d="M55.46 32.66C54.61 22.53 62.98 15.09 70.04 9.18L68.9 7.81C61.28 13.97 52.82 22.13 53.44 32.76Z" fill="black"/>
+      <path d="M53.15 37.06C54.36 37.45 56.03 35.78 56.17 35.31L54.3 31.62C53.94 32.03 52.28 33.08 53.43 32.02L53.85 31.84Z" fill="black"/>
+      <path d="M55.44 33.81C63.45 30.85 69.92 21.84 79.35 24.02L79.7 22.18C69.92 19.79 63.15 28.89 54.68 31.69Z" fill="black"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-L4.svg" target="_parent" aria-label="Open BP405, left example 4">
+    <title>BP405, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M28.02 94.73C29.59 88.77 30.35 82.47 33.66 77.12L31.13 75.75C28.12 81.46 28.22 88.17 26.28 94.24Z" fill="black"/>
+      <path d="M33.83 77.45C34.98 76.63 34.64 74.51 36.07 74.12L36 71.95C33.75 71.64 32.07 73.51 30.83 75.12Z" fill="black"/>
+      <path d="M36.68 73.71C43.47 66.55 54.16 65.7 63.46 65.99L63.52 64.15C53.67 63.79 42.59 64.96 35.35 72.39Z" fill="black"/>
+      <path d="M33.9 76.55C33.81 61.74 43.09 49.4 47.76 35.9L45.89 35.23C41.21 48.98 32.26 61.61 31.45 76.46Z" fill="black"/>
+      <path d="M46.9 35.9C55.72 27.79 58.18 13.45 70.12 8.66L69.39 6.98C57.11 11.69 54.65 26.27 45.41 34.29Z" fill="black"/>
+      <path d="M48.19 34.27C41.2 25.67 46.91 11.9 55.71 6.87L54.78 5.25C45.75 10.47 41.11 22.35 44.14 32.33L46.37 35.79Z" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-L5.svg" target="_parent" aria-label="Open BP405, left example 5">
+    <title>BP405, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M28.1 52.33C26.22 60.97 31.94 69.82 39.89 73.05L43.54 73.48L43.58 70.7C34.45 71.31 28.04 60.97 29.96 52.68Z" fill="black"/>
+      <path d="M42.16 73.88L43.19 74.76C46.08 76.16 45.95 79.89 48.11 81.86L50.95 78.83C48.03 77.04 46.32 73.99 43.92 71.68Z" fill="black"/>
+      <path d="M43.7 72.44C39 51.59 36.66 27.62 49.22 8.93L47.71 7.97C34.8 27.01 37.11 51.52 41.86 72.84Z" fill="black"/>
+      <path d="M47.52 80.9C48.93 86.1 53.35 90.06 57.96 92.56L58.79 91C54.48 88.94 51 85.06 50.29 80.23Z" fill="black"/>
+      <path d="M50.29 80.5C49.84 73.56 54.74 67.17 61.06 64.72L60.33 62.96C53.44 65.92 47.87 72.93 47.29 80.45Z" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-L6.svg" target="_parent" aria-label="Open BP405, left example 6">
+    <title>BP405, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M24.41 6.97C20.41 14.97 20.41 26.46 27.74 32.58L31.59 33.88L32.07 31.38C30.33 31.17 28.69 30.38 27.29 29.36C22.17 23.59 22.81 14.39 26.05 7.83Z" fill="black"/>
+      <path d="M29.68 34.14C32.88 39.04 31.06 45.52 34.32 50.29L37.14 48.27C33.41 43.97 34.13 37.93 32.05 32.99Z" fill="black"/>
+      <path d="M31.99 34.04C34.42 27.32 32.79 19.1 37.72 13.27L36.26 12.13C31.36 18.05 32.7 26.34 29.31 32.93Z" fill="black"/>
+      <path d="M36.77 49.79C38.05 43.89 40.1 38.13 43.65 33.18L42.11 32.18C38.99 37.57 35.63 42.97 33.44 48.8Z" fill="black"/>
+      <path d="M34.25 49.65C37.12 70.22 54.91 84.83 72.99 92.57L73.71 90.97C56.28 83.35 38.76 69.37 36.16 49.34Z" fill="black"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-R1.svg" target="_parent" aria-label="Open BP405, right example 1">
+    <title>BP405, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M18.38 9.08C34.43 11.15 48.44 22.7 54.56 37.54L56.1 36.84C49.55 21.71 35.24 9.56 18.59 7.69Z" fill="black"/>
+      <path d="M39.44 56C47.35 56.65 53.29 62.97 57.52 69.14L59.62 71.33L61.39 69.57C54.84 63.78 49.2 54.98 39.57 54.6Z" fill="black"/>
+      <path d="M46.41 8C48.02 8.12 49.62 8.52 51.06 9.26C60.06 14.98 59.24 28.88 53.47 36.69L55.4 38.07L57.48 34.51C60.17 25.71 60.95 13.16 51.74 7.91C50.15 7.11 48.37 6.7 46.6 6.6Z" fill="black"/>
+      <path d="M54.46 37.31C55.68 48.29 62.38 59.02 58.79 70.22L60.93 70.79C63.84 59.32 57.19 48.39 56.25 37.1Z" fill="black"/>
+      <path d="M58.75 70.81C61.2 78.18 59.97 85.94 60.29 93.53L61.81 93.47C61.29 85.73 62.86 77.81 61.14 70.19Z" fill="black"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-R2.svg" target="_parent" aria-label="Open BP405, right example 2">
+    <title>BP405, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M30.08 92.61C39.22 87.78 46.86 80.18 52.01 71.24L50.15 70.2C45.55 79.12 37.96 86.26 29.24 91.09Z" fill="black"/>
+      <path d="M41.27 51.9C48.3 55.11 50.08 63.54 49.84 70.55L52.82 70.41C52.07 62.82 49.55 53.87 42.13 50.23Z" fill="black"/>
+      <path d="M44.86 19.16C50.07 23.96 51.25 31.41 55.39 36.9L57.4 35.29C52.63 30.13 51.4 22.61 46.09 17.88Z" fill="black"/>
+      <path d="M51.56 71.71L54.52 68.21C59.14 58.25 57.78 47.05 57.28 36.45L55.03 36.59C55.76 47.59 58.79 61.23 49.45 69.58Z" fill="black"/>
+      <path d="M56.48 37.34L59.04 34.24C64.09 25.67 66.77 12.19 57.05 5.75L55.99 7.16C64.46 12.85 62.85 25.84 56.8 32.69L54.49 35.48Z" fill="black"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-R3.svg" target="_parent" aria-label="Open BP405, right example 3">
+    <title>BP405, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M23.24 23.13C34.04 23.53 45.19 27.27 52.58 35.42L54.56 33.37L51.59 30.73C43.05 25.5 33.48 21.35 23.3 21.33Z" fill="black"/>
+      <path d="M28.4 9.14C40.38 11.21 52.94 21.27 51.7 34.49L54.18 34.59C54.67 20.69 41.74 9.41 28.71 7.49Z" fill="black"/>
+      <path d="M52.08 34.67C55.03 50.58 50.15 68.74 60.58 82.63L62.13 81.53C51.81 67.9 56.87 49.97 54.06 34.35Z" fill="black"/>
+      <path d="M61.51 83.48L64.02 80.31C68.41 71.14 68.54 59.33 62.26 50.98L60.78 52.07C66.92 60.56 67.3 74.01 59.65 81.73Z" fill="black"/>
+      <path d="M59.93 81.99C59.68 86.12 63.79 88.68 66.77 90.78L67.84 89.14C65.37 87.68 62.08 85.61 62.91 82.24Z" fill="black"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-R4.svg" target="_parent" aria-label="Open BP405, right example 4">
+    <title>BP405, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M21.81 91.54C29.54 89.51 35.46 83.68 42.88 80.9L41.91 78.7C34.86 82.02 28.98 87.75 21.31 89.82Z" fill="black"/>
+      <path d="M44.02 80.97L43.62 81.17C42.43 81.2 42.08 81.03 43.36 81.76C44.39 82.29 45.62 81.86 46.46 81.16L42.64 77.86L43.54 77.64L44.75 78.03C43.58 77.22 41.84 77.27 40.98 78.52Z" fill="black"/>
+      <path d="M44.7 81.98C45.61 80.26 44.29 80.62 43.2 80.99L43.98 77.31C42.33 76.81 41.26 78.37 40.25 79.36L40.28 79.02Z" fill="black"/>
+      <path d="M44.88 80C56.43 68.91 67.64 55.17 68.97 38.59L66.73 38.42C65.95 54.61 55.09 68.12 43.38 78.36Z" fill="black"/>
+      <path d="M44.63 79.99C56.55 78.33 68.1 71.45 74.46 61.09L72.94 60.15C66.92 70.03 55.9 76.69 44.36 77.49Z" fill="black"/>
+      <path d="M48.15 19.98C57.5 21.42 64.74 29.61 66.63 38.65L69.29 37.92C66.26 28.58 58.48 19.89 48.49 18.07Z" fill="black"/>
+      <path d="M68.92 39.02C71.99 29.1 71.2 18.38 70.05 8.18L68.22 8.41C69.51 18.28 70.21 28.68 66.14 38.03Z" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-R5.svg" target="_parent" aria-label="Open BP405, right example 5">
+    <title>BP405, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M31.42 49.11C41.9 50.03 53 54.99 57.77 64.9L59.22 64.14C54.25 53.74 42.64 48.32 31.59 47.49Z" fill="black"/>
+      <path d="M58.18 65.32C60.2 66.31 59.21 69.45 61.4 70.33L63.59 66.68C61.77 66.13 60.82 64.02 58.85 63.66Z" fill="black"/>
+      <path d="M35.16 9.58C50.55 11.94 58.43 27.75 61.44 41.5L63.25 41.03C59.82 26.76 51.57 10.36 35.48 7.96Z" fill="black"/>
+      <path d="M62.2 42.46L65.19 39.85C70.92 31.27 72.44 19.19 66.74 10.23L65.29 11.14C70.81 20.06 69.82 34.15 60.78 40.45Z" fill="black"/>
+      <path d="M61.28 41.47C61.32 50.34 63.6 59.49 60.49 68.13L63.06 68.85C65.21 59.9 62.8 50.6 63.45 41.51Z" fill="black"/>
+      <path d="M60.59 68.96C63.71 76.64 63.42 86.14 69.92 92.09L71.03 90.97C64.63 85.07 65.44 75.77 63.18 68.11Z" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP405D-R6.svg" target="_parent" aria-label="Open BP405, right example 6">
+    <title>BP405, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M22.81 94.62C29.21 92.68 35.99 90.48 40.73 85.54L39.1 84.04C34.92 89.14 28.43 91.22 22.34 93.05Z" fill="black"/>
+      <path d="M30.95 59.48C39.72 63.35 39.31 74.42 39.42 82.51L41.24 82.47C41.11 73.73 41.03 62.11 31.69 57.95Z" fill="black"/>
+      <path d="M37.33 83.62C38.38 85.38 39.57 88.13 42.6 84.31L41.53 81.77L39.22 84.17C36.93 82.24 38.82 84.65 38.99 85.27L42.69 83.23C41.83 81.28 39.15 77.83 37.63 82.46L38.4 84.97L42.26 83.08L41.66 81.44Z" fill="black"/>
+      <path d="M39.19 82.5L38.53 84.02L42.47 84.98C42.57 84.07 42.3 83.08 41.56 82.5Z" fill="black"/>
+      <path d="M40.82 85.86C38.74 85.56 42.62 85.72 42.81 84.82L39.92 82.14C41.95 81.84 38.66 81.3 38.18 81.91Z" fill="black"/>
+      <path d="M41.55 83.8C52.9 79.98 59.31 69.03 66.76 60.44L65.26 59.22C58.27 67.75 52.08 78.48 40.99 82.08Z" fill="black"/>
+      <path d="M55.13 9.92C57.23 11.04 59.19 12.44 60.89 14.11C72.38 26.14 70.62 44.97 65.3 59.44L67 60.05C72.38 44.94 74.06 25.38 62.07 12.9C60.29 11.13 58.25 9.62 56.05 8.41Z" fill="black"/>
+      <path d="M65.59 60.52C77.86 59.33 88.48 45.13 83.43 33.15L81.85 33.74C86.41 44.63 76.9 57.86 65.35 58.15Z" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

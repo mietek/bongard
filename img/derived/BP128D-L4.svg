@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP128, left example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="26.27" cy="60.01" rx="4.84" ry="5.08" transform="rotate(158.06 26.27 60.01)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="29.12,56.88 29.12,59.88 29.12,62.07 29.12,61.55 26.32,64.36 22.88,62.49 22.88,59.45 25.45,56.88" fill="white"/>
+  <path d="M79.12 52.12C78.94 53.88 76.55 53.57 77.12 55.88C75.7 55.83 75.7 58.17 77.12 58.12L77.12 60.88C77.85 60.67 78.33 61.15 78.12 61.88C78.85 61.67 79.33 62.15 79.12 62.88L83.88 62.88L84.12 61.88C86.02 61.55 86.03 59.34 85.88 57.12L84.88 56.88C85.06 55.01 83.99 53.94 82.12 54.12C82.02 52.96 81.23 53.05 80.12 53.12C79.66 52.68 80.14 51.8 79.12 52.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="80.95" cy="58.28" rx="3.24" ry="3.8" transform="rotate(8.69 80.95 58.28)" fill="white"/>
+  <path d="M71.88 37.12C70.86 36.8 71.34 37.68 70.88 38.12L57.12 38.12L56.88 37.12L17.12 37.12L17.12 48.88L32.88 48.88L33.12 49.88L38.88 49.88L39.12 52.88L40.12 53.12L40.12 59.88C41.65 59.45 41.65 63.55 40.12 63.12L40.12 66.88L41.12 67.12L41.12 81.88L42.88 81.88L43.12 82.88L57.88 82.88L58.12 81.88L64.88 81.88L65.12 80.88L71.88 80.88C71.67 80.15 72.15 79.67 72.88 79.88L72.88 58.12L71.88 57.88C71.82 56.62 74.01 56.47 71.88 55.88L71.88 55.12C73.68 54.98 72.57 52.53 72.88 51.12C71.53 51.49 71.91 49.95 71.88 49.12L72.88 48.88C72.94 48.12 70.63 47.05 72.88 46.88L72.88 46.12L71.88 45.88L71.88 37.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M70.88 38.88L71.12 59.88L72.12 60.12L72.12 66.88C71.68 67.34 70.8 66.86 71.12 67.88L72.12 68.12L72.12 77.88C71.22 78.45 69.87 77.64 69.88 79.12L64.12 79.12C63.65 81.2 59.97 79.64 58.12 80.12L57.88 81.12L43.12 81.12L42.88 68.12L41.88 67.88L41.88 56.12C42.32 55.66 43.2 56.14 42.88 55.12C41.18 55.4 42.11 53.14 41.88 52.12C40.53 52.49 40.91 50.95 40.88 50.12L40.12 50.12C39.79 48.18 36.77 49.52 35.12 49.12L34.88 48.12L17.88 47.88L17.88 39.12L26.88 38.88L27.12 37.88L54.88 37.88L55.12 38.88L70.88 38.88Z" fill="white"/>
+  <ellipse cx="57.7" cy="71.92" rx="5.02" ry="5.96" transform="rotate(154.33 57.7 71.92)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="57.68" cy="72.09" rx="3.84" ry="4.43" transform="rotate(7.64 57.68 72.09)" fill="white"/>
+  <ellipse cx="57.43" cy="58.55" rx="4.85" ry="5.42" transform="rotate(124.58 57.43 58.55)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="57.34" cy="58.49" rx="3.63" ry="3.94" transform="rotate(45.54 57.34 58.49)" fill="white"/>
+  <ellipse cx="56.55" cy="46.03" rx="4.98" ry="5.72" transform="rotate(103.79 56.55 46.03)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="56.52" cy="46.07" rx="3.82" ry="4.76" transform="rotate(60.76 56.52 46.07)" fill="white"/>
+  <ellipse cx="27.16" cy="15.93" rx="4.67" ry="5.25" transform="rotate(131.7 27.16 15.93)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="27.09" cy="15.91" rx="3.31" ry="3.55" transform="rotate(45 27.09 15.91)" fill="white"/>
+</svg>

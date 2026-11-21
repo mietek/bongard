@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP166, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="81" cy="54" r="0.99" fill="black"/>
+  <circle cx="73" cy="54" r="0.99" fill="black"/>
+  <rect x="27.12" y="51.12" width="1.75" height="2.75" fill="black"/>
+  <rect x="19.12" y="51.12" width="1.75" height="2.75" fill="black"/>
+  <rect x="81.12" y="46.12" width="2.75" height="2.75" fill="black"/>
+  <rect x="75.12" y="46.12" width="1.75" height="2.75" fill="black"/>
+  <rect x="27.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+  <rect x="19.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+</svg>

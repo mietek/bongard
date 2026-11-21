@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP398, right example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <polygon points="20.55,68.2 12.97,81.88 28.97,81.88 21.77,69.42" fill="black"/>
+  <path d="M20.88 71.12C22.33 74.12 25.48 77.24 25.62 80.12L15.88 79.62C17.94 77.16 18.64 72.63 20.88 71.12Z" fill="white"/>
+  <rect x="60.12" y="65.12" width="14.75" height="12.75" fill="black"/>
+  <rect x="61.88" y="66.88" width="12.25" height="9.25" fill="white"/>
+  <rect x="10.12" y="52.12" width="19.75" height="8.75" fill="black"/>
+  <rect x="11.88" y="53.88" width="17.25" height="5.25" fill="white"/>
+  <path d="M79.38 46.12L79.12 60.62L90.62 60.88C87.89 55.92 82.87 50.98 79.38 46.12Z" fill="black"/>
+  <path d="M81.38 50.88C82.44 53.78 87.16 56.03 86.62 59.12L80.88 58.62L81.38 50.88Z" fill="white"/>
+  <rect x="15.12" y="32.12" width="10.75" height="11.75" fill="black"/>
+  <rect x="16.88" y="33.88" width="8.25" height="8.25" fill="white"/>
+  <polygon points="31.13,15.12 34.74,34.88 42.11,34.88 44.88,21.62 44.88,15.12" fill="black"/>
+  <polygon points="33.03,16.88 43.86,16.88 40.86,33.12 36.23,33.12 35.33,30.65" fill="white"/>
+</svg>

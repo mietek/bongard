@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP197, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M58.12 50.12C57.98 50.77 58.23 51.02 58.88 50.88C59.02 50.23 58.77 49.98 58.12 50.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.12" y="50.12" width="0.75" height="1.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="70.12" y="48.12" width="0.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M79.88 50.62L79.88 50.12L76.88 49.88L76.88 46.12L76.12 46.12L76.12 49.88L76.88 49.88C76.76 51.36 79.2 51 79.88 50.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="23.12,46.12 23.12,47.88 22.21,48.33 23.88,50.41 23.88,46.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="16.12,46.12 16.12,47.88 14.99,48.44 18.88,50.38 18.88,49.12 16.88,49.12 16.88,46.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="52.12" y="45.12" width="0.75" height="3.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="28.12,46.77 28.12,48.49 28.36,48.74 28.88,48.95 28.88,46.88 29.88,46.88 29.88,44.59" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M65.88 50.88C65.94 50.12 63.63 49.05 65.88 48.88L65.88 46.12C67.04 46.02 66.95 45.23 66.88 44.12L66.12 44.12C66.09 44.95 66.47 46.49 65.12 46.12C64.89 47.14 65.82 49.4 64.12 49.12C64.34 49.93 65.07 50.66 65.88 50.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M24.12 44.12C23.98 44.77 24.23 45.02 24.88 44.88C25.02 44.23 24.77 43.98 24.12 44.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="81.23,43.12 81.12,43.12 81.12,45.95 81.6,45.75 82.73,44.33" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M72.12 43.12C72.74 45.22 70.53 44.86 71.12 46.88L71.88 46.88C71.91 46.05 71.53 44.51 72.88 44.88C72.75 44.17 73.32 42.76 72.12 43.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="48.88,43.12 48.12,43.12 48.12,46.12 47.12,46.12 47.12,48.88 48.88,46.88" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M35.88 50.88L35.88 50.12C34.41 50.68 34.41 47.32 35.88 47.88C35.91 47.05 35.53 45.51 36.88 45.88C36.3 44.21 37.77 44.14 37.88 43.12C36.67 42.69 37.49 44.62 36.12 44.12C36.09 44.95 36.47 46.49 35.12 46.12C35.09 46.95 35.47 48.49 34.12 48.12C33.82 49.77 34.87 50.46 35.88 50.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="58.88,42.12 58.12,42.12 58.12,47.12 57.12,47.12 57.12,48.88 58.88,46.88" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="17.12" y="42.12" width="0.75" height="2.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M49.12 40.12C48.98 40.77 49.23 41.02 49.88 40.88C50.02 40.23 49.77 39.98 49.12 40.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="59.12" y="39.12" width="0.75" height="1.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M18.12 39.12C17.98 39.77 18.23 40.02 18.88 39.88C19.02 39.23 18.77 38.98 18.12 39.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="62.12" y="35.12" width="0.75" height="3.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M52.12 35.12C51.98 35.77 52.23 36.02 52.88 35.88C53.02 35.23 52.77 34.98 52.12 35.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="20.12" y="35.12" width="0.75" height="1.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="97.12" y="0.12" width="0.75" height="97.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP018, left example 1</title>
+  <rect width="98" height="98" fill="white" />
+  <path d="M 20.3,33.7
+       L 44,44.2
+       C 47.7,46.7 52.3,46.3 57.4,45.6
+       L 80.8,36.4
+       L 80.8,63.9
+       L 56.1,52.2
+       C 50.9,53.1 46.3,50.9 44,53.1
+       L 19.2,62.2
+       L 20.3,33.7
+       Z" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" />
+</svg>

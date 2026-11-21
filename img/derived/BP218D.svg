@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP218, linked examples">
+  <title>BP218 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP218D-L1.svg" target="_parent" aria-label="Open BP218, left example 1">
+    <title>BP218, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="20.4,55.12 9.92,73.46 10.77,77.77 19.02,88.88 38.76,88.88 50.88,75 50.88,70.88 43.65,55.12" fill="black"/>
+      <polygon points="22.97,57.88 41.04,57.88 44.12,64.04 44.12,64.76 47.87,72.66 36.24,86.12 21.37,86.12 13.31,74.66" fill="white"/>
+      <polygon points="69.36,16.12 64.17,16.12 49.44,20.68 47.7,47.88 52.09,47.88 75.88,39.29 75.88,35.36" fill="black"/>
+      <polygon points="66.92,18.88 72.94,36.93 50.53,44.6 52.34,23.14" fill="white"/>
+      <polygon points="37.3,3.12 0.27,3.12 3.81,12.17 4.82,13.14 6.12,17.62 15.57,35.88 18.73,35.88 21.88,31.62 26.88,21.38 36.37,6.83" fill="black"/>
+      <polygon points="31.95,5.88 32.1,6.89 17.16,31.29 4.93,5.88" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-L2.svg" target="_parent" aria-label="Open BP218, left example 2">
+    <title>BP218, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="72.12" y="32.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="72.12" y="26.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="42.12" y="23.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="72.12" y="20.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="42.12" y="16.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="27.12" y="16.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="72.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="42.12" y="9.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="27.12" y="9.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="11.12" y="9.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="72.12" y="8.12" width="4.75" height="4.75" fill="black"/>
+      <path d="M80.88 5.62L80.62 4.12L5.38 4.12L5.12 38.62C9.63 42.26 13.53 44.75 17.38 48.88L19.88 48.62C19.86 47.01 20.21 45.26 18.88 44.38C14.68 42.52 12.12 38.43 7.88 36.62L8.38 6.88L19.62 6.88L20.12 38.62C24.63 42.26 28.53 44.75 32.38 48.88L34.62 48.88C35.21 47.23 35.06 45.11 33.62 44.12C29.52 42.46 27.04 38.33 22.88 36.62L22.88 7.38L34.62 6.88L35.12 38.62C39.63 42.26 43.53 44.75 47.38 48.88L49.62 48.88L49.88 45.38C45.54 42.84 42.4 38.86 37.88 36.62L37.88 7.38L50.12 7.38L50.12 38.62C54.63 42.26 58.53 44.75 62.38 48.88L64.62 48.88L64.88 45.38C60.54 42.84 57.4 38.86 52.88 36.62L52.88 7.38L64.62 6.88L65.12 38.62C69.63 42.26 73.53 44.75 77.38 48.88L80.62 48.88L80.88 46.38C76.4 43.17 72.69 39.27 67.88 36.62L67.88 7.38L80.62 6.88L80.88 5.62Z" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-L3.svg" target="_parent" aria-label="Open BP218, left example 3">
+    <title>BP218, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="75.5" cy="84.5" r="9.54" fill="black"/>
+      <circle cx="62.5" cy="67.5" r="8.36" fill="black"/>
+      <circle cx="39.5" cy="42.5" r="5.45" fill="black"/>
+      <circle cx="29.5" cy="30.5" r="4.57" fill="black"/>
+      <circle cx="21.5" cy="21.5" r="3.34" fill="black"/>
+      <circle cx="13.5" cy="13.5" r="2.46" fill="black"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-L4.svg" target="_parent" aria-label="Open BP218, left example 4">
+    <title>BP218, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="24.12,19.12 24.12,21.88 77.12,21.88 77.12,76.12 26.88,76.12 26.88,42.12 24.12,42.12 24.12,78.88 79.88,78.88 79.88,19.12" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-L5.svg" target="_parent" aria-label="Open BP218, left example 5">
+    <title>BP218, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="26.12,18.12 26.12,48.88 49.12,48.88 49.12,73.12 26.12,73.12 26.12,76.88 78.88,76.88 78.88,18.12" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-L6.svg" target="_parent" aria-label="Open BP218, left example 6">
+    <title>BP218, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="56.12" y="82.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="81.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="81.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="81.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="81.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="80.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="79.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="78.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="78.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="73.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="73.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="73.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="73.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="72.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="71.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="70.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="70.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="67.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="66.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="66.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="66.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="66.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="65.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="64.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="63.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="63.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="59.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="58.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="58.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="58.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="58.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="57.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="56.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="55.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="55.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="52.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="51.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="51.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="51.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="51.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="50.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="49.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="48.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="48.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="43.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="43.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="43.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="43.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="42.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="41.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="40.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="40.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="37.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="36.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="36.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="36.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="36.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="35.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="34.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="33.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="33.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="29.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="28.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="28.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="28.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="28.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="27.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="26.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="25.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="25.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="22.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="21.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="21.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="21.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="20.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="20.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="19.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="18.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="18.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="13.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="13.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="13.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="13.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="12.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="11.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="10.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="10.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="7.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="6.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="6.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="16.12" y="6.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="76.12" y="5.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="5.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="96.12" y="4.12" width="1.75" height="4.75" fill="black"/>
+      <rect x="6.12" y="3.12" width="4.75" height="4.75" fill="black"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-R1.svg" target="_parent" aria-label="Open BP218, right example 1">
+    <title>BP218, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="91.88,0.12 75.12,0.12 75.12,18.12 26.13,18.12 26.12,76.88 78.88,76.88 78.88,26.88 91.88,26.88" fill="black"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-R2.svg" target="_parent" aria-label="Open BP218, right example 2">
+    <title>BP218, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="33.12,16.12 33.12,66.12 24.12,66.12 24.12,68.88 79.48,68.88 80.88,67.48 80.88,16.12" fill="black"/>
+      <rect x="35.88" y="18.88" width="42.25" height="47.25" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-R3.svg" target="_parent" aria-label="Open BP218, right example 3">
+    <title>BP218, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="41.03,60.89 28.74,78.41 27.82,83.04 40.86,93.85 44.61,95.38 52.88,84.24 52.88,79.83 49.88,75.62 43.29,61.79" fill="black"/>
+      <polygon points="41.61,66.54 49.94,82.28 43.31,90.6 39.38,88.12 31.65,81.16 32.88,78.38" fill="white"/>
+      <polygon points="87.88,59.72 82.08,61.58 69.05,68.12 68.06,68.12 59.12,72.59 59.12,75.96 69.62,80.88 81.38,88.88 87.88,90.34" fill="black"/>
+      <path d="M85.12 85.62L84.38 86.12L64.88 74.38C70.98 70.13 77.99 68.01 84.62 64.88L85.12 85.62Z" fill="white"/>
+      <polygon points="9.07,40.12 1.12,55.98 1.12,58.79 2.37,61.51 6.68,73.88 24.77,73.88 33.88,59.42 33.88,54.42 24.21,40.12" fill="black"/>
+      <polygon points="12.03,42.88 21.78,42.88 31.04,56.94 22.22,71.12 9.1,71.12 4.88,58.43 4.88,55.96" fill="white"/>
+      <polygon points="62.91,15.12 60.51,15.12 58.53,17.13 46.12,25.55 46.12,30.08 49.82,43.88 68.84,43.88 70.32,41.09 72.34,35.15 73.88,31.79 73.88,27.85" fill="black"/>
+      <polygon points="61.25,19.6 71.2,29.55 66.33,41.12 52.48,41.12 48.99,28.11 55.38,22.88" fill="white"/>
+      <rect x="9.12" y="9.12" width="18.75" height="22.75" fill="black"/>
+      <rect x="11.88" y="11.88" width="13.25" height="17.25" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-R4.svg" target="_parent" aria-label="Open BP218, right example 4">
+    <title>BP218, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="89.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="82.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="74.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="67.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="59.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="52.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="44.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="37.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="29.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="22.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="14.12" y="94.12" width="4.75" height="3.75" fill="black"/>
+      <rect x="83.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="75.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="68.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="60.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="53.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="45.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="38.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="30.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="23.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="15.12" y="84.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="88.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="81.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="73.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="66.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="58.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="51.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="43.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="36.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="28.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="21.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="13.12" y="74.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="88.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="80.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="73.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="65.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="57.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="50.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="42.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="35.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="27.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="20.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="12.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="86.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="79.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="71.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="64.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="56.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="49.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="41.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="34.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="26.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="19.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="11.12" y="54.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="89.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="82.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="74.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="67.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="59.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="52.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="45.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="37.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="29.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="22.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="14.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="7.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="87.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="80.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="72.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="65.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="57.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="50.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="42.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="35.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="27.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="20.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="12.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="1.12" y="20.12" width="4.75" height="4.75" fill="black"/>
+      <path d="M90.12 24.12C87.84 24.3 89.5 21.24 88.62 20.12L84.12 20.38C84.45 22.54 84.17 24.96 81.38 24.12L80.62 20.12L76.12 20.38C76.02 21.85 76.8 24.7 74.38 24.12L73.62 20.12L69.12 20.38C69.45 22.54 69.17 24.96 66.38 24.12L65.62 20.12C61.85 19.27 60.81 20.89 60.62 24.12C57.89 24.75 59.38 21.42 58.62 20.12C54.85 19.27 53.81 20.89 53.62 24.12C50.45 25.1 50.97 22.08 50.62 20.12C46.85 19.27 45.81 20.89 45.62 24.12L43.88 23.62C46.03 18.9 37.22 18.62 39.12 23.38L38.62 24.12L36.38 24.12L35.88 23.38C37.78 18.62 28.97 18.9 31.12 23.62L29.38 24.12C29.19 20.89 28.15 19.27 24.38 20.12L23.62 24.12C20.45 25.1 20.97 22.08 20.62 20.12C16.85 19.27 15.81 20.89 15.62 24.12C13.2 24.7 13.98 21.85 13.88 20.38L9.12 20.38L9.38 24.88C12.55 23.9 12.03 26.92 12.38 28.88L16.88 28.62C16.55 26.46 16.83 24.04 19.62 24.88L20.38 28.88L24.88 28.62C24.98 27.15 24.2 24.3 26.62 24.88L27.38 28.88L31.88 28.62C31.55 26.46 31.83 24.04 34.62 24.88L35.38 28.88C39.15 29.73 40.19 28.11 40.38 24.88C43.11 24.25 41.62 27.58 42.38 28.88C46.15 29.73 47.19 28.11 47.38 24.88C50.55 23.9 50.03 26.92 50.38 28.88C54.15 29.73 55.19 28.11 55.38 24.88L57.12 25.38C54.97 30.1 63.78 30.38 61.88 25.62L62.38 24.88C65.55 23.9 65.03 26.92 65.38 28.88C69.15 29.73 70.19 28.11 70.38 24.88L72.12 25.38C71.09 28.96 73.7 29.29 76.62 28.88C75.66 23.83 81.34 23.83 80.38 28.88L84.62 28.88C85.38 27.58 83.89 24.25 86.62 24.88C86.81 28.11 87.85 29.73 91.62 28.88L92.38 24.88C96.24 25.43 98.9 23.5 97.88 19.38C94.83 18.9 89.97 19.39 91.12 23.62L90.12 24.12Z" fill="black"/>
+      <rect x="87.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="80.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="72.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="65.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="57.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="50.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="42.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="35.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="27.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="20.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="12.12" y="14.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="90.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="83.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="75.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="68.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="60.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="53.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="45.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="38.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="30.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="23.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+      <rect x="15.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-R5.svg" target="_parent" aria-label="Open BP218, right example 5">
+    <title>BP218, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="76.12" y="47.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="76.88" y="47.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="82.12" y="61.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="86.12" y="57.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="79.12" y="57.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="85.12" y="53.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="78.12" y="53.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="86.12" y="49.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="80.12" y="49.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="54.12" y="47.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="54.88" y="47.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="62.12" y="60.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="68.12" y="59.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="56.12" y="59.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="57.12" y="53.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="68.12" y="52.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="62.12" y="50.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="33.12" y="47.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="33.88" y="47.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="46.12" y="61.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="36.12" y="60.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="42.12" y="56.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="47.12" y="51.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="36.12" y="50.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="11.12" y="47.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="11.88" y="47.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="23.12" y="58.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="15.12" y="58.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="23.12" y="51.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="15.12" y="51.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="76.12" y="17.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="76.88" y="17.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="79.12" y="30.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="83.12" y="25.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="88.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="54.12" y="17.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="54.88" y="17.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="66.12" y="30.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="62.12" y="27.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="58.12" y="22.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="33.12" y="17.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="33.88" y="17.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="45.12" y="29.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="39.12" y="22.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="11.12" y="17.12" width="19.75" height="19.75" fill="black"/>
+      <rect x="11.88" y="17.88" width="18.25" height="18.25" fill="white"/>
+      <rect x="18.12" y="26.12" width="2.75" height="2.75" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP218D-R6.svg" target="_parent" aria-label="Open BP218, right example 6">
+    <title>BP218, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="10.5" cy="81.5" r="9.54" fill="black"/>
+      <circle cx="56.5" cy="69.5" r="7.39" fill="black"/>
+      <circle cx="27.5" cy="69.5" r="8.36" fill="black"/>
+      <circle cx="44.5" cy="58.5" r="7.39" fill="black"/>
+      <circle cx="54.5" cy="44.5" r="6.49" fill="black"/>
+      <circle cx="56.5" cy="28.5" r="5.45" fill="black"/>
+      <circle cx="46.5" cy="13.5" r="4.57" fill="black"/>
+      <circle cx="13.5" cy="10.5" r="2.46" fill="black"/>
+      <circle cx="29.5" cy="9.5" r="3.34" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

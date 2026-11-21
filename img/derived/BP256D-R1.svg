@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP256, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="33.49" cy="76.67" r="13.28" fill="black"/>
+  <circle cx="33.5" cy="76.62" r="11.29" fill="white"/>
+  <circle cx="49.95" cy="56.14" r="5.09" fill="black"/>
+  <circle cx="49.92" cy="56.23" r="3.08" fill="white"/>
+  <ellipse cx="37.66" cy="52.04" rx="4.97" ry="5.23" transform="rotate(102.59 37.66 52.04)" fill="black"/>
+  <ellipse cx="37.5" cy="52" rx="2.76" ry="3.24" transform="rotate(0 37.5 52)" fill="white"/>
+  <circle cx="37.65" cy="27.44" r="13.29" fill="black"/>
+  <circle cx="37.66" cy="27.43" r="11.28" fill="white"/>
+  <circle cx="70.45" cy="19.17" r="13.32" fill="black"/>
+  <circle cx="70.37" cy="19.27" r="11.26" fill="white"/>
+</svg>

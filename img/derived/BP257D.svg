@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP257, linked examples">
+  <title>BP257 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP257D-L1.svg" target="_parent" aria-label="Open BP257, left example 1">
+    <title>BP257, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="13.12" y="63.12" width="53.75" height="1.75" fill="black"/>
+      <ellipse cx="66.18" cy="43.91" rx="4.96" ry="5.18" transform="rotate(144.04 66.18 43.91)" fill="black"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-L2.svg" target="_parent" aria-label="Open BP257, left example 2">
+    <title>BP257, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="50.08" cy="88.92" r="5.12" fill="black"/>
+      <polygon points="15.78,15.12 81.53,80.88 84.22,80.88 18.47,15.12" fill="black"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-L3.svg" target="_parent" aria-label="Open BP257, left example 3">
+    <title>BP257, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M36.88 31.12L35.12 32.38L35.12 34.62C27.88 48.71 23.03 64.12 16.12 78.38L16.38 80.88L17.88 80.62C24.3 64.48 30.97 48.48 37.88 32.62C37.97 31.86 37.95 30.8 36.88 31.12Z" fill="black"/>
+      <polygon points="55.13,10.12 51.93,14.87 54.23,18.58 55.85,20.2 61.65,19.05 62.51,14.23 60.77,11.42 59.47,10.12" fill="black"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-L4.svg" target="_parent" aria-label="Open BP257, left example 4">
+    <title>BP257, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M79.12 73.12L78.12 73.38C77.88 79.49 81.03 83.69 81.12 89.62L83.62 89.88C82.51 84.63 81.35 77.86 79.12 73.12Z" fill="black"/>
+      <circle cx="82.86" cy="65.05" r="5.09" fill="black"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-L5.svg" target="_parent" aria-label="Open BP257, left example 5">
+    <title>BP257, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="17.15" cy="32.15" r="5.04" fill="black"/>
+      <path d="M33.38 7.12L33.38 8.88C49.36 12.8 64.54 18.15 80.62 21.88L81.38 22.88L84.62 22.88L88.38 24.88C89.97 25.15 90.94 24.66 91.88 23.62L89.62 22.12L86.38 22.12L82.62 20.12L79.38 20.12L75.62 18.12L72.38 18.12L71.62 17.12C58.46 14.51 46.75 9.33 33.38 7.12Z" fill="black"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-L6.svg" target="_parent" aria-label="Open BP257, left example 6">
+    <title>BP257, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="49.15" cy="89.85" r="5.04" fill="black"/>
+      <path d="M16.12 81.38L17.62 81.88L82.88 16.38L81.38 15.12L16.12 80.38L16.12 81.38Z" fill="black"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-R1.svg" target="_parent" aria-label="Open BP257, right example 1">
+    <title>BP257, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="82.49,26.64 78.12,27.82 78.12,35.02 83.34,36.93 87.88,33.87 87.88,29.52 85.81,27.46" fill="black"/>
+      <rect x="37.12" y="15.12" width="1.75" height="40.75" fill="black"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-R2.svg" target="_parent" aria-label="Open BP257, right example 2">
+    <title>BP257, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="58.17" cy="48" r="5.06" fill="black"/>
+      <path d="M37.12 11.62C52.64 16.83 67.79 22.39 83.62 26.88L84.38 27.88C85.97 28.15 86.94 27.66 87.88 26.62C72.13 21.54 56.53 15.66 40.38 11.12L39.62 10.12C38.34 9.78 37.73 10.91 37.12 11.62Z" fill="black"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-R3.svg" target="_parent" aria-label="Open BP257, right example 3">
+    <title>BP257, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M20.12 84.88L20.38 85.88C40.95 86.85 61.52 88.99 81.88 89.62L81.62 88.12C79.97 87.81 77.43 88.95 76.62 87.12C57.29 87.17 39.53 84.39 20.38 84.12L20.12 84.88Z" fill="black"/>
+      <ellipse cx="53.34" cy="47.96" rx="4.97" ry="5.23" transform="rotate(102.59 53.34 47.96)" fill="black"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-R4.svg" target="_parent" aria-label="Open BP257, right example 4">
+    <title>BP257, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="13" cy="48.17" r="5.06" fill="black"/>
+      <path d="M78.88 80.88L79.88 80.62C81.96 59.92 85.62 39.46 87.62 19.12C85.5 18.43 86.7 21.03 85.12 21.38C83.73 41.65 79.42 60.3 78.12 80.62L78.88 80.88Z" fill="black"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-R5.svg" target="_parent" aria-label="Open BP257, right example 5">
+    <title>BP257, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="91.09" cy="52.18" rx="4.96" ry="5.18" transform="rotate(54.04 91.09 52.18)" fill="black"/>
+      <path d="M17.12 68.62L19.62 68.88L22.38 65.88L23.62 65.88C43.46 51.67 63.73 37.86 83.88 24.38L81.38 23.12C61.01 37.82 39.91 51.22 19.62 66.12L18.38 66.12L17.12 68.62Z" fill="black"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP257D-R6.svg" target="_parent" aria-label="Open BP257, right example 6">
+    <title>BP257, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="61.66" cy="44.04" rx="4.97" ry="5.23" transform="rotate(102.59 61.66 44.04)" fill="black"/>
+      <path d="M62.38 72.88L62.88 72.38L60.88 69.62L60.88 67.38L57.88 62.62L57.88 60.38C49.42 43.5 42.25 25.88 34.88 8.38L32.38 7.12L32.12 8.62C41.81 28.14 49.19 48.97 59.12 68.38L60.12 72.62L62.38 72.88Z" fill="black"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

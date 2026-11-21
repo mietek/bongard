@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP399, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="25.41" cy="73.59" rx="2.41" ry="2.67" transform="rotate(45 25.41 73.59)" fill="black"/>
+  <path d="M77.12 86.88C79.39 88.66 84.12 89.36 87.88 88.62L87.62 68.12L85.38 68.12L67.38 85.88C74.2 82.23 79.02 74.99 85.62 70.88L86.12 86.62C84.42 87.31 80.79 87.82 79.62 86.12C78.81 86.33 77.01 85.56 77.12 86.88Z" fill="black"/>
+  <path d="M10.62 66.12L10.12 88.62L22.62 88.88C19.29 81.41 14.62 73.72 10.62 66.12Z" fill="black"/>
+  <path d="M12.62 72.88C15.14 77.5 18.67 82.53 19.62 87.12L11.88 86.62C12.34 82.18 10.93 76.57 12.62 72.88Z" fill="white"/>
+  <ellipse cx="34.41" cy="64.59" rx="2.41" ry="2.67" transform="rotate(45 34.41 64.59)" fill="black"/>
+  <ellipse cx="78.41" cy="61.59" rx="2.41" ry="2.67" transform="rotate(45 78.41 61.59)" fill="black"/>
+  <ellipse cx="71.41" cy="51.59" rx="2.41" ry="2.67" transform="rotate(45 71.41 51.59)" fill="black"/>
+  <ellipse cx="49.61" cy="53.91" rx="5.55" ry="11.2" transform="rotate(89.76 49.61 53.91)" fill="black"/>
+  <ellipse cx="49.54" cy="53.91" rx="4.13" ry="9.49" transform="rotate(90.33 49.54 53.91)" fill="white"/>
+  <ellipse cx="61.41" cy="42.59" rx="2.41" ry="2.67" transform="rotate(45 61.41 42.59)" fill="black"/>
+  <ellipse cx="53.41" cy="36.59" rx="2.41" ry="2.67" transform="rotate(45 53.41 36.59)" fill="black"/>
+  <ellipse cx="69.41" cy="34.59" rx="2.41" ry="2.67" transform="rotate(45 69.41 34.59)" fill="black"/>
+  <ellipse cx="45.41" cy="30.59" rx="2.41" ry="2.67" transform="rotate(45 45.41 30.59)" fill="black"/>
+  <ellipse cx="32.41" cy="22.59" rx="2.41" ry="2.67" transform="rotate(45 32.41 22.59)" fill="black"/>
+  <path d="M16.88 9.62C14.26 8.26 12.52 13.25 10.12 14.38C10.34 19.27 11.91 25.05 17.62 24.88C18.27 26.49 20.19 25.69 21.62 25.88C25.95 23.28 25.9 17.02 25.88 11.38L24.38 11.12L24.12 15.62L24.12 18.88C24.19 19.9 24.27 21.06 23.12 21.38C19.14 30.22 5.66 16.16 14.88 11.62C15.05 10.26 17.53 11.52 16.88 9.62Z" fill="black"/>
+  <rect x="73.12" y="6.12" width="10.75" height="24.75" fill="black"/>
+  <rect x="74.88" y="7.88" width="8.25" height="21.25" fill="white"/>
+</svg>

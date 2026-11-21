@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP264, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <g aria-label="Û" transform="translate(39 68) scale(0.0219334 -0.0247978) translate(-123 20)">
+  <path transform="translate(0 0)" d="M723 -20Q432 -20 277.5 122.0Q123 264 123 528V1409H418V551Q418 384 497.5 297.5Q577 211 731 211Q889 211 974.0 301.5Q1059 392 1059 561V1409H1354V543Q1354 275 1188.5 127.5Q1023 -20 723 -20ZM1105 1559V1530H946L743 1681H739L528 1530H368V1559L626 1835H855Z"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP029, right example 3</title>
+  <rect width="98" height="98" fill="white" />
+  <ellipse cx="47.8" cy="49.5" rx="25.8" ry="24.4" transform="rotate(87.7 47.8 49.5)" fill="none" stroke="black" stroke-width="2.3" />
+  <circle cx="67.5" cy="17.1" r="4" fill="none" stroke="black" stroke-width="2.3" />
+  <circle cx="19.6" cy="20.9" r="4.1" fill="none" stroke="black" stroke-width="2.3" />
+  <circle cx="80.7" cy="29.9" r="4" fill="none" stroke="black" stroke-width="2.3" />
+  <circle cx="59" cy="40.6" r="4.1" fill="none" stroke="black" stroke-width="2.2" />
+  <circle cx="40.4" cy="42.8" r="4.1" fill="none" stroke="black" stroke-width="2.2" />
+  <circle cx="48.3" cy="57.6" r="3.9" fill="none" stroke="black" stroke-width="2.4" />
+  <circle cx="83.9" cy="59" r="4" fill="none" stroke="black" stroke-width="2.2" />
+  <circle cx="60" cy="60.1" r="3.9" fill="none" stroke="black" stroke-width="2.1" />
+  <circle cx="17.7" cy="68.5" r="4" fill="none" stroke="black" stroke-width="2.4" />
+</svg>

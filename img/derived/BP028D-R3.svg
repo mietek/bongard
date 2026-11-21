@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP028, right example 3</title>
+  <rect width="98" height="98" fill="white" />
+  <circle cx="46.7" cy="20.2" r="7.4" fill="none" stroke="black" stroke-width="2.6" />
+  <circle cx="73" cy="20.4" r="7.3" fill="none" stroke="black" stroke-width="2.3" />
+  <circle cx="20.7" cy="31.5" r="8.8" fill="black" />
+  <circle cx="54.9" cy="46.5" r="8.9" fill="black" />
+  <circle cx="76.5" cy="50.6" r="7.5" fill="none" stroke="black" stroke-width="2.6" />
+  <circle cx="28.4" cy="63.8" r="7.5" fill="none" stroke="black" stroke-width="2.7" />
+  <circle cx="60.3" cy="74.3" r="8.8" fill="black" />
+</svg>

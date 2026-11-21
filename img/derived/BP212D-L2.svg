@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP212, left example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="65.12" y="81.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="38.12" y="80.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="44.12" y="77.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="67.12" y="74.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="48.12" y="71.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M26.12 71.12L26.12 75.88L31.12 76.12L31.12 80.88L35.88 80.88L35.88 76.12L30.88 75.88L30.88 71.12L26.12 71.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="70.12" y="67.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="22.12" y="65.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="51.12" y="64.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="74.12" y="61.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="22.12" y="58.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="53.12" y="57.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="78.12" y="54.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="23.12" y="51.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="54.12" y="50.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="82.12" y="48.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="27.12" y="45.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="54.12" y="42.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="86.12" y="41.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="14.12" y="39.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="7.12" y="38.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="90.12" y="35.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="54.12" y="35.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M38.12 34.12L38.12 38.88L33.12 39.12L33.12 43.88L37.88 43.88L38.12 38.88L42.88 38.88L42.88 34.12L38.12 34.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="3.12" y="32.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="44.12" y="29.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="93.12" y="28.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="3.12" y="25.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="97.12" y="22.12" width="0.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M54.88 25.88L55.12 24.88L55.88 24.88C56.21 26.82 59.23 25.48 60.88 25.88L60.88 21.12C59.86 20.89 57.6 21.82 57.88 20.12L53.12 20.12L53.12 24.88L50.12 25.12L50.12 29.88L53.88 29.88L54.12 31.88L58.88 31.88L58.88 27.12C57.54 26.78 54.53 28.07 54.88 25.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="63.12" y="17.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="69.12" y="14.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M9.12 12.12L9.12 16.88L4.12 17.12L4.12 21.88L8.88 21.88L9.12 16.88L13.88 16.88L13.88 12.12L9.12 12.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="76.12" y="11.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="83.12" y="8.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M44.12 8.12L44.12 12.88L49.12 13.12L49.12 17.88L53.88 17.88L53.88 13.12L49.12 13.12L48.88 8.12L44.12 8.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.12" y="8.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="91.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="37.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="30.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="22.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

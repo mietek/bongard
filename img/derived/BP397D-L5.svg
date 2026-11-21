@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP397, left example 5</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="66.12" y="79.12" width="1.75" height="16.75" fill="black"/>
+  <rect x="34.12" y="75.12" width="1.75" height="13.75" fill="black"/>
+  <ellipse cx="45.41" cy="73.59" rx="2.41" ry="2.67" transform="rotate(45 45.41 73.59)" fill="black"/>
+  <ellipse cx="57.41" cy="72.59" rx="2.41" ry="2.67" transform="rotate(45 57.41 72.59)" fill="black"/>
+  <rect x="79.12" y="66.12" width="1.75" height="20.75" fill="black"/>
+  <ellipse cx="35.41" cy="68.59" rx="2.41" ry="2.67" transform="rotate(45 35.41 68.59)" fill="black"/>
+  <ellipse cx="69.41" cy="66.59" rx="2.41" ry="2.67" transform="rotate(45 69.41 66.59)" fill="black"/>
+  <rect x="41.12" y="63.12" width="18.75" height="1.75" fill="black"/>
+  <ellipse cx="30.41" cy="57.59" rx="2.41" ry="2.67" transform="rotate(45 30.41 57.59)" fill="black"/>
+  <rect x="58.12" y="54.12" width="12.75" height="1.75" fill="black"/>
+  <ellipse cx="79.41" cy="55.59" rx="2.41" ry="2.67" transform="rotate(45 79.41 55.59)" fill="black"/>
+  <rect x="6.12" y="51.12" width="1.75" height="29.75" fill="black"/>
+  <rect x="36.12" y="49.12" width="12.75" height="1.75" fill="black"/>
+  <rect x="18.12" y="48.12" width="1.75" height="17.75" fill="black"/>
+  <ellipse cx="27.41" cy="45.59" rx="2.41" ry="2.67" transform="rotate(45 27.41 45.59)" fill="black"/>
+  <rect x="50.12" y="41.12" width="20.75" height="1.75" fill="black"/>
+  <ellipse cx="80.41" cy="42.59" rx="2.41" ry="2.67" transform="rotate(45 80.41 42.59)" fill="black"/>
+  <rect x="90.12" y="39.12" width="1.75" height="34.75" fill="black"/>
+  <rect x="34.12" y="34.12" width="38.75" height="1.75" fill="black"/>
+  <ellipse cx="28.41" cy="31.59" rx="2.41" ry="2.67" transform="rotate(45 28.41 31.59)" fill="black"/>
+  <ellipse cx="74.41" cy="28.59" rx="2.41" ry="2.67" transform="rotate(45 74.41 28.59)" fill="black"/>
+  <rect x="41.12" y="24.12" width="16.75" height="1.75" fill="black"/>
+  <ellipse cx="36.41" cy="19.59" rx="2.41" ry="2.67" transform="rotate(45 36.41 19.59)" fill="black"/>
+  <ellipse cx="63.41" cy="17.59" rx="2.41" ry="2.67" transform="rotate(45 63.41 17.59)" fill="black"/>
+  <ellipse cx="48.41" cy="16.59" rx="2.41" ry="2.67" transform="rotate(45 48.41 16.59)" fill="black"/>
+  <rect x="16.12" y="10.12" width="1.75" height="21.75" fill="black"/>
+  <rect x="82.12" y="9.12" width="1.75" height="14.75" fill="black"/>
+  <rect x="38.12" y="4.12" width="1.75" height="7.75" fill="black"/>
+</svg>

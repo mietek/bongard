@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP302, right example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <rect x="11.12" y="79.12" width="25.75" height="6.75" fill="black"/>
+  <rect x="11.88" y="79.88" width="24.25" height="5.25" fill="white"/>
+  <rect x="18.12" y="70.12" width="25.75" height="6.75" fill="black"/>
+  <rect x="18.88" y="70.88" width="24.25" height="5.25" fill="white"/>
+  <rect x="25.12" y="61.12" width="25.75" height="6.75" fill="black"/>
+  <rect x="25.88" y="61.88" width="24.25" height="5.25" fill="white"/>
+  <rect x="39.12" y="43.12" width="25.75" height="6.75" fill="black"/>
+  <rect x="39.88" y="43.88" width="24.25" height="5.25" fill="white"/>
+  <rect x="7.12" y="6.12" width="25.75" height="6.75" fill="black"/>
+  <rect x="7.88" y="6.88" width="24.25" height="5.25" fill="white"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP103, left example 4</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M82.88 74.62L82.88 73.12L55.12 73.12C54.63 74.77 57.73 72.95 57.12 74.88L59.88 74.88L60.12 73.88L67.88 73.88L68.12 74.88L68.88 74.88C68.67 74.15 69.15 73.67 69.88 73.88L70.12 74.88L70.88 74.88L71.12 73.88L79.88 73.88L80.12 74.88L82.88 74.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <polygon points="15.12,73.12 15.12,73.88 51.12,73.88 51.12,74.88 51.88,74.88 51.88,73.88 53.88,73.88 53.88,73.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="75.35" cy="42.09" rx="2.12" ry="2.76" transform="rotate(101.29 75.35 42.09)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+</svg>

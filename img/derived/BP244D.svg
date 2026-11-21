@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326" role="group" aria-label="BP244, linked examples">
+  <title>BP244 · derived examples</title>
+  <style>a { cursor: pointer; } a:hover &gt; .frame, a:focus-visible &gt; .frame { stroke-width: 2.5; }</style>
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <a href="BP244D-L1.svg" target="_parent" aria-label="Open BP244, left example 1">
+    <title>BP244, left example 1</title>
+    <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M19.38 0.12L18.62 17.12L0.12 17.62L19.12 18.38L18.62 37.12L0.12 37.38L19.12 38.38L18.62 57.12L0.12 57.38L19.12 58.38L18.62 78.12L0.12 78.62L18.62 78.88L19.38 97.88L20.38 78.88L39.12 79.38L39.38 97.88L59.62 97.88L60.38 78.88L78.62 78.88L79.62 97.88L79.88 79.38L97.88 78.38L79.88 77.62L79.88 58.38L97.88 57.38L79.88 56.62L79.88 38.38L97.88 37.38L79.88 36.62L79.88 18.38L97.88 17.38L80.38 17.12L79.62 0.12L78.62 17.12L60.38 17.12L59.62 0.12L39.38 0.12L38.62 17.12L20.38 17.12L19.38 0.12Z" fill="black"/>
+      <rect x="59.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="59.88" y="37.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="37.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="59.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-L2.svg" target="_parent" aria-label="Open BP244, left example 2">
+    <title>BP244, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M0.38 97.88L0.88 97.88L1.12 78.88L20.12 79.12L20.12 97.88L20.88 97.88L20.88 79.12L39.88 78.88L40.12 97.88L40.88 97.88L40.88 79.12L59.88 78.88L60.12 97.88L60.88 97.88L61.12 78.88L81.12 79.12L81.12 97.88L97.88 97.88L97.88 78.12L81.12 78.12L80.88 58.12L97.88 57.88L97.88 57.12L80.88 56.88L80.88 39.12L97.88 38.88L97.88 38.12L80.88 37.88L80.88 18.12L97.88 17.88L97.88 17.12L81.12 17.12L80.88 0.12L80.12 0.12L79.88 17.12L61.12 17.12L60.88 0.12L60.12 0.12L59.88 17.12L41.12 17.12L40.88 0.12L40.12 0.12L39.88 17.12L20.88 16.88L20.88 0.12L0.12 0.12L0.38 97.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="40.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="20.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="0.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="60.88" y="38.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="20.88" y="38.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="0.88" y="38.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="60.88" y="17.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="40.88" y="17.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="0.88" y="17.88" width="19.25" height="20.25" fill="white"/>
+    </svg>
+    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-L3.svg" target="_parent" aria-label="Open BP244, left example 3">
+    <title>BP244, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M19.38 0.12L18.62 17.12L0.12 17.62L19.12 18.38L19.12 36.62L0.38 37.12L0.38 56.88L19.12 57.38L19.12 76.62L0.12 77.38L19.12 78.38L19.62 97.88L19.88 78.38L38.62 77.88L39.12 97.62L59.88 97.62L59.88 78.38L78.62 77.88L79.62 97.88L79.88 78.38L97.88 77.62L79.88 76.62L79.88 57.38L97.62 56.88L97.88 37.38L79.88 36.62L79.88 18.38L97.88 17.62L80.38 17.12L79.38 0.12L78.62 17.12L60.38 17.12L59.62 0.12L39.12 0.38L38.62 17.12L20.38 17.12L19.38 0.12Z" fill="black"/>
+      <rect x="39.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="59.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="39.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="19.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="59.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-L4.svg" target="_parent" aria-label="Open BP244, left example 4">
+    <title>BP244, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M18.38 0.12L17.62 17.12L0.12 17.38L18.12 18.38L18.12 36.62L0.12 37.38L0.12 56.62L18.12 57.38L18.12 76.62L0.12 77.62L18.12 78.38L18.38 97.88L19.38 77.88L38.12 78.38L38.62 97.88L39.38 77.88L59.12 78.38L59.38 97.88L59.88 78.38L79.12 78.38L79.12 97.62L97.62 97.88L97.88 77.38L80.38 77.12L79.88 57.38L97.88 56.38L80.38 56.12L79.88 38.38L97.88 37.38L79.88 36.62L79.88 18.38L97.88 17.38L80.38 17.12L79.62 0.12L59.38 0.12L58.62 17.12L39.38 17.12L38.38 0.12L37.62 17.12L19.38 17.12L18.38 0.12Z" fill="black"/>
+      <rect x="59.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="18.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="59.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="38.88" y="37.88" width="20.25" height="18.25" fill="white"/>
+      <rect x="18.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="59.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="38.88" y="17.88" width="20.25" height="19.25" fill="white"/>
+      <rect x="18.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-L5.svg" target="_parent" aria-label="Open BP244, left example 5">
+    <title>BP244, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M19.38 0.12L18.62 18.12L0.38 18.12L0.38 37.88L19.12 38.38L19.12 56.62L0.12 57.38L0.12 78.62L18.88 79.12L19.38 97.88L39.62 97.88L40.38 78.88L58.62 78.88L59.38 97.88L79.62 97.88L79.88 79.38L97.88 78.62L97.88 57.38L79.88 56.62L79.88 38.38L97.88 37.62L97.88 18.38L80.12 17.88L79.62 0.12L59.38 0.12L58.62 18.12L40.38 18.12L39.62 0.12L19.38 0.12Z" fill="black"/>
+      <rect x="59.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="39.88" y="37.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="59.88" y="18.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="18.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-L6.svg" target="_parent" aria-label="Open BP244, left example 6">
+    <title>BP244, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M0.12 38.38L19.12 39.38L18.62 57.12L0.12 57.62L19.12 58.38L19.12 77.62L0.12 78.62L18.62 78.88L19.38 97.88L19.88 79.38L38.62 78.88L39.62 97.88L40.38 78.88L59.62 78.88L60.38 97.88L61.38 78.88L80.12 79.38L80.38 97.88L80.88 79.38L97.88 78.62L80.88 77.62L80.88 58.38L97.88 57.62L80.88 56.62L80.88 39.38L97.88 38.62L97.88 18.38L80.88 17.62L80.62 0.12L79.62 18.12L60.88 17.62L60.38 0.12L59.62 18.12L40.38 18.12L39.62 0.12L39.12 17.62L19.88 17.62L19.62 0.12L0.38 0.12L0.12 18.62L18.62 18.88L18.62 38.12L0.12 38.38Z" fill="black"/>
+      <rect x="39.88" y="57.88" width="20.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="60.88" y="38.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="39.88" y="38.88" width="20.25" height="18.25" fill="white"/>
+      <rect x="19.88" y="38.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="60.88" y="18.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="18.88" width="20.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="18.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-R1.svg" target="_parent" aria-label="Open BP244, right example 1">
+    <title>BP244, right example 1</title>
+    <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M19.38 0.12L18.62 17.12L0.12 17.62L18.62 17.88L19.12 36.62L0.12 37.62L18.62 37.88L19.12 55.62L0.12 56.62L19.12 57.38L18.62 77.12L0.12 77.38L0.38 97.88L19.62 97.88L19.88 78.38L39.12 78.38L39.62 97.88L40.38 77.88L60.12 78.38L60.38 97.88L60.88 78.38L79.62 77.88L80.62 97.88L80.88 78.38L97.88 77.38L80.88 76.62L80.88 57.38L97.88 56.38L80.88 55.62L80.88 38.38L97.88 37.38L80.88 36.62L81.38 17.88L97.88 17.62L97.62 0.12L80.38 0.12L80.12 16.62L61.38 17.12L60.38 0.12L59.62 17.12L40.38 17.12L39.62 0.12L38.62 17.12L20.38 17.12L19.38 0.12Z" fill="black"/>
+      <rect x="39.88" y="56.88" width="20.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="60.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="19.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="60.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="17.88" width="20.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-R2.svg" target="_parent" aria-label="Open BP244, right example 2">
+    <title>BP244, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M0.12 16.38L19.12 17.38L18.62 36.12L0.12 36.38L19.12 37.38L18.62 56.12L0.12 56.38L0.12 76.62L18.62 76.88L19.62 97.88L19.88 77.38L38.62 76.88L39.38 97.88L80.62 97.88L81.38 76.88L97.88 76.62L80.38 76.12L79.88 57.38L97.88 56.38L79.88 55.62L80.38 36.88L97.88 36.62L97.88 16.38L80.38 16.12L79.62 0.12L78.62 16.12L60.38 16.12L59.62 0.12L19.38 0.12L18.62 16.12L0.12 16.38Z" fill="black"/>
+      <rect x="59.88" y="56.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="56.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="59.88" y="36.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="36.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="36.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="16.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="16.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-R3.svg" target="_parent" aria-label="Open BP244, right example 3">
+    <title>BP244, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M0.12 16.38L18.62 16.88L19.12 35.62L0.12 36.62L19.12 37.38L18.62 56.12L0.12 56.38L19.12 57.38L19.12 76.62L0.12 77.38L19.12 78.38L19.38 97.88L20.38 77.88L39.12 78.38L39.38 97.88L40.38 77.88L59.12 78.38L59.38 97.88L59.88 78.38L79.12 78.38L79.12 97.62L97.88 97.62L97.88 77.38L80.38 77.12L79.88 57.38L97.88 56.38L79.88 55.62L79.88 37.38L97.88 36.38L79.88 35.62L79.88 17.38L97.88 16.38L80.38 16.12L79.62 0.12L78.62 16.12L60.38 16.12L59.62 0.12L58.62 16.12L40.38 16.12L39.62 0.12L19.38 0.12L18.62 16.12L0.12 16.38Z" fill="black"/>
+      <rect x="59.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="39.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="39.88" y="36.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="36.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="59.88" y="16.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="16.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="16.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-R4.svg" target="_parent" aria-label="Open BP244, right example 4">
+    <title>BP244, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M19.38 0.12L18.62 16.12L0.12 16.38L19.12 17.38L19.12 36.62L0.38 37.12L0.38 56.88L19.12 57.38L19.12 76.62L0.12 77.38L19.12 78.38L19.62 97.88L19.88 78.38L38.62 77.88L39.12 97.62L59.88 97.62L59.88 78.38L78.62 77.88L79.62 97.88L79.88 78.38L97.88 77.62L79.88 76.62L79.88 57.38L97.62 56.88L97.88 37.38L79.88 36.62L79.88 17.38L97.88 16.62L80.38 16.12L79.38 0.12L78.62 16.12L60.38 16.12L59.62 0.12L39.38 0.12L38.62 16.12L20.38 16.12L19.38 0.12Z" fill="black"/>
+      <rect x="59.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="39.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="59.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="39.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="19.88" y="37.88" width="19.25" height="18.25" fill="white"/>
+      <rect x="39.88" y="16.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="16.88" width="19.25" height="20.25" fill="white"/>
+    </svg>
+    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-R5.svg" target="_parent" aria-label="Open BP244, right example 5">
+    <title>BP244, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M19.38 0.12L18.62 17.12L0.12 17.38L19.12 18.38L18.62 37.12L0.12 37.38L0.12 57.62L19.12 58.38L19.12 77.62L0.12 78.62L18.62 78.88L19.38 97.88L20.38 78.88L39.12 79.38L39.38 97.88L40.38 78.88L59.12 79.38L59.38 97.88L59.88 79.38L78.62 78.88L79.62 97.88L79.88 79.38L97.88 78.62L79.88 77.62L79.88 58.38L97.88 57.62L97.88 37.38L79.88 36.62L79.88 18.38L97.88 17.38L80.38 17.12L79.62 0.12L78.62 17.12L60.38 17.12L59.62 0.12L58.62 17.12L40.38 17.12L39.62 0.12L38.62 17.12L20.38 17.12L19.38 0.12Z" fill="black"/>
+      <rect x="59.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="39.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="19.88" y="57.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="59.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="17.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP244D-R6.svg" target="_parent" aria-label="Open BP244, right example 6">
+    <title>BP244, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M19.38 0.12L18.62 16.12L0.12 16.38L18.62 16.88L19.12 35.62L0.12 36.62L19.12 37.38L18.62 56.12L0.12 56.38L19.12 57.38L19.12 76.62L0.12 77.38L19.12 78.38L19.38 97.88L20.38 77.88L39.12 78.38L39.62 97.88L39.88 78.38L58.62 77.88L59.62 97.88L59.88 78.38L78.62 77.88L79.62 97.88L79.88 78.38L97.88 77.38L79.88 76.62L79.88 57.38L97.88 56.38L79.88 55.62L79.88 37.38L97.88 36.62L79.88 35.62L80.38 16.88L97.88 16.38L80.38 16.12L79.38 0.12L78.62 16.12L60.38 16.12L59.38 0.12L58.62 16.12L40.38 16.12L39.62 0.12L38.62 16.12L20.38 16.12L19.38 0.12Z" fill="black"/>
+      <rect x="39.88" y="56.88" width="19.25" height="20.25" fill="white"/>
+      <rect x="59.88" y="36.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="19.88" y="36.88" width="19.25" height="19.25" fill="white"/>
+      <rect x="39.88" y="16.88" width="19.25" height="19.25" fill="white"/>
+    </svg>
+    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+</svg>

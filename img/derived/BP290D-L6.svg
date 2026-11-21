@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP290, left example 6</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M35.38 73.12C36.45 77.83 44.63 78.14 46.88 73.62L46.38 73.12C44.77 77.51 37.06 77.01 35.38 73.12Z" fill="black"/>
+  <circle cx="41" cy="69" r="2.66" fill="black"/>
+  <circle cx="41" cy="69" r="2.13" fill="white"/>
+  <circle cx="46" cy="63" r="2.66" fill="black"/>
+  <circle cx="46" cy="63" r="2.13" fill="white"/>
+  <circle cx="36" cy="63" r="2.66" fill="black"/>
+  <circle cx="36" cy="63" r="2.13" fill="white"/>
+  <path d="M57.38 56.12C58.45 60.83 66.63 61.14 68.88 56.62L68.38 56.12C66.77 60.51 59.06 60.01 57.38 56.12Z" fill="black"/>
+  <circle cx="68" cy="46" r="2.66" fill="black"/>
+  <circle cx="68" cy="46" r="2.13" fill="white"/>
+  <circle cx="58" cy="46" r="2.66" fill="black"/>
+  <circle cx="58" cy="46" r="2.13" fill="white"/>
+  <path d="M26.38 29.12C27.45 33.83 35.63 34.14 37.88 29.62L37.38 29.12C35.77 33.51 28.06 33.01 26.38 29.12Z" fill="black"/>
+  <circle cx="37" cy="19" r="2.66" fill="black"/>
+  <circle cx="37" cy="19" r="2.13" fill="white"/>
+  <circle cx="27" cy="19" r="2.66" fill="black"/>
+  <circle cx="27" cy="19" r="2.13" fill="white"/>
+</svg>

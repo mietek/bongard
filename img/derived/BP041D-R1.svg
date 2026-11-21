@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP041, right example 1</title>
+  <rect width="98" height="98" fill="white"/>
+  <ellipse cx="48.43" cy="67.83" rx="4.3" ry="4.89" transform="rotate(149.88 48.43 67.83)" fill="black"/>
+  <circle cx="76.57" cy="54.4" r="4.22" fill="black"/>
+  <ellipse cx="76.61" cy="54.28" rx="1.74" ry="2.2" transform="rotate(23.41 76.61 54.28)" fill="white"/>
+  <circle cx="16.9" cy="52.97" r="4.2" fill="black"/>
+  <ellipse cx="17.11" cy="53.11" rx="2" ry="2.33" transform="rotate(135 17.11 53.11)" fill="white"/>
+  <ellipse cx="70.83" cy="28.85" rx="4.33" ry="4.76" transform="rotate(90.44 70.83 28.85)" fill="black"/>
+  <ellipse cx="23.87" cy="25.5" rx="4.16" ry="4.54" transform="rotate(0 23.87 25.5)" fill="black"/>
+  <circle cx="46.66" cy="19.27" r="4.32" fill="black"/>
+  <path d="M46.62 22.12C42.2 21 44.9 17.72 47.62 16.88C50.46 18.57 48.29 20.63 46.62 22.12Z" fill="white"/>
+</svg>

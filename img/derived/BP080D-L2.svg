@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP080, left example 2</title>
+  <rect width="98" height="98" fill="white"/>
+  <circle cx="86.36" cy="80.64" r="3.52" fill="black"/>
+  <circle cx="7.57" cy="19.31" r="3.56" fill="black"/>
+  <path d="M81.88 17.38C80.52 15.35 77.67 16.36 75.38 16.12L74.88 10.38L73.38 10.12L72.62 16.12L66.12 16.38L66.38 17.88L72.62 17.88L73.12 23.62L74.62 23.88L75.38 17.88L81.88 17.38Z" fill="black"/>
+</svg>

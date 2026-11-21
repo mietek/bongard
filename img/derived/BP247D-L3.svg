@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
+  <title>BP247, left example 3</title>
+  <rect width="98" height="98" fill="white"/>
+  <path d="M70.38 64.12L68.12 64.38C65.22 72.39 57.8 79.97 48.38 80.12L47.62 81.12C37.22 81.31 27.44 76.68 23.88 67.38L21.62 64.12C19.8 63.58 20.08 65.4 20.12 66.62L23.12 70.38C31.12 87.35 61.03 86.43 67.88 69.38C68.49 67.67 71.72 65.83 70.38 64.12Z" fill="black"/>
+  <rect x="20.12" y="14.12" width="38.75" height="26.75" fill="black"/>
+  <rect x="21.88" y="15.88" width="35.25" height="23.25" fill="white"/>
+</svg>
