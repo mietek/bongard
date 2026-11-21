@@ -24,12 +24,7 @@ td p { margin: 0; }
 td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:auto; aspect-ratio:515/326; }
 $if(catalog)$
 .record { overflow-x: auto; }
-.record tbody th { border-bottom: 0; }
-.record tbody tr + tr th { border-top: 1px solid #d9dee2; }
-@media (max-width: 42rem) {
-  .record table { min-width: 36rem; }
-  .record tr > :first-child { position: sticky; left: 0; z-index: 1; background: white; }
-}
+.record td > * + p { margin-top: .5rem; }
 $endif$
 $if(zoom)$
 .derived-sheet { position: relative; }

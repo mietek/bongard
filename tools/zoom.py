@@ -12,8 +12,9 @@ def zoom_sheet(cell, details, heading_id):
     original = cell.find("object")
     sheet_path = Path(original.attrib["data"])
     source = ET.parse(sheet_path).getroot()
-    cell.remove(original)
-    container = ET.SubElement(cell, "div", {"class": "derived-sheet"})
+    container = ET.Element("div", {"class": "derived-sheet"})
+    container.tail = original.tail
+    cell[list(cell).index(original)] = container
     ET.SubElement(container, "img", src=sheet_path.as_posix(), loading="lazy",
                   width=source.attrib["width"], height=source.attrib["height"])
     overlay = ET.SubElement(container, "svg", {
