@@ -23,21 +23,18 @@ td p { margin: 0; }
 
 td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:auto; aspect-ratio:515/326; }
 $if(catalog)$
-.record { --image-width: 523px; overflow-x: auto; }
-.record table { min-width: calc(var(--image-width) + 26rem); }
-.record thead th:first-child { width: 7rem; }
-.record thead th:nth-child(2) { width: calc(var(--image-width) + 1.5rem); }
-.record tr > :nth-child(2) { padding-inline: .75rem; }
-.record thead th:last-child { width: 8rem; }
-.record td img { width: auto; max-width: 100%; }
-.record td object[type="image/svg+xml"], .derived-sheet { width: 515px; max-width: 100%; }
+.record { overflow-x: auto; }
 .record tbody th { border-bottom: 0; }
 .record tbody tr + tr th { border-top: 1px solid #d9dee2; }
-.record tr > :first-child { position: sticky; left: 0; z-index: 1; background: white; }
+@media (max-width: 42rem) {
+  .record table { min-width: 36rem; }
+  .record tr > :first-child { position: sticky; left: 0; z-index: 1; background: white; }
+}
 $endif$
 $if(zoom)$
 .derived-sheet { position: relative; }
-.derived-sheet > .sheet-map { position: absolute; inset: 0; width: 100%; height: 100%; }
+.derived-sheet > img { width: 100%; height: auto; }
+.derived-sheet > .sheet-map { position: absolute; inset: 0; }
 .sheet-map a { cursor: pointer; }
 .sheet-map a:hover rect, .sheet-map a:focus-visible rect { stroke: currentColor; stroke-width: 2; }
 .individual { display: none; scroll-margin: 1rem; }
