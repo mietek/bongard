@@ -22,16 +22,19 @@ td p { margin: 0; }
 @media (max-width: 38rem) { body { font-size: .9rem; } }
 
 td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:auto; aspect-ratio:515/326; }
-.record { overflow-x: auto; }
+.record { --image-width: 523px; overflow-x: auto; }
+.record table { min-width: calc(var(--image-width) + 26rem); }
+.record thead th:first-child { width: 7rem; }
+.record thead th:nth-child(2) { width: calc(var(--image-width) + 1.5rem); }
+.record tr > :nth-child(2) { padding-inline: .75rem; }
+.record thead th:last-child { width: 8rem; }
+.record td img { width: auto; max-width: 100%; }
+.record td object[type="image/svg+xml"], .derived-sheet { width: 515px; max-width: 100%; }
 .record tbody th { border-bottom: 0; }
 .record tbody tr + tr th { border-top: 1px solid #d9dee2; }
-@media (max-width: 42rem) {
-  .record table { min-width: 36rem; }
-  .record tr > :first-child { position: sticky; left: 0; z-index: 1; background: white; }
-}
+.record tr > :first-child { position: sticky; left: 0; z-index: 1; background: white; }
 .derived-sheet { position: relative; }
-.derived-sheet > img { width: 100%; height: auto; }
-.derived-sheet > .sheet-map { position: absolute; inset: 0; }
+.derived-sheet > .sheet-map { position: absolute; inset: 0; width: 100%; height: 100%; }
 .sheet-map a { cursor: pointer; }
 .sheet-map a:hover rect, .sheet-map a:focus-visible rect { stroke: currentColor; stroke-width: 2; }
 .individual { display: none; scroll-margin: 1rem; }
@@ -49,12 +52,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp001">BP001</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -89,12 +86,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp002">BP002</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -129,12 +120,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp003">BP003</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -169,12 +154,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp004">BP004</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -209,12 +188,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp005">BP005</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -249,12 +222,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp006">BP006</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -289,12 +256,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp007">BP007</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -329,12 +290,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp008">BP008</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -369,12 +324,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp009">BP009</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -409,12 +358,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp010">BP010</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -449,12 +392,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp011">BP011</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -489,12 +426,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp012">BP012</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -529,12 +460,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp013">BP013</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -569,12 +494,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp014">BP014</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -609,12 +528,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp015">BP015</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -649,12 +562,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp016">BP016</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -689,12 +596,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp017">BP017</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -729,12 +630,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp018">BP018</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -769,12 +664,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp019">BP019</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -809,12 +698,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp020">BP020</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -849,12 +732,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp021">BP021</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -889,12 +766,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp022">BP022</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -929,12 +800,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp023">BP023</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -969,12 +834,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp024">BP024</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1009,12 +868,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp025">BP025</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1049,12 +902,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp026">BP026</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1089,12 +936,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp027">BP027</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1129,12 +970,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp028">BP028</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1169,12 +1004,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp029">BP029</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1209,12 +1038,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp030">BP030</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1249,12 +1072,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp031">BP031</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1289,12 +1106,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp032">BP032</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1329,12 +1140,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp033">BP033</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1369,12 +1174,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp034">BP034</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1409,12 +1208,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp035">BP035</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1449,12 +1242,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp036">BP036</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1489,12 +1276,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp037">BP037</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1529,12 +1310,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp038">BP038</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1569,12 +1344,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp039">BP039</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1609,12 +1378,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp040">BP040</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1649,12 +1412,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp041">BP041</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1689,12 +1446,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp042">BP042</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1729,12 +1480,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp043">BP043</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1769,12 +1514,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp044">BP044</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1809,12 +1548,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp045">BP045</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1849,12 +1582,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp046">BP046</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1889,12 +1616,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp047">BP047</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1929,12 +1650,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp048">BP048</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1969,12 +1684,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp049">BP049</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2009,12 +1718,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp050">BP050</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2049,12 +1752,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp051">BP051</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2089,12 +1786,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp052">BP052</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2129,12 +1820,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp053">BP053</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2169,12 +1854,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp054">BP054</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2209,12 +1888,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp055">BP055</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2249,12 +1922,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp056">BP056</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2289,12 +1956,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp057">BP057</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2329,12 +1990,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp058">BP058</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2369,12 +2024,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp059">BP059</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2409,12 +2058,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp060">BP060</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2449,12 +2092,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp061">BP061</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2489,12 +2126,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp062">BP062</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2529,12 +2160,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp063">BP063</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2569,12 +2194,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp064">BP064</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2609,12 +2228,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp065">BP065</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2649,12 +2262,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp066">BP066</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2689,12 +2296,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp067">BP067</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2729,12 +2330,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp068">BP068</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2769,12 +2364,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp069">BP069</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2809,12 +2398,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp070">BP070</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2849,12 +2432,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp071">BP071</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2889,12 +2466,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp072">BP072</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2929,12 +2500,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp073">BP073</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -2969,12 +2534,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp074">BP074</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3009,12 +2568,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp075">BP075</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3049,12 +2602,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp076">BP076</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3089,12 +2636,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp077">BP077</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3129,12 +2670,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp078">BP078</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3169,12 +2704,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp079">BP079</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3209,12 +2738,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp080">BP080</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3249,12 +2772,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp081">BP081</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3289,12 +2806,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp082">BP082</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3329,12 +2840,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp083">BP083</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3369,12 +2874,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp084">BP084</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3409,12 +2908,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp085">BP085</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3449,12 +2942,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp086">BP086</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3489,12 +2976,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp087">BP087</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3529,12 +3010,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp088">BP088</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3569,12 +3044,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp089">BP089</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3609,12 +3078,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp090">BP090</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3649,12 +3112,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp091">BP091</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3689,12 +3146,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp092">BP092</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3729,12 +3180,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp093">BP093</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3769,12 +3214,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp094">BP094</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3809,12 +3248,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp095">BP095</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3849,12 +3282,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp096">BP096</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3889,12 +3316,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp097">BP097</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3929,12 +3350,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp098">BP098</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -3969,12 +3384,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp099">BP099</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4009,12 +3418,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp100">BP100</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4049,12 +3452,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp101">BP101</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4089,12 +3486,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp102">BP102</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4129,12 +3520,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp103">BP103</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4169,12 +3554,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp104">BP104</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4209,12 +3588,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp105">BP105</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4249,12 +3622,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp106">BP106</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4289,12 +3656,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp107">BP107</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4329,12 +3690,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp108">BP108</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4369,12 +3724,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp109">BP109</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4409,12 +3758,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp110">BP110</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4449,12 +3792,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp111">BP111</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4489,12 +3826,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp112">BP112</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4529,12 +3860,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp113">BP113</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4569,12 +3894,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp114">BP114</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4609,12 +3928,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp115">BP115</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4649,12 +3962,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp116">BP116</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4689,12 +3996,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp117">BP117</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4729,12 +4030,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp118">BP118</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4769,12 +4064,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp119">BP119</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4809,12 +4098,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp120">BP120</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4849,12 +4132,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp121">BP121</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4889,12 +4166,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp122">BP122</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4929,12 +4200,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp123">BP123</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -4969,12 +4234,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp124">BP124</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5009,12 +4268,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp125">BP125</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5049,12 +4302,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp126">BP126</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5089,12 +4336,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp127">BP127</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5129,12 +4370,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp128">BP128</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5169,12 +4404,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp129">BP129</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5209,12 +4438,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp130">BP130</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5249,12 +4472,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp131">BP131</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5289,12 +4506,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp132">BP132</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5329,12 +4540,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp133">BP133</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5369,12 +4574,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp134">BP134</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5409,12 +4608,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp135">BP135</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5449,12 +4642,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp136">BP136</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5489,12 +4676,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp137">BP137</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5529,12 +4710,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp138">BP138</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5569,12 +4744,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp139">BP139</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5609,12 +4778,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp140">BP140</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5649,12 +4812,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp141">BP141</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5689,12 +4846,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp142">BP142</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5729,12 +4880,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp143">BP143</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5769,12 +4914,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp144">BP144</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5809,12 +4948,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp145">BP145</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5849,12 +4982,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp146">BP146</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5889,12 +5016,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp147">BP147</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5929,12 +5050,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp148">BP148</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -5969,12 +5084,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp149">BP149</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6009,12 +5118,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp150">BP150</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6049,12 +5152,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp151">BP151</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6089,12 +5186,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp152">BP152</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6129,12 +5220,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp153">BP153</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6169,12 +5254,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp154">BP154</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6209,12 +5288,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp155">BP155</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6249,12 +5322,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp156">BP156</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6289,12 +5356,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp157">BP157</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6329,12 +5390,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp158">BP158</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6369,12 +5424,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp159">BP159</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6409,12 +5458,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp160">BP160</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6449,12 +5492,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp161">BP161</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6489,12 +5526,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp162">BP162</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6529,12 +5560,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp163">BP163</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6569,12 +5594,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp164">BP164</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6609,12 +5628,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp165">BP165</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6649,12 +5662,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp166">BP166</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6689,12 +5696,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp167">BP167</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6729,12 +5730,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp168">BP168</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6769,12 +5764,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp169">BP169</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6809,12 +5798,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp170">BP170</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6849,12 +5832,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp171">BP171</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6889,12 +5866,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp172">BP172</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6929,12 +5900,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp173">BP173</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -6969,12 +5934,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp174">BP174</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7009,12 +5968,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp175">BP175</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7049,12 +6002,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp176">BP176</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7089,12 +6036,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp177">BP177</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7129,12 +6070,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp178">BP178</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7169,12 +6104,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp179">BP179</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7209,12 +6138,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp180">BP180</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7249,12 +6172,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp181">BP181</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7289,12 +6206,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp182">BP182</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7329,12 +6240,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp183">BP183</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7369,12 +6274,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp184">BP184</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7409,12 +6308,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp185">BP185</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7449,12 +6342,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp186">BP186</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7489,12 +6376,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp187">BP187</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7529,12 +6410,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp188">BP188</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7569,12 +6444,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp189">BP189</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7609,12 +6478,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp190">BP190</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7649,12 +6512,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp191">BP191</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7689,12 +6546,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp192">BP192</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7729,12 +6580,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp193">BP193</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7769,12 +6614,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp194">BP194</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7809,12 +6648,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp195">BP195</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7849,12 +6682,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp196">BP196</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7889,12 +6716,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp197">BP197</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7929,12 +6750,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp198">BP198</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -7969,12 +6784,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp199">BP199</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8009,12 +6818,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp200">BP200</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8049,12 +6852,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp201">BP201</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8089,12 +6886,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp202">BP202</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8129,12 +6920,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp203">BP203</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8169,12 +6954,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp204">BP204</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8209,12 +6988,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp205">BP205</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8249,12 +7022,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp206">BP206</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8289,12 +7056,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp207">BP207</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8329,12 +7090,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp208">BP208</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8369,12 +7124,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp209">BP209</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8409,12 +7158,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp210">BP210</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8449,12 +7192,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp211">BP211</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8489,12 +7226,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp212">BP212</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8529,12 +7260,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp213">BP213</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8569,12 +7294,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp214">BP214</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8609,12 +7328,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp215">BP215</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8649,12 +7362,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp216">BP216</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8689,12 +7396,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp217">BP217</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8729,12 +7430,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp218">BP218</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8769,12 +7464,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp219">BP219</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8809,12 +7498,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp220">BP220</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8849,12 +7532,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp221">BP221</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8889,12 +7566,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp222">BP222</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8929,12 +7600,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp223">BP223</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -8969,12 +7634,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp224">BP224</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9009,12 +7668,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp225">BP225</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9049,12 +7702,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp226">BP226</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9089,12 +7736,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp227">BP227</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9129,12 +7770,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp228">BP228</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9169,12 +7804,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp229">BP229</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9209,12 +7838,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp230">BP230</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9249,12 +7872,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp231">BP231</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9289,12 +7906,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp232">BP232</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9329,12 +7940,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp233">BP233</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9369,12 +7974,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp234">BP234</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9409,12 +8008,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp235">BP235</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9449,12 +8042,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp236">BP236</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9489,12 +8076,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp237">BP237</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9529,12 +8110,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp238">BP238</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9569,12 +8144,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp239">BP239</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9609,12 +8178,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp240">BP240</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9649,12 +8212,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp241">BP241</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9689,12 +8246,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp242">BP242</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9729,12 +8280,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp243">BP243</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9769,12 +8314,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp244">BP244</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9809,12 +8348,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp245">BP245</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9849,12 +8382,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp246">BP246</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9889,12 +8416,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp247">BP247</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9929,12 +8450,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp248">BP248</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -9969,12 +8484,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp249">BP249</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10009,12 +8518,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp250">BP250</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10049,12 +8552,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp251">BP251</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10089,12 +8586,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp252">BP252</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10129,12 +8620,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp253">BP253</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10169,12 +8654,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp254">BP254</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10209,12 +8688,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp255">BP255</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10249,12 +8722,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp256">BP256</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10289,12 +8756,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp257">BP257</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10329,12 +8790,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp258">BP258</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10369,12 +8824,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp259">BP259</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10409,12 +8858,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp260">BP260</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10449,12 +8892,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp261">BP261</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10489,12 +8926,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp262">BP262</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10529,12 +8960,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp263">BP263</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10569,12 +8994,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp264">BP264</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10609,12 +9028,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp265">BP265</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10649,12 +9062,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp266">BP266</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10689,12 +9096,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp267">BP267</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10729,12 +9130,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp268">BP268</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10769,12 +9164,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp269">BP269</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10809,12 +9198,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp270">BP270</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10849,12 +9232,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp271">BP271</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10889,12 +9266,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp272">BP272</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10929,12 +9300,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp273">BP273</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -10969,12 +9334,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp274">BP274</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11009,12 +9368,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp275">BP275</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11049,12 +9402,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp276">BP276</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11089,12 +9436,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp277">BP277</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11129,12 +9470,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp278">BP278</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11169,12 +9504,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp279">BP279</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11209,12 +9538,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp280">BP280</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11249,12 +9572,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp281">BP281</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11289,12 +9606,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp282">BP282</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11329,12 +9640,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp283">BP283</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11369,12 +9674,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp284">BP284</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11409,12 +9708,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp285">BP285</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11449,12 +9742,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp286">BP286</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11489,12 +9776,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp287">BP287</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11529,12 +9810,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp288">BP288</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11569,12 +9844,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp289">BP289</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11609,12 +9878,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp290">BP290</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11649,12 +9912,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp291">BP291</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11689,12 +9946,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp292">BP292</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11729,12 +9980,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp293">BP293</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11769,12 +10014,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp294">BP294</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11809,12 +10048,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp295">BP295</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11849,12 +10082,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp296">BP296</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11889,12 +10116,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp297">BP297</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11929,12 +10150,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp298">BP298</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -11969,12 +10184,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp299">BP299</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12009,12 +10218,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp300">BP300</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12049,12 +10252,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp301">BP301</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12089,12 +10286,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp302">BP302</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12129,12 +10320,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp303">BP303</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12169,12 +10354,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp304">BP304</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12209,12 +10388,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp305">BP305</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12249,12 +10422,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp306">BP306</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12289,12 +10456,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp307">BP307</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12329,12 +10490,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp308">BP308</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12369,12 +10524,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp309">BP309</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12409,12 +10558,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp310">BP310</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12449,12 +10592,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp311">BP311</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12489,12 +10626,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp312">BP312</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12529,12 +10660,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp313">BP313</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12569,12 +10694,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp314">BP314</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12609,12 +10728,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp315">BP315</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12649,12 +10762,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp316">BP316</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12689,12 +10796,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp317">BP317</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12729,12 +10830,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp318">BP318</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12769,12 +10864,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp319">BP319</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12809,12 +10898,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp320">BP320</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12849,12 +10932,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp321">BP321</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12889,12 +10966,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp322">BP322</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12929,12 +11000,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp323">BP323</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -12969,12 +11034,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp324">BP324</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13009,12 +11068,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp325">BP325</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13049,12 +11102,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp326">BP326</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13089,12 +11136,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp327">BP327</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13129,12 +11170,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp328">BP328</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13169,12 +11204,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp329">BP329</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13209,12 +11238,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp330">BP330</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13249,12 +11272,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp331">BP331</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13289,12 +11306,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp332">BP332</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13329,12 +11340,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp333">BP333</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13369,12 +11374,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp334">BP334</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13409,12 +11408,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp335">BP335</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13449,12 +11442,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp336">BP336</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13489,12 +11476,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp337">BP337</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13529,12 +11510,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp338">BP338</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13569,12 +11544,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp339">BP339</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13609,12 +11578,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp340">BP340</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13649,12 +11612,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp341">BP341</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13689,12 +11646,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp342">BP342</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13729,12 +11680,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp343">BP343</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13769,12 +11714,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp344">BP344</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13809,12 +11748,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp345">BP345</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13849,12 +11782,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp346">BP346</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13889,12 +11816,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp347">BP347</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13929,12 +11850,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp348">BP348</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -13969,12 +11884,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp349">BP349</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14009,12 +11918,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp350">BP350</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14049,12 +11952,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp351">BP351</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14089,12 +11986,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp352">BP352</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14129,12 +12020,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp353">BP353</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14169,12 +12054,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp354">BP354</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14209,12 +12088,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp355">BP355</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14249,12 +12122,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp356">BP356</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14289,12 +12156,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp357">BP357</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14329,12 +12190,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp358">BP358</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14369,12 +12224,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp359">BP359</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14409,12 +12258,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp360">BP360</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14449,12 +12292,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp361">BP361</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14489,12 +12326,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp362">BP362</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14529,12 +12360,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp363">BP363</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14569,12 +12394,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp364">BP364</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14609,12 +12428,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp365">BP365</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14649,12 +12462,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp366">BP366</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14689,12 +12496,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp367">BP367</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14729,12 +12530,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp368">BP368</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14769,12 +12564,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp369">BP369</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14809,12 +12598,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp370">BP370</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14849,12 +12632,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp371">BP371</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14889,12 +12666,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp372">BP372</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14929,12 +12700,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp373">BP373</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -14969,12 +12734,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp374">BP374</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15009,12 +12768,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp375">BP375</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15049,12 +12802,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp376">BP376</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15089,12 +12836,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp377">BP377</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15129,12 +12870,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp378">BP378</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15169,12 +12904,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp379">BP379</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15209,12 +12938,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp380">BP380</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15249,12 +12972,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp381">BP381</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15289,12 +13006,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp382">BP382</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15329,12 +13040,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp383">BP383</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15369,12 +13074,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp384">BP384</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15409,12 +13108,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp385">BP385</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15449,12 +13142,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp386">BP386</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15489,12 +13176,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp387">BP387</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15529,12 +13210,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp388">BP388</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15569,12 +13244,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp389">BP389</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15609,12 +13278,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp390">BP390</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15649,12 +13312,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp391">BP391</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15689,12 +13346,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp392">BP392</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15729,12 +13380,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp393">BP393</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15769,12 +13414,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp394">BP394</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15809,12 +13448,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp395">BP395</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15849,12 +13482,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp396">BP396</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15889,12 +13516,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp397">BP397</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15929,12 +13550,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp398">BP398</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -15969,12 +13584,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp399">BP399</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16009,12 +13618,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp400">BP400</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16049,12 +13652,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp401">BP401</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16089,12 +13686,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp402">BP402</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16129,12 +13720,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp403">BP403</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16169,12 +13754,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp404">BP404</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16209,12 +13788,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp405">BP405</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16249,12 +13822,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp406">BP406</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16289,12 +13856,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp407">BP407</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16329,12 +13890,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp408">BP408</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -16369,12 +13924,6 @@ table:has(+ .details > .individual:target) { display: none; }
 <h2 id="bp409">BP409</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%">
-<col style="width: 36%">
-<col style="width: 37%">
-<col style="width: 13%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>

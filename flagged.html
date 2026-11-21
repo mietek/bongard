@@ -22,13 +22,17 @@ td p { margin: 0; }
 @media (max-width: 38rem) { body { font-size: .9rem; } }
 
 td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:auto; aspect-ratio:515/326; }
-.record { overflow-x: auto; }
+.record { --image-width: 523px; overflow-x: auto; }
+.record table { min-width: calc(var(--image-width) + 26rem); }
+.record thead th:first-child { width: 7rem; }
+.record thead th:nth-child(2) { width: calc(var(--image-width) + 1.5rem); }
+.record tr > :nth-child(2) { padding-inline: .75rem; }
+.record thead th:last-child { width: 8rem; }
+.record td img { width: auto; max-width: 100%; }
+.record td object[type="image/svg+xml"], .derived-sheet { width: 515px; max-width: 100%; }
 .record tbody th { border-bottom: 0; }
 .record tbody tr + tr th { border-top: 1px solid #d9dee2; }
-@media (max-width: 42rem) {
-  .record table { min-width: 36rem; }
-  .record tr > :first-child { position: sticky; left: 0; z-index: 1; background: white; }
-}
+.record tr > :first-child { position: sticky; left: 0; z-index: 1; background: white; }
 </style>
 </head>
 <body>
@@ -38,12 +42,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp159">BP159</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -78,12 +76,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp171">BP171</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -118,12 +110,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp172">BP172</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -158,12 +144,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp197">BP197</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -198,12 +178,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp202">BP202</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -238,12 +212,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp203">BP203</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -278,12 +246,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp210">BP210</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -318,12 +280,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp211">BP211</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -358,12 +314,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp214">BP214</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -398,12 +348,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp233">BP233</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -438,12 +382,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp234">BP234</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -478,12 +416,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp235">BP235</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -518,12 +450,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp237">BP237</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -558,12 +484,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp242">BP242</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -598,12 +518,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp244">BP244</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -638,12 +552,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp252">BP252</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -678,12 +586,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp260">BP260</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -718,12 +620,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp293">BP293</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -758,12 +654,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp300">BP300</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -798,12 +688,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp301">BP301</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -838,12 +722,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp315">BP315</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -878,12 +756,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp316">BP316</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -918,12 +790,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp344">BP344</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -958,12 +824,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp346">BP346</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -998,12 +858,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp349">BP349</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1038,12 +892,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp352">BP352</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1078,12 +926,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp353">BP353</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1118,12 +960,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp356">BP356</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1158,12 +994,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp359">BP359</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1198,12 +1028,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp361">BP361</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1238,12 +1062,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp362">BP362</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1278,12 +1096,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp364">BP364</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1318,12 +1130,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp365">BP365</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1358,12 +1164,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp371">BP371</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1398,12 +1198,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp372">BP372</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1438,12 +1232,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp376">BP376</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1478,12 +1266,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp379">BP379</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1518,12 +1300,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp380">BP380</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1558,12 +1334,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp384">BP384</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1598,12 +1368,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp392">BP392</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1638,12 +1402,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp400">BP400</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
@@ -1678,12 +1436,6 @@ td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:
 <h2 id="bp404">BP404</h2>
 <div class="record">
 <table>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 36%" />
-<col style="width: 37%" />
-<col style="width: 13%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th>Version</th>
