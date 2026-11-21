@@ -30,7 +30,7 @@
 | [BP159F][url/BP159F]    | [BP159E][url/BP159E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP159F]: img/original/BP159F.gif
+[img/BP159F]: img/corrected/BP159F.png
 [img/BP159E]: img/original/BP159E.png
 [url/BP159F]: https://www.foundalis.com/res/bps/foundal/p159.htm
 [url/BP159E]: https://oebp.org/BP159
@@ -59,7 +59,7 @@
 | [BP171F][url/BP171F]    | [BP171E][url/BP171E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP171F]: img/original/BP171F.gif
+[img/BP171F]: img/corrected/BP171F.png
 [img/BP171E]: img/original/BP171E.png
 [url/BP171F]: https://www.foundalis.com/res/bps/foundal/p171.htm
 [url/BP171E]: https://oebp.org/BP171
@@ -88,7 +88,7 @@
 | [BP172F][url/BP172F]    | [BP172E][url/BP172E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP172F]: img/original/BP172F.gif
+[img/BP172F]: img/corrected/BP172F.png
 [img/BP172E]: img/original/BP172E.png
 [url/BP172F]: https://www.foundalis.com/res/bps/foundal/p172.htm
 [url/BP172E]: https://oebp.org/BP172
@@ -117,7 +117,7 @@
 | [BP197F][url/BP197F]    | [BP197E][url/BP197E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP197F]: img/original/BP197F.gif
+[img/BP197F]: img/corrected/BP197F.png
 [img/BP197E]: img/original/BP197E.png
 [url/BP197F]: https://www.foundalis.com/res/bps/foundal/p197.htm
 [url/BP197E]: https://oebp.org/BP197
@@ -140,7 +140,7 @@
 | [BP202F][url/BP202F]    | [BP202E][url/BP202E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP202F]: img/original/BP202F.gif
+[img/BP202F]: img/corrected/BP202F.png
 [img/BP202E]: img/original/BP202E.png
 [url/BP202F]: https://www.foundalis.com/res/bps/insana/p202.htm
 [url/BP202E]: https://oebp.org/BP202
@@ -164,7 +164,7 @@
 | [BP203F][url/BP203F]    | [BP203E][url/BP203E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP203F]: img/original/BP203F.gif
+[img/BP203F]: img/corrected/BP203F.png
 [img/BP203E]: img/original/BP203E.png
 [url/BP203F]: https://www.foundalis.com/res/bps/insana/p203.htm
 [url/BP203E]: https://oebp.org/BP203
@@ -190,7 +190,7 @@
 | [BP210F][url/BP210F]    | [BP210E][url/BP210E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP210F]: img/original/BP210F.gif
+[img/BP210F]: img/corrected/BP210F.png
 [img/BP210E]: img/original/BP210E.png
 [url/BP210F]: https://www.foundalis.com/res/bps/insana/p210.htm
 [url/BP210E]: https://oebp.org/BP210
@@ -218,7 +218,7 @@
 |                         | more)][url/BP211E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP211F]: img/original/BP211F.gif
+[img/BP211F]: img/corrected/BP211F.png
 [img/BP211E]: img/original/BP211E.png
 [url/BP211F]: https://www.foundalis.com/res/bps/insana/p211.htm
 [url/BP211E]: https://oebp.org/BP211
@@ -243,7 +243,7 @@
 | [BP214F][url/BP214F]    | [BP214E][url/BP214E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP214F]: img/original/BP214F.gif
+[img/BP214F]: img/corrected/BP214F.png
 [img/BP214E]: img/original/BP214E.png
 [url/BP214F]: https://www.foundalis.com/res/bps/insana/p214.htm
 [url/BP214E]: https://oebp.org/BP214
@@ -274,7 +274,7 @@
 | [BP233F][url/BP233F]    | [BP233E][url/BP233E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP233F]: img/original/BP233F.gif
+[img/BP233F]: img/corrected/BP233F.png
 [img/BP233E]: img/original/BP233E.png
 [url/BP233F]: https://www.foundalis.com/res/bps/shanahan/p233.htm
 [url/BP233E]: https://oebp.org/BP233
@@ -304,7 +304,7 @@
 | [BP234F][url/BP234F]    | [BP234E][url/BP234E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP234F]: img/original/BP234F.gif
+[img/BP234F]: img/corrected/BP234F.png
 [img/BP234E]: img/original/BP234E.png
 [url/BP234F]: https://www.foundalis.com/res/bps/shanahan/p234.htm
 [url/BP234E]: https://oebp.org/BP234
@@ -333,7 +333,7 @@
 | [BP235F][url/BP235F]    | [BP235E][url/BP235E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP235F]: img/original/BP235F.gif
+[img/BP235F]: img/corrected/BP235F.png
 [img/BP235E]: img/original/BP235E.png
 [url/BP235F]: https://www.foundalis.com/res/bps/shanahan/p235.htm
 [url/BP235E]: https://oebp.org/BP235
@@ -362,7 +362,7 @@
 | [BP237F][url/BP237F]    | [BP237E][url/BP237E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP237F]: img/original/BP237F.gif
+[img/BP237F]: img/corrected/BP237F.png
 [img/BP237E]: img/original/BP237E.png
 [url/BP237F]: https://www.foundalis.com/res/bps/shanahan/p237.htm
 [url/BP237E]: https://oebp.org/BP237
@@ -387,7 +387,7 @@
 | [BP242F][url/BP242F]    | [BP242E][url/BP242E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP242F]: img/original/BP242F.gif
+[img/BP242F]: img/corrected/BP242F.png
 [img/BP242E]: img/original/BP242E.png
 [url/BP242F]: https://www.foundalis.com/res/bps/howells/p242.htm
 [url/BP242E]: https://oebp.org/BP242
@@ -419,7 +419,7 @@
 | [BP244F][url/BP244F]    | [BP244E][url/BP244E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP244F]: img/original/BP244F.gif
+[img/BP244F]: img/corrected/BP244F.png
 [img/BP244E]: img/original/BP244E.png
 [url/BP244F]: https://www.foundalis.com/res/bps/howells/p244.htm
 [url/BP244E]: https://oebp.org/BP244
@@ -448,7 +448,7 @@
 | [BP252F][url/BP252F]    | [BP252E][url/BP252E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP252F]: img/original/BP252F.gif
+[img/BP252F]: img/corrected/BP252F.png
 [img/BP252E]: img/original/BP252E.png
 [url/BP252F]: https://www.foundalis.com/res/bps/gunnarsson/p252.htm
 [url/BP252E]: https://oebp.org/BP252
@@ -477,7 +477,7 @@
 | [BP260F][url/BP260F]    | [BP260E][url/BP260E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP260F]: img/original/BP260F.gif
+[img/BP260F]: img/corrected/BP260F.png
 [img/BP260E]: img/original/BP260E.png
 [url/BP260F]: https://www.foundalis.com/res/bps/rispoli/p260.htm
 [url/BP260E]: https://oebp.org/BP260
@@ -517,18 +517,10 @@
 +-------------------------+-------------------------+-------------------------+
 | Foundalis               | OEBP                    | Flagged                 |
 +=========================+=========================+=========================+
-| [L1][img/BP300F-L1]     | [![BP300E][img/BP300E]  | The rule depends on     |
-| [L2][img/BP300F-L2]     | ][img/BP300E]           | changes in speed. Both  |
-| [L3][img/BP300F-L3]     |                         | sources use animated    |
-| [L4][img/BP300F-L4]     |                         | examples.               |
-| [L5][img/BP300F-L5]     |                         |                         |
-| [L6][img/BP300F-L6]     |                         |                         |
-| [R1][img/BP300F-R1]     |                         |                         |
-| [R2][img/BP300F-R2]     |                         |                         |
-| [R3][img/BP300F-R3]     |                         |                         |
-| [R4][img/BP300F-R4]     |                         |                         |
-| [R5][img/BP300F-R5]     |                         |                         |
-| [R6][img/BP300F-R6]     |                         |                         |
+| [![BP300F][img/BP300F]  | [![BP300E][img/BP300E]  | The rule depends on     |
+| ][img/BP300F]           | ][img/BP300E]           | changes in speed. Both  |
+|                         |                         | sources use animated    |
+|                         |                         | examples.               |
 +-------------------------+-------------------------+-------------------------+
 | “Acceleration and       | “Acceleration and       | The moving object       |
 | deceleration; Constant  | deceleration vs.        | changes speed on the    |
@@ -539,18 +531,7 @@
 | [BP300F][url/BP300F]    | [BP300E][url/BP300E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP300F-L1]: img/original/BP300F-L1.gif
-[img/BP300F-L2]: img/original/BP300F-L2.gif
-[img/BP300F-L3]: img/original/BP300F-L3.gif
-[img/BP300F-L4]: img/original/BP300F-L4.gif
-[img/BP300F-L5]: img/original/BP300F-L5.gif
-[img/BP300F-L6]: img/original/BP300F-L6.gif
-[img/BP300F-R1]: img/original/BP300F-R1.gif
-[img/BP300F-R2]: img/original/BP300F-R2.gif
-[img/BP300F-R3]: img/original/BP300F-R3.gif
-[img/BP300F-R4]: img/original/BP300F-R4.gif
-[img/BP300F-R5]: img/original/BP300F-R5.gif
-[img/BP300F-R6]: img/original/BP300F-R6.gif
+[img/BP300F]: img/corrected/BP300F.png
 [img/BP300E]: img/original/BP300E.png
 [url/BP300F]: https://www.foundalis.com/res/bps/foundal/p300.htm
 [url/BP300E]: https://oebp.org/BP300
@@ -666,7 +647,7 @@
 |                         | more)][url/BP344E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP344F]: img/original/BP344F.gif
+[img/BP344F]: img/corrected/BP344F.png
 [img/BP344E]: img/original/BP344E.png
 [url/BP344F]: https://www.foundalis.com/res/bps/fairbanks/p344.htm
 [url/BP344E]: https://oebp.org/BP344
@@ -697,7 +678,7 @@
 | [BP346F][url/BP346F]    | [BP346E][url/BP346E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP346F]: img/original/BP346F.gif
+[img/BP346F]: img/corrected/BP346F.png
 [img/BP346E]: img/original/BP346E.png
 [url/BP346F]: https://www.foundalis.com/res/bps/fairbanks/p346.htm
 [url/BP346E]: https://oebp.org/BP346
@@ -723,7 +704,7 @@
 | [BP349F][url/BP349F]    | [BP349E][url/BP349E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP349F]: img/original/BP349F.gif
+[img/BP349F]: img/corrected/BP349F.png
 [img/BP349E]: img/original/BP349E.png
 [url/BP349F]: https://www.foundalis.com/res/bps/fairbanks/p349.htm
 [url/BP349E]: https://oebp.org/BP349
@@ -752,7 +733,7 @@
 |                         | more)][url/BP352E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP352F]: img/original/BP352F.gif
+[img/BP352F]: img/corrected/BP352F.png
 [img/BP352E]: img/original/BP352E.png
 [url/BP352F]: https://www.foundalis.com/res/bps/fairbanks/p352.htm
 [url/BP352E]: https://oebp.org/BP352
@@ -777,7 +758,7 @@
 | [BP353F][url/BP353F]    | [BP353E][url/BP353E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP353F]: img/original/BP353F.gif
+[img/BP353F]: img/corrected/BP353F.png
 [img/BP353E]: img/original/BP353E.png
 [url/BP353F]: https://www.foundalis.com/res/bps/fairbanks/p353.htm
 [url/BP353E]: https://oebp.org/BP353
@@ -808,7 +789,7 @@
 |                         | more)][url/BP356E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP356F]: img/original/BP356F.gif
+[img/BP356F]: img/corrected/BP356F.png
 [img/BP356E]: img/original/BP356E.png
 [url/BP356F]: https://www.foundalis.com/res/bps/fairbanks/p356.htm
 [url/BP356E]: https://oebp.org/BP356
@@ -835,7 +816,7 @@
 | [BP359F][url/BP359F]    | [BP359E][url/BP359E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP359F]: img/original/BP359F.gif
+[img/BP359F]: img/corrected/BP359F.png
 [img/BP359E]: img/original/BP359E.png
 [url/BP359F]: https://www.foundalis.com/res/bps/fairbanks/p359.htm
 [url/BP359E]: https://oebp.org/BP359
@@ -862,7 +843,7 @@
 | [BP361F][url/BP361F]    | [BP361E][url/BP361E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP361F]: img/original/BP361F.gif
+[img/BP361F]: img/corrected/BP361F.png
 [img/BP361E]: img/original/BP361E.png
 [url/BP361F]: https://www.foundalis.com/res/bps/fairbanks/p361.htm
 [url/BP361E]: https://oebp.org/BP361
@@ -890,7 +871,7 @@
 |                         | more)][url/BP362E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP362F]: img/original/BP362F.gif
+[img/BP362F]: img/corrected/BP362F.png
 [img/BP362E]: img/original/BP362E.png
 [url/BP362F]: https://www.foundalis.com/res/bps/fairbanks/p362.htm
 [url/BP362E]: https://oebp.org/BP362
@@ -918,7 +899,7 @@
 | [BP364F][url/BP364F]    | [BP364E][url/BP364E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP364F]: img/original/BP364F.gif
+[img/BP364F]: img/corrected/BP364F.png
 [img/BP364E]: img/original/BP364E.png
 [url/BP364F]: https://www.foundalis.com/res/bps/fairbanks/p364.htm
 [url/BP364E]: https://oebp.org/BP364
@@ -946,7 +927,7 @@
 |                         | more)][url/BP365E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP365F]: img/original/BP365F.gif
+[img/BP365F]: img/corrected/BP365F.png
 [img/BP365E]: img/original/BP365E.png
 [url/BP365F]: https://www.foundalis.com/res/bps/fairbanks/p365.htm
 [url/BP365E]: https://oebp.org/BP365
@@ -974,7 +955,7 @@
 | [BP371F][url/BP371F]    | [BP371E][url/BP371E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP371F]: img/original/BP371F.gif
+[img/BP371F]: img/corrected/BP371F.png
 [img/BP371E]: img/original/BP371E.png
 [url/BP371F]: https://www.foundalis.com/res/bps/fairbanks/p371.htm
 [url/BP371E]: https://oebp.org/BP371
@@ -1001,7 +982,7 @@
 | [BP372F][url/BP372F]    | [BP372E][url/BP372E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP372F]: img/original/BP372F.gif
+[img/BP372F]: img/corrected/BP372F.png
 [img/BP372E]: img/original/BP372E.png
 [url/BP372F]: https://www.foundalis.com/res/bps/fairbanks/p372.htm
 [url/BP372E]: https://oebp.org/BP372
@@ -1032,7 +1013,7 @@
 | [BP376F][url/BP376F]    | [BP376E][url/BP376E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP376F]: img/original/BP376F.gif
+[img/BP376F]: img/corrected/BP376F.png
 [img/BP376E]: img/original/BP376E.png
 [url/BP376F]: https://www.foundalis.com/res/bps/fairbanks/p376.htm
 [url/BP376E]: https://oebp.org/BP376
@@ -1060,7 +1041,7 @@
 |                         | more)][url/BP379E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP379F]: img/original/BP379F.gif
+[img/BP379F]: img/corrected/BP379F.png
 [img/BP379E]: img/original/BP379E.png
 [url/BP379F]: https://www.foundalis.com/res/bps/fairbanks/p379.htm
 [url/BP379E]: https://oebp.org/BP379
@@ -1085,7 +1066,7 @@
 | [BP380F][url/BP380F]    | [BP380E][url/BP380E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP380F]: img/original/BP380F.gif
+[img/BP380F]: img/corrected/BP380F.png
 [img/BP380E]: img/original/BP380E.png
 [url/BP380F]: https://www.foundalis.com/res/bps/fairbanks/p380.htm
 [url/BP380E]: https://oebp.org/BP380
@@ -1111,7 +1092,7 @@
 | [BP384F][url/BP384F]    | [BP384E][url/BP384E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP384F]: img/original/BP384F.gif
+[img/BP384F]: img/corrected/BP384F.png
 [img/BP384E]: img/original/BP384E.png
 [url/BP384F]: https://www.foundalis.com/res/bps/collins/p384.htm
 [url/BP384E]: https://oebp.org/BP384
@@ -1136,7 +1117,7 @@
 | [BP392F][url/BP392F]    | [BP392E][url/BP392E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP392F]: img/original/BP392F.gif
+[img/BP392F]: img/corrected/BP392F.png
 [img/BP392E]: img/original/BP392E.png
 [url/BP392F]: https://www.foundalis.com/res/bps/collins/p392.htm
 [url/BP392E]: https://oebp.org/BP392
@@ -1165,7 +1146,7 @@
 | [BP400F][url/BP400F]    | [BP400E][url/BP400E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP400F]: img/original/BP400F.gif
+[img/BP400F]: img/corrected/BP400F.png
 [img/BP400E]: img/original/BP400E.png
 [url/BP400F]: https://www.foundalis.com/res/bps/foundal/p400.htm
 [url/BP400E]: https://oebp.org/BP400

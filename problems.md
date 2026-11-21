@@ -22,7 +22,7 @@
 | [BP001F][url/BP001F]    | [BP001E][url/BP001E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP001F]: img/original/BP001F.gif
+[img/BP001F]: img/corrected/BP001F.png
 [img/BP001E]: img/original/BP001E.png
 [img/BP001D]: img/derived/BP001D.svg
 [url/BP001F]: https://www.foundalis.com/res/bps/bongard/p001.htm
@@ -50,7 +50,7 @@
 | [BP002F][url/BP002F]    | [BP002E][url/BP002E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP002F]: img/original/BP002F.gif
+[img/BP002F]: img/corrected/BP002F.png
 [img/BP002E]: img/original/BP002E.png
 [img/BP002D]: img/derived/BP002D.svg
 [url/BP002F]: https://www.foundalis.com/res/bps/bongard/p002.htm
@@ -78,7 +78,7 @@
 | [BP003F][url/BP003F]    | [BP003E][url/BP003E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP003F]: img/original/BP003F.gif
+[img/BP003F]: img/corrected/BP003F.png
 [img/BP003E]: img/original/BP003E.png
 [img/BP003D]: img/derived/BP003D.svg
 [url/BP003F]: https://www.foundalis.com/res/bps/bongard/p003.htm
@@ -106,7 +106,7 @@
 | [BP004F][url/BP004F]    | [BP004E][url/BP004E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP004F]: img/original/BP004F.gif
+[img/BP004F]: img/corrected/BP004F.png
 [img/BP004E]: img/original/BP004E.png
 [img/BP004D]: img/derived/BP004D.svg
 [url/BP004F]: https://www.foundalis.com/res/bps/bongard/p004.htm
@@ -136,7 +136,7 @@
 | [BP005F][url/BP005F]    | [BP005E][url/BP005E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP005F]: img/original/BP005F.gif
+[img/BP005F]: img/corrected/BP005F.png
 [img/BP005E]: img/original/BP005E.png
 [img/BP005D]: img/derived/BP005D.svg
 [url/BP005F]: https://www.foundalis.com/res/bps/bongard/p005.htm
@@ -164,7 +164,7 @@
 | [BP006F][url/BP006F]    | [BP006E][url/BP006E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP006F]: img/original/BP006F.gif
+[img/BP006F]: img/corrected/BP006F.png
 [img/BP006E]: img/original/BP006E.png
 [img/BP006D]: img/derived/BP006D.svg
 [url/BP006F]: https://www.foundalis.com/res/bps/bongard/p006.htm
@@ -192,7 +192,7 @@
 | [BP007F][url/BP007F]    | [BP007E][url/BP007E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP007F]: img/original/BP007F.gif
+[img/BP007F]: img/corrected/BP007F.png
 [img/BP007E]: img/original/BP007E.png
 [img/BP007D]: img/derived/BP007D.svg
 [url/BP007F]: https://www.foundalis.com/res/bps/bongard/p007.htm
@@ -222,7 +222,7 @@
 | [BP008F][url/BP008F]    | [BP008E][url/BP008E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP008F]: img/original/BP008F.gif
+[img/BP008F]: img/corrected/BP008F.png
 [img/BP008E]: img/original/BP008E.png
 [img/BP008D]: img/derived/BP008D.svg
 [url/BP008F]: https://www.foundalis.com/res/bps/bongard/p008.htm
@@ -252,7 +252,7 @@
 | [BP009F][url/BP009F]    | [BP009E][url/BP009E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP009F]: img/original/BP009F.gif
+[img/BP009F]: img/corrected/BP009F.png
 [img/BP009E]: img/original/BP009E.png
 [img/BP009D]: img/derived/BP009D.svg
 [url/BP009F]: https://www.foundalis.com/res/bps/bongard/p009.htm
@@ -283,7 +283,7 @@
 | [BP010F][url/BP010F]    | [BP010E][url/BP010E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP010F]: img/original/BP010F.gif
+[img/BP010F]: img/corrected/BP010F.png
 [img/BP010E]: img/original/BP010E.png
 [img/BP010D]: img/derived/BP010D.svg
 [url/BP010F]: https://www.foundalis.com/res/bps/bongard/p010.htm
@@ -312,7 +312,7 @@
 | [BP011F][url/BP011F]    | [BP011E][url/BP011E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP011F]: img/original/BP011F.gif
+[img/BP011F]: img/corrected/BP011F.png
 [img/BP011E]: img/original/BP011E.png
 [img/BP011D]: img/derived/BP011D.svg
 [url/BP011F]: https://www.foundalis.com/res/bps/bongard/p011.htm
@@ -340,7 +340,7 @@
 | [BP012F][url/BP012F]    | [BP012E][url/BP012E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP012F]: img/original/BP012F.gif
+[img/BP012F]: img/corrected/BP012F.png
 [img/BP012E]: img/original/BP012E.png
 [img/BP012D]: img/derived/BP012D.svg
 [url/BP012F]: https://www.foundalis.com/res/bps/bongard/p012.htm
@@ -370,7 +370,7 @@
 | [BP013F][url/BP013F]    | [BP013E][url/BP013E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP013F]: img/original/BP013F.gif
+[img/BP013F]: img/corrected/BP013F.png
 [img/BP013E]: img/original/BP013E.png
 [img/BP013D]: img/derived/BP013D.svg
 [url/BP013F]: https://www.foundalis.com/res/bps/bongard/p013.htm
@@ -401,7 +401,7 @@
 | [BP014F][url/BP014F]    | [BP014E][url/BP014E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP014F]: img/original/BP014F.gif
+[img/BP014F]: img/corrected/BP014F.png
 [img/BP014E]: img/original/BP014E.png
 [img/BP014D]: img/derived/BP014D.svg
 [url/BP014F]: https://www.foundalis.com/res/bps/bongard/p014.htm
@@ -430,7 +430,7 @@
 | [BP015F][url/BP015F]    | [BP015E][url/BP015E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP015F]: img/original/BP015F.gif
+[img/BP015F]: img/corrected/BP015F.png
 [img/BP015E]: img/original/BP015E.png
 [img/BP015D]: img/derived/BP015D.svg
 [url/BP015F]: https://www.foundalis.com/res/bps/bongard/p015.htm
@@ -461,7 +461,7 @@
 | [BP016F][url/BP016F]    | [BP016E][url/BP016E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP016F]: img/original/BP016F.gif
+[img/BP016F]: img/corrected/BP016F.png
 [img/BP016E]: img/original/BP016E.png
 [img/BP016D]: img/derived/BP016D.svg
 [url/BP016F]: https://www.foundalis.com/res/bps/bongard/p016.htm
@@ -490,7 +490,7 @@
 | [BP017F][url/BP017F]    | [BP017E][url/BP017E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP017F]: img/original/BP017F.gif
+[img/BP017F]: img/corrected/BP017F.png
 [img/BP017E]: img/original/BP017E.png
 [img/BP017D]: img/derived/BP017D.svg
 [url/BP017F]: https://www.foundalis.com/res/bps/bongard/p017.htm
@@ -520,7 +520,7 @@
 | [BP018F][url/BP018F]    | [BP018E][url/BP018E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP018F]: img/original/BP018F.gif
+[img/BP018F]: img/corrected/BP018F.png
 [img/BP018E]: img/original/BP018E.png
 [img/BP018D]: img/derived/BP018D.svg
 [url/BP018F]: https://www.foundalis.com/res/bps/bongard/p018.htm
@@ -550,7 +550,7 @@
 | [BP019F][url/BP019F]    | [BP019E][url/BP019E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP019F]: img/original/BP019F.gif
+[img/BP019F]: img/corrected/BP019F.png
 [img/BP019E]: img/original/BP019E.png
 [img/BP019D]: img/derived/BP019D.svg
 [url/BP019F]: https://www.foundalis.com/res/bps/bongard/p019.htm
@@ -579,7 +579,7 @@
 | [BP020F][url/BP020F]    | [BP020E][url/BP020E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP020F]: img/original/BP020F.gif
+[img/BP020F]: img/corrected/BP020F.png
 [img/BP020E]: img/original/BP020E.png
 [img/BP020D]: img/derived/BP020D.svg
 [url/BP020F]: https://www.foundalis.com/res/bps/bongard/p020.htm
@@ -608,7 +608,7 @@
 | [BP021F][url/BP021F]    | [BP021E][url/BP021E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP021F]: img/original/BP021F.gif
+[img/BP021F]: img/corrected/BP021F.png
 [img/BP021E]: img/original/BP021E.png
 [img/BP021D]: img/derived/BP021D.svg
 [url/BP021F]: https://www.foundalis.com/res/bps/bongard/p021.htm
@@ -639,7 +639,7 @@
 | [BP022F][url/BP022F]    | [BP022E][url/BP022E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP022F]: img/original/BP022F.gif
+[img/BP022F]: img/corrected/BP022F.png
 [img/BP022E]: img/original/BP022E.png
 [img/BP022D]: img/derived/BP022D.svg
 [url/BP022F]: https://www.foundalis.com/res/bps/bongard/p022.htm
@@ -667,7 +667,7 @@
 | [BP023F][url/BP023F]    | [BP023E][url/BP023E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP023F]: img/original/BP023F.gif
+[img/BP023F]: img/corrected/BP023F.png
 [img/BP023E]: img/original/BP023E.png
 [img/BP023D]: img/derived/BP023D.svg
 [url/BP023F]: https://www.foundalis.com/res/bps/bongard/p023.htm
@@ -695,7 +695,7 @@
 | [BP024F][url/BP024F]    | [BP024E][url/BP024E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP024F]: img/original/BP024F.gif
+[img/BP024F]: img/corrected/BP024F.png
 [img/BP024E]: img/original/BP024E.png
 [img/BP024D]: img/derived/BP024D.svg
 [url/BP024F]: https://www.foundalis.com/res/bps/bongard/p024.htm
@@ -723,7 +723,7 @@
 | [BP025F][url/BP025F]    | [BP025E][url/BP025E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP025F]: img/original/BP025F.gif
+[img/BP025F]: img/corrected/BP025F.png
 [img/BP025E]: img/original/BP025E.png
 [img/BP025D]: img/derived/BP025D.svg
 [url/BP025F]: https://www.foundalis.com/res/bps/bongard/p025.htm
@@ -752,7 +752,7 @@
 | [BP026F][url/BP026F]    | [BP026E][url/BP026E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP026F]: img/original/BP026F.gif
+[img/BP026F]: img/corrected/BP026F.png
 [img/BP026E]: img/original/BP026E.png
 [img/BP026D]: img/derived/BP026D.svg
 [url/BP026F]: https://www.foundalis.com/res/bps/bongard/p026.htm
@@ -781,7 +781,7 @@
 | [BP027F][url/BP027F]    | [BP027E][url/BP027E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP027F]: img/original/BP027F.gif
+[img/BP027F]: img/corrected/BP027F.png
 [img/BP027E]: img/original/BP027E.png
 [img/BP027D]: img/derived/BP027D.svg
 [url/BP027F]: https://www.foundalis.com/res/bps/bongard/p027.htm
@@ -810,7 +810,7 @@
 | [BP028F][url/BP028F]    | [BP028E][url/BP028E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP028F]: img/original/BP028F.gif
+[img/BP028F]: img/corrected/BP028F.png
 [img/BP028E]: img/original/BP028E.png
 [img/BP028D]: img/derived/BP028D.svg
 [url/BP028F]: https://www.foundalis.com/res/bps/bongard/p028.htm
@@ -841,7 +841,7 @@
 | [BP029F][url/BP029F]    | [BP029E][url/BP029E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP029F]: img/original/BP029F.gif
+[img/BP029F]: img/corrected/BP029F.png
 [img/BP029E]: img/original/BP029E.png
 [img/BP029D]: img/derived/BP029D.svg
 [url/BP029F]: https://www.foundalis.com/res/bps/bongard/p029.htm
@@ -870,7 +870,7 @@
 | [BP030F][url/BP030F]    | [BP030E][url/BP030E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP030F]: img/original/BP030F.gif
+[img/BP030F]: img/corrected/BP030F.png
 [img/BP030E]: img/original/BP030E.png
 [img/BP030D]: img/derived/BP030D.svg
 [url/BP030F]: https://www.foundalis.com/res/bps/bongard/p030.htm
@@ -898,7 +898,7 @@
 | [BP031F][url/BP031F]    | [BP031E][url/BP031E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP031F]: img/original/BP031F.gif
+[img/BP031F]: img/corrected/BP031F.png
 [img/BP031E]: img/original/BP031E.png
 [img/BP031D]: img/derived/BP031D.svg
 [url/BP031F]: https://www.foundalis.com/res/bps/bongard/p031.htm
@@ -926,7 +926,7 @@
 | [BP032F][url/BP032F]    | [BP032E][url/BP032E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP032F]: img/original/BP032F.gif
+[img/BP032F]: img/corrected/BP032F.png
 [img/BP032E]: img/original/BP032E.png
 [img/BP032D]: img/derived/BP032D.svg
 [url/BP032F]: https://www.foundalis.com/res/bps/bongard/p032.htm
@@ -954,7 +954,7 @@
 | [BP033F][url/BP033F]    | [BP033E][url/BP033E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP033F]: img/original/BP033F.gif
+[img/BP033F]: img/corrected/BP033F.png
 [img/BP033E]: img/original/BP033E.png
 [img/BP033D]: img/derived/BP033D.svg
 [url/BP033F]: https://www.foundalis.com/res/bps/bongard/p033.htm
@@ -983,7 +983,7 @@
 | [BP034F][url/BP034F]    | [BP034E][url/BP034E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP034F]: img/original/BP034F.gif
+[img/BP034F]: img/corrected/BP034F.png
 [img/BP034E]: img/original/BP034E.png
 [img/BP034D]: img/derived/BP034D.svg
 [url/BP034F]: https://www.foundalis.com/res/bps/bongard/p034.htm
@@ -1013,7 +1013,7 @@
 | [BP035F][url/BP035F]    | [BP035E][url/BP035E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP035F]: img/original/BP035F.gif
+[img/BP035F]: img/corrected/BP035F.png
 [img/BP035E]: img/original/BP035E.png
 [img/BP035D]: img/derived/BP035D.svg
 [url/BP035F]: https://www.foundalis.com/res/bps/bongard/p035.htm
@@ -1041,7 +1041,7 @@
 | [BP036F][url/BP036F]    | [BP036E][url/BP036E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP036F]: img/original/BP036F.gif
+[img/BP036F]: img/corrected/BP036F.png
 [img/BP036E]: img/original/BP036E.png
 [img/BP036D]: img/derived/BP036D.svg
 [url/BP036F]: https://www.foundalis.com/res/bps/bongard/p036.htm
@@ -1070,7 +1070,7 @@
 | [BP037F][url/BP037F]    | [BP037E][url/BP037E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP037F]: img/original/BP037F.gif
+[img/BP037F]: img/corrected/BP037F.png
 [img/BP037E]: img/original/BP037E.png
 [img/BP037D]: img/derived/BP037D.svg
 [url/BP037F]: https://www.foundalis.com/res/bps/bongard/p037.htm
@@ -1099,7 +1099,7 @@
 | [BP038F][url/BP038F]    | [BP038E][url/BP038E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP038F]: img/original/BP038F.gif
+[img/BP038F]: img/corrected/BP038F.png
 [img/BP038E]: img/original/BP038E.png
 [img/BP038D]: img/derived/BP038D.svg
 [url/BP038F]: https://www.foundalis.com/res/bps/bongard/p038.htm
@@ -1129,7 +1129,7 @@
 | [BP039F][url/BP039F]    | [BP039E][url/BP039E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP039F]: img/original/BP039F.gif
+[img/BP039F]: img/corrected/BP039F.png
 [img/BP039E]: img/original/BP039E.png
 [img/BP039D]: img/derived/BP039D.svg
 [url/BP039F]: https://www.foundalis.com/res/bps/bongard/p039.htm
@@ -1158,7 +1158,7 @@
 | [BP040F][url/BP040F]    | [BP040E][url/BP040E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP040F]: img/original/BP040F.gif
+[img/BP040F]: img/corrected/BP040F.png
 [img/BP040E]: img/original/BP040E.png
 [img/BP040D]: img/derived/BP040D.svg
 [url/BP040F]: https://www.foundalis.com/res/bps/bongard/p040.htm
@@ -1187,7 +1187,7 @@
 | [BP041F][url/BP041F]    | [BP041E][url/BP041E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP041F]: img/original/BP041F.gif
+[img/BP041F]: img/corrected/BP041F.png
 [img/BP041E]: img/original/BP041E.png
 [img/BP041D]: img/derived/BP041D.svg
 [url/BP041F]: https://www.foundalis.com/res/bps/bongard/p041.htm
@@ -1217,7 +1217,7 @@
 | [BP042F][url/BP042F]    | [BP042E][url/BP042E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP042F]: img/original/BP042F.gif
+[img/BP042F]: img/corrected/BP042F.png
 [img/BP042E]: img/original/BP042E.png
 [img/BP042D]: img/derived/BP042D.svg
 [url/BP042F]: https://www.foundalis.com/res/bps/bongard/p042.htm
@@ -1247,7 +1247,7 @@
 | [BP043F][url/BP043F]    | [BP043E][url/BP043E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP043F]: img/original/BP043F.gif
+[img/BP043F]: img/corrected/BP043F.png
 [img/BP043E]: img/original/BP043E.png
 [img/BP043D]: img/derived/BP043D.svg
 [url/BP043F]: https://www.foundalis.com/res/bps/bongard/p043.htm
@@ -1275,7 +1275,7 @@
 | [BP044F][url/BP044F]    | [BP044E][url/BP044E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP044F]: img/original/BP044F.gif
+[img/BP044F]: img/corrected/BP044F.png
 [img/BP044E]: img/original/BP044E.png
 [img/BP044D]: img/derived/BP044D.svg
 [url/BP044F]: https://www.foundalis.com/res/bps/bongard/p044.htm
@@ -1306,7 +1306,7 @@
 | [BP045F][url/BP045F]    | [BP045E][url/BP045E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP045F]: img/original/BP045F.gif
+[img/BP045F]: img/corrected/BP045F.png
 [img/BP045E]: img/original/BP045E.png
 [img/BP045D]: img/derived/BP045D.svg
 [url/BP045F]: https://www.foundalis.com/res/bps/bongard/p045.htm
@@ -1335,7 +1335,7 @@
 | [BP046F][url/BP046F]    | [BP046E][url/BP046E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP046F]: img/original/BP046F.gif
+[img/BP046F]: img/corrected/BP046F.png
 [img/BP046E]: img/original/BP046E.png
 [img/BP046D]: img/derived/BP046D.svg
 [url/BP046F]: https://www.foundalis.com/res/bps/bongard/p046.htm
@@ -1363,7 +1363,7 @@
 | [BP047F][url/BP047F]    | [BP047E][url/BP047E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP047F]: img/original/BP047F.gif
+[img/BP047F]: img/corrected/BP047F.png
 [img/BP047E]: img/original/BP047E.png
 [img/BP047D]: img/derived/BP047D.svg
 [url/BP047F]: https://www.foundalis.com/res/bps/bongard/p047.htm
@@ -1392,7 +1392,7 @@
 | [BP048F][url/BP048F]    | [BP048E][url/BP048E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP048F]: img/original/BP048F.gif
+[img/BP048F]: img/corrected/BP048F.png
 [img/BP048E]: img/original/BP048E.png
 [img/BP048D]: img/derived/BP048D.svg
 [url/BP048F]: https://www.foundalis.com/res/bps/bongard/p048.htm
@@ -1425,7 +1425,7 @@
 | [BP049F][url/BP049F]    | [BP049E][url/BP049E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP049F]: img/original/BP049F.gif
+[img/BP049F]: img/corrected/BP049F.png
 [img/BP049E]: img/original/BP049E.png
 [img/BP049D]: img/derived/BP049D.svg
 [url/BP049F]: https://www.foundalis.com/res/bps/bongard/p049.htm
@@ -1454,7 +1454,7 @@
 | [BP050F][url/BP050F]    | [BP050E][url/BP050E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP050F]: img/original/BP050F.gif
+[img/BP050F]: img/corrected/BP050F.png
 [img/BP050E]: img/original/BP050E.png
 [img/BP050D]: img/derived/BP050D.svg
 [url/BP050F]: https://www.foundalis.com/res/bps/bongard/p050.htm
@@ -1482,7 +1482,7 @@
 | [BP051F][url/BP051F]    | [BP051E][url/BP051E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP051F]: img/original/BP051F.gif
+[img/BP051F]: img/corrected/BP051F.png
 [img/BP051E]: img/original/BP051E.png
 [img/BP051D]: img/derived/BP051D.svg
 [url/BP051F]: https://www.foundalis.com/res/bps/bongard/p051.htm
@@ -1511,7 +1511,7 @@
 | [BP052F][url/BP052F]    | [BP052E][url/BP052E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP052F]: img/original/BP052F.gif
+[img/BP052F]: img/corrected/BP052F.png
 [img/BP052E]: img/original/BP052E.png
 [img/BP052D]: img/derived/BP052D.svg
 [url/BP052F]: https://www.foundalis.com/res/bps/bongard/p052.htm
@@ -1541,7 +1541,7 @@
 | [BP053F][url/BP053F]    | [BP053E][url/BP053E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP053F]: img/original/BP053F.gif
+[img/BP053F]: img/corrected/BP053F.png
 [img/BP053E]: img/original/BP053E.png
 [img/BP053D]: img/derived/BP053D.svg
 [url/BP053F]: https://www.foundalis.com/res/bps/bongard/p053.htm
@@ -1571,7 +1571,7 @@
 | [BP054F][url/BP054F]    | [BP054E][url/BP054E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP054F]: img/original/BP054F.gif
+[img/BP054F]: img/corrected/BP054F.png
 [img/BP054E]: img/original/BP054E.png
 [img/BP054D]: img/derived/BP054D.svg
 [url/BP054F]: https://www.foundalis.com/res/bps/bongard/p054.htm
@@ -1602,7 +1602,7 @@
 | [BP055F][url/BP055F]    | [BP055E][url/BP055E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP055F]: img/original/BP055F.gif
+[img/BP055F]: img/corrected/BP055F.png
 [img/BP055E]: img/original/BP055E.png
 [img/BP055D]: img/derived/BP055D.svg
 [url/BP055F]: https://www.foundalis.com/res/bps/bongard/p055.htm
@@ -1631,7 +1631,7 @@
 | [BP056F][url/BP056F]    | [BP056E][url/BP056E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP056F]: img/original/BP056F.gif
+[img/BP056F]: img/corrected/BP056F.png
 [img/BP056E]: img/original/BP056E.png
 [img/BP056D]: img/derived/BP056D.svg
 [url/BP056F]: https://www.foundalis.com/res/bps/bongard/p056.htm
@@ -1660,7 +1660,7 @@
 | [BP057F][url/BP057F]    | [BP057E][url/BP057E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP057F]: img/original/BP057F.gif
+[img/BP057F]: img/corrected/BP057F.png
 [img/BP057E]: img/original/BP057E.png
 [img/BP057D]: img/derived/BP057D.svg
 [url/BP057F]: https://www.foundalis.com/res/bps/bongard/p057.htm
@@ -1689,7 +1689,7 @@
 | [BP058F][url/BP058F]    | [BP058E][url/BP058E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP058F]: img/original/BP058F.gif
+[img/BP058F]: img/corrected/BP058F.png
 [img/BP058E]: img/original/BP058E.png
 [img/BP058D]: img/derived/BP058D.svg
 [url/BP058F]: https://www.foundalis.com/res/bps/bongard/p058.htm
@@ -1718,7 +1718,7 @@
 | [BP059F][url/BP059F]    | [BP059E][url/BP059E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP059F]: img/original/BP059F.gif
+[img/BP059F]: img/corrected/BP059F.png
 [img/BP059E]: img/original/BP059E.png
 [img/BP059D]: img/derived/BP059D.svg
 [url/BP059F]: https://www.foundalis.com/res/bps/bongard/p059.htm
@@ -1748,7 +1748,7 @@
 | [BP060F][url/BP060F]    | [BP060E][url/BP060E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP060F]: img/original/BP060F.gif
+[img/BP060F]: img/corrected/BP060F.png
 [img/BP060E]: img/original/BP060E.png
 [img/BP060D]: img/derived/BP060D.svg
 [url/BP060F]: https://www.foundalis.com/res/bps/bongard/p060.htm
@@ -1778,7 +1778,7 @@
 | [BP061F][url/BP061F]    | [BP061E][url/BP061E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP061F]: img/original/BP061F.gif
+[img/BP061F]: img/corrected/BP061F.png
 [img/BP061E]: img/original/BP061E.png
 [img/BP061D]: img/derived/BP061D.svg
 [url/BP061F]: https://www.foundalis.com/res/bps/bongard/p061.htm
@@ -1806,7 +1806,7 @@
 | [BP062F][url/BP062F]    | [BP062E][url/BP062E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP062F]: img/original/BP062F.gif
+[img/BP062F]: img/corrected/BP062F.png
 [img/BP062E]: img/original/BP062E.png
 [img/BP062D]: img/derived/BP062D.svg
 [url/BP062F]: https://www.foundalis.com/res/bps/bongard/p062.htm
@@ -1835,7 +1835,7 @@
 | [BP063F][url/BP063F]    | [BP063E][url/BP063E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP063F]: img/original/BP063F.gif
+[img/BP063F]: img/corrected/BP063F.png
 [img/BP063E]: img/original/BP063E.png
 [img/BP063D]: img/derived/BP063D.svg
 [url/BP063F]: https://www.foundalis.com/res/bps/bongard/p063.htm
@@ -1865,7 +1865,7 @@
 | [BP064F][url/BP064F]    | [BP064E][url/BP064E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP064F]: img/original/BP064F.gif
+[img/BP064F]: img/corrected/BP064F.png
 [img/BP064E]: img/original/BP064E.png
 [img/BP064D]: img/derived/BP064D.svg
 [url/BP064F]: https://www.foundalis.com/res/bps/bongard/p064.htm
@@ -1894,7 +1894,7 @@
 | [BP065F][url/BP065F]    | [BP065E][url/BP065E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP065F]: img/original/BP065F.gif
+[img/BP065F]: img/corrected/BP065F.png
 [img/BP065E]: img/original/BP065E.png
 [img/BP065D]: img/derived/BP065D.svg
 [url/BP065F]: https://www.foundalis.com/res/bps/bongard/p065.htm
@@ -1922,7 +1922,7 @@
 | [BP066F][url/BP066F]    | [BP066E][url/BP066E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP066F]: img/original/BP066F.gif
+[img/BP066F]: img/corrected/BP066F.png
 [img/BP066E]: img/original/BP066E.png
 [img/BP066D]: img/derived/BP066D.svg
 [url/BP066F]: https://www.foundalis.com/res/bps/bongard/p066.htm
@@ -1953,7 +1953,7 @@
 | [BP067F][url/BP067F]    | [BP067E][url/BP067E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP067F]: img/original/BP067F.gif
+[img/BP067F]: img/corrected/BP067F.png
 [img/BP067E]: img/original/BP067E.png
 [img/BP067D]: img/derived/BP067D.svg
 [url/BP067F]: https://www.foundalis.com/res/bps/bongard/p067.htm
@@ -1984,7 +1984,7 @@
 | [BP068F][url/BP068F]    | [BP068E][url/BP068E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP068F]: img/original/BP068F.gif
+[img/BP068F]: img/corrected/BP068F.png
 [img/BP068E]: img/original/BP068E.png
 [img/BP068D]: img/derived/BP068D.svg
 [url/BP068F]: https://www.foundalis.com/res/bps/bongard/p068.htm
@@ -2012,7 +2012,7 @@
 | [BP069F][url/BP069F]    | [BP069E][url/BP069E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP069F]: img/original/BP069F.gif
+[img/BP069F]: img/corrected/BP069F.png
 [img/BP069E]: img/original/BP069E.png
 [img/BP069D]: img/derived/BP069D.svg
 [url/BP069F]: https://www.foundalis.com/res/bps/bongard/p069.htm
@@ -2041,7 +2041,7 @@
 | [BP070F][url/BP070F]    | [BP070E][url/BP070E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP070F]: img/original/BP070F.gif
+[img/BP070F]: img/corrected/BP070F.png
 [img/BP070E]: img/original/BP070E.png
 [img/BP070D]: img/derived/BP070D.svg
 [url/BP070F]: https://www.foundalis.com/res/bps/bongard/p070.htm
@@ -2070,7 +2070,7 @@
 | [BP071F][url/BP071F]    | [BP071E][url/BP071E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP071F]: img/original/BP071F.gif
+[img/BP071F]: img/corrected/BP071F.png
 [img/BP071E]: img/original/BP071E.png
 [img/BP071D]: img/derived/BP071D.svg
 [url/BP071F]: https://www.foundalis.com/res/bps/bongard/p071.htm
@@ -2099,7 +2099,7 @@
 | [BP072F][url/BP072F]    | [BP072E][url/BP072E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP072F]: img/original/BP072F.gif
+[img/BP072F]: img/corrected/BP072F.png
 [img/BP072E]: img/original/BP072E.png
 [img/BP072D]: img/derived/BP072D.svg
 [url/BP072F]: https://www.foundalis.com/res/bps/bongard/p072.htm
@@ -2129,7 +2129,7 @@
 | [BP073F][url/BP073F]    | [BP073E][url/BP073E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP073F]: img/original/BP073F.gif
+[img/BP073F]: img/corrected/BP073F.png
 [img/BP073E]: img/original/BP073E.png
 [img/BP073D]: img/derived/BP073D.svg
 [url/BP073F]: https://www.foundalis.com/res/bps/bongard/p073.htm
@@ -2158,7 +2158,7 @@
 | [BP074F][url/BP074F]    | [BP074E][url/BP074E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP074F]: img/original/BP074F.gif
+[img/BP074F]: img/corrected/BP074F.png
 [img/BP074E]: img/original/BP074E.png
 [img/BP074D]: img/derived/BP074D.svg
 [url/BP074F]: https://www.foundalis.com/res/bps/bongard/p074.htm
@@ -2187,7 +2187,7 @@
 | [BP075F][url/BP075F]    | [BP075E][url/BP075E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP075F]: img/original/BP075F.gif
+[img/BP075F]: img/corrected/BP075F.png
 [img/BP075E]: img/original/BP075E.png
 [img/BP075D]: img/derived/BP075D.svg
 [url/BP075F]: https://www.foundalis.com/res/bps/bongard/p075.htm
@@ -2215,7 +2215,7 @@
 | [BP076F][url/BP076F]    | [BP076E][url/BP076E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP076F]: img/original/BP076F.gif
+[img/BP076F]: img/corrected/BP076F.png
 [img/BP076E]: img/original/BP076E.png
 [img/BP076D]: img/derived/BP076D.svg
 [url/BP076F]: https://www.foundalis.com/res/bps/bongard/p076.htm
@@ -2243,7 +2243,7 @@
 | [BP077F][url/BP077F]    | [BP077E][url/BP077E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP077F]: img/original/BP077F.gif
+[img/BP077F]: img/corrected/BP077F.png
 [img/BP077E]: img/original/BP077E.png
 [img/BP077D]: img/derived/BP077D.svg
 [url/BP077F]: https://www.foundalis.com/res/bps/bongard/p077.htm
@@ -2274,7 +2274,7 @@
 | [BP078F][url/BP078F]    | [BP078E][url/BP078E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP078F]: img/original/BP078F.gif
+[img/BP078F]: img/corrected/BP078F.png
 [img/BP078E]: img/original/BP078E.png
 [img/BP078D]: img/derived/BP078D.svg
 [url/BP078F]: https://www.foundalis.com/res/bps/bongard/p078.htm
@@ -2305,7 +2305,7 @@
 | [BP079F][url/BP079F]    | [BP079E][url/BP079E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP079F]: img/original/BP079F.gif
+[img/BP079F]: img/corrected/BP079F.png
 [img/BP079E]: img/original/BP079E.png
 [img/BP079D]: img/derived/BP079D.svg
 [url/BP079F]: https://www.foundalis.com/res/bps/bongard/p079.htm
@@ -2335,7 +2335,7 @@
 | [BP080F][url/BP080F]    | [BP080E][url/BP080E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP080F]: img/original/BP080F.gif
+[img/BP080F]: img/corrected/BP080F.png
 [img/BP080E]: img/original/BP080E.png
 [img/BP080D]: img/derived/BP080D.svg
 [url/BP080F]: https://www.foundalis.com/res/bps/bongard/p080.htm
@@ -2373,7 +2373,7 @@
 | [BP081F][url/BP081F]    | [BP081E][url/BP081E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP081F]: img/original/BP081F.gif
+[img/BP081F]: img/corrected/BP081F.png
 [img/BP081E]: img/original/BP081E.png
 [img/BP081D]: img/derived/BP081D.svg
 [url/BP081F]: https://www.foundalis.com/res/bps/bongard/p081.htm
@@ -2404,7 +2404,7 @@
 | [BP082F][url/BP082F]    | [BP082E][url/BP082E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP082F]: img/original/BP082F.gif
+[img/BP082F]: img/corrected/BP082F.png
 [img/BP082E]: img/original/BP082E.png
 [img/BP082D]: img/derived/BP082D.svg
 [url/BP082F]: https://www.foundalis.com/res/bps/bongard/p082.htm
@@ -2433,7 +2433,7 @@
 | [BP083F][url/BP083F]    | [BP083E][url/BP083E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP083F]: img/original/BP083F.gif
+[img/BP083F]: img/corrected/BP083F.png
 [img/BP083E]: img/original/BP083E.png
 [img/BP083D]: img/derived/BP083D.svg
 [url/BP083F]: https://www.foundalis.com/res/bps/bongard/p083.htm
@@ -2463,7 +2463,7 @@
 | [BP084F][url/BP084F]    | [BP084E][url/BP084E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP084F]: img/original/BP084F.gif
+[img/BP084F]: img/corrected/BP084F.png
 [img/BP084E]: img/original/BP084E.png
 [img/BP084D]: img/derived/BP084D.svg
 [url/BP084F]: https://www.foundalis.com/res/bps/bongard/p084.htm
@@ -2492,7 +2492,7 @@
 | [BP085F][url/BP085F]    | [BP085E][url/BP085E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP085F]: img/original/BP085F.gif
+[img/BP085F]: img/corrected/BP085F.png
 [img/BP085E]: img/original/BP085E.png
 [img/BP085D]: img/derived/BP085D.svg
 [url/BP085F]: https://www.foundalis.com/res/bps/bongard/p085.htm
@@ -2520,7 +2520,7 @@
 | [BP086F][url/BP086F]    | [BP086E][url/BP086E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP086F]: img/original/BP086F.gif
+[img/BP086F]: img/corrected/BP086F.png
 [img/BP086E]: img/original/BP086E.png
 [img/BP086D]: img/derived/BP086D.svg
 [url/BP086F]: https://www.foundalis.com/res/bps/bongard/p086.htm
@@ -2548,7 +2548,7 @@
 | [BP087F][url/BP087F]    | [BP087E][url/BP087E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP087F]: img/original/BP087F.gif
+[img/BP087F]: img/corrected/BP087F.png
 [img/BP087E]: img/original/BP087E.png
 [img/BP087D]: img/derived/BP087D.svg
 [url/BP087F]: https://www.foundalis.com/res/bps/bongard/p087.htm
@@ -2577,7 +2577,7 @@
 | [BP088F][url/BP088F]    | [BP088E][url/BP088E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP088F]: img/original/BP088F.gif
+[img/BP088F]: img/corrected/BP088F.png
 [img/BP088E]: img/original/BP088E.png
 [img/BP088D]: img/derived/BP088D.svg
 [url/BP088F]: https://www.foundalis.com/res/bps/bongard/p088.htm
@@ -2607,7 +2607,7 @@
 | [BP089F][url/BP089F]    | [BP089E][url/BP089E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP089F]: img/original/BP089F.gif
+[img/BP089F]: img/corrected/BP089F.png
 [img/BP089E]: img/original/BP089E.png
 [img/BP089D]: img/derived/BP089D.svg
 [url/BP089F]: https://www.foundalis.com/res/bps/bongard/p089.htm
@@ -2636,7 +2636,7 @@
 | [BP090F][url/BP090F]    | [BP090E][url/BP090E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP090F]: img/original/BP090F.gif
+[img/BP090F]: img/corrected/BP090F.png
 [img/BP090E]: img/original/BP090E.png
 [img/BP090D]: img/derived/BP090D.svg
 [url/BP090F]: https://www.foundalis.com/res/bps/bongard/p090.htm
@@ -2664,7 +2664,7 @@
 | [BP091F][url/BP091F]    | [BP091E][url/BP091E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP091F]: img/original/BP091F.gif
+[img/BP091F]: img/corrected/BP091F.png
 [img/BP091E]: img/original/BP091E.png
 [img/BP091D]: img/derived/BP091D.svg
 [url/BP091F]: https://www.foundalis.com/res/bps/bongard/p091.htm
@@ -2693,7 +2693,7 @@
 | [BP092F][url/BP092F]    | [BP092E][url/BP092E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP092F]: img/original/BP092F.gif
+[img/BP092F]: img/corrected/BP092F.png
 [img/BP092E]: img/original/BP092E.png
 [img/BP092D]: img/derived/BP092D.svg
 [url/BP092F]: https://www.foundalis.com/res/bps/bongard/p092.htm
@@ -2721,7 +2721,7 @@
 | [BP093F][url/BP093F]    | [BP093E][url/BP093E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP093F]: img/original/BP093F.gif
+[img/BP093F]: img/corrected/BP093F.png
 [img/BP093E]: img/original/BP093E.png
 [img/BP093D]: img/derived/BP093D.svg
 [url/BP093F]: https://www.foundalis.com/res/bps/bongard/p093.htm
@@ -2749,7 +2749,7 @@
 | [BP094F][url/BP094F]    | [BP094E][url/BP094E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP094F]: img/original/BP094F.gif
+[img/BP094F]: img/corrected/BP094F.png
 [img/BP094E]: img/original/BP094E.png
 [img/BP094D]: img/derived/BP094D.svg
 [url/BP094F]: https://www.foundalis.com/res/bps/bongard/p094.htm
@@ -2778,7 +2778,7 @@
 | [BP095F][url/BP095F]    | [BP095E][url/BP095E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP095F]: img/original/BP095F.gif
+[img/BP095F]: img/corrected/BP095F.png
 [img/BP095E]: img/original/BP095E.png
 [img/BP095D]: img/derived/BP095D.svg
 [url/BP095F]: https://www.foundalis.com/res/bps/bongard/p095.htm
@@ -2805,7 +2805,7 @@
 | [BP096F][url/BP096F]    | [BP096E][url/BP096E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP096F]: img/original/BP096F.gif
+[img/BP096F]: img/corrected/BP096F.png
 [img/BP096E]: img/original/BP096E.png
 [img/BP096D]: img/derived/BP096D.svg
 [url/BP096F]: https://www.foundalis.com/res/bps/bongard/p096.htm
@@ -2835,7 +2835,7 @@
 | [BP097F][url/BP097F]    | [BP097E][url/BP097E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP097F]: img/original/BP097F.gif
+[img/BP097F]: img/corrected/BP097F.png
 [img/BP097E]: img/original/BP097E.png
 [img/BP097D]: img/derived/BP097D.svg
 [url/BP097F]: https://www.foundalis.com/res/bps/bongard/p097.htm
@@ -2864,7 +2864,7 @@
 | [BP098F][url/BP098F]    | [BP098E][url/BP098E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP098F]: img/original/BP098F.gif
+[img/BP098F]: img/corrected/BP098F.png
 [img/BP098E]: img/original/BP098E.png
 [img/BP098D]: img/derived/BP098D.svg
 [url/BP098F]: https://www.foundalis.com/res/bps/bongard/p098.htm
@@ -2894,7 +2894,7 @@
 | [BP099F][url/BP099F]    | [BP099E][url/BP099E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP099F]: img/original/BP099F.gif
+[img/BP099F]: img/corrected/BP099F.png
 [img/BP099E]: img/original/BP099E.png
 [img/BP099D]: img/derived/BP099D.svg
 [url/BP099F]: https://www.foundalis.com/res/bps/bongard/p099.htm
@@ -2923,7 +2923,7 @@
 | [BP100F][url/BP100F]    | [BP100E][url/BP100E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP100F]: img/original/BP100F.gif
+[img/BP100F]: img/corrected/BP100F.png
 [img/BP100E]: img/original/BP100E.png
 [img/BP100D]: img/derived/BP100D.svg
 [url/BP100F]: https://www.foundalis.com/res/bps/bongard/p100.htm
@@ -2952,7 +2952,7 @@
 | [BP101F][url/BP101F]    | [BP101E][url/BP101E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP101F]: img/original/BP101F.gif
+[img/BP101F]: img/corrected/BP101F.png
 [img/BP101E]: img/original/BP101E.png
 [img/BP101D]: img/derived/BP101D.svg
 [url/BP101F]: https://www.foundalis.com/res/bps/doughof/p101.htm
@@ -2980,7 +2980,7 @@
 | [BP102F][url/BP102F]    | [BP102E][url/BP102E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP102F]: img/original/BP102F.gif
+[img/BP102F]: img/corrected/BP102F.png
 [img/BP102E]: img/original/BP102E.png
 [img/BP102D]: img/derived/BP102D.svg
 [url/BP102F]: https://www.foundalis.com/res/bps/doughof/p102.htm
@@ -3010,7 +3010,7 @@
 | [BP103F][url/BP103F]    | [BP103E][url/BP103E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP103F]: img/original/BP103F.gif
+[img/BP103F]: img/corrected/BP103F.png
 [img/BP103E]: img/original/BP103E.png
 [img/BP103D]: img/derived/BP103D.svg
 [url/BP103F]: https://www.foundalis.com/res/bps/doughof/p103.htm
@@ -3040,7 +3040,7 @@
 | [BP104F][url/BP104F]    | [BP104E][url/BP104E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP104F]: img/original/BP104F.gif
+[img/BP104F]: img/corrected/BP104F.png
 [img/BP104E]: img/original/BP104E.png
 [img/BP104D]: img/derived/BP104D.svg
 [url/BP104F]: https://www.foundalis.com/res/bps/doughof/p104.htm
@@ -3069,7 +3069,7 @@
 | [BP105F][url/BP105F]    | [BP105E][url/BP105E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP105F]: img/original/BP105F.gif
+[img/BP105F]: img/corrected/BP105F.png
 [img/BP105E]: img/original/BP105E.png
 [img/BP105D]: img/derived/BP105D.svg
 [url/BP105F]: https://www.foundalis.com/res/bps/doughof/p105.htm
@@ -3099,7 +3099,7 @@
 | [BP106F][url/BP106F]    | [BP106E][url/BP106E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP106F]: img/original/BP106F.gif
+[img/BP106F]: img/corrected/BP106F.png
 [img/BP106E]: img/original/BP106E.png
 [img/BP106D]: img/derived/BP106D.svg
 [url/BP106F]: https://www.foundalis.com/res/bps/doughof/p106.htm
@@ -3130,7 +3130,7 @@
 | [BP107F][url/BP107F]    | [BP107E][url/BP107E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP107F]: img/original/BP107F.gif
+[img/BP107F]: img/corrected/BP107F.png
 [img/BP107E]: img/original/BP107E.png
 [img/BP107D]: img/derived/BP107D.svg
 [url/BP107F]: https://www.foundalis.com/res/bps/doughof/p107.htm
@@ -3159,7 +3159,7 @@
 | [BP108F][url/BP108F]    | [BP108E][url/BP108E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP108F]: img/original/BP108F.gif
+[img/BP108F]: img/corrected/BP108F.png
 [img/BP108E]: img/original/BP108E.png
 [img/BP108D]: img/derived/BP108D.svg
 [url/BP108F]: https://www.foundalis.com/res/bps/doughof/p108.htm
@@ -3187,7 +3187,7 @@
 | [BP109F][url/BP109F]    | [BP109E][url/BP109E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP109F]: img/original/BP109F.gif
+[img/BP109F]: img/corrected/BP109F.png
 [img/BP109E]: img/original/BP109E.png
 [img/BP109D]: img/derived/BP109D.svg
 [url/BP109F]: https://www.foundalis.com/res/bps/doughof/p109.htm
@@ -3216,7 +3216,7 @@
 | [BP110F][url/BP110F]    | [BP110E][url/BP110E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP110F]: img/original/BP110F.gif
+[img/BP110F]: img/corrected/BP110F.png
 [img/BP110E]: img/original/BP110E.png
 [img/BP110D]: img/derived/BP110D.svg
 [url/BP110F]: https://www.foundalis.com/res/bps/doughof/p110.htm
@@ -3245,7 +3245,7 @@
 | [BP111F][url/BP111F]    | [BP111E][url/BP111E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP111F]: img/original/BP111F.gif
+[img/BP111F]: img/corrected/BP111F.png
 [img/BP111E]: img/original/BP111E.png
 [img/BP111D]: img/derived/BP111D.svg
 [url/BP111F]: https://www.foundalis.com/res/bps/doughof/p111.htm
@@ -3275,7 +3275,7 @@
 | [BP112F][url/BP112F]    | [BP112E][url/BP112E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP112F]: img/original/BP112F.gif
+[img/BP112F]: img/corrected/BP112F.png
 [img/BP112E]: img/original/BP112E.png
 [img/BP112D]: img/derived/BP112D.svg
 [url/BP112F]: https://www.foundalis.com/res/bps/doughof/p112.htm
@@ -3303,7 +3303,7 @@
 | [BP113F][url/BP113F]    | [BP113E][url/BP113E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP113F]: img/original/BP113F.gif
+[img/BP113F]: img/corrected/BP113F.png
 [img/BP113E]: img/original/BP113E.png
 [img/BP113D]: img/derived/BP113D.svg
 [url/BP113F]: https://www.foundalis.com/res/bps/doughof/p113.htm
@@ -3331,7 +3331,7 @@
 | [BP114F][url/BP114F]    | [BP114E][url/BP114E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP114F]: img/original/BP114F.gif
+[img/BP114F]: img/corrected/BP114F.png
 [img/BP114E]: img/original/BP114E.png
 [img/BP114D]: img/derived/BP114D.svg
 [url/BP114F]: https://www.foundalis.com/res/bps/doughof/p114.htm
@@ -3361,7 +3361,7 @@
 | [BP115F][url/BP115F]    | [BP115E][url/BP115E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP115F]: img/original/BP115F.gif
+[img/BP115F]: img/corrected/BP115F.png
 [img/BP115E]: img/original/BP115E.png
 [img/BP115D]: img/derived/BP115D.svg
 [url/BP115F]: https://www.foundalis.com/res/bps/doughof/p115.htm
@@ -3388,7 +3388,7 @@
 | [BP116F][url/BP116F]    | [BP116E][url/BP116E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP116F]: img/original/BP116F.gif
+[img/BP116F]: img/corrected/BP116F.png
 [img/BP116E]: img/original/BP116E.png
 [img/BP116D]: img/derived/BP116D.svg
 [url/BP116F]: https://www.foundalis.com/res/bps/doughof/p116.htm
@@ -3417,7 +3417,7 @@
 | [BP117F][url/BP117F]    | [BP117E][url/BP117E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP117F]: img/original/BP117F.gif
+[img/BP117F]: img/corrected/BP117F.png
 [img/BP117E]: img/original/BP117E.png
 [img/BP117D]: img/derived/BP117D.svg
 [url/BP117F]: https://www.foundalis.com/res/bps/doughof/p117.htm
@@ -3445,7 +3445,7 @@
 | [BP118F][url/BP118F]    | [BP118E][url/BP118E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP118F]: img/original/BP118F.gif
+[img/BP118F]: img/corrected/BP118F.png
 [img/BP118E]: img/original/BP118E.png
 [img/BP118D]: img/derived/BP118D.svg
 [url/BP118F]: https://www.foundalis.com/res/bps/doughof/p118.htm
@@ -3474,7 +3474,7 @@
 | [BP119F][url/BP119F]    | [BP119E][url/BP119E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP119F]: img/original/BP119F.gif
+[img/BP119F]: img/corrected/BP119F.png
 [img/BP119E]: img/original/BP119E.png
 [img/BP119D]: img/derived/BP119D.svg
 [url/BP119F]: https://www.foundalis.com/res/bps/doughof/p119.htm
@@ -3506,7 +3506,7 @@
 | [BP120F][url/BP120F]    | [BP120E][url/BP120E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP120F]: img/original/BP120F.gif
+[img/BP120F]: img/corrected/BP120F.png
 [img/BP120E]: img/original/BP120E.png
 [img/BP120D]: img/derived/BP120D.svg
 [url/BP120F]: https://www.foundalis.com/res/bps/doughof/p120.htm
@@ -3537,7 +3537,7 @@
 | [BP121F][url/BP121F]    | [BP121E][url/BP121E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP121F]: img/original/BP121F.gif
+[img/BP121F]: img/corrected/BP121F.png
 [img/BP121E]: img/original/BP121E.png
 [img/BP121D]: img/derived/BP121D.svg
 [url/BP121F]: https://www.foundalis.com/res/bps/doughof/p121.htm
@@ -3566,7 +3566,7 @@
 | [BP122F][url/BP122F]    | [BP122E][url/BP122E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP122F]: img/original/BP122F.gif
+[img/BP122F]: img/corrected/BP122F.png
 [img/BP122E]: img/original/BP122E.png
 [img/BP122D]: img/derived/BP122D.svg
 [url/BP122F]: https://www.foundalis.com/res/bps/doughof/p122.htm
@@ -3594,7 +3594,7 @@
 | [BP123F][url/BP123F]    | [BP123E][url/BP123E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP123F]: img/original/BP123F.gif
+[img/BP123F]: img/corrected/BP123F.png
 [img/BP123E]: img/original/BP123E.png
 [img/BP123D]: img/derived/BP123D.svg
 [url/BP123F]: https://www.foundalis.com/res/bps/doughof/p123.htm
@@ -3623,7 +3623,7 @@
 | [BP124F][url/BP124F]    | [BP124E][url/BP124E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP124F]: img/original/BP124F.gif
+[img/BP124F]: img/corrected/BP124F.png
 [img/BP124E]: img/original/BP124E.png
 [img/BP124D]: img/derived/BP124D.svg
 [url/BP124F]: https://www.foundalis.com/res/bps/doughof/p124.htm
@@ -3652,7 +3652,7 @@
 | [BP125F][url/BP125F]    | [BP125E][url/BP125E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP125F]: img/original/BP125F.gif
+[img/BP125F]: img/corrected/BP125F.png
 [img/BP125E]: img/original/BP125E.png
 [img/BP125D]: img/derived/BP125D.svg
 [url/BP125F]: https://www.foundalis.com/res/bps/doughof/p125.htm
@@ -3681,7 +3681,7 @@
 | [BP126F][url/BP126F]    | [BP126E][url/BP126E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP126F]: img/original/BP126F.gif
+[img/BP126F]: img/corrected/BP126F.png
 [img/BP126E]: img/original/BP126E.png
 [img/BP126D]: img/derived/BP126D.svg
 [url/BP126F]: https://www.foundalis.com/res/bps/doughof/p126.htm
@@ -3710,7 +3710,7 @@
 | [BP127F][url/BP127F]    | [BP127E][url/BP127E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP127F]: img/original/BP127F.gif
+[img/BP127F]: img/corrected/BP127F.png
 [img/BP127E]: img/original/BP127E.png
 [img/BP127D]: img/derived/BP127D.svg
 [url/BP127F]: https://www.foundalis.com/res/bps/doughof/p127.htm
@@ -3740,7 +3740,7 @@
 | [BP128F][url/BP128F]    | [BP128E][url/BP128E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP128F]: img/original/BP128F.gif
+[img/BP128F]: img/corrected/BP128F.png
 [img/BP128E]: img/original/BP128E.png
 [img/BP128D]: img/derived/BP128D.svg
 [url/BP128F]: https://www.foundalis.com/res/bps/doughof/p128.htm
@@ -3769,7 +3769,7 @@
 | [BP129F][url/BP129F]    | [BP129E][url/BP129E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP129F]: img/original/BP129F.gif
+[img/BP129F]: img/corrected/BP129F.png
 [img/BP129E]: img/original/BP129E.png
 [img/BP129D]: img/derived/BP129D.svg
 [url/BP129F]: https://www.foundalis.com/res/bps/doughof/p129.htm
@@ -3798,7 +3798,7 @@
 | [BP130F][url/BP130F]    | [BP130E][url/BP130E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP130F]: img/original/BP130F.gif
+[img/BP130F]: img/corrected/BP130F.png
 [img/BP130E]: img/original/BP130E.png
 [img/BP130D]: img/derived/BP130D.svg
 [url/BP130F]: https://www.foundalis.com/res/bps/doughof/p130.htm
@@ -3828,7 +3828,7 @@
 | [BP131F][url/BP131F]    | [BP131E][url/BP131E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP131F]: img/original/BP131F.gif
+[img/BP131F]: img/corrected/BP131F.png
 [img/BP131E]: img/original/BP131E.png
 [img/BP131D]: img/derived/BP131D.svg
 [url/BP131F]: https://www.foundalis.com/res/bps/doughof/p131.htm
@@ -3857,7 +3857,7 @@
 | [BP132F][url/BP132F]    | [BP132E][url/BP132E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP132F]: img/original/BP132F.gif
+[img/BP132F]: img/corrected/BP132F.png
 [img/BP132E]: img/original/BP132E.png
 [img/BP132D]: img/derived/BP132D.svg
 [url/BP132F]: https://www.foundalis.com/res/bps/doughof/p132.htm
@@ -3886,7 +3886,7 @@
 | [BP133F][url/BP133F]    | [BP133E][url/BP133E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP133F]: img/original/BP133F.gif
+[img/BP133F]: img/corrected/BP133F.png
 [img/BP133E]: img/original/BP133E.png
 [img/BP133D]: img/derived/BP133D.svg
 [url/BP133F]: https://www.foundalis.com/res/bps/doughof/p133.htm
@@ -3915,7 +3915,7 @@
 | [BP134F][url/BP134F]    | [BP134E][url/BP134E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP134F]: img/original/BP134F.gif
+[img/BP134F]: img/corrected/BP134F.png
 [img/BP134E]: img/original/BP134E.png
 [img/BP134D]: img/derived/BP134D.svg
 [url/BP134F]: https://www.foundalis.com/res/bps/doughof/p134.htm
@@ -3944,7 +3944,7 @@
 | [BP135F][url/BP135F]    | [BP135E][url/BP135E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP135F]: img/original/BP135F.gif
+[img/BP135F]: img/corrected/BP135F.png
 [img/BP135E]: img/original/BP135E.png
 [img/BP135D]: img/derived/BP135D.svg
 [url/BP135F]: https://www.foundalis.com/res/bps/doughof/p135.htm
@@ -3971,7 +3971,7 @@
 | [BP136F][url/BP136F]    | [BP136E][url/BP136E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP136F]: img/original/BP136F.gif
+[img/BP136F]: img/corrected/BP136F.png
 [img/BP136E]: img/original/BP136E.png
 [img/BP136D]: img/derived/BP136D.svg
 [url/BP136F]: https://www.foundalis.com/res/bps/doughof/p136.htm
@@ -4001,7 +4001,7 @@
 | [BP137F][url/BP137F]    | [BP137E][url/BP137E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP137F]: img/original/BP137F.gif
+[img/BP137F]: img/corrected/BP137F.png
 [img/BP137E]: img/original/BP137E.png
 [img/BP137D]: img/derived/BP137D.svg
 [url/BP137F]: https://www.foundalis.com/res/bps/doughof/p137.htm
@@ -4031,7 +4031,7 @@
 | [BP138F][url/BP138F]    | [BP138E][url/BP138E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP138F]: img/original/BP138F.gif
+[img/BP138F]: img/corrected/BP138F.png
 [img/BP138E]: img/original/BP138E.png
 [img/BP138D]: img/derived/BP138D.svg
 [url/BP138F]: https://www.foundalis.com/res/bps/doughof/p138.htm
@@ -4061,7 +4061,7 @@
 | [BP139F][url/BP139F]    | [BP139E][url/BP139E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP139F]: img/original/BP139F.gif
+[img/BP139F]: img/corrected/BP139F.png
 [img/BP139E]: img/original/BP139E.png
 [img/BP139D]: img/derived/BP139D.svg
 [url/BP139F]: https://www.foundalis.com/res/bps/doughof/p139.htm
@@ -4091,7 +4091,7 @@
 | [BP140F][url/BP140F]    | [BP140E][url/BP140E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP140F]: img/original/BP140F.gif
+[img/BP140F]: img/corrected/BP140F.png
 [img/BP140E]: img/original/BP140E.png
 [img/BP140D]: img/derived/BP140D.svg
 [url/BP140F]: https://www.foundalis.com/res/bps/doughof/p140.htm
@@ -4121,7 +4121,7 @@
 | [BP141F][url/BP141F]    | [BP141E][url/BP141E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP141F]: img/original/BP141F.gif
+[img/BP141F]: img/corrected/BP141F.png
 [img/BP141E]: img/original/BP141E.png
 [img/BP141D]: img/derived/BP141D.svg
 [url/BP141F]: https://www.foundalis.com/res/bps/doughof/p141.htm
@@ -4151,7 +4151,7 @@
 | [BP142F][url/BP142F]    | [BP142E][url/BP142E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP142F]: img/original/BP142F.gif
+[img/BP142F]: img/corrected/BP142F.png
 [img/BP142E]: img/original/BP142E.png
 [img/BP142D]: img/derived/BP142D.svg
 [url/BP142F]: https://www.foundalis.com/res/bps/doughof/p142.htm
@@ -4179,7 +4179,7 @@
 | [BP143F][url/BP143F]    | [BP143E][url/BP143E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP143F]: img/original/BP143F.gif
+[img/BP143F]: img/corrected/BP143F.png
 [img/BP143E]: img/original/BP143E.png
 [img/BP143D]: img/derived/BP143D.svg
 [url/BP143F]: https://www.foundalis.com/res/bps/doughof/p143.htm
@@ -4215,7 +4215,7 @@
 | [BP144F][url/BP144F]    | [BP144E][url/BP144E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP144F]: img/original/BP144F.gif
+[img/BP144F]: img/corrected/BP144F.png
 [img/BP144E]: img/original/BP144E.png
 [img/BP144D]: img/derived/BP144D.svg
 [url/BP144F]: https://www.foundalis.com/res/bps/doughof/p144.htm
@@ -4252,7 +4252,7 @@
 | [BP145F][url/BP145F]    | [BP145E][url/BP145E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP145F]: img/original/BP145F.gif
+[img/BP145F]: img/corrected/BP145F.png
 [img/BP145E]: img/original/BP145E.png
 [img/BP145D]: img/derived/BP145D.svg
 [url/BP145F]: https://www.foundalis.com/res/bps/doughof/p145.htm
@@ -4282,7 +4282,7 @@
 | [BP146F][url/BP146F]    | [BP146E][url/BP146E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP146F]: img/original/BP146F.gif
+[img/BP146F]: img/corrected/BP146F.png
 [img/BP146E]: img/original/BP146E.png
 [img/BP146D]: img/derived/BP146D.svg
 [url/BP146F]: https://www.foundalis.com/res/bps/doughof/p146.htm
@@ -4312,7 +4312,7 @@
 | [BP147F][url/BP147F]    | [BP147E][url/BP147E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP147F]: img/original/BP147F.gif
+[img/BP147F]: img/corrected/BP147F.png
 [img/BP147E]: img/original/BP147E.png
 [img/BP147D]: img/derived/BP147D.svg
 [url/BP147F]: https://www.foundalis.com/res/bps/doughof/p147.htm
@@ -4341,7 +4341,7 @@
 | [BP148F][url/BP148F]    | [BP148E][url/BP148E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP148F]: img/original/BP148F.gif
+[img/BP148F]: img/corrected/BP148F.png
 [img/BP148E]: img/original/BP148E.png
 [img/BP148D]: img/derived/BP148D.svg
 [url/BP148F]: https://www.foundalis.com/res/bps/doughof/p148.htm
@@ -4369,7 +4369,7 @@
 | [BP149F][url/BP149F]    | [BP149E][url/BP149E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP149F]: img/original/BP149F.gif
+[img/BP149F]: img/corrected/BP149F.png
 [img/BP149E]: img/original/BP149E.png
 [img/BP149D]: img/derived/BP149D.svg
 [url/BP149F]: https://www.foundalis.com/res/bps/doughof/p149.htm
@@ -4396,7 +4396,7 @@
 | [BP150F][url/BP150F]    | [BP150E][url/BP150E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP150F]: img/original/BP150F.gif
+[img/BP150F]: img/corrected/BP150F.png
 [img/BP150E]: img/original/BP150E.png
 [img/BP150D]: img/derived/BP150D.svg
 [url/BP150F]: https://www.foundalis.com/res/bps/doughof/p150.htm
@@ -4427,7 +4427,7 @@
 | [BP151F][url/BP151F]    | [BP151E][url/BP151E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP151F]: img/original/BP151F.gif
+[img/BP151F]: img/corrected/BP151F.png
 [img/BP151E]: img/original/BP151E.png
 [img/BP151D]: img/derived/BP151D.svg
 [url/BP151F]: https://www.foundalis.com/res/bps/doughof/p151.htm
@@ -4455,7 +4455,7 @@
 | [BP152F][url/BP152F]    | [BP152E][url/BP152E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP152F]: img/original/BP152F.gif
+[img/BP152F]: img/corrected/BP152F.png
 [img/BP152E]: img/original/BP152E.png
 [img/BP152D]: img/derived/BP152D.svg
 [url/BP152F]: https://www.foundalis.com/res/bps/doughof/p152.htm
@@ -4485,7 +4485,7 @@
 | [BP153F][url/BP153F]    | [BP153E][url/BP153E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP153F]: img/original/BP153F.gif
+[img/BP153F]: img/corrected/BP153F.png
 [img/BP153E]: img/original/BP153E.png
 [img/BP153D]: img/derived/BP153D.svg
 [url/BP153F]: https://www.foundalis.com/res/bps/doughof/p153.htm
@@ -4513,7 +4513,7 @@
 | [BP154F][url/BP154F]    | [BP154E][url/BP154E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP154F]: img/original/BP154F.gif
+[img/BP154F]: img/corrected/BP154F.png
 [img/BP154E]: img/original/BP154E.png
 [img/BP154D]: img/derived/BP154D.svg
 [url/BP154F]: https://www.foundalis.com/res/bps/doughof/p154.htm
@@ -4542,7 +4542,7 @@
 | [BP155F][url/BP155F]    | [BP155E][url/BP155E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP155F]: img/original/BP155F.gif
+[img/BP155F]: img/corrected/BP155F.png
 [img/BP155E]: img/original/BP155E.png
 [img/BP155D]: img/derived/BP155D.svg
 [url/BP155F]: https://www.foundalis.com/res/bps/doughof/p155.htm
@@ -4570,7 +4570,7 @@
 | [BP156F][url/BP156F]    | [BP156E][url/BP156E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP156F]: img/original/BP156F.gif
+[img/BP156F]: img/corrected/BP156F.png
 [img/BP156E]: img/original/BP156E.png
 [img/BP156D]: img/derived/BP156D.svg
 [url/BP156F]: https://www.foundalis.com/res/bps/doughof/p156.htm
@@ -4597,7 +4597,7 @@
 | [BP157F][url/BP157F]    | [BP157E][url/BP157E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP157F]: img/original/BP157F.gif
+[img/BP157F]: img/corrected/BP157F.png
 [img/BP157E]: img/original/BP157E.png
 [img/BP157D]: img/derived/BP157D.svg
 [url/BP157F]: https://www.foundalis.com/res/bps/foundal/p157.htm
@@ -4626,7 +4626,7 @@
 | [BP158F][url/BP158F]    | [BP158E][url/BP158E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP158F]: img/original/BP158F.gif
+[img/BP158F]: img/corrected/BP158F.png
 [img/BP158E]: img/original/BP158E.png
 [img/BP158D]: img/derived/BP158D.svg
 [url/BP158F]: https://www.foundalis.com/res/bps/foundal/p158.htm
@@ -4662,7 +4662,7 @@
 | [BP159F][url/BP159F]    | [BP159E][url/BP159E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP159F]: img/original/BP159F.gif
+[img/BP159F]: img/corrected/BP159F.png
 [img/BP159E]: img/original/BP159E.png
 [url/BP159F]: https://www.foundalis.com/res/bps/foundal/p159.htm
 [url/BP159E]: https://oebp.org/BP159
@@ -4691,7 +4691,7 @@
 | [BP160F][url/BP160F]    | [BP160E][url/BP160E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP160F]: img/original/BP160F.gif
+[img/BP160F]: img/corrected/BP160F.png
 [img/BP160E]: img/original/BP160E.png
 [img/BP160D]: img/derived/BP160D.svg
 [url/BP160F]: https://www.foundalis.com/res/bps/foundal/p160.htm
@@ -4720,7 +4720,7 @@
 | [BP161F][url/BP161F]    | [BP161E][url/BP161E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP161F]: img/original/BP161F.gif
+[img/BP161F]: img/corrected/BP161F.png
 [img/BP161E]: img/original/BP161E.png
 [img/BP161D]: img/derived/BP161D.svg
 [url/BP161F]: https://www.foundalis.com/res/bps/foundal/p161.htm
@@ -4751,7 +4751,7 @@
 | [BP162F][url/BP162F]    | [BP162E][url/BP162E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP162F]: img/original/BP162F.gif
+[img/BP162F]: img/corrected/BP162F.png
 [img/BP162E]: img/original/BP162E.png
 [img/BP162D]: img/derived/BP162D.svg
 [url/BP162F]: https://www.foundalis.com/res/bps/foundal/p162.htm
@@ -4781,7 +4781,7 @@
 | [BP163F][url/BP163F]    | [BP163E][url/BP163E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP163F]: img/original/BP163F.gif
+[img/BP163F]: img/corrected/BP163F.png
 [img/BP163E]: img/original/BP163E.png
 [img/BP163D]: img/derived/BP163D.svg
 [url/BP163F]: https://www.foundalis.com/res/bps/foundal/p163.htm
@@ -4811,7 +4811,7 @@
 | [BP164F][url/BP164F]    | [BP164E][url/BP164E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP164F]: img/original/BP164F.gif
+[img/BP164F]: img/corrected/BP164F.png
 [img/BP164E]: img/original/BP164E.png
 [img/BP164D]: img/derived/BP164D.svg
 [url/BP164F]: https://www.foundalis.com/res/bps/foundal/p164.htm
@@ -4840,7 +4840,7 @@
 | [BP165F][url/BP165F]    | [BP165E][url/BP165E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP165F]: img/original/BP165F.gif
+[img/BP165F]: img/corrected/BP165F.png
 [img/BP165E]: img/original/BP165E.png
 [img/BP165D]: img/derived/BP165D.svg
 [url/BP165F]: https://www.foundalis.com/res/bps/foundal/p165.htm
@@ -4867,7 +4867,7 @@
 | [BP166F][url/BP166F]    | [BP166E][url/BP166E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP166F]: img/original/BP166F.gif
+[img/BP166F]: img/corrected/BP166F.png
 [img/BP166E]: img/original/BP166E.png
 [img/BP166D]: img/derived/BP166D.svg
 [url/BP166F]: https://www.foundalis.com/res/bps/foundal/p166.htm
@@ -4895,7 +4895,7 @@
 | [BP167F][url/BP167F]    | [BP167E][url/BP167E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP167F]: img/original/BP167F.gif
+[img/BP167F]: img/corrected/BP167F.png
 [img/BP167E]: img/original/BP167E.png
 [img/BP167D]: img/derived/BP167D.svg
 [url/BP167F]: https://www.foundalis.com/res/bps/foundal/p167.htm
@@ -4924,7 +4924,7 @@
 | [BP168F][url/BP168F]    | [BP168E][url/BP168E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP168F]: img/original/BP168F.gif
+[img/BP168F]: img/corrected/BP168F.png
 [img/BP168E]: img/original/BP168E.png
 [img/BP168D]: img/derived/BP168D.svg
 [url/BP168F]: https://www.foundalis.com/res/bps/foundal/p168.htm
@@ -4953,7 +4953,7 @@
 | [BP169F][url/BP169F]    | [BP169E][url/BP169E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP169F]: img/original/BP169F.gif
+[img/BP169F]: img/corrected/BP169F.png
 [img/BP169E]: img/original/BP169E.png
 [img/BP169D]: img/derived/BP169D.svg
 [url/BP169F]: https://www.foundalis.com/res/bps/foundal/p169.htm
@@ -4981,7 +4981,7 @@
 | [BP170F][url/BP170F]    | [BP170E][url/BP170E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP170F]: img/original/BP170F.gif
+[img/BP170F]: img/corrected/BP170F.png
 [img/BP170E]: img/original/BP170E.png
 [img/BP170D]: img/derived/BP170D.svg
 [url/BP170F]: https://www.foundalis.com/res/bps/foundal/p170.htm
@@ -5011,7 +5011,7 @@
 | [BP171F][url/BP171F]    | [BP171E][url/BP171E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP171F]: img/original/BP171F.gif
+[img/BP171F]: img/corrected/BP171F.png
 [img/BP171E]: img/original/BP171E.png
 [url/BP171F]: https://www.foundalis.com/res/bps/foundal/p171.htm
 [url/BP171E]: https://oebp.org/BP171
@@ -5040,7 +5040,7 @@
 | [BP172F][url/BP172F]    | [BP172E][url/BP172E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP172F]: img/original/BP172F.gif
+[img/BP172F]: img/corrected/BP172F.png
 [img/BP172E]: img/original/BP172E.png
 [url/BP172F]: https://www.foundalis.com/res/bps/foundal/p172.htm
 [url/BP172E]: https://oebp.org/BP172
@@ -5067,7 +5067,7 @@
 | [BP173F][url/BP173F]    | [BP173E][url/BP173E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP173F]: img/original/BP173F.gif
+[img/BP173F]: img/corrected/BP173F.png
 [img/BP173E]: img/original/BP173E.png
 [img/BP173D]: img/derived/BP173D.svg
 [url/BP173F]: https://www.foundalis.com/res/bps/foundal/p173.htm
@@ -5095,7 +5095,7 @@
 | [BP174F][url/BP174F]    | [BP174E][url/BP174E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP174F]: img/original/BP174F.gif
+[img/BP174F]: img/corrected/BP174F.png
 [img/BP174E]: img/original/BP174E.png
 [img/BP174D]: img/derived/BP174D.svg
 [url/BP174F]: https://www.foundalis.com/res/bps/foundal/p174.htm
@@ -5124,7 +5124,7 @@
 | [BP175F][url/BP175F]    | [BP175E][url/BP175E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP175F]: img/original/BP175F.gif
+[img/BP175F]: img/corrected/BP175F.png
 [img/BP175E]: img/original/BP175E.png
 [img/BP175D]: img/derived/BP175D.svg
 [url/BP175F]: https://www.foundalis.com/res/bps/foundal/p175.htm
@@ -5154,7 +5154,7 @@
 | [BP176F][url/BP176F]    | [BP176E][url/BP176E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP176F]: img/original/BP176F.gif
+[img/BP176F]: img/corrected/BP176F.png
 [img/BP176E]: img/original/BP176E.png
 [img/BP176D]: img/derived/BP176D.svg
 [url/BP176F]: https://www.foundalis.com/res/bps/foundal/p176.htm
@@ -5183,7 +5183,7 @@
 | [BP177F][url/BP177F]    | [BP177E][url/BP177E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP177F]: img/original/BP177F.gif
+[img/BP177F]: img/corrected/BP177F.png
 [img/BP177E]: img/original/BP177E.png
 [img/BP177D]: img/derived/BP177D.svg
 [url/BP177F]: https://www.foundalis.com/res/bps/foundal/p177.htm
@@ -5213,7 +5213,7 @@
 | [BP178F][url/BP178F]    | [BP178E][url/BP178E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP178F]: img/original/BP178F.gif
+[img/BP178F]: img/corrected/BP178F.png
 [img/BP178E]: img/original/BP178E.png
 [img/BP178D]: img/derived/BP178D.svg
 [url/BP178F]: https://www.foundalis.com/res/bps/foundal/p178.htm
@@ -5241,7 +5241,7 @@
 | [BP179F][url/BP179F]    | [BP179E][url/BP179E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP179F]: img/original/BP179F.gif
+[img/BP179F]: img/corrected/BP179F.png
 [img/BP179E]: img/original/BP179E.png
 [img/BP179D]: img/derived/BP179D.svg
 [url/BP179F]: https://www.foundalis.com/res/bps/foundal/p179.htm
@@ -5271,7 +5271,7 @@
 | [BP180F][url/BP180F]    | [BP180E][url/BP180E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP180F]: img/original/BP180F.gif
+[img/BP180F]: img/corrected/BP180F.png
 [img/BP180E]: img/original/BP180E.png
 [img/BP180D]: img/derived/BP180D.svg
 [url/BP180F]: https://www.foundalis.com/res/bps/foundal/p180.htm
@@ -5298,7 +5298,7 @@
 | [BP181F][url/BP181F]    | [BP181E][url/BP181E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP181F]: img/original/BP181F.gif
+[img/BP181F]: img/corrected/BP181F.png
 [img/BP181E]: img/original/BP181E.png
 [img/BP181D]: img/derived/BP181D.svg
 [url/BP181F]: https://www.foundalis.com/res/bps/foundal/p181.htm
@@ -5328,7 +5328,7 @@
 | [BP182F][url/BP182F]    | [BP182E][url/BP182E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP182F]: img/original/BP182F.gif
+[img/BP182F]: img/corrected/BP182F.png
 [img/BP182E]: img/original/BP182E.png
 [img/BP182D]: img/derived/BP182D.svg
 [url/BP182F]: https://www.foundalis.com/res/bps/foundal/p182.htm
@@ -5365,7 +5365,7 @@
 | [BP183F][url/BP183F]    | [BP183E][url/BP183E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP183F]: img/original/BP183F.gif
+[img/BP183F]: img/corrected/BP183F.png
 [img/BP183E]: img/original/BP183E.png
 [img/BP183D]: img/derived/BP183D.svg
 [url/BP183F]: https://www.foundalis.com/res/bps/foundal/p183.htm
@@ -5393,7 +5393,7 @@
 | [BP184F][url/BP184F]    | [BP184E][url/BP184E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP184F]: img/original/BP184F.gif
+[img/BP184F]: img/corrected/BP184F.png
 [img/BP184E]: img/original/BP184E.png
 [img/BP184D]: img/derived/BP184D.svg
 [url/BP184F]: https://www.foundalis.com/res/bps/foundal/p184.htm
@@ -5421,7 +5421,7 @@
 | [BP185F][url/BP185F]    | [BP185E][url/BP185E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP185F]: img/original/BP185F.gif
+[img/BP185F]: img/corrected/BP185F.png
 [img/BP185E]: img/original/BP185E.png
 [img/BP185D]: img/derived/BP185D.svg
 [url/BP185F]: https://www.foundalis.com/res/bps/foundal/p185.htm
@@ -5452,7 +5452,7 @@
 | [BP186F][url/BP186F]    | [BP186E][url/BP186E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP186F]: img/original/BP186F.gif
+[img/BP186F]: img/corrected/BP186F.png
 [img/BP186E]: img/original/BP186E.png
 [img/BP186D]: img/derived/BP186D.svg
 [url/BP186F]: https://www.foundalis.com/res/bps/foundal/p186.htm
@@ -5482,7 +5482,7 @@
 | [BP187F][url/BP187F]    | [BP187E][url/BP187E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP187F]: img/original/BP187F.gif
+[img/BP187F]: img/corrected/BP187F.png
 [img/BP187E]: img/original/BP187E.png
 [img/BP187D]: img/derived/BP187D.svg
 [url/BP187F]: https://www.foundalis.com/res/bps/foundal/p187.htm
@@ -5512,7 +5512,7 @@
 | [BP188F][url/BP188F]    | [BP188E][url/BP188E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP188F]: img/original/BP188F.gif
+[img/BP188F]: img/corrected/BP188F.png
 [img/BP188E]: img/original/BP188E.png
 [img/BP188D]: img/derived/BP188D.svg
 [url/BP188F]: https://www.foundalis.com/res/bps/foundal/p188.htm
@@ -5542,7 +5542,7 @@
 | [BP189F][url/BP189F]    | [BP189E][url/BP189E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP189F]: img/original/BP189F.gif
+[img/BP189F]: img/corrected/BP189F.png
 [img/BP189E]: img/original/BP189E.png
 [img/BP189D]: img/derived/BP189D.svg
 [url/BP189F]: https://www.foundalis.com/res/bps/foundal/p189.htm
@@ -5572,7 +5572,7 @@
 | [BP190F][url/BP190F]    | [BP190E][url/BP190E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP190F]: img/original/BP190F.gif
+[img/BP190F]: img/corrected/BP190F.png
 [img/BP190E]: img/original/BP190E.png
 [img/BP190D]: img/derived/BP190D.svg
 [url/BP190F]: https://www.foundalis.com/res/bps/foundal/p190.htm
@@ -5601,7 +5601,7 @@
 | [BP191F][url/BP191F]    | [BP191E][url/BP191E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP191F]: img/original/BP191F.gif
+[img/BP191F]: img/corrected/BP191F.png
 [img/BP191E]: img/original/BP191E.png
 [img/BP191D]: img/derived/BP191D.svg
 [url/BP191F]: https://www.foundalis.com/res/bps/foundal/p191.htm
@@ -5629,7 +5629,7 @@
 | [BP192F][url/BP192F]    | [BP192E][url/BP192E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP192F]: img/original/BP192F.gif
+[img/BP192F]: img/corrected/BP192F.png
 [img/BP192E]: img/original/BP192E.png
 [img/BP192D]: img/derived/BP192D.svg
 [url/BP192F]: https://www.foundalis.com/res/bps/foundal/p192.htm
@@ -5658,7 +5658,7 @@
 | [BP193F][url/BP193F]    | [BP193E][url/BP193E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP193F]: img/original/BP193F.gif
+[img/BP193F]: img/corrected/BP193F.png
 [img/BP193E]: img/original/BP193E.png
 [img/BP193D]: img/derived/BP193D.svg
 [url/BP193F]: https://www.foundalis.com/res/bps/foundal/p193.htm
@@ -5686,7 +5686,7 @@
 | [BP194F][url/BP194F]    | [BP194E][url/BP194E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP194F]: img/original/BP194F.gif
+[img/BP194F]: img/corrected/BP194F.png
 [img/BP194E]: img/original/BP194E.png
 [img/BP194D]: img/derived/BP194D.svg
 [url/BP194F]: https://www.foundalis.com/res/bps/foundal/p194.htm
@@ -5716,7 +5716,7 @@
 | [BP195F][url/BP195F]    | [BP195E][url/BP195E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP195F]: img/original/BP195F.gif
+[img/BP195F]: img/corrected/BP195F.png
 [img/BP195E]: img/original/BP195E.png
 [img/BP195D]: img/derived/BP195D.svg
 [url/BP195F]: https://www.foundalis.com/res/bps/foundal/p195.htm
@@ -5744,7 +5744,7 @@
 | [BP196F][url/BP196F]    | [BP196E][url/BP196E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP196F]: img/original/BP196F.gif
+[img/BP196F]: img/corrected/BP196F.png
 [img/BP196E]: img/original/BP196E.png
 [img/BP196D]: img/derived/BP196D.svg
 [url/BP196F]: https://www.foundalis.com/res/bps/foundal/p196.htm
@@ -5774,7 +5774,7 @@
 | [BP197F][url/BP197F]    | [BP197E][url/BP197E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP197F]: img/original/BP197F.gif
+[img/BP197F]: img/corrected/BP197F.png
 [img/BP197E]: img/original/BP197E.png
 [url/BP197F]: https://www.foundalis.com/res/bps/foundal/p197.htm
 [url/BP197E]: https://oebp.org/BP197
@@ -5808,7 +5808,7 @@
 | [BP198F][url/BP198F]    | [BP198E][url/BP198E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP198F]: img/original/BP198F.gif
+[img/BP198F]: img/corrected/BP198F.png
 [img/BP198E]: img/original/BP198E.png
 [img/BP198D]: img/derived/BP198D.svg
 [url/BP198F]: https://www.foundalis.com/res/bps/foundal/p198.htm
@@ -5844,7 +5844,7 @@
 | [BP199F][url/BP199F]    | [BP199E][url/BP199E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP199F]: img/original/BP199F.gif
+[img/BP199F]: img/corrected/BP199F.png
 [img/BP199E]: img/original/BP199E.png
 [img/BP199D]: img/derived/BP199D.svg
 [url/BP199F]: https://www.foundalis.com/res/bps/foundal/p199.htm
@@ -5875,7 +5875,7 @@
 | [BP200F][url/BP200F]    | [BP200E][url/BP200E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP200F]: img/original/BP200F.gif
+[img/BP200F]: img/corrected/BP200F.png
 [img/BP200E]: img/original/BP200E.png
 [img/BP200D]: img/derived/BP200D.svg
 [url/BP200F]: https://www.foundalis.com/res/bps/foundal/p200.htm
@@ -5904,7 +5904,7 @@
 | [BP201F][url/BP201F]    | [BP201E][url/BP201E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP201F]: img/original/BP201F.gif
+[img/BP201F]: img/corrected/BP201F.png
 [img/BP201E]: img/original/BP201E.png
 [img/BP201D]: img/derived/BP201D.svg
 [url/BP201F]: https://www.foundalis.com/res/bps/insana/p201.htm
@@ -5928,7 +5928,7 @@
 | [BP202F][url/BP202F]    | [BP202E][url/BP202E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP202F]: img/original/BP202F.gif
+[img/BP202F]: img/corrected/BP202F.png
 [img/BP202E]: img/original/BP202E.png
 [url/BP202F]: https://www.foundalis.com/res/bps/insana/p202.htm
 [url/BP202E]: https://oebp.org/BP202
@@ -5952,7 +5952,7 @@
 | [BP203F][url/BP203F]    | [BP203E][url/BP203E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP203F]: img/original/BP203F.gif
+[img/BP203F]: img/corrected/BP203F.png
 [img/BP203E]: img/original/BP203E.png
 [url/BP203F]: https://www.foundalis.com/res/bps/insana/p203.htm
 [url/BP203E]: https://oebp.org/BP203
@@ -5978,7 +5978,7 @@
 | [BP204F][url/BP204F]    | [BP204E][url/BP204E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP204F]: img/original/BP204F.gif
+[img/BP204F]: img/corrected/BP204F.png
 [img/BP204E]: img/original/BP204E.png
 [img/BP204D]: img/derived/BP204D.svg
 [url/BP204F]: https://www.foundalis.com/res/bps/insana/p204.htm
@@ -6006,7 +6006,7 @@
 | [BP205F][url/BP205F]    | [BP205E][url/BP205E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP205F]: img/original/BP205F.gif
+[img/BP205F]: img/corrected/BP205F.png
 [img/BP205E]: img/original/BP205E.png
 [img/BP205D]: img/derived/BP205D.svg
 [url/BP205F]: https://www.foundalis.com/res/bps/insana/p205.htm
@@ -6036,7 +6036,7 @@
 | [BP206F][url/BP206F]    | [BP206E][url/BP206E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP206F]: img/original/BP206F.gif
+[img/BP206F]: img/corrected/BP206F.png
 [img/BP206E]: img/original/BP206E.png
 [img/BP206D]: img/derived/BP206D.svg
 [url/BP206F]: https://www.foundalis.com/res/bps/insana/p206.htm
@@ -6065,7 +6065,7 @@
 | [BP207F][url/BP207F]    | [BP207E][url/BP207E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP207F]: img/original/BP207F.gif
+[img/BP207F]: img/corrected/BP207F.png
 [img/BP207E]: img/original/BP207E.png
 [img/BP207D]: img/derived/BP207D.svg
 [url/BP207F]: https://www.foundalis.com/res/bps/insana/p207.htm
@@ -6097,7 +6097,7 @@
 | [BP208F][url/BP208F]    | [BP208E][url/BP208E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP208F]: img/original/BP208F.gif
+[img/BP208F]: img/corrected/BP208F.png
 [img/BP208E]: img/original/BP208E.png
 [img/BP208D]: img/derived/BP208D.svg
 [url/BP208F]: https://www.foundalis.com/res/bps/insana/p208.htm
@@ -6127,7 +6127,7 @@
 | [BP209F][url/BP209F]    | [BP209E][url/BP209E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP209F]: img/original/BP209F.gif
+[img/BP209F]: img/corrected/BP209F.png
 [img/BP209E]: img/original/BP209E.png
 [img/BP209D]: img/derived/BP209D.svg
 [url/BP209F]: https://www.foundalis.com/res/bps/insana/p209.htm
@@ -6154,7 +6154,7 @@
 | [BP210F][url/BP210F]    | [BP210E][url/BP210E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP210F]: img/original/BP210F.gif
+[img/BP210F]: img/corrected/BP210F.png
 [img/BP210E]: img/original/BP210E.png
 [url/BP210F]: https://www.foundalis.com/res/bps/insana/p210.htm
 [url/BP210E]: https://oebp.org/BP210
@@ -6182,7 +6182,7 @@
 |                         | more)][url/BP211E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP211F]: img/original/BP211F.gif
+[img/BP211F]: img/corrected/BP211F.png
 [img/BP211E]: img/original/BP211E.png
 [url/BP211F]: https://www.foundalis.com/res/bps/insana/p211.htm
 [url/BP211E]: https://oebp.org/BP211
@@ -6210,7 +6210,7 @@
 | [BP212F][url/BP212F]    | [BP212E][url/BP212E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP212F]: img/original/BP212F.gif
+[img/BP212F]: img/corrected/BP212F.png
 [img/BP212E]: img/original/BP212E.png
 [img/BP212D]: img/derived/BP212D.svg
 [url/BP212F]: https://www.foundalis.com/res/bps/insana/p212.htm
@@ -6241,7 +6241,7 @@
 | [BP213F][url/BP213F]    | [BP213E][url/BP213E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP213F]: img/original/BP213F.gif
+[img/BP213F]: img/corrected/BP213F.png
 [img/BP213E]: img/original/BP213E.png
 [img/BP213D]: img/derived/BP213D.svg
 [url/BP213F]: https://www.foundalis.com/res/bps/insana/p213.htm
@@ -6267,7 +6267,7 @@
 | [BP214F][url/BP214F]    | [BP214E][url/BP214E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP214F]: img/original/BP214F.gif
+[img/BP214F]: img/corrected/BP214F.png
 [img/BP214E]: img/original/BP214E.png
 [url/BP214F]: https://www.foundalis.com/res/bps/insana/p214.htm
 [url/BP214E]: https://oebp.org/BP214
@@ -6294,7 +6294,7 @@
 | [BP215F][url/BP215F]    | [BP215E][url/BP215E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP215F]: img/original/BP215F.gif
+[img/BP215F]: img/corrected/BP215F.png
 [img/BP215E]: img/original/BP215E.png
 [img/BP215D]: img/derived/BP215D.svg
 [url/BP215F]: https://www.foundalis.com/res/bps/insana/p215.htm
@@ -6323,7 +6323,7 @@
 | [BP216F][url/BP216F]    | [BP216E][url/BP216E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP216F]: img/original/BP216F.gif
+[img/BP216F]: img/corrected/BP216F.png
 [img/BP216E]: img/original/BP216E.png
 [img/BP216D]: img/derived/BP216D.svg
 [url/BP216F]: https://www.foundalis.com/res/bps/insana/p216.htm
@@ -6352,7 +6352,7 @@
 | [BP217F][url/BP217F]    | [BP217E][url/BP217E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP217F]: img/original/BP217F.gif
+[img/BP217F]: img/corrected/BP217F.png
 [img/BP217E]: img/original/BP217E.png
 [img/BP217D]: img/derived/BP217D.svg
 [url/BP217F]: https://www.foundalis.com/res/bps/insana/p217.htm
@@ -6382,7 +6382,7 @@
 | [BP218F][url/BP218F]    | [BP218E][url/BP218E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP218F]: img/original/BP218F.gif
+[img/BP218F]: img/corrected/BP218F.png
 [img/BP218E]: img/original/BP218E.png
 [img/BP218D]: img/derived/BP218D.svg
 [url/BP218F]: https://www.foundalis.com/res/bps/insana/p218.htm
@@ -6411,7 +6411,7 @@
 | [BP219F][url/BP219F]    | [BP219E][url/BP219E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP219F]: img/original/BP219F.gif
+[img/BP219F]: img/corrected/BP219F.png
 [img/BP219E]: img/original/BP219E.png
 [img/BP219D]: img/derived/BP219D.svg
 [url/BP219F]: https://www.foundalis.com/res/bps/insana/p219.htm
@@ -6439,7 +6439,7 @@
 | [BP220F][url/BP220F]    | [BP220E][url/BP220E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP220F]: img/original/BP220F.gif
+[img/BP220F]: img/corrected/BP220F.png
 [img/BP220E]: img/original/BP220E.png
 [img/BP220D]: img/derived/BP220D.svg
 [url/BP220F]: https://www.foundalis.com/res/bps/insana/p220.htm
@@ -6470,7 +6470,7 @@
 | [BP221F][url/BP221F]    | [BP221E][url/BP221E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP221F]: img/original/BP221F.gif
+[img/BP221F]: img/corrected/BP221F.png
 [img/BP221E]: img/original/BP221E.png
 [img/BP221D]: img/derived/BP221D.svg
 [url/BP221F]: https://www.foundalis.com/res/bps/insana/p221.htm
@@ -6499,7 +6499,7 @@
 | [BP222F][url/BP222F]    | [BP222E][url/BP222E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP222F]: img/original/BP222F.gif
+[img/BP222F]: img/corrected/BP222F.png
 [img/BP222E]: img/original/BP222E.png
 [img/BP222D]: img/derived/BP222D.svg
 [url/BP222F]: https://www.foundalis.com/res/bps/insana/p222.htm
@@ -6528,7 +6528,7 @@
 | [BP223F][url/BP223F]    | [BP223E][url/BP223E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP223F]: img/original/BP223F.gif
+[img/BP223F]: img/corrected/BP223F.png
 [img/BP223E]: img/original/BP223E.png
 [img/BP223D]: img/derived/BP223D.svg
 [url/BP223F]: https://www.foundalis.com/res/bps/insana/p223.htm
@@ -6558,7 +6558,7 @@
 | [BP224F][url/BP224F]    | [BP224E][url/BP224E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP224F]: img/original/BP224F.gif
+[img/BP224F]: img/corrected/BP224F.png
 [img/BP224E]: img/original/BP224E.png
 [img/BP224D]: img/derived/BP224D.svg
 [url/BP224F]: https://www.foundalis.com/res/bps/insana/p224.htm
@@ -6591,7 +6591,7 @@
 | [BP225F][url/BP225F]    | [BP225E][url/BP225E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP225F]: img/original/BP225F.gif
+[img/BP225F]: img/corrected/BP225F.png
 [img/BP225E]: img/original/BP225E.png
 [img/BP225D]: img/derived/BP225D.svg
 [url/BP225F]: https://www.foundalis.com/res/bps/insana/p225.htm
@@ -6621,7 +6621,7 @@
 | [BP226F][url/BP226F]    | [BP226E][url/BP226E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP226F]: img/original/BP226F.gif
+[img/BP226F]: img/corrected/BP226F.png
 [img/BP226E]: img/original/BP226E.png
 [img/BP226D]: img/derived/BP226D.svg
 [url/BP226F]: https://www.foundalis.com/res/bps/insana/p226.htm
@@ -6653,7 +6653,7 @@
 | [BP227F][url/BP227F]    | [BP227E][url/BP227E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP227F]: img/original/BP227F.gif
+[img/BP227F]: img/corrected/BP227F.png
 [img/BP227E]: img/original/BP227E.png
 [img/BP227D]: img/derived/BP227D.svg
 [url/BP227F]: https://www.foundalis.com/res/bps/insana/p227.htm
@@ -6687,7 +6687,7 @@
 | [BP228F][url/BP228F]    | [BP228E][url/BP228E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP228F]: img/original/BP228F.gif
+[img/BP228F]: img/corrected/BP228F.png
 [img/BP228E]: img/original/BP228E.png
 [img/BP228D]: img/derived/BP228D.svg
 [url/BP228F]: https://www.foundalis.com/res/bps/insana/p228.htm
@@ -6719,7 +6719,7 @@
 | [BP229F][url/BP229F]    | [BP229E][url/BP229E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP229F]: img/original/BP229F.gif
+[img/BP229F]: img/corrected/BP229F.png
 [img/BP229E]: img/original/BP229E.png
 [img/BP229D]: img/derived/BP229D.svg
 [url/BP229F]: https://www.foundalis.com/res/bps/insana/p229.htm
@@ -6749,7 +6749,7 @@
 | [BP230F][url/BP230F]    | [BP230E][url/BP230E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP230F]: img/original/BP230F.gif
+[img/BP230F]: img/corrected/BP230F.png
 [img/BP230E]: img/original/BP230E.png
 [img/BP230D]: img/derived/BP230D.svg
 [url/BP230F]: https://www.foundalis.com/res/bps/insana/p230.htm
@@ -6778,7 +6778,7 @@
 | [BP231F][url/BP231F]    | [BP231E][url/BP231E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP231F]: img/original/BP231F.gif
+[img/BP231F]: img/corrected/BP231F.png
 [img/BP231E]: img/original/BP231E.png
 [img/BP231D]: img/derived/BP231D.svg
 [url/BP231F]: https://www.foundalis.com/res/bps/insana/p231.htm
@@ -6806,7 +6806,7 @@
 | [BP232F][url/BP232F]    | [BP232E][url/BP232E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP232F]: img/original/BP232F.gif
+[img/BP232F]: img/corrected/BP232F.png
 [img/BP232E]: img/original/BP232E.png
 [img/BP232D]: img/derived/BP232D.svg
 [url/BP232F]: https://www.foundalis.com/res/bps/insana/p232.htm
@@ -6838,7 +6838,7 @@
 | [BP233F][url/BP233F]    | [BP233E][url/BP233E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP233F]: img/original/BP233F.gif
+[img/BP233F]: img/corrected/BP233F.png
 [img/BP233E]: img/original/BP233E.png
 [url/BP233F]: https://www.foundalis.com/res/bps/shanahan/p233.htm
 [url/BP233E]: https://oebp.org/BP233
@@ -6868,7 +6868,7 @@
 | [BP234F][url/BP234F]    | [BP234E][url/BP234E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP234F]: img/original/BP234F.gif
+[img/BP234F]: img/corrected/BP234F.png
 [img/BP234E]: img/original/BP234E.png
 [url/BP234F]: https://www.foundalis.com/res/bps/shanahan/p234.htm
 [url/BP234E]: https://oebp.org/BP234
@@ -6897,7 +6897,7 @@
 | [BP235F][url/BP235F]    | [BP235E][url/BP235E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP235F]: img/original/BP235F.gif
+[img/BP235F]: img/corrected/BP235F.png
 [img/BP235E]: img/original/BP235E.png
 [url/BP235F]: https://www.foundalis.com/res/bps/shanahan/p235.htm
 [url/BP235E]: https://oebp.org/BP235
@@ -6924,7 +6924,7 @@
 | [BP236F][url/BP236F]    | [BP236E][url/BP236E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP236F]: img/original/BP236F.gif
+[img/BP236F]: img/corrected/BP236F.png
 [img/BP236E]: img/original/BP236E.png
 [img/BP236D]: img/derived/BP236D.svg
 [url/BP236F]: https://www.foundalis.com/res/bps/shanahan/p236.htm
@@ -6954,7 +6954,7 @@
 | [BP237F][url/BP237F]    | [BP237E][url/BP237E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP237F]: img/original/BP237F.gif
+[img/BP237F]: img/corrected/BP237F.png
 [img/BP237E]: img/original/BP237E.png
 [url/BP237F]: https://www.foundalis.com/res/bps/shanahan/p237.htm
 [url/BP237E]: https://oebp.org/BP237
@@ -6983,7 +6983,7 @@
 | [BP238F][url/BP238F]    | [BP238E][url/BP238E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP238F]: img/original/BP238F.gif
+[img/BP238F]: img/corrected/BP238F.png
 [img/BP238E]: img/original/BP238E.png
 [img/BP238D]: img/derived/BP238D.svg
 [url/BP238F]: https://www.foundalis.com/res/bps/foundal/p238.htm
@@ -7018,7 +7018,7 @@
 | [BP239F][url/BP239F]    | [BP239E][url/BP239E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP239F]: img/original/BP239F.gif
+[img/BP239F]: img/corrected/BP239F.png
 [img/BP239E]: img/original/BP239E.png
 [img/BP239D]: img/derived/BP239D.svg
 [url/BP239F]: https://www.foundalis.com/res/bps/foundal/p239.htm
@@ -7048,7 +7048,7 @@
 | [BP240F][url/BP240F]    | [BP240E][url/BP240E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP240F]: img/original/BP240F.gif
+[img/BP240F]: img/corrected/BP240F.png
 [img/BP240E]: img/original/BP240E.png
 [img/BP240D]: img/derived/BP240D.svg
 [url/BP240F]: https://www.foundalis.com/res/bps/howells/p240.htm
@@ -7078,7 +7078,7 @@
 | [BP241F][url/BP241F]    | [BP241E][url/BP241E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP241F]: img/original/BP241F.gif
+[img/BP241F]: img/corrected/BP241F.png
 [img/BP241E]: img/original/BP241E.png
 [img/BP241D]: img/derived/BP241D.svg
 [url/BP241F]: https://www.foundalis.com/res/bps/howells/p241.htm
@@ -7104,7 +7104,7 @@
 | [BP242F][url/BP242F]    | [BP242E][url/BP242E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP242F]: img/original/BP242F.gif
+[img/BP242F]: img/corrected/BP242F.png
 [img/BP242E]: img/original/BP242E.png
 [url/BP242F]: https://www.foundalis.com/res/bps/howells/p242.htm
 [url/BP242E]: https://oebp.org/BP242
@@ -7134,7 +7134,7 @@
 | [BP243F][url/BP243F]    | [BP243E][url/BP243E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP243F]: img/original/BP243F.gif
+[img/BP243F]: img/corrected/BP243F.png
 [img/BP243E]: img/original/BP243E.png
 [img/BP243D]: img/derived/BP243D.svg
 [url/BP243F]: https://www.foundalis.com/res/bps/howells/p243.htm
@@ -7167,7 +7167,7 @@
 | [BP244F][url/BP244F]    | [BP244E][url/BP244E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP244F]: img/original/BP244F.gif
+[img/BP244F]: img/corrected/BP244F.png
 [img/BP244E]: img/original/BP244E.png
 [url/BP244F]: https://www.foundalis.com/res/bps/howells/p244.htm
 [url/BP244E]: https://oebp.org/BP244
@@ -7196,7 +7196,7 @@
 | [BP245F][url/BP245F]    | [BP245E][url/BP245E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP245F]: img/original/BP245F.gif
+[img/BP245F]: img/corrected/BP245F.png
 [img/BP245E]: img/original/BP245E.png
 [img/BP245D]: img/derived/BP245D.svg
 [url/BP245F]: https://www.foundalis.com/res/bps/rispoli/p245.htm
@@ -7226,7 +7226,7 @@
 | [BP246F][url/BP246F]    | [BP246E][url/BP246E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP246F]: img/original/BP246F.gif
+[img/BP246F]: img/corrected/BP246F.png
 [img/BP246E]: img/original/BP246E.png
 [img/BP246D]: img/derived/BP246D.svg
 [url/BP246F]: https://www.foundalis.com/res/bps/rispoli/p246.htm
@@ -7256,7 +7256,7 @@
 | [BP247F][url/BP247F]    | [BP247E][url/BP247E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP247F]: img/original/BP247F.gif
+[img/BP247F]: img/corrected/BP247F.png
 [img/BP247E]: img/original/BP247E.png
 [img/BP247D]: img/derived/BP247D.svg
 [url/BP247F]: https://www.foundalis.com/res/bps/gunnarsson/p247.htm
@@ -7287,7 +7287,7 @@
 | [BP248F][url/BP248F]    | [BP248E][url/BP248E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP248F]: img/original/BP248F.gif
+[img/BP248F]: img/corrected/BP248F.png
 [img/BP248E]: img/original/BP248E.png
 [img/BP248D]: img/derived/BP248D.svg
 [url/BP248F]: https://www.foundalis.com/res/bps/gunnarsson/p248.htm
@@ -7317,7 +7317,7 @@
 | [BP249F][url/BP249F]    | [BP249E][url/BP249E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP249F]: img/original/BP249F.gif
+[img/BP249F]: img/corrected/BP249F.png
 [img/BP249E]: img/original/BP249E.png
 [img/BP249D]: img/derived/BP249D.svg
 [url/BP249F]: https://www.foundalis.com/res/bps/gunnarsson/p249.htm
@@ -7350,7 +7350,7 @@
 | [BP250F][url/BP250F]    | [BP250E][url/BP250E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP250F]: img/original/BP250F.gif
+[img/BP250F]: img/corrected/BP250F.png
 [img/BP250E]: img/original/BP250E.png
 [img/BP250D]: img/derived/BP250D.svg
 [url/BP250F]: https://www.foundalis.com/res/bps/gunnarsson/p250.htm
@@ -7379,7 +7379,7 @@
 | [BP251F][url/BP251F]    | [BP251E][url/BP251E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP251F]: img/original/BP251F.gif
+[img/BP251F]: img/corrected/BP251F.png
 [img/BP251E]: img/original/BP251E.png
 [img/BP251D]: img/derived/BP251D.svg
 [url/BP251F]: https://www.foundalis.com/res/bps/gunnarsson/p251.htm
@@ -7409,7 +7409,7 @@
 | [BP252F][url/BP252F]    | [BP252E][url/BP252E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP252F]: img/original/BP252F.gif
+[img/BP252F]: img/corrected/BP252F.png
 [img/BP252E]: img/original/BP252E.png
 [url/BP252F]: https://www.foundalis.com/res/bps/gunnarsson/p252.htm
 [url/BP252E]: https://oebp.org/BP252
@@ -7450,7 +7450,7 @@
 | [BP253F][url/BP253F]    | [BP253E][url/BP253E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP253F]: img/original/BP253F.gif
+[img/BP253F]: img/corrected/BP253F.png
 [img/BP253E]: img/original/BP253E.png
 [img/BP253D]: img/derived/BP253D.svg
 [url/BP253F]: https://www.foundalis.com/res/bps/gunnarsson/p253.htm
@@ -7481,7 +7481,7 @@
 | [BP254F][url/BP254F]    | [BP254E][url/BP254E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP254F]: img/original/BP254F.gif
+[img/BP254F]: img/corrected/BP254F.png
 [img/BP254E]: img/original/BP254E.png
 [img/BP254D]: img/derived/BP254D.svg
 [url/BP254F]: https://www.foundalis.com/res/bps/gunnarsson/p254.htm
@@ -7513,7 +7513,7 @@
 | [BP255F][url/BP255F]    | [BP255E][url/BP255E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP255F]: img/original/BP255F.gif
+[img/BP255F]: img/corrected/BP255F.png
 [img/BP255E]: img/original/BP255E.png
 [img/BP255D]: img/derived/BP255D.svg
 [url/BP255F]: https://www.foundalis.com/res/bps/gunnarsson/p255.htm
@@ -7544,7 +7544,7 @@
 | [BP256F][url/BP256F]    | [BP256E][url/BP256E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP256F]: img/original/BP256F.gif
+[img/BP256F]: img/corrected/BP256F.png
 [img/BP256E]: img/original/BP256E.png
 [img/BP256D]: img/derived/BP256D.svg
 [url/BP256F]: https://www.foundalis.com/res/bps/gunnarsson/p256.htm
@@ -7576,7 +7576,7 @@
 | [BP257F][url/BP257F]    | [BP257E][url/BP257E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP257F]: img/original/BP257F.gif
+[img/BP257F]: img/corrected/BP257F.png
 [img/BP257E]: img/original/BP257E.png
 [img/BP257D]: img/derived/BP257D.svg
 [url/BP257F]: https://www.foundalis.com/res/bps/gunnarsson/p257.htm
@@ -7605,7 +7605,7 @@
 | [BP258F][url/BP258F]    | [BP258E][url/BP258E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP258F]: img/original/BP258F.gif
+[img/BP258F]: img/corrected/BP258F.png
 [img/BP258E]: img/original/BP258E.png
 [img/BP258D]: img/derived/BP258D.svg
 [url/BP258F]: https://www.foundalis.com/res/bps/gunnarsson/p258.htm
@@ -7637,7 +7637,7 @@
 | [BP259F][url/BP259F]    | [BP259E][url/BP259E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP259F]: img/original/BP259F.gif
+[img/BP259F]: img/corrected/BP259F.png
 [img/BP259E]: img/original/BP259E.png
 [img/BP259D]: img/derived/BP259D.svg
 [url/BP259F]: https://www.foundalis.com/res/bps/gunnarsson/p259.htm
@@ -7667,7 +7667,7 @@
 | [BP260F][url/BP260F]    | [BP260E][url/BP260E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP260F]: img/original/BP260F.gif
+[img/BP260F]: img/corrected/BP260F.png
 [img/BP260E]: img/original/BP260E.png
 [url/BP260F]: https://www.foundalis.com/res/bps/rispoli/p260.htm
 [url/BP260E]: https://oebp.org/BP260
@@ -7698,7 +7698,7 @@
 | [BP261F][url/BP261F]    | [BP261E][url/BP261E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP261F]: img/original/BP261F.gif
+[img/BP261F]: img/corrected/BP261F.png
 [img/BP261E]: img/original/BP261E.png
 [img/BP261D]: img/derived/BP261D.svg
 [url/BP261F]: https://www.foundalis.com/res/bps/ihde/p261.htm
@@ -7727,7 +7727,7 @@
 | [BP262F][url/BP262F]    | [BP262E][url/BP262E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP262F]: img/original/BP262F.gif
+[img/BP262F]: img/corrected/BP262F.png
 [img/BP262E]: img/original/BP262E.png
 [img/BP262D]: img/derived/BP262D.svg
 [url/BP262F]: https://www.foundalis.com/res/bps/barenbaum/p262.htm
@@ -7756,7 +7756,7 @@
 | [BP263F][url/BP263F]    | [BP263E][url/BP263E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP263F]: img/original/BP263F.gif
+[img/BP263F]: img/corrected/BP263F.png
 [img/BP263E]: img/original/BP263E.png
 [img/BP263D]: img/derived/BP263D.svg
 [url/BP263F]: https://www.foundalis.com/res/bps/barenbaum/p263.htm
@@ -7784,7 +7784,7 @@
 | [BP264F][url/BP264F]    | [BP264E][url/BP264E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP264F]: img/original/BP264F.gif
+[img/BP264F]: img/corrected/BP264F.png
 [img/BP264E]: img/original/BP264E.png
 [img/BP264D]: img/derived/BP264D.svg
 [url/BP264F]: https://www.foundalis.com/res/bps/merse/p264.htm
@@ -7812,7 +7812,7 @@
 | [BP265F][url/BP265F]    | [BP265E][url/BP265E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP265F]: img/original/BP265F.gif
+[img/BP265F]: img/corrected/BP265F.png
 [img/BP265E]: img/original/BP265E.png
 [img/BP265D]: img/derived/BP265D.svg
 [url/BP265F]: https://www.foundalis.com/res/bps/merse/p265.htm
@@ -7841,7 +7841,7 @@
 | [BP266F][url/BP266F]    | [BP266E][url/BP266E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP266F]: img/original/BP266F.gif
+[img/BP266F]: img/corrected/BP266F.png
 [img/BP266E]: img/original/BP266E.png
 [img/BP266D]: img/derived/BP266D.svg
 [url/BP266F]: https://www.foundalis.com/res/bps/merse/p266.htm
@@ -7870,7 +7870,7 @@
 | [BP267F][url/BP267F]    | [BP267E][url/BP267E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP267F]: img/original/BP267F.gif
+[img/BP267F]: img/corrected/BP267F.png
 [img/BP267E]: img/original/BP267E.png
 [img/BP267D]: img/derived/BP267D.svg
 [url/BP267F]: https://www.foundalis.com/res/bps/merse/p267.htm
@@ -7900,7 +7900,7 @@
 | [BP268F][url/BP268F]    | [BP268E][url/BP268E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP268F]: img/original/BP268F.gif
+[img/BP268F]: img/corrected/BP268F.png
 [img/BP268E]: img/original/BP268E.png
 [img/BP268D]: img/derived/BP268D.svg
 [url/BP268F]: https://www.foundalis.com/res/bps/merse/p268.htm
@@ -7928,7 +7928,7 @@
 | [BP269F][url/BP269F]    | [BP269E][url/BP269E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP269F]: img/original/BP269F.gif
+[img/BP269F]: img/corrected/BP269F.png
 [img/BP269E]: img/original/BP269E.png
 [img/BP269D]: img/derived/BP269D.svg
 [url/BP269F]: https://www.foundalis.com/res/bps/merse/p269.htm
@@ -7959,7 +7959,7 @@
 | [BP270F][url/BP270F]    | [BP270E][url/BP270E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP270F]: img/original/BP270F.gif
+[img/BP270F]: img/corrected/BP270F.png
 [img/BP270E]: img/original/BP270E.png
 [img/BP270D]: img/derived/BP270D.svg
 [url/BP270F]: https://www.foundalis.com/res/bps/merse/p270.htm
@@ -7990,7 +7990,7 @@
 | [BP271F][url/BP271F]    | [BP271E][url/BP271E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP271F]: img/original/BP271F.gif
+[img/BP271F]: img/corrected/BP271F.png
 [img/BP271E]: img/original/BP271E.png
 [img/BP271D]: img/derived/BP271D.svg
 [url/BP271F]: https://www.foundalis.com/res/bps/merse/p271.htm
@@ -8019,7 +8019,7 @@
 | [BP272F][url/BP272F]    | [BP272E][url/BP272E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP272F]: img/original/BP272F.gif
+[img/BP272F]: img/corrected/BP272F.png
 [img/BP272E]: img/original/BP272E.png
 [img/BP272D]: img/derived/BP272D.svg
 [url/BP272F]: https://www.foundalis.com/res/bps/merse/p272.htm
@@ -8048,7 +8048,7 @@
 | [BP273F][url/BP273F]    | [BP273E][url/BP273E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP273F]: img/original/BP273F.gif
+[img/BP273F]: img/corrected/BP273F.png
 [img/BP273E]: img/original/BP273E.png
 [img/BP273D]: img/derived/BP273D.svg
 [url/BP273F]: https://www.foundalis.com/res/bps/merse/p273.htm
@@ -8077,7 +8077,7 @@
 | [BP274F][url/BP274F]    | [BP274E][url/BP274E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP274F]: img/original/BP274F.gif
+[img/BP274F]: img/corrected/BP274F.png
 [img/BP274E]: img/original/BP274E.png
 [img/BP274D]: img/derived/BP274D.svg
 [url/BP274F]: https://www.foundalis.com/res/bps/merse/p274.htm
@@ -8107,7 +8107,7 @@
 | [BP275F][url/BP275F]    | [BP275E][url/BP275E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP275F]: img/original/BP275F.gif
+[img/BP275F]: img/corrected/BP275F.png
 [img/BP275E]: img/original/BP275E.png
 [img/BP275D]: img/derived/BP275D.svg
 [url/BP275F]: https://www.foundalis.com/res/bps/merse/p275.htm
@@ -8136,7 +8136,7 @@
 | [BP276F][url/BP276F]    | [BP276E][url/BP276E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP276F]: img/original/BP276F.gif
+[img/BP276F]: img/corrected/BP276F.png
 [img/BP276E]: img/original/BP276E.png
 [img/BP276D]: img/derived/BP276D.svg
 [url/BP276F]: https://www.foundalis.com/res/bps/merse/p276.htm
@@ -8165,7 +8165,7 @@
 | [BP277F][url/BP277F]    | [BP277E][url/BP277E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP277F]: img/original/BP277F.gif
+[img/BP277F]: img/corrected/BP277F.png
 [img/BP277E]: img/original/BP277E.png
 [img/BP277D]: img/derived/BP277D.svg
 [url/BP277F]: https://www.foundalis.com/res/bps/merse/p277.htm
@@ -8194,7 +8194,7 @@
 | [BP278F][url/BP278F]    | [BP278E][url/BP278E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP278F]: img/original/BP278F.gif
+[img/BP278F]: img/corrected/BP278F.png
 [img/BP278E]: img/original/BP278E.png
 [img/BP278D]: img/derived/BP278D.svg
 [url/BP278F]: https://www.foundalis.com/res/bps/merse/p278.htm
@@ -8223,7 +8223,7 @@
 | [BP279F][url/BP279F]    | [BP279E][url/BP279E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP279F]: img/original/BP279F.gif
+[img/BP279F]: img/corrected/BP279F.png
 [img/BP279E]: img/original/BP279E.png
 [img/BP279D]: img/derived/BP279D.svg
 [url/BP279F]: https://www.foundalis.com/res/bps/merse/p279.htm
@@ -8252,7 +8252,7 @@
 | [BP280F][url/BP280F]    | [BP280E][url/BP280E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP280F]: img/original/BP280F.gif
+[img/BP280F]: img/corrected/BP280F.png
 [img/BP280E]: img/original/BP280E.png
 [img/BP280D]: img/derived/BP280D.svg
 [url/BP280F]: https://www.foundalis.com/res/bps/merse/p280.htm
@@ -8831,18 +8831,10 @@
 +-------------------------+-------------------------+-------------------------+
 | Foundalis               | OEBP                    | Flagged                 |
 +=========================+=========================+=========================+
-| [L1][img/BP300F-L1]     | [![BP300E][img/BP300E]  | The rule depends on     |
-| [L2][img/BP300F-L2]     | ][img/BP300E]           | changes in speed. Both  |
-| [L3][img/BP300F-L3]     |                         | sources use animated    |
-| [L4][img/BP300F-L4]     |                         | examples.               |
-| [L5][img/BP300F-L5]     |                         |                         |
-| [L6][img/BP300F-L6]     |                         |                         |
-| [R1][img/BP300F-R1]     |                         |                         |
-| [R2][img/BP300F-R2]     |                         |                         |
-| [R3][img/BP300F-R3]     |                         |                         |
-| [R4][img/BP300F-R4]     |                         |                         |
-| [R5][img/BP300F-R5]     |                         |                         |
-| [R6][img/BP300F-R6]     |                         |                         |
+| [![BP300F][img/BP300F]  | [![BP300E][img/BP300E]  | The rule depends on     |
+| ][img/BP300F]           | ][img/BP300E]           | changes in speed. Both  |
+|                         |                         | sources use animated    |
+|                         |                         | examples.               |
 +-------------------------+-------------------------+-------------------------+
 | “Acceleration and       | “Acceleration and       | The moving object       |
 | deceleration; Constant  | deceleration vs.        | changes speed on the    |
@@ -8853,18 +8845,7 @@
 | [BP300F][url/BP300F]    | [BP300E][url/BP300E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP300F-L1]: img/original/BP300F-L1.gif
-[img/BP300F-L2]: img/original/BP300F-L2.gif
-[img/BP300F-L3]: img/original/BP300F-L3.gif
-[img/BP300F-L4]: img/original/BP300F-L4.gif
-[img/BP300F-L5]: img/original/BP300F-L5.gif
-[img/BP300F-L6]: img/original/BP300F-L6.gif
-[img/BP300F-R1]: img/original/BP300F-R1.gif
-[img/BP300F-R2]: img/original/BP300F-R2.gif
-[img/BP300F-R3]: img/original/BP300F-R3.gif
-[img/BP300F-R4]: img/original/BP300F-R4.gif
-[img/BP300F-R5]: img/original/BP300F-R5.gif
-[img/BP300F-R6]: img/original/BP300F-R6.gif
+[img/BP300F]: img/corrected/BP300F.png
 [img/BP300E]: img/original/BP300E.png
 [url/BP300F]: https://www.foundalis.com/res/bps/foundal/p300.htm
 [url/BP300E]: https://oebp.org/BP300
@@ -9378,7 +9359,7 @@
 | [BP317F][url/BP317F]    | [BP317E][url/BP317E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP317F]: img/original/BP317F.gif
+[img/BP317F]: img/corrected/BP317F.png
 [img/BP317E]: img/original/BP317E.png
 [img/BP317D]: img/derived/BP317D.svg
 [url/BP317F]: https://www.foundalis.com/res/bps/fairbanks/p317.htm
@@ -9408,7 +9389,7 @@
 | [BP318F][url/BP318F]    | [BP318E][url/BP318E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP318F]: img/original/BP318F.gif
+[img/BP318F]: img/corrected/BP318F.png
 [img/BP318E]: img/original/BP318E.png
 [img/BP318D]: img/derived/BP318D.svg
 [url/BP318F]: https://www.foundalis.com/res/bps/fairbanks/p318.htm
@@ -9438,7 +9419,7 @@
 | [BP319F][url/BP319F]    | [BP319E][url/BP319E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP319F]: img/original/BP319F.gif
+[img/BP319F]: img/corrected/BP319F.png
 [img/BP319E]: img/original/BP319E.png
 [img/BP319D]: img/derived/BP319D.svg
 [url/BP319F]: https://www.foundalis.com/res/bps/fairbanks/p319.htm
@@ -9469,7 +9450,7 @@
 | [BP320F][url/BP320F]    | [BP320E][url/BP320E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP320F]: img/original/BP320F.gif
+[img/BP320F]: img/corrected/BP320F.png
 [img/BP320E]: img/original/BP320E.png
 [img/BP320D]: img/derived/BP320D.svg
 [url/BP320F]: https://www.foundalis.com/res/bps/fairbanks/p320.htm
@@ -9499,7 +9480,7 @@
 | [BP321F][url/BP321F]    | [BP321E][url/BP321E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP321F]: img/original/BP321F.gif
+[img/BP321F]: img/corrected/BP321F.png
 [img/BP321E]: img/original/BP321E.png
 [img/BP321D]: img/derived/BP321D.svg
 [url/BP321F]: https://www.foundalis.com/res/bps/fairbanks/p321.htm
@@ -9528,7 +9509,7 @@
 | [BP322F][url/BP322F]    | [BP322E][url/BP322E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP322F]: img/original/BP322F.gif
+[img/BP322F]: img/corrected/BP322F.png
 [img/BP322E]: img/original/BP322E.png
 [img/BP322D]: img/derived/BP322D.svg
 [url/BP322F]: https://www.foundalis.com/res/bps/fairbanks/p322.htm
@@ -9558,7 +9539,7 @@
 | [BP323F][url/BP323F]    | [BP323E][url/BP323E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP323F]: img/original/BP323F.gif
+[img/BP323F]: img/corrected/BP323F.png
 [img/BP323E]: img/original/BP323E.png
 [img/BP323D]: img/derived/BP323D.svg
 [url/BP323F]: https://www.foundalis.com/res/bps/fairbanks/p323.htm
@@ -9589,7 +9570,7 @@
 | [BP324F][url/BP324F]    | [BP324E][url/BP324E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP324F]: img/original/BP324F.gif
+[img/BP324F]: img/corrected/BP324F.png
 [img/BP324E]: img/original/BP324E.png
 [img/BP324D]: img/derived/BP324D.svg
 [url/BP324F]: https://www.foundalis.com/res/bps/fairbanks/p324.htm
@@ -9622,7 +9603,7 @@
 | [BP325F][url/BP325F]    | [BP325E][url/BP325E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP325F]: img/original/BP325F.gif
+[img/BP325F]: img/corrected/BP325F.png
 [img/BP325E]: img/original/BP325E.png
 [img/BP325D]: img/derived/BP325D.svg
 [url/BP325F]: https://www.foundalis.com/res/bps/fairbanks/p325.htm
@@ -9651,7 +9632,7 @@
 | [BP326F][url/BP326F]    | [BP326E][url/BP326E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP326F]: img/original/BP326F.gif
+[img/BP326F]: img/corrected/BP326F.png
 [img/BP326E]: img/original/BP326E.png
 [img/BP326D]: img/derived/BP326D.svg
 [url/BP326F]: https://www.foundalis.com/res/bps/fairbanks/p326.htm
@@ -9680,7 +9661,7 @@
 | [BP327F][url/BP327F]    | [BP327E][url/BP327E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP327F]: img/original/BP327F.gif
+[img/BP327F]: img/corrected/BP327F.png
 [img/BP327E]: img/original/BP327E.png
 [img/BP327D]: img/derived/BP327D.svg
 [url/BP327F]: https://www.foundalis.com/res/bps/fairbanks/p327.htm
@@ -9709,7 +9690,7 @@
 | [BP328F][url/BP328F]    | [BP328E][url/BP328E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP328F]: img/original/BP328F.gif
+[img/BP328F]: img/corrected/BP328F.png
 [img/BP328E]: img/original/BP328E.png
 [img/BP328D]: img/derived/BP328D.svg
 [url/BP328F]: https://www.foundalis.com/res/bps/fairbanks/p328.htm
@@ -9736,7 +9717,7 @@
 | [BP329F][url/BP329F]    | [BP329E][url/BP329E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP329F]: img/original/BP329F.gif
+[img/BP329F]: img/corrected/BP329F.png
 [img/BP329E]: img/original/BP329E.png
 [img/BP329D]: img/derived/BP329D.svg
 [url/BP329F]: https://www.foundalis.com/res/bps/fairbanks/p329.htm
@@ -9766,7 +9747,7 @@
 | [BP330F][url/BP330F]    | [BP330E][url/BP330E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP330F]: img/original/BP330F.gif
+[img/BP330F]: img/corrected/BP330F.png
 [img/BP330E]: img/original/BP330E.png
 [img/BP330D]: img/derived/BP330D.svg
 [url/BP330F]: https://www.foundalis.com/res/bps/fairbanks/p330.htm
@@ -9796,7 +9777,7 @@
 | [BP331F][url/BP331F]    | [BP331E][url/BP331E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP331F]: img/original/BP331F.gif
+[img/BP331F]: img/corrected/BP331F.png
 [img/BP331E]: img/original/BP331E.png
 [img/BP331D]: img/derived/BP331D.svg
 [url/BP331F]: https://www.foundalis.com/res/bps/fairbanks/p331.htm
@@ -9825,7 +9806,7 @@
 | [BP332F][url/BP332F]    | [BP332E][url/BP332E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP332F]: img/original/BP332F.gif
+[img/BP332F]: img/corrected/BP332F.png
 [img/BP332E]: img/original/BP332E.png
 [img/BP332D]: img/derived/BP332D.svg
 [url/BP332F]: https://www.foundalis.com/res/bps/fairbanks/p332.htm
@@ -9854,7 +9835,7 @@
 | [BP333F][url/BP333F]    | [BP333E][url/BP333E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP333F]: img/original/BP333F.gif
+[img/BP333F]: img/corrected/BP333F.png
 [img/BP333E]: img/original/BP333E.png
 [img/BP333D]: img/derived/BP333D.svg
 [url/BP333F]: https://www.foundalis.com/res/bps/fairbanks/p333.htm
@@ -9882,7 +9863,7 @@
 |                         | more)][url/BP334E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP334F]: img/original/BP334F.gif
+[img/BP334F]: img/corrected/BP334F.png
 [img/BP334E]: img/original/BP334E.png
 [img/BP334D]: img/derived/BP334D.svg
 [url/BP334F]: https://www.foundalis.com/res/bps/fairbanks/p334.htm
@@ -9913,7 +9894,7 @@
 |                         | more)][url/BP335E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP335F]: img/original/BP335F.gif
+[img/BP335F]: img/corrected/BP335F.png
 [img/BP335E]: img/original/BP335E.png
 [img/BP335D]: img/derived/BP335D.svg
 [url/BP335F]: https://www.foundalis.com/res/bps/fairbanks/p335.htm
@@ -9943,7 +9924,7 @@
 | [BP336F][url/BP336F]    | [BP336E][url/BP336E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP336F]: img/original/BP336F.gif
+[img/BP336F]: img/corrected/BP336F.png
 [img/BP336E]: img/original/BP336E.png
 [img/BP336D]: img/derived/BP336D.svg
 [url/BP336F]: https://www.foundalis.com/res/bps/fairbanks/p336.htm
@@ -9972,7 +9953,7 @@
 | [BP337F][url/BP337F]    | [BP337E][url/BP337E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP337F]: img/original/BP337F.gif
+[img/BP337F]: img/corrected/BP337F.png
 [img/BP337E]: img/original/BP337E.png
 [img/BP337D]: img/derived/BP337D.svg
 [url/BP337F]: https://www.foundalis.com/res/bps/fairbanks/p337.htm
@@ -10002,7 +9983,7 @@
 | [BP338F][url/BP338F]    | [BP338E][url/BP338E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP338F]: img/original/BP338F.gif
+[img/BP338F]: img/corrected/BP338F.png
 [img/BP338E]: img/original/BP338E.png
 [img/BP338D]: img/derived/BP338D.svg
 [url/BP338F]: https://www.foundalis.com/res/bps/fairbanks/p338.htm
@@ -10032,7 +10013,7 @@
 | [BP339F][url/BP339F]    | [BP339E][url/BP339E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP339F]: img/original/BP339F.gif
+[img/BP339F]: img/corrected/BP339F.png
 [img/BP339E]: img/original/BP339E.png
 [img/BP339D]: img/derived/BP339D.svg
 [url/BP339F]: https://www.foundalis.com/res/bps/fairbanks/p339.htm
@@ -10063,7 +10044,7 @@
 | [BP340F][url/BP340F]    | [BP340E][url/BP340E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP340F]: img/original/BP340F.gif
+[img/BP340F]: img/corrected/BP340F.png
 [img/BP340E]: img/original/BP340E.png
 [img/BP340D]: img/derived/BP340D.svg
 [url/BP340F]: https://www.foundalis.com/res/bps/fairbanks/p340.htm
@@ -10093,7 +10074,7 @@
 | [BP341F][url/BP341F]    | [BP341E][url/BP341E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP341F]: img/original/BP341F.gif
+[img/BP341F]: img/corrected/BP341F.png
 [img/BP341E]: img/original/BP341E.png
 [img/BP341D]: img/derived/BP341D.svg
 [url/BP341F]: https://www.foundalis.com/res/bps/fairbanks/p341.htm
@@ -10122,7 +10103,7 @@
 | [BP342F][url/BP342F]    | [BP342E][url/BP342E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP342F]: img/original/BP342F.gif
+[img/BP342F]: img/corrected/BP342F.png
 [img/BP342E]: img/original/BP342E.png
 [img/BP342D]: img/derived/BP342D.svg
 [url/BP342F]: https://www.foundalis.com/res/bps/fairbanks/p342.htm
@@ -10151,7 +10132,7 @@
 | [BP343F][url/BP343F]    | [BP343E][url/BP343E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP343F]: img/original/BP343F.gif
+[img/BP343F]: img/corrected/BP343F.png
 [img/BP343E]: img/original/BP343E.png
 [img/BP343D]: img/derived/BP343D.svg
 [url/BP343F]: https://www.foundalis.com/res/bps/fairbanks/p343.htm
@@ -10182,7 +10163,7 @@
 |                         | more)][url/BP344E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP344F]: img/original/BP344F.gif
+[img/BP344F]: img/corrected/BP344F.png
 [img/BP344E]: img/original/BP344E.png
 [url/BP344F]: https://www.foundalis.com/res/bps/fairbanks/p344.htm
 [url/BP344E]: https://oebp.org/BP344
@@ -10210,7 +10191,7 @@
 | [BP345F][url/BP345F]    | [BP345E][url/BP345E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP345F]: img/original/BP345F.gif
+[img/BP345F]: img/corrected/BP345F.png
 [img/BP345E]: img/original/BP345E.png
 [img/BP345D]: img/derived/BP345D.svg
 [url/BP345F]: https://www.foundalis.com/res/bps/fairbanks/p345.htm
@@ -10242,7 +10223,7 @@
 | [BP346F][url/BP346F]    | [BP346E][url/BP346E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP346F]: img/original/BP346F.gif
+[img/BP346F]: img/corrected/BP346F.png
 [img/BP346E]: img/original/BP346E.png
 [url/BP346F]: https://www.foundalis.com/res/bps/fairbanks/p346.htm
 [url/BP346E]: https://oebp.org/BP346
@@ -10270,7 +10251,7 @@
 | [BP347F][url/BP347F]    | [BP347E][url/BP347E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP347F]: img/original/BP347F.gif
+[img/BP347F]: img/corrected/BP347F.png
 [img/BP347E]: img/original/BP347E.png
 [img/BP347D]: img/derived/BP347D.svg
 [url/BP347F]: https://www.foundalis.com/res/bps/fairbanks/p347.htm
@@ -10299,7 +10280,7 @@
 | [BP348F][url/BP348F]    | [BP348E][url/BP348E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP348F]: img/original/BP348F.gif
+[img/BP348F]: img/corrected/BP348F.png
 [img/BP348E]: img/original/BP348E.png
 [img/BP348D]: img/derived/BP348D.svg
 [url/BP348F]: https://www.foundalis.com/res/bps/fairbanks/p348.htm
@@ -10326,7 +10307,7 @@
 | [BP349F][url/BP349F]    | [BP349E][url/BP349E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP349F]: img/original/BP349F.gif
+[img/BP349F]: img/corrected/BP349F.png
 [img/BP349E]: img/original/BP349E.png
 [url/BP349F]: https://www.foundalis.com/res/bps/fairbanks/p349.htm
 [url/BP349E]: https://oebp.org/BP349
@@ -10356,7 +10337,7 @@
 | [BP350F][url/BP350F]    | [BP350E][url/BP350E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP350F]: img/original/BP350F.gif
+[img/BP350F]: img/corrected/BP350F.png
 [img/BP350E]: img/original/BP350E.png
 [img/BP350D]: img/derived/BP350D.svg
 [url/BP350F]: https://www.foundalis.com/res/bps/fairbanks/p350.htm
@@ -10386,7 +10367,7 @@
 |                         | more)][url/BP351E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP351F]: img/original/BP351F.gif
+[img/BP351F]: img/corrected/BP351F.png
 [img/BP351E]: img/original/BP351E.png
 [img/BP351D]: img/derived/BP351D.svg
 [url/BP351F]: https://www.foundalis.com/res/bps/fairbanks/p351.htm
@@ -10416,7 +10397,7 @@
 |                         | more)][url/BP352E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP352F]: img/original/BP352F.gif
+[img/BP352F]: img/corrected/BP352F.png
 [img/BP352E]: img/original/BP352E.png
 [url/BP352F]: https://www.foundalis.com/res/bps/fairbanks/p352.htm
 [url/BP352E]: https://oebp.org/BP352
@@ -10441,7 +10422,7 @@
 | [BP353F][url/BP353F]    | [BP353E][url/BP353E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP353F]: img/original/BP353F.gif
+[img/BP353F]: img/corrected/BP353F.png
 [img/BP353E]: img/original/BP353E.png
 [url/BP353F]: https://www.foundalis.com/res/bps/fairbanks/p353.htm
 [url/BP353E]: https://oebp.org/BP353
@@ -10471,7 +10452,7 @@
 | [BP354F][url/BP354F]    | [BP354E][url/BP354E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP354F]: img/original/BP354F.gif
+[img/BP354F]: img/corrected/BP354F.png
 [img/BP354E]: img/original/BP354E.png
 [img/BP354D]: img/derived/BP354D.svg
 [url/BP354F]: https://www.foundalis.com/res/bps/fairbanks/p354.htm
@@ -10500,7 +10481,7 @@
 | [BP355F][url/BP355F]    | [BP355E][url/BP355E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP355F]: img/original/BP355F.gif
+[img/BP355F]: img/corrected/BP355F.png
 [img/BP355E]: img/original/BP355E.png
 [img/BP355D]: img/derived/BP355D.svg
 [url/BP355F]: https://www.foundalis.com/res/bps/fairbanks/p355.htm
@@ -10532,7 +10513,7 @@
 |                         | more)][url/BP356E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP356F]: img/original/BP356F.gif
+[img/BP356F]: img/corrected/BP356F.png
 [img/BP356E]: img/original/BP356E.png
 [url/BP356F]: https://www.foundalis.com/res/bps/fairbanks/p356.htm
 [url/BP356E]: https://oebp.org/BP356
@@ -10561,7 +10542,7 @@
 | [BP357F][url/BP357F]    | [BP357E][url/BP357E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP357F]: img/original/BP357F.gif
+[img/BP357F]: img/corrected/BP357F.png
 [img/BP357E]: img/original/BP357E.png
 [img/BP357D]: img/derived/BP357D.svg
 [url/BP357F]: https://www.foundalis.com/res/bps/fairbanks/p357.htm
@@ -10592,7 +10573,7 @@
 | [BP358F][url/BP358F]    | [BP358E][url/BP358E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP358F]: img/original/BP358F.gif
+[img/BP358F]: img/corrected/BP358F.png
 [img/BP358E]: img/original/BP358E.png
 [img/BP358D]: img/derived/BP358D.svg
 [url/BP358F]: https://www.foundalis.com/res/bps/fairbanks/p358.htm
@@ -10620,7 +10601,7 @@
 | [BP359F][url/BP359F]    | [BP359E][url/BP359E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP359F]: img/original/BP359F.gif
+[img/BP359F]: img/corrected/BP359F.png
 [img/BP359E]: img/original/BP359E.png
 [url/BP359F]: https://www.foundalis.com/res/bps/fairbanks/p359.htm
 [url/BP359E]: https://oebp.org/BP359
@@ -10649,7 +10630,7 @@
 | [BP360F][url/BP360F]    | [BP360E][url/BP360E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP360F]: img/original/BP360F.gif
+[img/BP360F]: img/corrected/BP360F.png
 [img/BP360E]: img/original/BP360E.png
 [img/BP360D]: img/derived/BP360D.svg
 [url/BP360F]: https://www.foundalis.com/res/bps/fairbanks/p360.htm
@@ -10677,7 +10658,7 @@
 | [BP361F][url/BP361F]    | [BP361E][url/BP361E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP361F]: img/original/BP361F.gif
+[img/BP361F]: img/corrected/BP361F.png
 [img/BP361E]: img/original/BP361E.png
 [url/BP361F]: https://www.foundalis.com/res/bps/fairbanks/p361.htm
 [url/BP361E]: https://oebp.org/BP361
@@ -10705,7 +10686,7 @@
 |                         | more)][url/BP362E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP362F]: img/original/BP362F.gif
+[img/BP362F]: img/corrected/BP362F.png
 [img/BP362E]: img/original/BP362E.png
 [url/BP362F]: https://www.foundalis.com/res/bps/fairbanks/p362.htm
 [url/BP362E]: https://oebp.org/BP362
@@ -10733,7 +10714,7 @@
 | [BP363F][url/BP363F]    | [BP363E][url/BP363E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP363F]: img/original/BP363F.gif
+[img/BP363F]: img/corrected/BP363F.png
 [img/BP363E]: img/original/BP363E.png
 [img/BP363D]: img/derived/BP363D.svg
 [url/BP363F]: https://www.foundalis.com/res/bps/fairbanks/p363.htm
@@ -10762,7 +10743,7 @@
 | [BP364F][url/BP364F]    | [BP364E][url/BP364E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP364F]: img/original/BP364F.gif
+[img/BP364F]: img/corrected/BP364F.png
 [img/BP364E]: img/original/BP364E.png
 [url/BP364F]: https://www.foundalis.com/res/bps/fairbanks/p364.htm
 [url/BP364E]: https://oebp.org/BP364
@@ -10790,7 +10771,7 @@
 |                         | more)][url/BP365E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP365F]: img/original/BP365F.gif
+[img/BP365F]: img/corrected/BP365F.png
 [img/BP365E]: img/original/BP365E.png
 [url/BP365F]: https://www.foundalis.com/res/bps/fairbanks/p365.htm
 [url/BP365E]: https://oebp.org/BP365
@@ -10818,7 +10799,7 @@
 | [BP366F][url/BP366F]    | [BP366E][url/BP366E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP366F]: img/original/BP366F.gif
+[img/BP366F]: img/corrected/BP366F.png
 [img/BP366E]: img/original/BP366E.png
 [img/BP366D]: img/derived/BP366D.svg
 [url/BP366F]: https://www.foundalis.com/res/bps/fairbanks/p366.htm
@@ -10847,7 +10828,7 @@
 | [BP367F][url/BP367F]    | [BP367E][url/BP367E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP367F]: img/original/BP367F.gif
+[img/BP367F]: img/corrected/BP367F.png
 [img/BP367E]: img/original/BP367E.png
 [img/BP367D]: img/derived/BP367D.svg
 [url/BP367F]: https://www.foundalis.com/res/bps/fairbanks/p367.htm
@@ -10878,7 +10859,7 @@
 | [BP368F][url/BP368F]    | [BP368E][url/BP368E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP368F]: img/original/BP368F.gif
+[img/BP368F]: img/corrected/BP368F.png
 [img/BP368E]: img/original/BP368E.png
 [img/BP368D]: img/derived/BP368D.svg
 [url/BP368F]: https://www.foundalis.com/res/bps/fairbanks/p368.htm
@@ -10909,7 +10890,7 @@
 | [BP369F][url/BP369F]    | [BP369E][url/BP369E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP369F]: img/original/BP369F.gif
+[img/BP369F]: img/corrected/BP369F.png
 [img/BP369E]: img/original/BP369E.png
 [img/BP369D]: img/derived/BP369D.svg
 [url/BP369F]: https://www.foundalis.com/res/bps/fairbanks/p369.htm
@@ -10938,7 +10919,7 @@
 | [BP370F][url/BP370F]    | [BP370E][url/BP370E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP370F]: img/original/BP370F.gif
+[img/BP370F]: img/corrected/BP370F.png
 [img/BP370E]: img/original/BP370E.png
 [img/BP370D]: img/derived/BP370D.svg
 [url/BP370F]: https://www.foundalis.com/res/bps/fairbanks/p370.htm
@@ -10967,7 +10948,7 @@
 | [BP371F][url/BP371F]    | [BP371E][url/BP371E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP371F]: img/original/BP371F.gif
+[img/BP371F]: img/corrected/BP371F.png
 [img/BP371E]: img/original/BP371E.png
 [url/BP371F]: https://www.foundalis.com/res/bps/fairbanks/p371.htm
 [url/BP371E]: https://oebp.org/BP371
@@ -10994,7 +10975,7 @@
 | [BP372F][url/BP372F]    | [BP372E][url/BP372E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP372F]: img/original/BP372F.gif
+[img/BP372F]: img/corrected/BP372F.png
 [img/BP372E]: img/original/BP372E.png
 [url/BP372F]: https://www.foundalis.com/res/bps/fairbanks/p372.htm
 [url/BP372E]: https://oebp.org/BP372
@@ -11022,7 +11003,7 @@
 | [BP373F][url/BP373F]    | [BP373E][url/BP373E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP373F]: img/original/BP373F.gif
+[img/BP373F]: img/corrected/BP373F.png
 [img/BP373E]: img/original/BP373E.png
 [img/BP373D]: img/derived/BP373D.svg
 [url/BP373F]: https://www.foundalis.com/res/bps/fairbanks/p373.htm
@@ -11052,7 +11033,7 @@
 | [BP374F][url/BP374F]    | [BP374E][url/BP374E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP374F]: img/original/BP374F.gif
+[img/BP374F]: img/corrected/BP374F.png
 [img/BP374E]: img/original/BP374E.png
 [img/BP374D]: img/derived/BP374D.svg
 [url/BP374F]: https://www.foundalis.com/res/bps/fairbanks/p374.htm
@@ -11083,7 +11064,7 @@
 | [BP375F][url/BP375F]    | [BP375E][url/BP375E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP375F]: img/original/BP375F.gif
+[img/BP375F]: img/corrected/BP375F.png
 [img/BP375E]: img/original/BP375E.png
 [img/BP375D]: img/derived/BP375D.svg
 [url/BP375F]: https://www.foundalis.com/res/bps/fairbanks/p375.htm
@@ -11115,7 +11096,7 @@
 | [BP376F][url/BP376F]    | [BP376E][url/BP376E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP376F]: img/original/BP376F.gif
+[img/BP376F]: img/corrected/BP376F.png
 [img/BP376E]: img/original/BP376E.png
 [url/BP376F]: https://www.foundalis.com/res/bps/fairbanks/p376.htm
 [url/BP376E]: https://oebp.org/BP376
@@ -11144,7 +11125,7 @@
 | [BP377F][url/BP377F]    | [BP377E][url/BP377E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP377F]: img/original/BP377F.gif
+[img/BP377F]: img/corrected/BP377F.png
 [img/BP377E]: img/original/BP377E.png
 [img/BP377D]: img/derived/BP377D.svg
 [url/BP377F]: https://www.foundalis.com/res/bps/fairbanks/p377.htm
@@ -11173,7 +11154,7 @@
 | [BP378F][url/BP378F]    | [BP378E][url/BP378E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP378F]: img/original/BP378F.gif
+[img/BP378F]: img/corrected/BP378F.png
 [img/BP378E]: img/original/BP378E.png
 [img/BP378D]: img/derived/BP378D.svg
 [url/BP378F]: https://www.foundalis.com/res/bps/fairbanks/p378.htm
@@ -11202,7 +11183,7 @@
 |                         | more)][url/BP379E]      |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP379F]: img/original/BP379F.gif
+[img/BP379F]: img/corrected/BP379F.png
 [img/BP379E]: img/original/BP379E.png
 [url/BP379F]: https://www.foundalis.com/res/bps/fairbanks/p379.htm
 [url/BP379E]: https://oebp.org/BP379
@@ -11227,7 +11208,7 @@
 | [BP380F][url/BP380F]    | [BP380E][url/BP380E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP380F]: img/original/BP380F.gif
+[img/BP380F]: img/corrected/BP380F.png
 [img/BP380E]: img/original/BP380E.png
 [url/BP380F]: https://www.foundalis.com/res/bps/fairbanks/p380.htm
 [url/BP380E]: https://oebp.org/BP380
@@ -11256,7 +11237,7 @@
 | [BP381F][url/BP381F]    | [BP381E][url/BP381E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP381F]: img/original/BP381F.gif
+[img/BP381F]: img/corrected/BP381F.png
 [img/BP381E]: img/original/BP381E.png
 [img/BP381D]: img/derived/BP381D.svg
 [url/BP381F]: https://www.foundalis.com/res/bps/fairbanks/p381.htm
@@ -11285,7 +11266,7 @@
 | [BP382F][url/BP382F]    | [BP382E][url/BP382E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP382F]: img/original/BP382F.gif
+[img/BP382F]: img/corrected/BP382F.png
 [img/BP382E]: img/original/BP382E.png
 [img/BP382D]: img/derived/BP382D.svg
 [url/BP382F]: https://www.foundalis.com/res/bps/fairbanks/p382.htm
@@ -11316,7 +11297,7 @@
 | [BP383F][url/BP383F]    | [BP383E][url/BP383E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP383F]: img/original/BP383F.gif
+[img/BP383F]: img/corrected/BP383F.png
 [img/BP383E]: img/original/BP383E.png
 [img/BP383D]: img/derived/BP383D.svg
 [url/BP383F]: https://www.foundalis.com/res/bps/fairbanks/p383.htm
@@ -11343,7 +11324,7 @@
 | [BP384F][url/BP384F]    | [BP384E][url/BP384E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP384F]: img/original/BP384F.gif
+[img/BP384F]: img/corrected/BP384F.png
 [img/BP384E]: img/original/BP384E.png
 [url/BP384F]: https://www.foundalis.com/res/bps/collins/p384.htm
 [url/BP384E]: https://oebp.org/BP384
@@ -11371,7 +11352,7 @@
 | [BP385F][url/BP385F]    | [BP385E][url/BP385E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP385F]: img/original/BP385F.gif
+[img/BP385F]: img/corrected/BP385F.png
 [img/BP385E]: img/original/BP385E.png
 [img/BP385D]: img/derived/BP385D.svg
 [url/BP385F]: https://www.foundalis.com/res/bps/collins/p385.htm
@@ -11400,7 +11381,7 @@
 | [BP386F][url/BP386F]    | [BP386E][url/BP386E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP386F]: img/original/BP386F.gif
+[img/BP386F]: img/corrected/BP386F.png
 [img/BP386E]: img/original/BP386E.png
 [img/BP386D]: img/derived/BP386D.svg
 [url/BP386F]: https://www.foundalis.com/res/bps/collins/p386.htm
@@ -11429,7 +11410,7 @@
 | [BP387F][url/BP387F]    | [BP387E][url/BP387E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP387F]: img/original/BP387F.gif
+[img/BP387F]: img/corrected/BP387F.png
 [img/BP387E]: img/original/BP387E.png
 [img/BP387D]: img/derived/BP387D.svg
 [url/BP387F]: https://www.foundalis.com/res/bps/collins/p387.htm
@@ -11460,7 +11441,7 @@
 | [BP388F][url/BP388F]    | [BP388E][url/BP388E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP388F]: img/original/BP388F.gif
+[img/BP388F]: img/corrected/BP388F.png
 [img/BP388E]: img/original/BP388E.png
 [img/BP388D]: img/derived/BP388D.svg
 [url/BP388F]: https://www.foundalis.com/res/bps/collins/p388.htm
@@ -11489,7 +11470,7 @@
 | [BP389F][url/BP389F]    | [BP389E][url/BP389E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP389F]: img/original/BP389F.gif
+[img/BP389F]: img/corrected/BP389F.png
 [img/BP389E]: img/original/BP389E.png
 [img/BP389D]: img/derived/BP389D.svg
 [url/BP389F]: https://www.foundalis.com/res/bps/collins/p389.htm
@@ -11521,7 +11502,7 @@
 | [BP390F][url/BP390F]    | [BP390E][url/BP390E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP390F]: img/original/BP390F.gif
+[img/BP390F]: img/corrected/BP390F.png
 [img/BP390E]: img/original/BP390E.png
 [img/BP390D]: img/derived/BP390D.svg
 [url/BP390F]: https://www.foundalis.com/res/bps/collins/p390.htm
@@ -11557,7 +11538,7 @@
 | [BP391F][url/BP391F]    | [BP391E][url/BP391E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP391F]: img/original/BP391F.gif
+[img/BP391F]: img/corrected/BP391F.png
 [img/BP391E]: img/original/BP391E.png
 [img/BP391D]: img/derived/BP391D.svg
 [url/BP391F]: https://www.foundalis.com/res/bps/collins/p391.htm
@@ -11583,7 +11564,7 @@
 | [BP392F][url/BP392F]    | [BP392E][url/BP392E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP392F]: img/original/BP392F.gif
+[img/BP392F]: img/corrected/BP392F.png
 [img/BP392E]: img/original/BP392E.png
 [url/BP392F]: https://www.foundalis.com/res/bps/collins/p392.htm
 [url/BP392E]: https://oebp.org/BP392
@@ -11612,7 +11593,7 @@
 | [BP393F][url/BP393F]    | [BP393E][url/BP393E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP393F]: img/original/BP393F.gif
+[img/BP393F]: img/corrected/BP393F.png
 [img/BP393E]: img/original/BP393E.png
 [img/BP393D]: img/derived/BP393D.svg
 [url/BP393F]: https://www.foundalis.com/res/bps/collins/p393.htm
@@ -11647,7 +11628,7 @@
 | [BP394F][url/BP394F]    | [BP394E][url/BP394E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP394F]: img/original/BP394F.gif
+[img/BP394F]: img/corrected/BP394F.png
 [img/BP394E]: img/original/BP394E.png
 [img/BP394D]: img/derived/BP394D.svg
 [url/BP394F]: https://www.foundalis.com/res/bps/collins/p394.htm
@@ -11678,7 +11659,7 @@
 | [BP395F][url/BP395F]    | [BP395E][url/BP395E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP395F]: img/original/BP395F.gif
+[img/BP395F]: img/corrected/BP395F.png
 [img/BP395E]: img/original/BP395E.png
 [img/BP395D]: img/derived/BP395D.svg
 [url/BP395F]: https://www.foundalis.com/res/bps/foundal/p395.htm
@@ -11708,7 +11689,7 @@
 | [BP396F][url/BP396F]    | [BP396E][url/BP396E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP396F]: img/original/BP396F.gif
+[img/BP396F]: img/corrected/BP396F.png
 [img/BP396E]: img/original/BP396E.png
 [img/BP396D]: img/derived/BP396D.svg
 [url/BP396F]: https://www.foundalis.com/res/bps/foundal/p396.htm
@@ -11739,7 +11720,7 @@
 | [BP397F][url/BP397F]    | [BP397E][url/BP397E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP397F]: img/original/BP397F.gif
+[img/BP397F]: img/corrected/BP397F.png
 [img/BP397E]: img/original/BP397E.png
 [img/BP397D]: img/derived/BP397D.svg
 [url/BP397F]: https://www.foundalis.com/res/bps/foundal/p397.htm
@@ -11770,7 +11751,7 @@
 | [BP398F][url/BP398F]    | [BP398E][url/BP398E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP398F]: img/original/BP398F.gif
+[img/BP398F]: img/corrected/BP398F.png
 [img/BP398E]: img/original/BP398E.png
 [img/BP398D]: img/derived/BP398D.svg
 [url/BP398F]: https://www.foundalis.com/res/bps/foundal/p398.htm
@@ -11800,7 +11781,7 @@
 | [BP399F][url/BP399F]    | [BP399E][url/BP399E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP399F]: img/original/BP399F.gif
+[img/BP399F]: img/corrected/BP399F.png
 [img/BP399E]: img/original/BP399E.png
 [img/BP399D]: img/derived/BP399D.svg
 [url/BP399F]: https://www.foundalis.com/res/bps/foundal/p399.htm
@@ -11830,7 +11811,7 @@
 | [BP400F][url/BP400F]    | [BP400E][url/BP400E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP400F]: img/original/BP400F.gif
+[img/BP400F]: img/corrected/BP400F.png
 [img/BP400E]: img/original/BP400E.png
 [url/BP400F]: https://www.foundalis.com/res/bps/foundal/p400.htm
 [url/BP400E]: https://oebp.org/BP400
@@ -11858,7 +11839,7 @@
 | [BP401F][url/BP401F]    | [BP401E][url/BP401E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP401F]: img/original/BP401F.gif
+[img/BP401F]: img/corrected/BP401F.png
 [img/BP401E]: img/original/BP401E.png
 [img/BP401D]: img/derived/BP401D.svg
 [url/BP401F]: https://www.foundalis.com/res/bps/welling/p401.htm
@@ -11886,7 +11867,7 @@
 | [BP402F][url/BP402F]    | [BP402E][url/BP402E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP402F]: img/original/BP402F.gif
+[img/BP402F]: img/corrected/BP402F.png
 [img/BP402E]: img/original/BP402E.png
 [img/BP402D]: img/derived/BP402D.svg
 [url/BP402F]: https://www.foundalis.com/res/bps/welling/p402.htm
@@ -11913,7 +11894,7 @@
 | [BP403F][url/BP403F]    | [BP403E][url/BP403E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP403F]: img/original/BP403F.gif
+[img/BP403F]: img/corrected/BP403F.png
 [img/BP403E]: img/original/BP403E.png
 [img/BP403D]: img/derived/BP403D.svg
 [url/BP403F]: https://www.foundalis.com/res/bps/welling/p403.htm
@@ -11965,7 +11946,7 @@
 | [BP405F][url/BP405F]    | [BP405E][url/BP405E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP405F]: img/original/BP405F.gif
+[img/BP405F]: img/corrected/BP405F.png
 [img/BP405E]: img/original/BP405E.png
 [img/BP405D]: img/derived/BP405D.svg
 [url/BP405F]: https://www.foundalis.com/res/bps/welling/p405.htm
@@ -11993,7 +11974,7 @@
 | [BP406F][url/BP406F]    | [BP406E][url/BP406E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP406F]: img/original/BP406F.gif
+[img/BP406F]: img/corrected/BP406F.png
 [img/BP406E]: img/original/BP406E.png
 [img/BP406D]: img/derived/BP406D.svg
 [url/BP406F]: https://www.foundalis.com/res/bps/welling/p406.htm
@@ -12021,7 +12002,7 @@
 | [BP407F][url/BP407F]    | [BP407E][url/BP407E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP407F]: img/original/BP407F.gif
+[img/BP407F]: img/corrected/BP407F.png
 [img/BP407E]: img/original/BP407E.png
 [img/BP407D]: img/derived/BP407D.svg
 [url/BP407F]: https://www.foundalis.com/res/bps/welling/p407.htm
@@ -12050,7 +12031,7 @@
 | [BP408F][url/BP408F]    | [BP408E][url/BP408E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP408F]: img/original/BP408F.gif
+[img/BP408F]: img/corrected/BP408F.png
 [img/BP408E]: img/original/BP408E.png
 [img/BP408D]: img/derived/BP408D.svg
 [url/BP408F]: https://www.foundalis.com/res/bps/welling/p408.htm
@@ -12080,7 +12061,7 @@
 | [BP409F][url/BP409F]    | [BP409E][url/BP409E]    |                         |
 +-------------------------+-------------------------+-------------------------+
 
-[img/BP409F]: img/original/BP409F.gif
+[img/BP409F]: img/corrected/BP409F.png
 [img/BP409E]: img/original/BP409E.png
 [img/BP409D]: img/derived/BP409D.svg
 [url/BP409F]: https://www.foundalis.com/res/bps/welling/p409.htm
