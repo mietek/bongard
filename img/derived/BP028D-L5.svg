@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP028, left example 5</title>
   <rect width="98" height="98" fill="white" />
-  <polygon points="82.1,22 74.3,36.8 66.5,22" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="miter" stroke-linecap="round" />
-  <circle cx="25.3" cy="29.8" r="9" fill="black" />
-  <circle cx="52.2" cy="41.9" r="8.8" fill="black" />
-  <polygon points="65.4,57 81.5,57 73.8,72.2" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round" />
-  <circle cx="22.1" cy="62.2" r="7.5" fill="none" stroke="black" stroke-width="2.5" />
-  <polygon points="45.2,59.5 53,73.8 37.4,74.3" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round" />
+  <circle cx="65" cy="22.3" r="7.4" fill="none" stroke="black" stroke-width="2.2" />
+  <polygon points="26.3,12.7 36.4,30 17.1,30" fill="black" />
+  <polygon points="63.2,38 81.7,38 72.6,56.5" fill="black" />
+  <circle cx="28.2" cy="48.6" r="9.1" fill="black" />
+  <circle cx="60.6" cy="57.8" r="8.8" fill="black" />
+  <polygon points="40.5,64.6 47.9,79 32.3,79" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round" />
 </svg>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP024, left example 3</title>
   <rect width="98" height="98" fill="white" />
-  <rect x="19.5" y="21.4" width="14" height="14.1" fill="none" stroke="black" stroke-width="3" stroke-linejoin="miter" />
-  <polygon points="68.5,21.6 78.2,34.3 62.3,36" fill="none" stroke="black" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="round" />
-  <circle cx="70.9" cy="62.5" r="6.9" fill="none" stroke="black" stroke-width="2.5" />
-  <polygon points="27.2,57.8 38.5,70.3 23.2,73.6" fill="none" stroke="black" stroke-width="2.9" stroke-linejoin="miter" stroke-linecap="round" />
+  <circle cx="29.7" cy="25.2" r="6.9" fill="none" stroke="black" stroke-width="2.3" />
+  <polygon points="66.8,16.6 78.1,34 60.1,38.8" fill="none" stroke="black" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="round" />
+  <polygon points="27.7,43.8 41.6,59.6 21.6,65.4" fill="none" stroke="black" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="round" />
+  <circle cx="72.2" cy="61.6" r="6.9" fill="none" stroke="black" stroke-width="2.5" />
 </svg>

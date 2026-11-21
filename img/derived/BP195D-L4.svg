@@ -1,13 +1,319 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP195, left example 4</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="68.12" y="51.12" width="10.75" height="10.75" fill="black"/>
-  <rect x="69.88" y="52.88" width="7.25" height="7.25" fill="white"/>
-  <rect x="23.12" y="51.12" width="10.75" height="10.75" fill="black"/>
-  <rect x="24.88" y="52.88" width="7.25" height="7.25" fill="white"/>
-  <path d="M58.12 38.38C57.29 44.38 63.66 45.42 68.62 44.88C71.64 41.92 79.36 41.92 82.38 44.88L88.62 44.88L92.88 41.62C93.71 35.62 87.34 34.58 82.38 35.12C79.36 38.08 71.64 38.08 68.62 35.12L62.38 35.12L58.12 38.38Z" fill="black"/>
-  <path d="M91.12 39.38C91.45 41.31 89.38 41.72 88.62 43.12L82.38 43.12C80.06 39.42 74.38 41.79 70.38 41.12C68.36 44.45 61.73 43.83 59.88 40.62C59.55 38.69 61.62 38.28 62.38 36.88L68.62 36.88C70.94 40.58 76.62 38.21 80.62 38.88C82.64 35.55 89.27 36.17 91.12 39.38Z" fill="white"/>
-  <path d="M7.12 38.38C6.29 44.38 12.66 45.42 17.62 44.88C20.64 41.92 28.36 41.92 31.38 44.88L37.62 44.88L41.88 41.62C42.71 35.62 36.34 34.58 31.38 35.12C28.36 38.08 20.64 38.08 17.62 35.12L11.38 35.12L7.12 38.38Z" fill="black"/>
-  <path d="M40.12 39.38C40.45 41.31 38.38 41.72 37.62 43.12L31.38 43.12C29.06 39.42 23.38 41.79 19.38 41.12C17.36 44.45 10.73 43.83 8.88 40.62C8.55 38.69 10.62 38.28 11.38 36.88L17.62 36.88C19.94 40.58 25.62 38.21 29.62 38.88C31.64 35.55 38.27 36.17 40.12 39.38Z" fill="white"/>
-  <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
+  <rect x="67.12" y="53.12" width="10.75" height="10.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M68.38 53.88C69.33 54.07 71.44 53.25 71.12 54.88L71.88 54.88C71.45 53.35 75.55 53.35 75.12 54.88L75.88 54.88C75.67 54.15 76.15 53.67 76.88 53.88L76.88 63.12C76.15 63.33 75.67 62.85 75.88 62.12L75.12 62.12C75.55 63.65 71.45 63.65 71.88 62.12L71.12 62.12C71.4 63.82 69.14 62.89 68.12 63.12L67.88 54.12L68.38 53.88Z" fill="white"/>
+  <path d="M73.12 61.12C72.98 61.77 73.23 62.02 73.88 61.88C74.02 61.23 73.77 60.98 73.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M69.12 61.12C68.98 61.77 69.23 62.02 69.88 61.88C70.02 61.23 69.77 60.98 69.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M75.12 60.12C74.98 60.77 75.23 61.02 75.88 60.88C76.02 60.23 75.77 59.98 75.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M71.12 60.12C70.98 60.77 71.23 61.02 71.88 60.88C72.02 60.23 71.77 59.98 71.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M73.12 59.12C72.98 59.77 73.23 60.02 73.88 59.88C74.02 59.23 73.77 58.98 73.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M69.12 59.12C68.98 59.77 69.23 60.02 69.88 59.88C70.02 59.23 69.77 58.98 69.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M75.12 58.12C74.98 58.77 75.23 59.02 75.88 58.88C76.02 58.23 75.77 57.98 75.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M71.12 58.12C70.98 58.77 71.23 59.02 71.88 58.88C72.02 58.23 71.77 57.98 71.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M73.12 57.12C72.98 57.77 73.23 58.02 73.88 57.88C74.02 57.23 73.77 56.98 73.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M69.12 57.12C68.98 57.77 69.23 58.02 69.88 57.88C70.02 57.23 69.77 56.98 69.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M75.12 56.12C74.98 56.77 75.23 57.02 75.88 56.88C76.02 56.23 75.77 55.98 75.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M71.12 56.12C70.98 56.77 71.23 57.02 71.88 56.88C72.02 56.23 71.77 55.98 71.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M73.12 55.12C72.98 55.77 73.23 56.02 73.88 55.88C74.02 55.23 73.77 54.98 73.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M69.12 55.12C68.98 55.77 69.23 56.02 69.88 55.88C70.02 55.23 69.77 54.98 69.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="22.12" y="53.12" width="10.75" height="10.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M23.38 53.88C24.33 54.07 26.44 53.25 26.12 54.88L26.88 54.88C26.45 53.35 30.55 53.35 30.12 54.88L30.88 54.88C30.67 54.15 31.15 53.67 31.88 53.88L31.88 63.12C31.15 63.33 30.67 62.85 30.88 62.12L30.12 62.12C30.55 63.65 26.45 63.65 26.88 62.12L26.12 62.12C26.4 63.82 24.14 62.89 23.12 63.12L22.88 54.12L23.38 53.88Z" fill="white"/>
+  <path d="M28.12 61.12C27.98 61.77 28.23 62.02 28.88 61.88C29.02 61.23 28.77 60.98 28.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M24.12 61.12C23.98 61.77 24.23 62.02 24.88 61.88C25.02 61.23 24.77 60.98 24.12 61.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M30.12 60.12C29.98 60.77 30.23 61.02 30.88 60.88C31.02 60.23 30.77 59.98 30.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M26.12 60.12C25.98 60.77 26.23 61.02 26.88 60.88C27.02 60.23 26.77 59.98 26.12 60.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M28.12 59.12C27.98 59.77 28.23 60.02 28.88 59.88C29.02 59.23 28.77 58.98 28.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M24.12 59.12C23.98 59.77 24.23 60.02 24.88 59.88C25.02 59.23 24.77 58.98 24.12 59.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M30.12 58.12C29.98 58.77 30.23 59.02 30.88 58.88C31.02 58.23 30.77 57.98 30.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M26.12 58.12C25.98 58.77 26.23 59.02 26.88 58.88C27.02 58.23 26.77 57.98 26.12 58.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M28.12 57.12C27.98 57.77 28.23 58.02 28.88 57.88C29.02 57.23 28.77 56.98 28.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M24.12 57.12C23.98 57.77 24.23 58.02 24.88 57.88C25.02 57.23 24.77 56.98 24.12 57.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M30.12 56.12C29.98 56.77 30.23 57.02 30.88 56.88C31.02 56.23 30.77 55.98 30.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M26.12 56.12C25.98 56.77 26.23 57.02 26.88 56.88C27.02 56.23 26.77 55.98 26.12 56.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M28.12 55.12C27.98 55.77 28.23 56.02 28.88 55.88C29.02 55.23 28.77 54.98 28.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M24.12 55.12C23.98 55.77 24.23 56.02 24.88 55.88C25.02 55.23 24.77 54.98 24.12 55.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="60.12" y="34.12" width="29.75" height="11.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="88.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="86.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="84.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="82.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="80.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="78.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="76.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="74.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="72.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="70.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="68.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="66.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="64.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="62.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="87.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="85.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="83.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="81.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="79.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="77.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="75.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="73.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="71.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="69.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="67.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="65.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="63.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="61.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="88.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="86.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="84.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="82.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="80.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="78.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="76.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="74.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="72.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="70.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="68.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="66.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="64.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="62.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="87.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="85.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="83.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="81.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="79.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="77.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="75.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="73.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="71.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="69.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="67.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="65.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="63.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="61.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="88.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="86.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="84.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="82.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="80.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="78.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="76.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="74.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="72.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="70.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="68.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="66.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="64.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="62.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="87.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="85.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="83.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="81.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="79.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="77.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="75.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="73.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="71.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="69.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="67.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="65.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="63.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="61.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="88.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="86.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="84.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="82.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="80.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="78.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="76.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="74.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="72.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="70.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="68.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="66.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="64.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="62.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="87.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="85.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="83.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="81.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="79.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="77.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="75.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="73.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="71.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="69.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="67.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="65.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="63.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="61.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="88.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="86.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="84.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="82.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="80.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="78.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="76.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="74.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="72.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="70.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="68.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="66.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="64.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="62.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="87.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="85.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="83.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="81.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="79.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="77.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="75.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="73.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="71.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="69.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="67.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="65.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="63.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="61.5" cy="35.5" r="0.69" fill="white"/>
+  <rect x="10.12" y="34.12" width="29.75" height="11.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="38.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="36.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="34.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="32.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="30.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="28.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="26.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="24.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="22.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="20.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="18.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="16.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="14.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="12.5" cy="44.5" r="0.69" fill="white"/>
+  <circle cx="37.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="35.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="33.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="31.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="29.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="27.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="25.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="23.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="21.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="19.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="17.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="15.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="13.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="11.5" cy="43.5" r="0.69" fill="white"/>
+  <circle cx="38.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="36.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="34.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="32.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="30.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="28.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="26.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="24.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="22.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="20.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="18.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="16.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="14.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="12.5" cy="42.5" r="0.69" fill="white"/>
+  <circle cx="37.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="35.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="33.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="31.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="29.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="27.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="25.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="23.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="21.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="19.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="17.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="15.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="13.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="11.5" cy="41.5" r="0.69" fill="white"/>
+  <circle cx="38.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="36.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="34.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="32.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="30.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="28.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="26.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="24.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="22.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="20.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="18.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="16.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="14.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="12.5" cy="40.5" r="0.69" fill="white"/>
+  <circle cx="37.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="35.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="33.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="31.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="29.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="27.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="25.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="23.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="21.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="19.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="17.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="15.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="13.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="11.5" cy="39.5" r="0.69" fill="white"/>
+  <circle cx="38.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="36.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="34.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="32.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="30.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="28.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="26.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="24.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="22.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="20.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="18.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="16.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="14.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="12.5" cy="38.5" r="0.69" fill="white"/>
+  <circle cx="37.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="35.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="33.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="31.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="29.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="27.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="25.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="23.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="21.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="19.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="17.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="15.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="13.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="11.5" cy="37.5" r="0.69" fill="white"/>
+  <circle cx="38.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="36.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="34.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="32.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="30.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="28.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="26.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="24.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="22.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="20.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="18.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="16.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="14.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="12.5" cy="36.5" r="0.69" fill="white"/>
+  <circle cx="37.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="35.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="33.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="31.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="29.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="27.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="25.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="23.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="21.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="19.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="17.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="15.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="13.5" cy="35.5" r="0.69" fill="white"/>
+  <circle cx="11.5" cy="35.5" r="0.69" fill="white"/>
+  <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
 </svg>

@@ -1,8 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP189, left example 3</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="50.12" y="40.12" width="11.75" height="11.75" fill="black"/>
-  <rect x="51.88" y="41.88" width="8.25" height="8.25" fill="white"/>
-  <rect x="34.12" y="40.12" width="11.75" height="11.75" fill="black"/>
-  <rect x="35.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+  <ellipse cx="38" cy="89" rx="6.24" ry="12.17" transform="rotate(90 38 89)" fill="black"/>
+  <ellipse cx="38.5" cy="75" rx="4.93" ry="5.35" transform="rotate(90 38.5 75)" fill="black"/>
+  <circle cx="91" cy="47" r="4.83" fill="black"/>
+  <circle cx="91" cy="47" r="3.31" fill="white"/>
+  <rect x="76.12" y="32.12" width="6.75" height="24.75" fill="black"/>
+  <rect x="77.88" y="33.88" width="3.25" height="21.25" fill="white"/>
+  <ellipse cx="30.97" cy="34.46" rx="5.94" ry="6.36" transform="rotate(5.54 30.97 34.46)" fill="black"/>
+  <ellipse cx="30.98" cy="34.43" rx="4.28" ry="4.65" transform="rotate(6.96 30.98 34.43)" fill="white"/>
+  <path d="M12.38 14.12L12.12 26.62L24.62 26.88L24.88 25.38C20.41 21.98 17.34 16.44 12.38 14.12Z" fill="black"/>
+  <path d="M14.38 16.88C16.6 19.48 21.23 22.19 21.62 25.12L13.88 24.62L14.38 16.88Z" fill="white"/>
+  <rect x="29.12" y="11.12" width="12.75" height="11.75" fill="black"/>
+  <rect x="30.88" y="12.88" width="9.25" height="8.25" fill="white"/>
 </svg>

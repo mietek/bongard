@@ -1,22 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP212, right example 4</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="44.12" y="76.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="32.12" y="76.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="20.12" y="74.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="56.12" y="72.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="68.12" y="68.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="10.12" y="68.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="79.12" y="63.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="8.12" y="56.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="85.12" y="43.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="72.12" y="43.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="60.12" y="43.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="8.12" y="43.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="48.12" y="42.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="39.12" y="34.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="8.12" y="31.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="38.12" y="22.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="8.12" y="18.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="8.12" y="6.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="13.12" y="91.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="19.12" y="81.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="12.12" y="81.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="61.12" y="80.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="70.12" y="71.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="27.12" y="71.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="12.12" y="69.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="35.12" y="62.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="77.12" y="61.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="12.12" y="56.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="44.12" y="53.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="85.12" y="51.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="53.12" y="44.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="13.12" y="44.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="91.12" y="40.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="63.12" y="37.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="14.12" y="32.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="74.12" y="30.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="97.12" y="29.12" width="0.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="84.12" y="24.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.12" y="19.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="95.12" y="18.12" width="2.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.12" y="8.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="64.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="52.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="39.12" y="6.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="77.12" y="4.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="89.12" y="2.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="29.12" y="1.12" width="4.75" height="4.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
 </svg>

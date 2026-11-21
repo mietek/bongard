@@ -1,11 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP014, left example 5</title>
   <rect width="98" height="98" fill="white" />
-  <path d="M 20.2,25 L 20.7,66" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
-  <path d="M 30.2,25 L 31.3,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
-  <path d="M 40.5,24 L 41.9,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
-  <path d="M 51.8,25 L 53.1,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
-  <path d="M 63.8,24 L 65.1,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
-  <path d="M 76,25 L 77.2,66" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
-  <path d="M 17,46.9 L 80,46.1" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <ellipse cx="52.8" cy="51.4" rx="32.5" ry="31" transform="rotate(90.7 52.8 51.4)" fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round" />
+  <ellipse cx="54.9" cy="55.3" rx="16.3" ry="15.6" transform="rotate(90 54.9 55.3)" fill="none" stroke="black" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round" />
 </svg>

@@ -1,13 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP001, right example 2</title>
   <rect width="98" height="98" fill="white" />
-  <path d="M 24.5,70
-       C 20,57 22,43 28,39
-       C 36,35 44,47 52,42
-       C 58,39 56.5,25 53,24.7
-       C 47.6,22 45.2,29 49.5,34.7
-       C 54,41.5 66.8,41 70,31.7
-       C 74.4,19 68.7,18 66.7,24
-       C 62.7,34.5 75,38.1 78.4,47
-       C 82,57 75.4,60.5 68,56" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round" />
+  <rect x="-14.1" y="-15.8" width="28.1" height="31.5" transform="translate(61.1 55.5) rotate(21.7)" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round" />
 </svg>

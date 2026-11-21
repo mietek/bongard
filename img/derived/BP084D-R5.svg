@@ -1,48 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP084, right example 5</title>
   <rect width="98" height="98" fill="white"/>
-  <ellipse cx="32.75" cy="79.1" rx="2.93" ry="3.26" transform="rotate(24.48 32.75 79.1)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="32.83" cy="79.22" rx="2.05" ry="2.29" transform="rotate(62.67 32.83 79.22)" fill="white"/>
-  <ellipse cx="43.29" cy="78.33" rx="2.95" ry="3.37" transform="rotate(61.55 43.29 78.33)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="43.3" cy="78.3" r="2.1" fill="white"/>
-  <ellipse cx="22.8" cy="78.15" rx="2.84" ry="3.44" transform="rotate(91.74 22.8 78.15)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="22.68" cy="78.5" rx="1.77" ry="2.21" transform="rotate(90 22.68 78.5)" fill="white"/>
-  <circle cx="84.64" cy="77.23" r="3.27" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="84.68" cy="77.5" rx="1.77" ry="2.21" transform="rotate(90 84.68 77.5)" fill="white"/>
-  <ellipse cx="74.5" cy="77.08" rx="3.17" ry="3.48" transform="rotate(90 74.5 77.08)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="74.5" cy="77.22" r="1.7" fill="white"/>
-  <ellipse cx="53.98" cy="77.8" rx="3" ry="3.26" transform="rotate(24.06 53.98 77.8)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="54" cy="78" r="2.12" fill="white"/>
-  <ellipse cx="64.16" cy="76.9" rx="3.18" ry="3.44" transform="rotate(172.24 64.16 76.9)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="64.36" cy="76.64" rx="1.63" ry="1.94" transform="rotate(135 64.36 76.64)" fill="white"/>
-  <ellipse cx="84.1" cy="67.81" rx="3.06" ry="3.39" transform="rotate(25.34 84.1 67.81)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="84" cy="67.5" rx="1.63" ry="1.95" transform="rotate(90 84 67.5)" fill="white"/>
-  <circle cx="22.02" cy="66.29" r="3.09" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="22.11" cy="66.04" r="2.07" fill="white"/>
-  <ellipse cx="84.66" cy="57.12" rx="3.03" ry="3.6" transform="rotate(73.55 84.66 57.12)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="84.83" cy="57.22" rx="2.05" ry="2.29" transform="rotate(62.67 84.83 57.22)" fill="white"/>
-  <polygon points="22.59,52.12 24.77,53.88 26.41,53.88 24.23,52.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <path d="M24.88 56.62C24.51 55.36 21.88 56.73 20.88 55.88C20.66 54.25 21.76 51.32 19.12 52.12L19.12 55.88C20.88 56.06 20.57 58.45 22.88 57.88L23.12 56.88L24.88 56.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <polygon points="34.12,52.12 34.12,63.88 46.88,63.88 46.88,52.62 45.38,51.12 40.12,51.12 40.12,52.12 38.12,52.12 37.12,50.12 37.12,52.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <rect x="35.88" y="52.88" width="9.25" height="9.25" fill="white"/>
-  <circle cx="84.05" cy="45.27" r="3.22" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <rect x="82.88" y="43.88" width="3.25" height="3.25" fill="white"/>
-  <ellipse cx="22" cy="41.84" rx="2.92" ry="3.12" transform="rotate(90 22 41.84)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="22" cy="42" r="2.12" fill="white"/>
-  <circle cx="84.23" cy="33.64" r="3.27" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="84.4" cy="33.83" rx="1.78" ry="2.39" transform="rotate(13.7 84.4 33.83)" fill="white"/>
-  <ellipse cx="21.91" cy="31.09" rx="3.06" ry="3.3" transform="rotate(45 21.91 31.09)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="22" cy="31" r="2.12" fill="white"/>
-  <polygon points="82.62,18.12 81.12,19.62 81.12,22.23 82.88,23.88 81.53,20.47 84.69,19.01 86.12,20.45 86.12,21.68 83.58,23.88 86.88,23.88 86.88,19.62 85.38,18.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="43.59" cy="20.87" rx="3.02" ry="3.37" transform="rotate(55.51 43.59 20.87)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="44" cy="20.71" rx="1.75" ry="2.24" transform="rotate(90 44 20.71)" fill="white"/>
-  <circle cx="22.24" cy="21.24" r="3.09" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <rect x="20.88" y="19.88" width="3.25" height="3.25" fill="white"/>
-  <ellipse cx="74.34" cy="20.48" rx="3.11" ry="3.52" transform="rotate(39.5 74.34 20.48)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="74.68" cy="20.5" rx="1.77" ry="2.21" transform="rotate(90 74.68 20.5)" fill="white"/>
-  <circle cx="65.41" cy="20.28" r="3.33" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="65.24" cy="20" r="2.3" fill="white"/>
-  <ellipse cx="53.87" cy="20.35" rx="3.09" ry="3.37" transform="rotate(8.13 53.87 20.35)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <circle cx="53.89" cy="20.04" r="2.07" fill="white"/>
-  <path d="M35.38 20.88C36.56 20.77 35.53 19.92 34.88 19.88L34.88 17.12C33.47 17.43 31.02 16.32 30.88 18.12L30.12 18.12L30.12 21.88C31.62 21.93 31.52 23.78 32.88 23.88L33.12 22.88C33.83 22.75 35.24 23.32 34.88 22.12L31.12 22.12L30.88 19.12C31.73 18.85 34.4 18.26 34.12 19.88C35.18 19.45 34.97 20.69 35.38 20.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="68.42" cy="83.16" rx="3.06" ry="3.49" transform="rotate(103.62 68.42 83.16)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="66.88" y="81.88" width="3.25" height="3.25" fill="white"/>
+  <circle cx="79.42" cy="81.52" r="3.3" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="79.36" cy="81.64" rx="1.63" ry="1.94" transform="rotate(135 79.36 81.64)" fill="white"/>
+  <ellipse cx="54.79" cy="81.42" rx="3" ry="3.35" transform="rotate(170.15 54.79 81.42)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="52.88" y="79.88" width="3.25" height="3.25" fill="white"/>
+  <circle cx="43.58" cy="76.32" r="3.22" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="44" cy="76.29" rx="1.75" ry="2.24" transform="rotate(90 44 76.29)" fill="white"/>
+  <ellipse cx="87.59" cy="72.68" rx="3.03" ry="3.57" transform="rotate(75.98 87.59 72.68)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="87.85" cy="72.61" rx="1.64" ry="2.15" transform="rotate(69.7 87.85 72.61)" fill="white"/>
+  <circle cx="32.99" cy="69.27" r="3.29" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="33.16" cy="69.16" rx="1.36" ry="2.03" transform="rotate(45 33.16 69.16)" fill="white"/>
+  <ellipse cx="90.5" cy="60.83" rx="3.01" ry="3.24" transform="rotate(90 90.5 60.83)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="90.5" cy="60.68" rx="1.77" ry="2.21" transform="rotate(0 90.5 60.68)" fill="white"/>
+  <ellipse cx="23.47" cy="61.68" rx="3.27" ry="3.56" transform="rotate(99.35 23.47 61.68)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="21.88" y="59.88" width="3.25" height="3.25" fill="white"/>
+  <ellipse cx="15.5" cy="51.86" rx="2.99" ry="3.66" transform="rotate(90 15.5 51.86)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="15.5" cy="51.68" rx="1.77" ry="2.21" transform="rotate(0 15.5 51.68)" fill="white"/>
+  <circle cx="90" cy="48.9" r="3.02" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="90.24" cy="48.86" rx="1.62" ry="2.17" transform="rotate(71.37 90.24 48.86)" fill="white"/>
+  <rect x="63.12" y="38.12" width="12.75" height="11.75" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="64.88" y="39.88" width="9.25" height="8.25" fill="white"/>
+  <ellipse cx="10.7" cy="39.65" rx="2.8" ry="3.52" transform="rotate(102.09 10.7 39.65)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="10.5" cy="39.68" rx="1.77" ry="2.21" transform="rotate(0 10.5 39.68)" fill="white"/>
+  <circle cx="85.05" cy="36.08" r="3.06" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="84.89" cy="35.96" r="2.07" fill="white"/>
+  <ellipse cx="9.62" cy="27.57" rx="3.16" ry="3.4" transform="rotate(30.35 9.62 27.57)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="9.5" cy="27.68" rx="1.77" ry="2.21" transform="rotate(0 9.5 27.68)" fill="white"/>
+  <circle cx="74.44" cy="26.22" r="3.15" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="74.3" cy="26.3" r="2.1" fill="white"/>
+  <circle cx="65" cy="18.5" r="3.23" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="64.93" cy="18.23" rx="1.82" ry="2.11" transform="rotate(146.4 64.93 18.23)" fill="white"/>
+  <ellipse cx="17.34" cy="17.54" rx="3.21" ry="3.5" transform="rotate(39.89 17.34 17.54)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <rect x="15.88" y="15.88" width="2.25" height="4.25" fill="white"/>
+  <circle cx="27.52" cy="13.26" r="3.38" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="27.36" cy="13.36" rx="1.63" ry="1.94" transform="rotate(45 27.36 13.36)" fill="white"/>
+  <ellipse cx="53.38" cy="12.08" rx="2.91" ry="3.45" transform="rotate(101.47 53.38 12.08)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <circle cx="53.7" cy="11.7" r="2.1" fill="white"/>
+  <ellipse cx="39.83" cy="11.91" rx="2.95" ry="3.31" transform="rotate(83.11 39.83 11.91)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="40.29" cy="12" rx="1.75" ry="2.24" transform="rotate(0 40.29 12)" fill="white"/>
 </svg>

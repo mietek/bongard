@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP112, left example 3</title>
   <rect width="98" height="98" fill="white"/>
-  <ellipse cx="66.85" cy="53.78" rx="2.29" ry="2.51" transform="rotate(17.21 66.85 53.78)" fill="black"/>
-  <ellipse cx="45.69" cy="46.9" rx="2.36" ry="2.89" transform="rotate(171.2 45.69 46.9)" fill="black"/>
-  <ellipse cx="25.85" cy="46.78" rx="2.29" ry="2.51" transform="rotate(17.21 25.85 46.78)" fill="black"/>
+  <circle cx="68.17" cy="69.83" r="2.89" fill="black"/>
+  <ellipse cx="45.92" cy="58.65" rx="2.43" ry="2.84" transform="rotate(105.65 45.92 58.65)" fill="black"/>
+  <path d="M23.38 20.12C21.03 22.52 20.3 25.7 24.62 25.88C25.06 23.98 25.4 20.93 23.38 20.12Z" fill="black"/>
+  <circle cx="22.47" cy="23.47" r="0.63" fill="white"/>
 </svg>

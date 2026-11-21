@@ -1,18 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP023, left example 5</title>
   <rect width="98" height="98" fill="white" />
-  <path d="M 38.3,28.5
-       L 46.4,27.2
-       L 48.1,38.7
-       L 60.2,37.3
-       L 60.8,44.4
-       L 49.4,46
-       L 50.7,58.4
-       L 42.7,59
-       L 40.4,47.6
-       L 29.5,48.7
-       L 28.3,41.4
-       L 39.3,40
-       L 38.3,28.5
-       Z" fill="none" stroke="black" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="round" />
+  <rect x="-21.9" y="-21.3" width="43.8" height="42.5" transform="translate(48.8 47.3) rotate(41)" fill="none" stroke="black" stroke-width="2.8" stroke-linejoin="miter" stroke-linecap="round" />
 </svg>

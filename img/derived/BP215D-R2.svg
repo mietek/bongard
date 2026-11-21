@@ -1,24 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP215, right example 2</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="16.12" y="79.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="20.12" y="73.12" width="4.75" height="4.75" fill="black"/>
-  <path d="M74.38 70.12C72.91 73.82 75.03 75.9 78.88 74.88C78.63 78.59 79.52 81 83.88 79.88L84.38 84.88L88.62 84.88C90.09 81.18 87.97 79.1 84.12 80.12L83.62 75.12C79.27 76.25 78.38 73.84 78.62 70.12L74.38 70.12Z" fill="black"/>
-  <rect x="26.12" y="68.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="68.12" y="65.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="32.12" y="64.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="62.12" y="62.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="54.12" y="61.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="47.12" y="61.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="39.12" y="61.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="60.12" y="26.12" width="9.75" height="9.75" fill="black"/>
-  <rect x="60.88" y="26.88" width="8.25" height="8.25" fill="white"/>
-  <rect x="26.12" y="26.12" width="9.75" height="9.75" fill="black"/>
-  <rect x="28.88" y="28.88" width="4.25" height="4.25" fill="white"/>
-  <rect x="52.12" y="18.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="38.12" y="18.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="58.12" y="13.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="32.12" y="12.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="65.12" y="10.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="26.12" y="8.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M8.12 93.62L10.38 95.88L75.62 94.88C79.45 92.35 77.34 86.68 77.88 82.38C74.74 79.63 75.63 74.6 72.88 71.62C70.33 64.3 64.97 57.7 58.62 53.12C49.71 53.16 40.53 52.71 32.38 54.12C22.2 60.13 15.97 70.23 11.12 80.38L11.12 84.62L8.12 87.38L8.12 93.62Z" fill="black"/>
+  <polygon points="22.22,85.12 27.54,74.82 33.91,68.45 41.12,63.88 53.94,63.88 61.12,73.38 65.37,84.12 45.31,84.12 44.77,85.12" fill="white"/>
+  <polygon points="14.52,9.12 12.12,11.52 12.12,20.94 16.72,30.13 28.52,42.88 34.47,42.88 36.88,40.47 36.88,34.4 25.22,20.65 22.88,15.9 22.88,11.53 20.47,9.12" fill="black"/>
+  <polygon points="83.48,7.12 77.43,7.12 54.12,32.49 54.12,38.47 56.53,40.88 62.36,40.88 66.62,37.88 76.79,24.79 85.3,17.44 86.13,9.78" fill="black"/>
 </svg>

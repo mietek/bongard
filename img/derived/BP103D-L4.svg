@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP103, left example 4</title>
   <rect width="98" height="98" fill="white"/>
-  <path d="M82.88 74.62L82.88 73.12L55.12 73.12C54.63 74.77 57.73 72.95 57.12 74.88L59.88 74.88L60.12 73.88L67.88 73.88L68.12 74.88L68.88 74.88C68.67 74.15 69.15 73.67 69.88 73.88L70.12 74.88L70.88 74.88L71.12 73.88L79.88 73.88L80.12 74.88L82.88 74.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <polygon points="15.12,73.12 15.12,73.88 51.12,73.88 51.12,74.88 51.88,74.88 51.88,73.88 53.88,73.88 53.88,73.12" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-  <ellipse cx="75.35" cy="42.09" rx="2.12" ry="2.76" transform="rotate(101.29 75.35 42.09)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M27.62 45.12L27.12 45.12C27.52 46.77 26.18 49.79 28.12 50.12C28.52 51.77 27.18 54.79 29.12 55.12C29.43 56.53 28.32 58.98 30.12 59.12L30.12 64.88L31.12 65.12C31.43 66.53 30.32 68.98 32.12 69.12L32.12 77.88C33.49 77.38 32.67 79.31 33.88 78.88C33.48 77.23 34.82 74.21 32.88 73.88L32.88 68.12C30.99 68.19 32.23 65.39 31.88 64.12L30.88 63.88L30.88 59.12C28.99 59.19 30.23 56.39 29.88 55.12C27.88 54.93 29.31 51.67 28.88 50.12C26.69 50.04 28.65 46.16 27.62 45.12Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="77.39" cy="44.93" rx="2.44" ry="2.67" transform="rotate(39.37 77.39 44.93)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M26.38 43.88L26.88 43.88C26.42 41.96 27.92 38.46 25.88 37.88C25.42 35.96 26.92 32.46 24.88 31.88L24.88 24.12L23.12 24.12C23.05 25.23 22.96 26.02 24.12 26.12C24.58 28.04 23.08 31.54 25.12 32.12C25.58 34.04 24.08 37.54 26.12 38.12L26.38 43.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
 </svg>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP274, right example 3</title>
   <rect width="98" height="98" fill="white"/>
-  <g aria-label="F" transform="translate(36 65) scale(0.0221367 -0.0248403) translate(-137 0)">
-  <path transform="translate(0 0)" d="M432 1181V745H1153V517H432V0H137V1409H1176V1181Z"/>
+  <g aria-label="I" transform="translate(48 65) scale(0.0237288 -0.0248403) translate(-137 0)">
+  <path transform="translate(0 0)" d="M137 0V1409H432V0Z"/>
   </g>
 </svg>

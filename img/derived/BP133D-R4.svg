@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP133, right example 4</title>
   <rect width="98" height="98" fill="white"/>
-  <ellipse cx="50.45" cy="17.88" fill="none" stroke="black" stroke-width="1.02" rx="8.44" ry="9.1" transform="rotate(111.49 50.45 17.88)"/>
-  <circle cx="50.42" cy="67.06" r="2.82" fill="black"/>
-  <circle cx="35.54" cy="79.02" r="2.71" fill="black"/>
+  <circle cx="16.38" cy="16.17" r="2.76" fill="black"/>
+  <circle cx="76.69" cy="15.31" r="3.19" fill="black"/>
+  <circle cx="45.33" cy="48.77" fill="none" stroke="black" stroke-width="1.15" r="11.18"/>
 </svg>

@@ -26,7 +26,26 @@
   <a href="BP166D-L2.svg" target="_parent" aria-label="Open BP166, left example 2">
     <title>BP166, left example 2</title>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="71" cy="76" r="0.99" fill="black"/>
+      <rect x="76.12" y="72.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="73" cy="69" r="0.99" fill="black"/>
+      <circle cx="23" cy="34" r="0.99" fill="black"/>
+      <circle cx="40" cy="32" r="0.99" fill="black"/>
+      <rect x="29.12" y="29.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="23" cy="26" r="0.99" fill="black"/>
+      <circle cx="40" cy="24" r="0.99" fill="black"/>
+      <circle cx="32" cy="22" r="0.99" fill="black"/>
+      <circle cx="25" cy="20" r="0.99" fill="black"/>
+      <circle cx="32" cy="18" r="0.99" fill="black"/>
+    </svg>
+    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP166D-L3.svg" target="_parent" aria-label="Open BP166, left example 3">
+    <title>BP166, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <rect x="49.12" y="82.12" width="2.75" height="2.75" fill="black"/>
       <rect x="43.12" y="78.12" width="2.75" height="2.75" fill="black"/>
@@ -47,12 +66,28 @@
       <circle cx="57" cy="13" r="0.99" fill="black"/>
       <circle cx="48" cy="12" r="0.99" fill="black"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP166D-L3.svg" target="_parent" aria-label="Open BP166, left example 3">
-    <title>BP166, left example 3</title>
-    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP166D-L4.svg" target="_parent" aria-label="Open BP166, left example 4">
+    <title>BP166, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="81" cy="54" r="0.99" fill="black"/>
+      <circle cx="73" cy="54" r="0.99" fill="black"/>
+      <rect x="27.12" y="51.12" width="1.75" height="2.75" fill="black"/>
+      <rect x="19.12" y="51.12" width="1.75" height="2.75" fill="black"/>
+      <rect x="81.12" y="46.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="75.12" y="46.12" width="1.75" height="2.75" fill="black"/>
+      <rect x="27.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="19.12" y="44.12" width="2.75" height="2.75" fill="black"/>
+    </svg>
+    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP166D-L5.svg" target="_parent" aria-label="Open BP166, left example 5">
+    <title>BP166, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <circle cx="47" cy="92" r="0.99" fill="black"/>
       <circle cx="41" cy="91" r="0.99" fill="black"/>
@@ -68,42 +103,7 @@
       <rect x="76.12" y="34.12" width="2.75" height="2.75" fill="black"/>
       <rect x="91.12" y="31.12" width="1.75" height="2.75" fill="black"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP166D-L4.svg" target="_parent" aria-label="Open BP166, left example 4">
-    <title>BP166, left example 4</title>
-    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <circle cx="71" cy="76" r="0.99" fill="black"/>
-      <rect x="76.12" y="72.12" width="2.75" height="2.75" fill="black"/>
-      <circle cx="73" cy="69" r="0.99" fill="black"/>
-      <circle cx="23" cy="34" r="0.99" fill="black"/>
-      <circle cx="40" cy="32" r="0.99" fill="black"/>
-      <rect x="29.12" y="29.12" width="2.75" height="2.75" fill="black"/>
-      <circle cx="23" cy="26" r="0.99" fill="black"/>
-      <circle cx="40" cy="24" r="0.99" fill="black"/>
-      <circle cx="32" cy="22" r="0.99" fill="black"/>
-      <circle cx="25" cy="20" r="0.99" fill="black"/>
-      <circle cx="32" cy="18" r="0.99" fill="black"/>
-    </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP166D-L5.svg" target="_parent" aria-label="Open BP166, left example 5">
-    <title>BP166, left example 5</title>
-    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <circle cx="81" cy="54" r="0.99" fill="black"/>
-      <circle cx="73" cy="54" r="0.99" fill="black"/>
-      <rect x="27.12" y="51.12" width="1.75" height="2.75" fill="black"/>
-      <rect x="19.12" y="51.12" width="1.75" height="2.75" fill="black"/>
-      <rect x="81.12" y="46.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="75.12" y="46.12" width="1.75" height="2.75" fill="black"/>
-      <rect x="27.12" y="44.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="19.12" y="44.12" width="2.75" height="2.75" fill="black"/>
-    </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP166D-L6.svg" target="_parent" aria-label="Open BP166, left example 6">
     <title>BP166, left example 6</title>
@@ -140,40 +140,7 @@
   <a href="BP166D-R2.svg" target="_parent" aria-label="Open BP166, right example 2">
     <title>BP166, right example 2</title>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <circle cx="56" cy="92" r="0.99" fill="black"/>
-      <rect x="35.12" y="91.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="37.12" y="49.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="49.12" y="48.12" width="2.75" height="2.75" fill="black"/>
-      <circle cx="47" cy="15" r="0.99" fill="black"/>
-      <circle cx="41" cy="15" r="0.99" fill="black"/>
-    </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP166D-R3.svg" target="_parent" aria-label="Open BP166, right example 3">
-    <title>BP166, right example 3</title>
-    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <rect x="83.12" y="69.12" width="1.75" height="2.75" fill="black"/>
-      <rect x="20.12" y="68.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="52.12" y="22.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="44.12" y="20.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="59.12" y="18.12" width="2.75" height="2.75" fill="black"/>
-      <rect x="53.12" y="16.12" width="2.75" height="2.75" fill="black"/>
-      <circle cx="48" cy="14" r="0.99" fill="black"/>
-      <circle cx="41" cy="14" r="0.99" fill="black"/>
-      <rect x="59.12" y="10.12" width="1.75" height="2.75" fill="black"/>
-      <rect x="51.12" y="7.12" width="1.75" height="2.75" fill="black"/>
-      <rect x="43.12" y="7.12" width="2.75" height="2.75" fill="black"/>
-    </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP166D-R4.svg" target="_parent" aria-label="Open BP166, right example 4">
-    <title>BP166, right example 4</title>
-    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <rect x="49.12" y="86.12" width="2.75" height="2.75" fill="black"/>
       <rect x="43.12" y="85.12" width="1.75" height="2.75" fill="black"/>
@@ -188,12 +155,26 @@
       <circle cx="80" cy="32" r="0.99" fill="black"/>
       <circle cx="88" cy="26" r="0.99" fill="black"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP166D-R5.svg" target="_parent" aria-label="Open BP166, right example 5">
-    <title>BP166, right example 5</title>
-    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP166D-R3.svg" target="_parent" aria-label="Open BP166, right example 3">
+    <title>BP166, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="56" cy="92" r="0.99" fill="black"/>
+      <rect x="35.12" y="91.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="37.12" y="49.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="49.12" y="48.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="47" cy="15" r="0.99" fill="black"/>
+      <circle cx="41" cy="15" r="0.99" fill="black"/>
+    </svg>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP166D-R4.svg" target="_parent" aria-label="Open BP166, right example 4">
+    <title>BP166, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <circle cx="25" cy="81" r="0.99" fill="black"/>
       <circle cx="33" cy="79" r="0.99" fill="black"/>
@@ -204,7 +185,26 @@
       <rect x="83.12" y="12.12" width="2.75" height="2.75" fill="black"/>
       <rect x="76.12" y="7.12" width="2.75" height="2.75" fill="black"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP166D-R5.svg" target="_parent" aria-label="Open BP166, right example 5">
+    <title>BP166, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <rect x="83.12" y="69.12" width="1.75" height="2.75" fill="black"/>
+      <rect x="20.12" y="68.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="52.12" y="22.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="44.12" y="20.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="59.12" y="18.12" width="2.75" height="2.75" fill="black"/>
+      <rect x="53.12" y="16.12" width="2.75" height="2.75" fill="black"/>
+      <circle cx="48" cy="14" r="0.99" fill="black"/>
+      <circle cx="41" cy="14" r="0.99" fill="black"/>
+      <rect x="59.12" y="10.12" width="1.75" height="2.75" fill="black"/>
+      <rect x="51.12" y="7.12" width="1.75" height="2.75" fill="black"/>
+      <rect x="43.12" y="7.12" width="2.75" height="2.75" fill="black"/>
+    </svg>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP166D-R6.svg" target="_parent" aria-label="Open BP166, right example 6">
     <title>BP166, right example 6</title>

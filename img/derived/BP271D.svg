@@ -7,67 +7,67 @@
   <a href="BP271D-L1.svg" target="_parent" aria-label="Open BP271, left example 1">
     <title>BP271, left example 1</title>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="M" transform="translate(36 65) scale(0.0230447 -0.0248403) translate(-137 0)">
-        <path transform="translate(0 0)" d="M1307 0V854Q1307 883 1307.5 912.0Q1308 941 1317 1161Q1246 892 1212 786L958 0H748L494 786L387 1161Q399 929 399 854V0H137V1409H532L784 621L806 545L854 356L917 582L1176 1409H1569V0Z"/>
-      </g>
-    </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP271D-L2.svg" target="_parent" aria-label="Open BP271, left example 2">
-    <title>BP271, left example 2</title>
-    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="P" transform="translate(36 65) scale(0.0224331 -0.0248403) translate(-137 0)">
-        <path transform="translate(0 0)" d="M1296 963Q1296 827 1234.0 720.0Q1172 613 1056.5 554.5Q941 496 782 496H432V0H137V1409H770Q1023 1409 1159.5 1292.5Q1296 1176 1296 963ZM999 958Q999 1180 737 1180H432V723H745Q867 723 933.0 783.5Q999 844 999 958Z"/>
-      </g>
-    </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP271D-L3.svg" target="_parent" aria-label="Open BP271, left example 3">
-    <title>BP271, left example 3</title>
-    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <path d="M67.88 64.62C67.19 63.93 66.79 62.73 65.12 63.12C65.13 61.64 63.78 62.45 62.88 61.88C62.91 61.05 62.53 59.51 63.88 59.88C63.91 59.05 63.53 57.51 64.88 57.88C64.91 57.05 64.53 55.51 65.88 55.88L65.88 53.12L66.88 52.88L66.88 42.12L65.88 41.88L65.88 39.12L64.88 38.88L64.88 37.12L63.88 36.88L63.88 35.12C62.01 34.55 61.7 32.59 59.88 31.88L59.88 31.12L58.12 31.12C58.09 29.55 56.34 30.28 55.12 30.12L54.88 29.12L46.12 29.12C46.4 30.82 44.14 29.89 43.12 30.12C43.49 31.47 41.95 31.09 41.12 31.12C40.55 32.99 38.59 33.3 37.88 35.12L37.12 35.12C37.09 35.95 37.47 37.49 36.12 37.12C36.09 37.95 36.47 39.49 35.12 39.12L35.12 41.88L34.12 42.12L34.12 52.88L35.12 53.12L35.12 55.88L36.12 56.12L36.12 57.88L37.12 58.12L37.12 59.88C38.99 60.45 39.3 62.41 41.12 63.12L41.12 63.88L42.88 63.88C42.91 65.45 44.66 64.72 45.88 64.88L46.12 65.88L54.88 65.88L55.12 64.88L58.88 64.88L59.12 65.88C61.87 65.23 61.24 68.49 63.88 67.88C63.98 69.04 64.77 68.95 65.88 68.88L65.88 67.12C67.04 67.02 66.95 66.23 66.88 65.12L67.88 64.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <path d="M53.12 59.12L52.88 60.12C51.03 59.64 47.35 61.2 46.88 59.12C46.05 59.09 44.51 59.47 44.88 58.12C44.15 58.33 43.67 57.85 43.88 57.12C42.53 57.49 42.91 55.95 42.88 55.12C41.18 55.4 42.11 53.14 41.88 52.12L40.88 51.88L40.88 43.12L41.88 42.88C42.11 41.86 41.18 39.6 42.88 39.88C42.39 37.43 44.67 37.61 45.12 35.88L46.88 35.88L47.12 34.88L53.88 34.88L54.12 35.88C54.95 35.91 56.49 35.53 56.12 36.88C56.85 36.67 57.33 37.15 57.12 37.88C58.47 37.51 58.09 39.05 58.12 39.88C59.82 39.6 58.89 41.86 59.12 42.88L60.12 43.12L60.12 51.88L59.12 52.12L59.12 54.88L58.12 55.12L57.88 57.12C57.05 57.09 55.51 57.47 55.88 56.12C55.05 56.09 53.51 56.47 53.88 55.12C52.21 55.7 52.14 54.23 51.12 54.12C51.33 54.85 50.85 55.33 50.12 55.12C50.7 56.79 49.23 56.86 49.12 57.88C49.95 57.91 51.49 57.53 51.12 58.88L53.12 59.12Z" fill="white"/>
-    </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP271D-L4.svg" target="_parent" aria-label="Open BP271, left example 4">
-    <title>BP271, left example 4</title>
-    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="G" transform="translate(34 66) scale(0.0231548 -0.0255172) translate(-84 20)">
-        <path transform="translate(0 0)" d="M806 211Q921 211 1029.0 244.5Q1137 278 1196 330V525H852V743H1466V225Q1354 110 1174.5 45.0Q995 -20 798 -20Q454 -20 269.0 170.5Q84 361 84 711Q84 1059 270.0 1244.5Q456 1430 805 1430Q1301 1430 1436 1063L1164 981Q1120 1088 1026.0 1143.0Q932 1198 805 1198Q597 1198 489.0 1072.0Q381 946 381 711Q381 472 492.5 341.5Q604 211 806 211Z"/>
-      </g>
-    </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP271D-L5.svg" target="_parent" aria-label="Open BP271, left example 5">
-    <title>BP271, left example 5</title>
-    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="O" transform="translate(34 66) scale(0.0231904 -0.0255172) translate(-84 20)">
-        <path transform="translate(0 0)" d="M1507 711Q1507 491 1420.0 324.0Q1333 157 1171.0 68.5Q1009 -20 793 -20Q461 -20 272.5 175.5Q84 371 84 711Q84 1050 272.0 1240.0Q460 1430 795 1430Q1130 1430 1318.5 1238.0Q1507 1046 1507 711ZM1206 711Q1206 939 1098.0 1068.5Q990 1198 795 1198Q597 1198 489.0 1069.5Q381 941 381 711Q381 479 491.5 345.5Q602 212 793 212Q991 212 1098.5 342.0Q1206 472 1206 711Z"/>
-      </g>
-    </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP271D-L6.svg" target="_parent" aria-label="Open BP271, left example 6">
-    <title>BP271, left example 6</title>
-    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <g aria-label="8" transform="translate(34 65) scale(0.0227498 -0.0241379) translate(-65 20)">
         <path transform="translate(0 0)" d="M1076 397Q1076 199 945.0 89.5Q814 -20 571 -20Q330 -20 197.5 89.0Q65 198 65 395Q65 530 143.0 622.5Q221 715 352 737V741Q238 766 168.0 854.0Q98 942 98 1057Q98 1230 220.5 1330.0Q343 1430 567 1430Q796 1430 918.5 1332.5Q1041 1235 1041 1055Q1041 940 971.5 853.0Q902 766 785 743V739Q921 717 998.5 627.5Q1076 538 1076 397ZM752 1040Q752 1140 706.0 1186.5Q660 1233 567 1233Q385 1233 385 1040Q385 838 569 838Q661 838 706.5 885.0Q752 932 752 1040ZM785 420Q785 641 565 641Q463 641 408.5 583.0Q354 525 354 416Q354 292 408.0 235.0Q462 178 573 178Q682 178 733.5 235.0Q785 292 785 420Z"/>
       </g>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7.0" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP271D-L2.svg" target="_parent" aria-label="Open BP271, left example 2">
+    <title>BP271, left example 2</title>
+    <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="G" transform="translate(34 66) scale(0.0231548 -0.0255172) translate(-84 20)">
+        <path transform="translate(0 0)" d="M806 211Q921 211 1029.0 244.5Q1137 278 1196 330V525H852V743H1466V225Q1354 110 1174.5 45.0Q995 -20 798 -20Q454 -20 269.0 170.5Q84 361 84 711Q84 1059 270.0 1244.5Q456 1430 805 1430Q1301 1430 1436 1063L1164 981Q1120 1088 1026.0 1143.0Q932 1198 805 1198Q597 1198 489.0 1072.0Q381 946 381 711Q381 472 492.5 341.5Q604 211 806 211Z"/>
+      </g>
+    </svg>
+    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP271D-L3.svg" target="_parent" aria-label="Open BP271, left example 3">
+    <title>BP271, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="M" transform="translate(36 65) scale(0.0230447 -0.0248403) translate(-137 0)">
+        <path transform="translate(0 0)" d="M1307 0V854Q1307 883 1307.5 912.0Q1308 941 1317 1161Q1246 892 1212 786L958 0H748L494 786L387 1161Q399 929 399 854V0H137V1409H532L784 621L806 545L854 356L917 582L1176 1409H1569V0Z"/>
+      </g>
+    </svg>
+    <rect x="7" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP271D-L4.svg" target="_parent" aria-label="Open BP271, left example 4">
+    <title>BP271, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="P" transform="translate(36 65) scale(0.0224331 -0.0248403) translate(-137 0)">
+        <path transform="translate(0 0)" d="M1296 963Q1296 827 1234.0 720.0Q1172 613 1056.5 554.5Q941 496 782 496H432V0H137V1409H770Q1023 1409 1159.5 1292.5Q1296 1176 1296 963ZM999 958Q999 1180 737 1180H432V723H745Q867 723 933.0 783.5Q999 844 999 958Z"/>
+      </g>
+    </svg>
+    <rect x="115" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP271D-L5.svg" target="_parent" aria-label="Open BP271, left example 5">
+    <title>BP271, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M67.88 64.62C67.19 63.93 66.79 62.73 65.12 63.12C65.13 61.64 63.78 62.45 62.88 61.88C62.91 61.05 62.53 59.51 63.88 59.88C63.91 59.05 63.53 57.51 64.88 57.88C64.91 57.05 64.53 55.51 65.88 55.88L65.88 53.12L66.88 52.88L66.88 42.12L65.88 41.88L65.88 39.12L64.88 38.88L64.88 37.12L63.88 36.88L63.88 35.12C62.01 34.55 61.7 32.59 59.88 31.88L59.88 31.12L58.12 31.12C58.09 29.55 56.34 30.28 55.12 30.12L54.88 29.12L46.12 29.12C46.4 30.82 44.14 29.89 43.12 30.12C43.49 31.47 41.95 31.09 41.12 31.12C40.55 32.99 38.59 33.3 37.88 35.12L37.12 35.12C37.09 35.95 37.47 37.49 36.12 37.12C36.09 37.95 36.47 39.49 35.12 39.12L35.12 41.88L34.12 42.12L34.12 52.88L35.12 53.12L35.12 55.88L36.12 56.12L36.12 57.88L37.12 58.12L37.12 59.88C38.99 60.45 39.3 62.41 41.12 63.12L41.12 63.88L42.88 63.88C42.91 65.45 44.66 64.72 45.88 64.88L46.12 65.88L54.88 65.88L55.12 64.88L58.88 64.88L59.12 65.88C61.87 65.23 61.24 68.49 63.88 67.88C63.98 69.04 64.77 68.95 65.88 68.88L65.88 67.12C67.04 67.02 66.95 66.23 66.88 65.12L67.88 64.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M53.12 59.12L52.88 60.12C51.03 59.64 47.35 61.2 46.88 59.12C46.05 59.09 44.51 59.47 44.88 58.12C44.15 58.33 43.67 57.85 43.88 57.12C42.53 57.49 42.91 55.95 42.88 55.12C41.18 55.4 42.11 53.14 41.88 52.12L40.88 51.88L40.88 43.12L41.88 42.88C42.11 41.86 41.18 39.6 42.88 39.88C42.39 37.43 44.67 37.61 45.12 35.88L46.88 35.88L47.12 34.88L53.88 34.88L54.12 35.88C54.95 35.91 56.49 35.53 56.12 36.88C56.85 36.67 57.33 37.15 57.12 37.88C58.47 37.51 58.09 39.05 58.12 39.88C59.82 39.6 58.89 41.86 59.12 42.88L60.12 43.12L60.12 51.88L59.12 52.12L59.12 54.88L58.12 55.12L57.88 57.12C57.05 57.09 55.51 57.47 55.88 56.12C55.05 56.09 53.51 56.47 53.88 55.12C52.21 55.7 52.14 54.23 51.12 54.12C51.33 54.85 50.85 55.33 50.12 55.12C50.7 56.79 49.23 56.86 49.12 57.88C49.95 57.91 51.49 57.53 51.12 58.88L53.12 59.12Z" fill="white"/>
+    </svg>
+    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP271D-L6.svg" target="_parent" aria-label="Open BP271, left example 6">
+    <title>BP271, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116.0" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="O" transform="translate(34 66) scale(0.0231904 -0.0255172) translate(-84 20)">
+        <path transform="translate(0 0)" d="M1507 711Q1507 491 1420.0 324.0Q1333 157 1171.0 68.5Q1009 -20 793 -20Q461 -20 272.5 175.5Q84 371 84 711Q84 1050 272.0 1240.0Q460 1430 795 1430Q1130 1430 1318.5 1238.0Q1507 1046 1507 711ZM1206 711Q1206 939 1098.0 1068.5Q990 1198 795 1198Q597 1198 489.0 1069.5Q381 941 381 711Q381 479 491.5 345.5Q602 212 793 212Q991 212 1098.5 342.0Q1206 472 1206 711Z"/>
+      </g>
+    </svg>
+    <rect x="115.0" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP271D-R1.svg" target="_parent" aria-label="Open BP271, right example 1">
     <title>BP271, right example 1</title>
@@ -94,45 +94,45 @@
   <a href="BP271D-R3.svg" target="_parent" aria-label="Open BP271, right example 3">
     <title>BP271, right example 3</title>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="T" transform="translate(34 65) scale(0.0223881 -0.0248403) translate(-23 0)">
-        <path transform="translate(0 0)" d="M773 1181V0H478V1181H23V1409H1229V1181Z"/>
-      </g>
-    </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP271D-R4.svg" target="_parent" aria-label="Open BP271, right example 4">
-    <title>BP271, right example 4</title>
-    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <g aria-label="H" transform="translate(36 65) scale(0.0224252 -0.0248403) translate(-137 0)">
         <path transform="translate(0 0)" d="M1046 0V604H432V0H137V1409H432V848H1046V1409H1341V0Z"/>
       </g>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="300.0" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP271D-R5.svg" target="_parent" aria-label="Open BP271, right example 5">
-    <title>BP271, right example 5</title>
-    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="X" transform="translate(33 65) scale(0.0225564 -0.0248403) translate(-18 0)">
-        <path transform="translate(0 0)" d="M1038 0 684 561 330 0H18L506 741L59 1409H371L684 911L997 1409H1307L879 741L1348 0Z"/>
-      </g>
-    </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP271D-R6.svg" target="_parent" aria-label="Open BP271, right example 6">
-    <title>BP271, right example 6</title>
-    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP271D-R4.svg" target="_parent" aria-label="Open BP271, right example 4">
+    <title>BP271, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <g aria-label="Õ" transform="translate(34 66) scale(0.0231904 -0.0244167) translate(-84 20)">
         <path transform="translate(0 0)" d="M1507 711Q1507 491 1420.0 324.0Q1333 157 1171.0 68.5Q1009 -20 793 -20Q461 -20 272.5 175.5Q84 371 84 711Q84 1050 272.0 1240.0Q460 1430 795 1430Q1130 1430 1318.5 1238.0Q1507 1046 1507 711ZM1206 711Q1206 939 1098.0 1068.5Q990 1198 795 1198Q597 1198 489.0 1069.5Q381 941 381 711Q381 479 491.5 345.5Q602 212 793 212Q991 212 1098.5 342.0Q1206 472 1206 711ZM954 1530Q910 1530 865.5 1549.0Q821 1568 779.0 1591.5Q737 1615 699.5 1634.0Q662 1653 632 1653Q591 1653 569.5 1630.0Q548 1607 534 1530H397Q405 1643 429.5 1699.5Q454 1756 500.0 1789.5Q546 1823 622 1823Q667 1823 712.0 1804.0Q757 1785 799.0 1761.5Q841 1738 877.5 1719.0Q914 1700 943 1700Q983 1700 1005.5 1724.5Q1028 1749 1042 1823H1177Q1170 1666 1113.5 1598.0Q1057 1530 954 1530Z"/>
       </g>
     </svg>
-    <rect x="408" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-</svg>
+<a href="BP271D-R5.svg" target="_parent" aria-label="Open BP271, right example 5">
+    <title>BP271, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="T" transform="translate(34 65) scale(0.0223881 -0.0248403) translate(-23 0)">
+        <path transform="translate(0 0)" d="M773 1181V0H478V1181H23V1409H1229V1181Z"/>
+      </g>
+    </svg>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP271D-R6.svg" target="_parent" aria-label="Open BP271, right example 6">
+    <title>BP271, right example 6</title>
+    <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409.0" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="X" transform="translate(33 65) scale(0.0225564 -0.0248403) translate(-18 0)">
+        <path transform="translate(0 0)" d="M1038 0 684 561 330 0H18L506 741L59 1409H371L684 911L997 1409H1307L879 741L1348 0Z"/>
+      </g>
+    </svg>
+    <rect x="408.0" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  </svg>

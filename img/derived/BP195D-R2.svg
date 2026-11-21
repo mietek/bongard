@@ -1,19 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP195, right example 2</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="49" y="5" width="2" height="88" fill="black"/>
-  <polygon points="7.81,34.75 7.81,42.47 11.67,43.44 14.56,48.26 25.18,48.26 25.18,45.37 17.46,34.75" fill="none" stroke="black" stroke-width="1.69" stroke-linejoin="miter"/>
-  <polygon points="25.71,34.65 25.71,41.5 32.56,48.35 44.3,48.35 43.32,43.46 37.45,35.63" fill="none" stroke="black" stroke-width="1.45" stroke-linejoin="miter"/>
-  <polygon points="55.81,34.75 55.81,42.47 59.67,43.44 62.56,48.26 73.18,48.26 73.18,45.37 65.46,34.75" fill="none" stroke="black" stroke-width="1.69" stroke-linejoin="miter"/>
-  <polygon points="73.71,34.65 73.71,41.5 80.56,48.35 92.3,48.35 91.32,43.46 85.45,35.63" fill="none" stroke="black" stroke-width="1.45" stroke-linejoin="miter"/>
-  <path d="M33.35 38.06L36.35 44.06" fill="none" stroke="black" stroke-width="2.49" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M81.35 38.06L84.35 44.06" fill="none" stroke="black" stroke-width="2.49" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="7.75,55.93 6.83,56.85 7.75,65.13 11.43,65.13 14.18,62.37 14.18,60.53 12.35,59.61 13.26,56.85" fill="none" stroke="black" stroke-width="1.97" stroke-linejoin="miter"/>
-  <path d="M31.91 56.09L31.91 64.09" fill="none" stroke="black" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="63.75,55.93 62.83,56.85 63.75,65.13 67.43,65.13 70.18,62.37 70.18,60.53 68.35,59.61 69.26,56.85" fill="none" stroke="black" stroke-width="1.97" stroke-linejoin="miter"/>
-  <path d="M87.91 56.09L87.91 64.09" fill="none" stroke="black" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M19.9 60.23L19.9 62.23M19.9 62.23C17.47 61.09 15.71 65.44 18.9 64.98L20.9 63.23M19.9 62.23L20.9 63.23M20.9 63.23C21.93 63.55 22.96 64.87 23.9 63.23M23.9 63.23L26.9 65.23M23.9 63.23C24.12 61.14 25.81 59.46 27.9 59.23" fill="none" stroke="black" stroke-width="1.74" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M35.95 60.57C35.97 61.94 35.68 63.59 36.95 64.57" fill="none" stroke="black" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M75.9 60.23L75.9 62.23M75.9 62.23C73.47 61.09 71.71 65.44 74.9 64.98L76.9 63.23M75.9 62.23L76.9 63.23M76.9 63.23C77.93 63.55 78.96 64.87 79.9 63.23M79.9 63.23L82.9 65.23M79.9 63.23C80.12 61.14 81.81 59.46 83.9 59.23" fill="none" stroke="black" stroke-width="1.74" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M91.95 60.57C91.97 61.94 91.68 63.59 92.95 64.57" fill="none" stroke="black" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76.38 53.12C73.99 54.38 72.62 58.82 69.12 59.38C69.81 62.65 73.62 64.09 75.38 66.88C78.42 65.65 81.65 62.42 82.88 59.38C79.92 58.54 77.68 55.51 76.38 53.12Z" fill="black"/>
+  <path d="M81.12 60.38C79.29 61.92 78.04 64.87 75.38 65.12L70.88 60.62C72.71 59.08 73.96 56.13 76.62 55.88L81.12 60.38Z" fill="white"/>
+  <path d="M26.38 53.12C23.99 54.38 22.62 58.82 19.12 59.38C19.81 62.65 23.62 64.09 25.38 66.88C28.42 65.65 31.65 62.42 32.88 59.38C29.92 58.54 27.68 55.51 26.38 53.12Z" fill="black"/>
+  <path d="M31.12 60.38C29.29 61.92 28.04 64.87 25.38 65.12L20.88 60.62C22.71 59.08 23.96 56.13 26.62 55.88L31.12 60.38Z" fill="white"/>
+  <path d="M67.12 47.38L88.62 47.88L88.88 46.38C85.47 42.63 80.73 39.71 78.62 35.12L77.38 35.12C75.48 40.16 69.25 42.58 67.12 47.38Z" fill="black"/>
+  <path d="M86.12 45.62C81.26 46.3 74.33 46.77 69.88 45.38L77.38 37.88C81.08 39.07 83.26 43.13 86.12 45.62Z" fill="white"/>
+  <ellipse cx="60" cy="41.5" rx="5.96" ry="6.39" transform="rotate(0 60 41.5)" fill="black"/>
+  <ellipse cx="60" cy="41.5" rx="4.27" ry="4.72" transform="rotate(0 60 41.5)" fill="white"/>
+  <path d="M24.12 47.38L45.62 47.88L45.88 46.38C42.47 42.63 37.73 39.71 35.62 35.12L34.38 35.12C32.48 40.16 26.25 42.58 24.12 47.38Z" fill="black"/>
+  <path d="M43.12 45.62C38.26 46.3 31.33 46.77 26.88 45.38L34.38 37.88C38.08 39.07 40.26 43.13 43.12 45.62Z" fill="white"/>
+  <ellipse cx="17" cy="41.5" rx="5.96" ry="6.39" transform="rotate(0 17 41.5)" fill="black"/>
+  <ellipse cx="17" cy="41.5" rx="4.27" ry="4.72" transform="rotate(0 17 41.5)" fill="white"/>
+  <rect x="49.12" y="5.12" width="1.75" height="87.75" fill="black"/>
 </svg>

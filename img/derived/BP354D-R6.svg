@@ -1,11 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP354, right example 6</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="44.12" y="47.12" width="9.75" height="2.75" fill="black"/>
-  <path d="M38.62 45.12L37.12 45.38C38.79 50.78 31.07 50.03 32.62 45.12C28.56 44.1 30.61 49.22 30.12 51.62L39.62 51.88C39.62 50.01 41.02 45.4 38.62 45.12Z" fill="black"/>
-  <path d="M24.62 43.12L23.12 43.38C22.84 46.65 24.7 52.64 19.38 51.12L18.62 43.12C13.9 42.77 16.8 50.72 16.38 53.88L25.88 53.62C25.18 50.39 27.35 44.56 24.62 43.12Z" fill="black"/>
-  <path d="M61.38 42.12L61.12 45.62C57.47 45.37 57.77 49.04 58.38 51.88L67.62 51.88C68.23 49.04 68.53 45.37 64.88 45.62C65.55 42.76 64.24 41.45 61.38 42.12Z" fill="black"/>
-  <path d="M10.62 41.12C7.04 42.54 10.6 49.85 8.62 53.12C1.81 54.36 6.28 44.94 4.62 41.12L2.12 41.38L2.38 55.88L11.88 55.62L11.88 41.38L10.62 41.12Z" fill="black"/>
-  <path d="M77.12 36.12L75.12 36.38C74.69 39.43 76.76 44.97 72.12 44.38L72.38 53.88L81.88 53.62C81.18 49.99 83.95 43.53 78.88 43.62C78.19 41.28 80.52 35.97 77.12 36.12Z" fill="black"/>
-  <path d="M91.12 30.12L89.12 30.38C88.12 34.3 91.68 42.37 86.12 42.38L86.38 55.88L95.62 55.88L95.88 42.38C90.32 42.37 93.88 34.3 92.88 30.38L91.12 30.12Z" fill="black"/>
+  <rect x="89.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <ellipse cx="93" cy="94" rx="1.25" ry="3.69" transform="rotate(90 93 94)" fill="white"/>
+  <rect x="89.88" y="46.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="89.88" y="2.88" width="6.25" height="21.25" fill="white"/>
+  <rect x="78.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="78.88" y="52.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="78.88" y="6.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="67.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="67.88" y="58.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="67.88" y="12.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="56.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="56.88" y="64.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="56.88" y="18.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="45.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="45.88" y="70.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="45.88" y="24.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="34.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="34.88" y="76.88" width="6.25" height="18.25" fill="white"/>
+  <rect x="34.88" y="30.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="34.88" y="2.88" width="6.25" height="5.25" fill="white"/>
+  <rect x="23.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="23.88" y="82.88" width="6.25" height="12.25" fill="white"/>
+  <rect x="23.88" y="36.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="23.88" y="2.88" width="6.25" height="11.25" fill="white"/>
+  <rect x="12.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="12.88" y="88.88" width="6.25" height="6.25" fill="white"/>
+  <rect x="12.88" y="42.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="12.88" y="2.88" width="6.25" height="17.25" fill="white"/>
+  <rect x="1.12" y="2.12" width="7.75" height="93.75" fill="black"/>
+  <rect x="1.88" y="48.88" width="6.25" height="23.25" fill="white"/>
+  <rect x="1.88" y="2.88" width="6.25" height="23.25" fill="white"/>
 </svg>

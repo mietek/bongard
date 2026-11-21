@@ -1,17 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP166, left example 3</title>
   <rect width="98" height="98" fill="white"/>
-  <circle cx="47" cy="92" r="0.99" fill="black"/>
-  <circle cx="41" cy="91" r="0.99" fill="black"/>
-  <rect x="52.12" y="89.12" width="2.75" height="2.75" fill="black"/>
-  <rect x="44.12" y="86.12" width="2.75" height="2.75" fill="black"/>
-  <circle cx="39" cy="86" r="0.99" fill="black"/>
-  <rect x="52.12" y="83.12" width="2.75" height="2.75" fill="black"/>
-  <circle cx="49" cy="81" r="0.99" fill="black"/>
-  <rect x="43.12" y="79.12" width="1.75" height="2.75" fill="black"/>
-  <circle cx="93" cy="53" r="0.99" fill="black"/>
-  <rect x="76.12" y="52.12" width="2.75" height="2.75" fill="black"/>
-  <rect x="85.12" y="43.12" width="2.75" height="2.75" fill="black"/>
-  <rect x="76.12" y="34.12" width="2.75" height="2.75" fill="black"/>
-  <rect x="91.12" y="31.12" width="1.75" height="2.75" fill="black"/>
+  <rect x="49.12" y="82.12" width="2.75" height="2.75" fill="black"/>
+  <rect x="43.12" y="78.12" width="2.75" height="2.75" fill="black"/>
+  <rect x="57.12" y="76.12" width="2.75" height="2.75" fill="black"/>
+  <circle cx="49" cy="75" r="0.99" fill="black"/>
+  <rect x="49.12" y="33.12" width="2.75" height="2.75" fill="black"/>
+  <circle cx="55" cy="31" r="0.99" fill="black"/>
+  <circle cx="41" cy="30" r="0.99" fill="black"/>
+  <rect x="45.12" y="26.12" width="2.75" height="2.75" fill="black"/>
+  <circle cx="63" cy="26" r="0.99" fill="black"/>
+  <rect x="53.12" y="24.12" width="2.75" height="2.75" fill="black"/>
+  <rect x="33.12" y="21.12" width="2.75" height="2.75" fill="black"/>
+  <rect x="41.12" y="20.12" width="2.75" height="2.75" fill="black"/>
+  <circle cx="56" cy="19" r="0.99" fill="black"/>
+  <rect x="51.12" y="18.12" width="1.75" height="2.75" fill="black"/>
+  <rect x="61.12" y="17.12" width="2.75" height="2.75" fill="black"/>
+  <circle cx="41" cy="15" r="0.99" fill="black"/>
+  <circle cx="57" cy="13" r="0.99" fill="black"/>
+  <circle cx="48" cy="12" r="0.99" fill="black"/>
 </svg>

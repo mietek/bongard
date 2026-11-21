@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP248, left example 2</title>
   <rect width="98" height="98" fill="white"/>
-  <circle cx="49.85" cy="47.86" r="29.62" fill="black"/>
-  <circle cx="49.88" cy="47.92" r="27.57" fill="white"/>
-  <ellipse cx="45.77" cy="71.98" rx="0.97" ry="3.97" transform="rotate(91.14 45.77 71.98)" fill="black"/>
-  <ellipse cx="58.58" cy="70.79" rx="1.23" ry="3.73" transform="rotate(70.74 58.58 70.79)" fill="black"/>
-  <ellipse cx="34.19" cy="66.71" rx="1.3" ry="3.94" transform="rotate(128.83 34.19 66.71)" fill="black"/>
-  <ellipse cx="68.92" cy="63.35" rx="1.36" ry="4.08" transform="rotate(41.7 68.92 63.35)" fill="black"/>
-  <ellipse cx="26.88" cy="56.38" rx="1.34" ry="3.53" transform="rotate(157.87 26.88 56.38)" fill="black"/>
-  <path d="M75.88 48.38C71.81 46.51 73.18 52.62 73.38 54.88C76.75 55.07 73.29 49.44 75.88 48.38Z" fill="black"/>
-  <path d="M27.62 40.12C23.66 39.21 25.47 45.15 24.38 46.88C28.85 48.07 25.72 41.41 27.62 40.12Z" fill="black"/>
-  <ellipse cx="73.5" cy="41.5" rx="1.19" ry="3.74" transform="rotate(167.12 73.5 41.5)" fill="black"/>
-  <path d="M34.88 29.38C32.13 28.26 29.59 31.38 29.12 33.62C31.76 36.61 32.37 30.31 34.88 29.38Z" fill="black"/>
-  <path d="M64.38 27.12C63.47 28.8 64.6 31.22 66.62 30.88C67.1 32.44 67.63 33.33 69.62 32.88C70.24 29.93 66.19 28.52 64.38 27.12Z" fill="black"/>
-  <path d="M52.38 23.12C51.8 25.57 56.95 25.59 58.88 25.62C59.08 22.16 54.83 23.29 52.38 23.12Z" fill="black"/>
-  <ellipse cx="42.5" cy="24.5" rx="1.19" ry="3.74" transform="rotate(77.12 42.5 24.5)" fill="black"/>
+  <rect x="20.12" y="26.12" width="63.75" height="38.75" fill="black"/>
+  <rect x="21.88" y="27.88" width="60.25" height="35.25" fill="white"/>
+  <rect x="62.12" y="59.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="49.12" y="59.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="36.12" y="59.12" width="6.75" height="1.75" fill="black"/>
+  <path d="M25.38 58.12C23.62 61.34 27.84 61.29 29.88 60.62C30.02 58.4 26.74 59.06 25.38 58.12Z" fill="black"/>
+  <path d="M78.38 57.12C79.11 60.2 73.89 58 75.38 60.88C78.84 62.63 82.18 58.07 78.38 57.12Z" fill="black"/>
+  <rect x="78.12" y="44.12" width="1.75" height="6.75" fill="black"/>
+  <rect x="25.12" y="44.12" width="1.75" height="6.75" fill="black"/>
+  <rect x="78.12" y="31.12" width="1.75" height="6.75" fill="black"/>
+  <rect x="65.12" y="31.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="52.12" y="31.12" width="6.75" height="1.75" fill="black"/>
+  <rect x="38.12" y="31.12" width="6.75" height="1.75" fill="black"/>
+  <path d="M25.88 37.88L26.88 37.62L27.38 32.88C28.93 32.65 32.95 33.78 31.62 31.12L25.12 31.38C25.54 33.4 24.25 36.84 25.88 37.88Z" fill="black"/>
 </svg>

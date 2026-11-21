@@ -1,14 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP016, left example 2</title>
   <rect width="98" height="98" fill="white" />
-  <path d="M 44.4,48.7
-       C 41.9,48.1 41,47.1 42.2,44.5
-       C 43.1,42.6 45,41.8 47.6,43.1
-       C 51.1,44.6 53.7,48.6 51.3,53.2
-       C 48.6,58.4 41.3,57.8 36.9,55.4
-       C 31,52.2 27.4,44.6 31.6,37.1
-       C 37,27.6 47.4,28.5 54.6,32.7
-       C 66.1,39 69.5,54.7 62.9,65.6
-       C 56.2,78 38.9,80 26.3,71.3
-       C 10.1,58.6 8.4,40.8 17.6,25.1" fill="none" stroke="black" stroke-width="2.6" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 53.3,42.2
+       L 50.8,46.7
+       L 43.7,43.9
+       L 49.5,31.1
+       L 64.4,36.1
+       L 52.8,57.1
+       L 33.6,50.7
+       L 48,19.3
+       L 74.3,27.8
+       L 58.2,68.9
+       L 22.3,58.2
+       L 30.9,33" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round" />
 </svg>

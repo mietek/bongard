@@ -16,38 +16,38 @@
   <a href="BP017D-L2.svg" target="_parent" aria-label="Open BP017, left example 2">
     <title>BP017, left example 2</title>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 25.4,28.5        C 34.1,28.9 40.2,34.7 46.2,42.2        C 50.7,36.3 55.7,29 65.5,27.6        C 67.1,39.2 69.8,49.5 80.1,57.5        C 58.8,81.6 18.8,60 25.4,28.5        Z" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M 28.4,32.8 L 81,11.9 L 63.5,67.3 L 57.4,38.5 L 28.4,32.8 Z" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-L3.svg" target="_parent" aria-label="Open BP017, left example 3">
     <title>BP017, left example 3</title>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 27.9,32 L 38.8,30.3 L 51.8,51.3 L 55,27.9 L 67.4,26.6 L 70.7,78.1 L 53.1,63.5 L 39.3,81.5 L 27.9,32 Z" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="miter" stroke-linecap="round"/>
+      <path d="M 25.4,28.5        C 34.1,28.9 40.2,34.7 46.2,42.2        C 50.7,36.3 55.7,29 65.5,27.6        C 67.1,39.2 69.8,49.5 80.1,57.5        C 58.8,81.6 18.8,60 25.4,28.5        Z" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-L4.svg" target="_parent" aria-label="Open BP017, left example 4">
     <title>BP017, left example 4</title>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 28.4,32.8 L 81,11.9 L 63.5,67.3 L 57.4,38.5 L 28.4,32.8 Z" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round"/>
+      <path d="M 33.7,27.5 L 69.7,25.6 L 71.5,70.9 L 51.9,54.6 L 34.3,69.5 L 33.7,27.5 Z" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="miter" stroke-linecap="round"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-L5.svg" target="_parent" aria-label="Open BP017, left example 5">
     <title>BP017, left example 5</title>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 33.7,27.5 L 69.7,25.6 L 71.5,70.9 L 51.9,54.6 L 34.3,69.5 L 33.7,27.5 Z" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="miter" stroke-linecap="round"/>
+      <path d="M 27.9,32 L 38.8,30.3 L 51.8,51.3 L 55,27.9 L 67.4,26.6 L 70.7,78.1 L 53.1,63.5 L 39.3,81.5 L 27.9,32 Z" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="miter" stroke-linecap="round"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-L6.svg" target="_parent" aria-label="Open BP017, left example 6">
     <title>BP017, left example 6</title>
@@ -70,38 +70,38 @@
   <a href="BP017D-R2.svg" target="_parent" aria-label="Open BP017, right example 2">
     <title>BP017, right example 2</title>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 21.6,51.8 C 14.6,19.5 55.2,6.4 68.7,32.8 C 75.9,50.5 67.1,64.3 56.4,68.5 C 50.5,51.5 38.7,46.2 21.6,51.8 Z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M 28.1,24 L 70.4,24.2 C 60.7,38.3 59.4,50.9 66.6,66.2 L 28,65.9 L 28.1,24 Z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-R3.svg" target="_parent" aria-label="Open BP017, right example 3">
     <title>BP017, right example 3</title>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 37.8,27.3        C 48.4,32.1 58.8,33.6 67.3,32.1        C 62,42.3 61.9,53.8 63.4,64.2        C 52.6,59.6 41.1,57.6 30.8,61.6        C 36.5,52.1 40.2,39.9 37.8,27.3        Z" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M 21.6,51.8 C 14.6,19.5 55.2,6.4 68.7,32.8 C 75.9,50.5 67.1,64.3 56.4,68.5 C 50.5,51.5 38.7,46.2 21.6,51.8 Z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-R4.svg" target="_parent" aria-label="Open BP017, right example 4">
     <title>BP017, right example 4</title>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 28.1,24 L 70.4,24.2 C 60.7,38.3 59.4,50.9 66.6,66.2 L 28,65.9 L 28.1,24 Z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M 30.4,27.6        C 43.3,37.6 56.2,38.3 69.5,26.8        C 78.5,39.4 78.6,53.4 69.5,65.1        C 57.4,53.5 44.3,52.8 30.7,63.3        C 22.5,53.1 21.2,40.5 30.4,27.6        Z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-R5.svg" target="_parent" aria-label="Open BP017, right example 5">
     <title>BP017, right example 5</title>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 30.4,27.6        C 43.3,37.6 56.2,38.3 69.5,26.8        C 78.5,39.4 78.6,53.4 69.5,65.1        C 57.4,53.5 44.3,52.8 30.7,63.3        C 22.5,53.1 21.2,40.5 30.4,27.6        Z" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+      <path d="M 37.8,27.3        C 48.4,32.1 58.8,33.6 67.3,32.1        C 62,42.3 61.9,53.8 63.4,64.2        C 52.6,59.6 41.1,57.6 30.8,61.6        C 36.5,52.1 40.2,39.9 37.8,27.3        Z" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP017D-R6.svg" target="_parent" aria-label="Open BP017, right example 6">
     <title>BP017, right example 6</title>

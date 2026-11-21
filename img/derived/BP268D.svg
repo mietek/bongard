@@ -7,82 +7,93 @@
   <a href="BP268D-L1.svg" target="_parent" aria-label="Open BP268, left example 1">
     <title>BP268, left example 1</title>
     <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <g aria-label="J" transform="translate(33 66) scale(0.0227273 -0.0251924) translate(-31 20)">
-        <path transform="translate(0 0)" d="M524 -20Q305 -20 187.5 75.0Q70 170 31 382L324 425Q342 316 391.0 263.5Q440 211 526 211Q614 211 659.5 270.0Q705 329 705 439V1178H424V1409H999V446Q999 226 874.0 103.0Q749 -20 524 -20Z"/>
-      </g>
+      <path d="M44.88 39.88L45.12 64.88L51.88 64.88L51.88 30.12L46.12 30.12L46.12 31.88L45.12 32.12C44.2 34.31 41.94 34.98 40.88 37.12C39.77 37.05 38.98 36.96 38.88 38.12C38.17 38.25 36.76 37.68 37.12 38.88C35.08 39.46 36.58 42.96 36.12 44.88C37.14 45.2 36.66 44.32 37.12 43.88C38.34 43.72 40.09 44.45 40.12 42.88C42.43 43.45 42.12 41.06 43.88 40.88C43.67 40.15 44.15 39.67 44.88 39.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
     </svg>
-    <rect x="7" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7.0" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP268D-L2.svg" target="_parent" aria-label="Open BP268, left example 2">
     <title>BP268, left example 2</title>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="L" transform="translate(36 65) scale(0.0228354 -0.0248403) translate(-137 0)">
-        <path transform="translate(0 0)" d="M137 0V1409H432V228H1188V0Z"/>
-      </g>
-    </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP268D-L3.svg" target="_parent" aria-label="Open BP268, left example 3">
-    <title>BP268, left example 3</title>
-    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="N" transform="translate(36 65) scale(0.0224252 -0.0248403) translate(-137 0)">
-        <path transform="translate(0 0)" d="M995 0 381 1085Q399 927 399 831V0H137V1409H474L1097 315Q1079 466 1079 590V1409H1341V0Z"/>
-      </g>
-    </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP268D-L4.svg" target="_parent" aria-label="Open BP268, left example 4">
-    <title>BP268, left example 4</title>
-    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <path d="M44.88 39.88L45.12 64.88L51.88 64.88L51.88 30.12L46.12 30.12L46.12 31.88L45.12 32.12C44.2 34.31 41.94 34.98 40.88 37.12C39.77 37.05 38.98 36.96 38.88 38.12C38.17 38.25 36.76 37.68 37.12 38.88C35.08 39.46 36.58 42.96 36.12 44.88C37.14 45.2 36.66 44.32 37.12 43.88C38.34 43.72 40.09 44.45 40.12 42.88C42.43 43.45 42.12 41.06 43.88 40.88C43.67 40.15 44.15 39.67 44.88 39.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-    </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP268D-L5.svg" target="_parent" aria-label="Open BP268, left example 5">
-    <title>BP268, left example 5</title>
-    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116.0" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <g aria-label="É" transform="translate(36 65) scale(0.0226284 -0.0247934) translate(-137 0)">
         <path transform="translate(0 0)" d="M137 0V1409H1245V1181H432V827H1184V599H432V228H1286V0ZM517 1530V1561L769 1815H1027V1772L687 1530Z"/>
       </g>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115.0" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP268D-L6.svg" target="_parent" aria-label="Open BP268, left example 6">
-    <title>BP268, left example 6</title>
-    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP268D-L3.svg" target="_parent" aria-label="Open BP268, left example 3">
+    <title>BP268, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <g aria-label="i" transform="translate(45 65) scale(0.0249110 -0.0235849) translate(-143 0)">
         <path transform="translate(0 0)" d="M143 1277V1484H424V1277ZM143 0V1082H424V0Z"/>
       </g>
     </svg>
-    <rect x="115" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP268D-L4.svg" target="_parent" aria-label="Open BP268, left example 4">
+    <title>BP268, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="J" transform="translate(33 66) scale(0.0227273 -0.0251924) translate(-31 20)">
+        <path transform="translate(0 0)" d="M524 -20Q305 -20 187.5 75.0Q70 170 31 382L324 425Q342 316 391.0 263.5Q440 211 526 211Q614 211 659.5 270.0Q705 329 705 439V1178H424V1409H999V446Q999 226 874.0 103.0Q749 -20 524 -20Z"/>
+      </g>
+    </svg>
+    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP268D-L5.svg" target="_parent" aria-label="Open BP268, left example 5">
+    <title>BP268, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8.0" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="L" transform="translate(36 65) scale(0.0228354 -0.0248403) translate(-137 0)">
+        <path transform="translate(0 0)" d="M137 0V1409H432V228H1188V0Z"/>
+      </g>
+    </svg>
+    <rect x="7.0" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP268D-L6.svg" target="_parent" aria-label="Open BP268, left example 6">
+    <title>BP268, left example 6</title>
+    <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116.0" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="N" transform="translate(36 65) scale(0.0224252 -0.0248403) translate(-137 0)">
+        <path transform="translate(0 0)" d="M995 0 381 1085Q399 927 399 831V0H137V1409H474L1097 315Q1079 466 1079 590V1409H1341V0Z"/>
+      </g>
+    </svg>
+    <rect x="115.0" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP268D-R1.svg" target="_parent" aria-label="Open BP268, right example 1">
     <title>BP268, right example 1</title>
     <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <g aria-label="…" transform="translate(31 65) scale(0.0245129 -0.0229508) translate(-225 0)">
+        <path transform="translate(0 0)" d="M1528 0V305H1816V0ZM880 0V305H1166V0ZM225 0V305H513V0Z"/>
+      </g>
+    </svg>
+    <rect x="300" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP268D-R2.svg" target="_parent" aria-label="Open BP268, right example 2">
+    <title>BP268, right example 2</title>
+    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409.0" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <g aria-label="=" transform="translate(38 54) scale(0.0233690 -0.0206718) translate(-85 -291)">
         <path transform="translate(0 0)" d="M85 842V1065H1112V842ZM85 291V512H1112V291Z"/>
       </g>
     </svg>
-    <rect x="300" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP268D-R2.svg" target="_parent" aria-label="Open BP268, right example 2">
-    <title>BP268, right example 2</title>
-    <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP268D-R3.svg" target="_parent" aria-label="Open BP268, right example 3">
+    <title>BP268, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="69" cy="57" rx="7.08" ry="9.11" transform="rotate(0 69 57)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="69" cy="57" rx="2.34" ry="5.5" transform="rotate(0 69 57)" fill="white"/>
@@ -92,18 +103,7 @@
       <ellipse cx="34" cy="39" rx="7.08" ry="9.11" transform="rotate(0 34 39)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <ellipse cx="34" cy="39" rx="2.34" ry="5.5" transform="rotate(0 34 39)" fill="white"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP268D-R3.svg" target="_parent" aria-label="Open BP268, right example 3">
-    <title>BP268, right example 3</title>
-    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <g aria-label="…" transform="translate(31 65) scale(0.0245129 -0.0229508) translate(-225 0)">
-        <path transform="translate(0 0)" d="M1528 0V305H1816V0ZM880 0V305H1166V0ZM225 0V305H513V0Z"/>
-      </g>
-    </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP268D-R4.svg" target="_parent" aria-label="Open BP268, right example 4">
     <title>BP268, right example 4</title>

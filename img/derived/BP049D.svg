@@ -29,51 +29,7 @@
   <a href="BP049D-L2.svg" target="_parent" aria-label="Open BP049, left example 2">
     <title>BP049, left example 2</title>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <ellipse cx="36.5" cy="77" rx="2.55" ry="3.03" transform="rotate(0 36.5 77)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <rect x="35.88" y="75.88" width="2.25" height="2.25" fill="white"/>
-      <ellipse cx="17.69" cy="46.63" rx="2.57" ry="2.88" transform="rotate(4.39 17.69 46.63)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <rect x="15.88" y="45.88" width="2.25" height="2.25" fill="white"/>
-      <path d="M48.62 69.88L51.88 69.88L52.12 68.88L59.88 68.88L60.12 67.88L78.88 67.88C78.6 65.65 82.33 68.07 82.12 65.88L82.88 65.88L82.88 58.12L81.88 57.88L81.88 38.12L80.88 37.88L80.88 29.12C80.15 29.33 79.67 28.85 79.88 28.12L68.12 28.12L67.88 29.12L58.12 29.12L57.88 30.12L45.12 30.12L45.12 37.88L46.12 38.12L46.12 55.88L47.12 56.12L47.12 65.88C49.38 65.62 47.1 69.6 48.62 69.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <path d="M78.88 29.88L79.12 35.88L80.12 36.12L80.12 59.88L81.12 60.12L81.12 64.88L76.12 65.12L75.88 66.12L62.12 66.12L61.88 67.12L52.12 67.12C52.49 68.47 50.95 68.09 50.12 68.12C49.86 67.26 49.74 67.14 48.88 66.88L48.88 58.12L47.88 57.88L47.88 40.12C45.04 39.84 49.65 38.15 46.88 37.88L46.88 32.12L61.88 31.88L62.12 30.88L71.88 30.88L72.12 29.88L78.88 29.88Z" fill="white"/>
-      <ellipse cx="73.05" cy="55.92" rx="2.82" ry="3.14" transform="rotate(77.32 73.05 55.92)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <ellipse cx="73.1" cy="55.71" rx="1.2" ry="1.77" transform="rotate(16.19 73.1 55.71)" fill="white"/>
-      <circle cx="65.5" cy="52.28" r="2.66" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <ellipse cx="65.83" cy="52.17" rx="1.02" ry="1.37" transform="rotate(135 65.83 52.17)" fill="white"/>
-      <circle cx="73.5" cy="47.72" r="2.66" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <rect x="71.88" y="45.88" width="2.25" height="3.25" fill="white"/>
-      <ellipse cx="33.29" cy="18.29" rx="2.55" ry="3.02" transform="rotate(93 33.29 18.29)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <rect x="31.88" y="16.88" width="2.25" height="2.25" fill="white"/>
-    </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP049D-L3.svg" target="_parent" aria-label="Open BP049, left example 3">
-    <title>BP049, left example 3</title>
-    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <ellipse cx="55.36" cy="78.3" rx="2.47" ry="3.27" transform="rotate(1.69 55.36 78.3)" fill="black"/>
-      <ellipse cx="55.17" cy="78.17" rx="0.93" ry="1.3" transform="rotate(45 55.17 78.17)" fill="white"/>
-      <circle cx="19.1" cy="28.46" r="2.62" fill="black"/>
-      <circle cx="19" cy="28" r="1.21" fill="white"/>
-      <ellipse cx="79.77" cy="21.69" rx="2.66" ry="2.9" transform="rotate(9.17 79.77 21.69)" fill="black"/>
-      <ellipse cx="79.5" cy="22" rx="0.67" ry="1.14" transform="rotate(0 79.5 22)" fill="white"/>
-      <path d="M46.62 13.12L45.12 14.38C43.1 21.74 40.7 28.9 37.12 35.38C36.37 41.41 33.66 46.36 31.12 51.38L31.12 54.62L29.12 57.38L29.12 60.88C27.08 61.47 26.91 63.55 27.12 65.62C24.38 67 25.42 70.46 24.12 72.62C43.45 72.93 63.97 73.49 82.62 71.88L82.88 70.38C79.17 64.93 75.36 59.54 72.88 53.38L70.88 52.62C70.94 49.51 68.63 47.75 66.88 45.62L66.88 43.38L64.88 42.62L64.88 40.38C63.1 38.31 60.81 36.5 60.88 33.38L58.88 32.62L58.88 30.38L46.62 13.12Z" fill="black"/>
-      <path d="M46.88 16.88L49.12 18.38L49.12 20.62L51.12 21.38L51.12 23.62C56.69 30.77 61.25 38.5 65.12 46.62L67.12 47.38L67.12 49.62C72.39 54.82 74.08 62.03 79.12 67.38L78.62 70.12L76.62 71.12L74.62 70.12C59.77 71.9 42.28 71.29 26.88 70.62C26.09 66.63 29.76 65.16 28.88 61.12L30.88 59.62C34.12 47.44 39.75 36.6 42.88 24.38L44.88 22.62L44.88 19.38L46.88 16.88Z" fill="white"/>
-      <ellipse cx="52.73" cy="56.07" rx="2.55" ry="3.21" transform="rotate(6.54 52.73 56.07)" fill="black"/>
-      <circle cx="53" cy="56" r="1.21" fill="white"/>
-      <circle cx="47.92" cy="50.22" r="2.85" fill="black"/>
-      <circle cx="48" cy="50" r="1.21" fill="white"/>
-      <ellipse cx="55.75" cy="47.75" rx="2.86" ry="3.07" transform="rotate(135 55.75 47.75)" fill="black"/>
-      <ellipse cx="55.5" cy="47" rx="0.67" ry="1.14" transform="rotate(0 55.5 47)" fill="white"/>
-    </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP049D-L4.svg" target="_parent" aria-label="Open BP049, left example 4">
-    <title>BP049, left example 4</title>
-    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <circle cx="13.7" cy="75.5" r="2.62" fill="black"/>
       <ellipse cx="13.9" cy="75.71" rx="1.15" ry="1.68" transform="rotate(162.09 13.9 75.71)" fill="white"/>
@@ -90,12 +46,34 @@
       <ellipse cx="24.33" cy="28.63" rx="2.54" ry="2.84" transform="rotate(173.85 24.33 28.63)" fill="black"/>
       <ellipse cx="24.78" cy="28.5" rx="1.12" ry="1.52" transform="rotate(0 24.78 28.5)" fill="white"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP049D-L5.svg" target="_parent" aria-label="Open BP049, left example 5">
-    <title>BP049, left example 5</title>
-    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP049D-L3.svg" target="_parent" aria-label="Open BP049, left example 3">
+    <title>BP049, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="36.5" cy="77" rx="2.55" ry="3.03" transform="rotate(0 36.5 77)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="35.88" y="75.88" width="2.25" height="2.25" fill="white"/>
+      <ellipse cx="17.69" cy="46.63" rx="2.57" ry="2.88" transform="rotate(4.39 17.69 46.63)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="15.88" y="45.88" width="2.25" height="2.25" fill="white"/>
+      <path d="M48.62 69.88L51.88 69.88L52.12 68.88L59.88 68.88L60.12 67.88L78.88 67.88C78.6 65.65 82.33 68.07 82.12 65.88L82.88 65.88L82.88 58.12L81.88 57.88L81.88 38.12L80.88 37.88L80.88 29.12C80.15 29.33 79.67 28.85 79.88 28.12L68.12 28.12L67.88 29.12L58.12 29.12L57.88 30.12L45.12 30.12L45.12 37.88L46.12 38.12L46.12 55.88L47.12 56.12L47.12 65.88C49.38 65.62 47.1 69.6 48.62 69.88Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M78.88 29.88L79.12 35.88L80.12 36.12L80.12 59.88L81.12 60.12L81.12 64.88L76.12 65.12L75.88 66.12L62.12 66.12L61.88 67.12L52.12 67.12C52.49 68.47 50.95 68.09 50.12 68.12C49.86 67.26 49.74 67.14 48.88 66.88L48.88 58.12L47.88 57.88L47.88 40.12C45.04 39.84 49.65 38.15 46.88 37.88L46.88 32.12L61.88 31.88L62.12 30.88L71.88 30.88L72.12 29.88L78.88 29.88Z" fill="white"/>
+      <ellipse cx="73.05" cy="55.92" rx="2.82" ry="3.14" transform="rotate(77.32 73.05 55.92)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="73.1" cy="55.71" rx="1.2" ry="1.77" transform="rotate(16.19 73.1 55.71)" fill="white"/>
+      <circle cx="65.5" cy="52.28" r="2.66" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="65.83" cy="52.17" rx="1.02" ry="1.37" transform="rotate(135 65.83 52.17)" fill="white"/>
+      <circle cx="73.5" cy="47.72" r="2.66" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="71.88" y="45.88" width="2.25" height="3.25" fill="white"/>
+      <ellipse cx="33.29" cy="18.29" rx="2.55" ry="3.02" transform="rotate(93 33.29 18.29)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="31.88" y="16.88" width="2.25" height="2.25" fill="white"/>
+    </svg>
+    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP049D-L4.svg" target="_parent" aria-label="Open BP049, left example 4">
+    <title>BP049, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="26.5" cy="78.81" rx="2.56" ry="2.78" transform="rotate(0 26.5 78.81)" fill="black"/>
       <circle cx="26.5" cy="78.5" r="1.43" fill="white"/>
@@ -112,7 +90,29 @@
       <ellipse cx="81.71" cy="17.41" rx="2.57" ry="2.91" transform="rotate(112.53 81.71 17.41)" fill="black"/>
       <ellipse cx="81.83" cy="17.17" rx="0.93" ry="1.3" transform="rotate(135 81.83 17.17)" fill="white"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP049D-L5.svg" target="_parent" aria-label="Open BP049, left example 5">
+    <title>BP049, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="55.36" cy="78.3" rx="2.47" ry="3.27" transform="rotate(1.69 55.36 78.3)" fill="black"/>
+      <ellipse cx="55.17" cy="78.17" rx="0.93" ry="1.3" transform="rotate(45 55.17 78.17)" fill="white"/>
+      <circle cx="19.1" cy="28.46" r="2.62" fill="black"/>
+      <circle cx="19" cy="28" r="1.21" fill="white"/>
+      <ellipse cx="79.77" cy="21.69" rx="2.66" ry="2.9" transform="rotate(9.17 79.77 21.69)" fill="black"/>
+      <ellipse cx="79.5" cy="22" rx="0.67" ry="1.14" transform="rotate(0 79.5 22)" fill="white"/>
+      <path d="M46.62 13.12L45.12 14.38C43.1 21.74 40.7 28.9 37.12 35.38C36.37 41.41 33.66 46.36 31.12 51.38L31.12 54.62L29.12 57.38L29.12 60.88C27.08 61.47 26.91 63.55 27.12 65.62C24.38 67 25.42 70.46 24.12 72.62C43.45 72.93 63.97 73.49 82.62 71.88L82.88 70.38C79.17 64.93 75.36 59.54 72.88 53.38L70.88 52.62C70.94 49.51 68.63 47.75 66.88 45.62L66.88 43.38L64.88 42.62L64.88 40.38C63.1 38.31 60.81 36.5 60.88 33.38L58.88 32.62L58.88 30.38L46.62 13.12Z" fill="black"/>
+      <path d="M46.88 16.88L49.12 18.38L49.12 20.62L51.12 21.38L51.12 23.62C56.69 30.77 61.25 38.5 65.12 46.62L67.12 47.38L67.12 49.62C72.39 54.82 74.08 62.03 79.12 67.38L78.62 70.12L76.62 71.12L74.62 70.12C59.77 71.9 42.28 71.29 26.88 70.62C26.09 66.63 29.76 65.16 28.88 61.12L30.88 59.62C34.12 47.44 39.75 36.6 42.88 24.38L44.88 22.62L44.88 19.38L46.88 16.88Z" fill="white"/>
+      <ellipse cx="52.73" cy="56.07" rx="2.55" ry="3.21" transform="rotate(6.54 52.73 56.07)" fill="black"/>
+      <circle cx="53" cy="56" r="1.21" fill="white"/>
+      <circle cx="47.92" cy="50.22" r="2.85" fill="black"/>
+      <circle cx="48" cy="50" r="1.21" fill="white"/>
+      <ellipse cx="55.75" cy="47.75" rx="2.86" ry="3.07" transform="rotate(135 55.75 47.75)" fill="black"/>
+      <ellipse cx="55.5" cy="47" rx="0.67" ry="1.14" transform="rotate(0 55.5 47)" fill="white"/>
+    </svg>
+    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP049D-L6.svg" target="_parent" aria-label="Open BP049, left example 6">
     <title>BP049, left example 6</title>
@@ -161,51 +161,7 @@
   <a href="BP049D-R2.svg" target="_parent" aria-label="Open BP049, right example 2">
     <title>BP049, right example 2</title>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <ellipse cx="46.99" cy="77.23" rx="2.82" ry="3.16" transform="rotate(93.1 46.99 77.23)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <rect x="45.88" y="75.88" width="2.25" height="3.25" fill="white"/>
-      <circle cx="46.85" cy="69.14" r="2.92" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <rect x="45.88" y="66.88" width="2.25" height="4.25" fill="white"/>
-      <ellipse cx="47.09" cy="60.38" rx="2.86" ry="3.13" transform="rotate(133.25 47.09 60.38)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <rect x="45.88" y="58.88" width="2.25" height="2.25" fill="white"/>
-      <path d="M19.12 40.62C19.31 41.03 20.55 40.82 20.12 41.88C20.95 41.91 22.49 41.53 22.12 42.88C22.85 42.67 23.33 43.15 23.12 43.88C23.85 43.67 24.33 44.15 24.12 44.88C24.95 44.91 26.49 44.53 26.12 45.88C26.85 45.67 27.33 46.15 27.12 46.88C28.14 47.11 30.4 46.18 30.12 47.88C30.95 47.91 32.49 47.53 32.12 48.88C32.95 48.91 34.49 48.53 34.12 49.88C34.85 49.67 35.33 50.15 35.12 50.88C36.39 51.23 39.19 49.99 39.12 51.88C39.95 51.91 41.49 51.53 41.12 52.88L59.88 52.88C59.53 50.97 62.37 52.74 62.12 50.88L65.88 50.88L66.12 49.88L67.88 49.88L68.12 48.88L69.88 48.88L70.12 47.88C71.23 47.95 72.02 48.04 72.12 46.88C74.43 47.45 74.12 45.06 75.88 44.88C75.67 44.15 76.15 43.67 76.88 43.88C76.67 43.15 77.15 42.67 77.88 42.88L78.12 41.88L79.88 41.88C79.91 41.05 79.53 39.51 80.88 39.88C80.67 39.15 81.15 38.67 81.88 38.88C81.91 38.05 81.53 36.51 82.88 36.88C82.67 36.15 83.15 35.67 83.88 35.88L83.88 30.12L82.88 29.88L82.88 28.12L82.12 28.12C81.06 25.98 78.8 25.31 77.88 23.12L76.12 23.12L75.88 21.12L74.12 21.12C74.18 19.84 72.65 20.47 72.88 19.12L70.12 19.12C70.18 17.84 68.65 18.47 68.88 17.12L66.12 17.12L65.88 16.12C65.05 16.09 63.51 16.47 63.88 15.12L60.12 15.12C59.98 13.32 57.53 14.43 56.12 14.12L55.88 13.12L43.12 13.12C43.4 14.82 41.14 13.89 40.12 14.12C39.93 16.12 36.67 14.69 35.12 15.12C35.33 15.85 34.85 16.33 34.12 16.12C34.19 18.01 31.39 16.77 30.12 17.12C30.33 17.85 29.85 18.33 29.12 18.12C29.49 19.47 27.95 19.09 27.12 19.12C27.33 19.85 26.85 20.33 26.12 20.12C26.49 21.47 24.95 21.09 24.12 21.12C24.33 21.85 23.85 22.33 23.12 22.12C23.49 23.47 21.95 23.09 21.12 23.12C20.94 24.88 18.55 24.57 19.12 26.88C17.96 26.98 18.05 27.77 18.12 28.88C16.84 28.82 17.47 30.35 16.12 30.12L16.12 36.88C19.37 35.74 17.01 40 19.12 40.12L19.12 40.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <path d="M82.12 33.62C82.22 34.39 82.2 35.45 81.12 35.12C81.33 35.85 80.85 36.33 80.12 36.12C80.26 37.77 80.4 39.82 78.12 39.12C78.09 39.95 78.47 41.49 77.12 41.12C77.33 41.85 76.85 42.33 76.12 42.12C76.49 43.47 74.95 43.09 74.12 43.12C74.33 43.85 73.85 44.33 73.12 44.12C73.49 45.47 71.95 45.09 71.12 45.12C71.35 46.47 69.82 45.84 69.88 47.12L67.12 47.12C67.35 48.47 65.82 47.84 65.88 49.12L62.12 49.12C62.47 51.03 59.63 49.26 59.88 51.12L43.12 51.12L42.88 50.12L40.12 50.12L39.88 49.12C38.61 48.77 35.81 50.01 35.88 48.12C35.05 48.09 33.51 48.47 33.88 47.12C32.86 46.89 30.6 47.82 30.88 46.12C30.15 46.33 29.67 45.85 29.88 45.12C29.05 45.09 27.51 45.47 27.88 44.12C27.15 44.33 26.67 43.85 26.88 43.12L24.12 43.12L23.88 41.12C22.3 41.52 21.48 40.7 21.88 39.12C20.3 39.52 19.48 38.7 19.88 37.12C17.97 37.47 19.74 34.63 17.88 34.88L17.88 31.12C19.04 31.02 18.95 30.23 18.88 29.12C20.04 29.02 19.95 28.23 19.88 27.12L21.88 26.88L21.88 25.12L23.88 24.88C23.65 23.53 25.18 24.16 25.12 22.88L26.88 22.88C26.65 21.53 28.18 22.16 28.12 20.88C30.14 21.47 29.78 19.26 31.88 19.88C31.51 18.53 33.05 18.91 33.88 18.88C33.51 17.53 35.05 17.91 35.88 17.88C35.81 15.99 38.61 17.23 39.88 16.88C39.81 14.99 42.61 16.23 43.88 15.88L44.12 14.88L55.88 14.88L56.12 15.88C57.14 16.11 59.4 15.18 59.12 16.88L63.88 16.88L64.12 17.88L65.88 17.88C65.63 19.74 68.47 17.97 68.12 19.88C68.95 19.91 70.49 19.53 70.12 20.88C70.95 20.91 72.49 20.53 72.12 21.88C72.85 21.67 73.33 22.15 73.12 22.88C73.95 22.91 75.49 22.53 75.12 23.88C76.69 24.08 76.6 25.77 78.12 26.12L78.12 26.88L80.12 27.12C79.53 29.14 81.74 28.78 81.12 30.88C82.75 30.56 81.93 32.67 82.12 33.62Z" fill="white"/>
-      <ellipse cx="32.62" cy="37.1" rx="2.74" ry="3.12" transform="rotate(73.5 32.62 37.1)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <ellipse cx="32.22" cy="37.5" rx="1.19" ry="1.6" transform="rotate(0 32.22 37.5)" fill="white"/>
-      <ellipse cx="70.31" cy="34.63" rx="2.57" ry="2.88" transform="rotate(175.61 70.31 34.63)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <circle cx="70.5" cy="34.78" r="1.7" fill="white"/>
-      <ellipse cx="49.6" cy="25.51" rx="2.61" ry="3.01" transform="rotate(164.51 49.6 25.51)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
-      <ellipse cx="49.5" cy="25.78" rx="1.19" ry="1.6" transform="rotate(90 49.5 25.78)" fill="white"/>
-    </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP049D-R3.svg" target="_parent" aria-label="Open BP049, right example 3">
-    <title>BP049, right example 3</title>
-    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <ellipse cx="25.37" cy="74.27" rx="2.62" ry="2.91" transform="rotate(12 25.37 74.27)" fill="black"/>
-      <ellipse cx="24.9" cy="74.71" rx="1.15" ry="1.68" transform="rotate(162.09 24.9 74.71)" fill="white"/>
-      <circle cx="11.87" cy="71.87" r="2.9" fill="black"/>
-      <circle cx="12" cy="72" r="1.21" fill="white"/>
-      <ellipse cx="18.45" cy="64.88" rx="2.78" ry="3.06" transform="rotate(20.29 18.45 64.88)" fill="black"/>
-      <ellipse cx="18.5" cy="65" rx="1.24" ry="1.79" transform="rotate(90 18.5 65)" fill="white"/>
-      <ellipse cx="62.65" cy="40.05" rx="24.59" ry="26.73" transform="rotate(1.68 62.65 40.05)" fill="black"/>
-      <ellipse cx="62.77" cy="39.72" rx="22.59" ry="24.56" transform="rotate(0.49 62.77 39.72)" fill="white"/>
-      <ellipse cx="61.03" cy="57.64" rx="2.73" ry="2.95" transform="rotate(102.42 61.03 57.64)" fill="black"/>
-      <ellipse cx="61.1" cy="57.71" rx="1.15" ry="1.68" transform="rotate(17.91 61.1 57.71)" fill="white"/>
-      <ellipse cx="53.96" cy="34.13" rx="2.72" ry="3.08" transform="rotate(121.27 53.96 34.13)" fill="black"/>
-      <circle cx="54" cy="34" r="1.21" fill="white"/>
-      <circle cx="75.92" cy="33.22" r="2.85" fill="black"/>
-      <circle cx="76" cy="33" r="1.21" fill="white"/>
-    </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP049D-R4.svg" target="_parent" aria-label="Open BP049, right example 4">
-    <title>BP049, right example 4</title>
-    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="76.92" cy="73.21" rx="2.84" ry="3.04" transform="rotate(121.17 76.92 73.21)" fill="black"/>
       <ellipse cx="77" cy="73.5" rx="1.24" ry="1.79" transform="rotate(0 77 73.5)" fill="white"/>
@@ -222,12 +178,34 @@
       <ellipse cx="45.08" cy="34.65" rx="2.83" ry="3.11" transform="rotate(48.98 45.08 34.65)" fill="black"/>
       <circle cx="45" cy="35" r="1.21" fill="white"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP049D-R5.svg" target="_parent" aria-label="Open BP049, right example 5">
-    <title>BP049, right example 5</title>
-    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP049D-R3.svg" target="_parent" aria-label="Open BP049, right example 3">
+    <title>BP049, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="46.99" cy="77.23" rx="2.82" ry="3.16" transform="rotate(93.1 46.99 77.23)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="45.88" y="75.88" width="2.25" height="3.25" fill="white"/>
+      <circle cx="46.85" cy="69.14" r="2.92" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="45.88" y="66.88" width="2.25" height="4.25" fill="white"/>
+      <ellipse cx="47.09" cy="60.38" rx="2.86" ry="3.13" transform="rotate(133.25 47.09 60.38)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <rect x="45.88" y="58.88" width="2.25" height="2.25" fill="white"/>
+      <path d="M19.12 40.62C19.31 41.03 20.55 40.82 20.12 41.88C20.95 41.91 22.49 41.53 22.12 42.88C22.85 42.67 23.33 43.15 23.12 43.88C23.85 43.67 24.33 44.15 24.12 44.88C24.95 44.91 26.49 44.53 26.12 45.88C26.85 45.67 27.33 46.15 27.12 46.88C28.14 47.11 30.4 46.18 30.12 47.88C30.95 47.91 32.49 47.53 32.12 48.88C32.95 48.91 34.49 48.53 34.12 49.88C34.85 49.67 35.33 50.15 35.12 50.88C36.39 51.23 39.19 49.99 39.12 51.88C39.95 51.91 41.49 51.53 41.12 52.88L59.88 52.88C59.53 50.97 62.37 52.74 62.12 50.88L65.88 50.88L66.12 49.88L67.88 49.88L68.12 48.88L69.88 48.88L70.12 47.88C71.23 47.95 72.02 48.04 72.12 46.88C74.43 47.45 74.12 45.06 75.88 44.88C75.67 44.15 76.15 43.67 76.88 43.88C76.67 43.15 77.15 42.67 77.88 42.88L78.12 41.88L79.88 41.88C79.91 41.05 79.53 39.51 80.88 39.88C80.67 39.15 81.15 38.67 81.88 38.88C81.91 38.05 81.53 36.51 82.88 36.88C82.67 36.15 83.15 35.67 83.88 35.88L83.88 30.12L82.88 29.88L82.88 28.12L82.12 28.12C81.06 25.98 78.8 25.31 77.88 23.12L76.12 23.12L75.88 21.12L74.12 21.12C74.18 19.84 72.65 20.47 72.88 19.12L70.12 19.12C70.18 17.84 68.65 18.47 68.88 17.12L66.12 17.12L65.88 16.12C65.05 16.09 63.51 16.47 63.88 15.12L60.12 15.12C59.98 13.32 57.53 14.43 56.12 14.12L55.88 13.12L43.12 13.12C43.4 14.82 41.14 13.89 40.12 14.12C39.93 16.12 36.67 14.69 35.12 15.12C35.33 15.85 34.85 16.33 34.12 16.12C34.19 18.01 31.39 16.77 30.12 17.12C30.33 17.85 29.85 18.33 29.12 18.12C29.49 19.47 27.95 19.09 27.12 19.12C27.33 19.85 26.85 20.33 26.12 20.12C26.49 21.47 24.95 21.09 24.12 21.12C24.33 21.85 23.85 22.33 23.12 22.12C23.49 23.47 21.95 23.09 21.12 23.12C20.94 24.88 18.55 24.57 19.12 26.88C17.96 26.98 18.05 27.77 18.12 28.88C16.84 28.82 17.47 30.35 16.12 30.12L16.12 36.88C19.37 35.74 17.01 40 19.12 40.12L19.12 40.62Z" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <path d="M82.12 33.62C82.22 34.39 82.2 35.45 81.12 35.12C81.33 35.85 80.85 36.33 80.12 36.12C80.26 37.77 80.4 39.82 78.12 39.12C78.09 39.95 78.47 41.49 77.12 41.12C77.33 41.85 76.85 42.33 76.12 42.12C76.49 43.47 74.95 43.09 74.12 43.12C74.33 43.85 73.85 44.33 73.12 44.12C73.49 45.47 71.95 45.09 71.12 45.12C71.35 46.47 69.82 45.84 69.88 47.12L67.12 47.12C67.35 48.47 65.82 47.84 65.88 49.12L62.12 49.12C62.47 51.03 59.63 49.26 59.88 51.12L43.12 51.12L42.88 50.12L40.12 50.12L39.88 49.12C38.61 48.77 35.81 50.01 35.88 48.12C35.05 48.09 33.51 48.47 33.88 47.12C32.86 46.89 30.6 47.82 30.88 46.12C30.15 46.33 29.67 45.85 29.88 45.12C29.05 45.09 27.51 45.47 27.88 44.12C27.15 44.33 26.67 43.85 26.88 43.12L24.12 43.12L23.88 41.12C22.3 41.52 21.48 40.7 21.88 39.12C20.3 39.52 19.48 38.7 19.88 37.12C17.97 37.47 19.74 34.63 17.88 34.88L17.88 31.12C19.04 31.02 18.95 30.23 18.88 29.12C20.04 29.02 19.95 28.23 19.88 27.12L21.88 26.88L21.88 25.12L23.88 24.88C23.65 23.53 25.18 24.16 25.12 22.88L26.88 22.88C26.65 21.53 28.18 22.16 28.12 20.88C30.14 21.47 29.78 19.26 31.88 19.88C31.51 18.53 33.05 18.91 33.88 18.88C33.51 17.53 35.05 17.91 35.88 17.88C35.81 15.99 38.61 17.23 39.88 16.88C39.81 14.99 42.61 16.23 43.88 15.88L44.12 14.88L55.88 14.88L56.12 15.88C57.14 16.11 59.4 15.18 59.12 16.88L63.88 16.88L64.12 17.88L65.88 17.88C65.63 19.74 68.47 17.97 68.12 19.88C68.95 19.91 70.49 19.53 70.12 20.88C70.95 20.91 72.49 20.53 72.12 21.88C72.85 21.67 73.33 22.15 73.12 22.88C73.95 22.91 75.49 22.53 75.12 23.88C76.69 24.08 76.6 25.77 78.12 26.12L78.12 26.88L80.12 27.12C79.53 29.14 81.74 28.78 81.12 30.88C82.75 30.56 81.93 32.67 82.12 33.62Z" fill="white"/>
+      <ellipse cx="32.62" cy="37.1" rx="2.74" ry="3.12" transform="rotate(73.5 32.62 37.1)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="32.22" cy="37.5" rx="1.19" ry="1.6" transform="rotate(0 32.22 37.5)" fill="white"/>
+      <ellipse cx="70.31" cy="34.63" rx="2.57" ry="2.88" transform="rotate(175.61 70.31 34.63)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <circle cx="70.5" cy="34.78" r="1.7" fill="white"/>
+      <ellipse cx="49.6" cy="25.51" rx="2.61" ry="3.01" transform="rotate(164.51 49.6 25.51)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+      <ellipse cx="49.5" cy="25.78" rx="1.19" ry="1.6" transform="rotate(90 49.5 25.78)" fill="white"/>
+    </svg>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP049D-R4.svg" target="_parent" aria-label="Open BP049, right example 4">
+    <title>BP049, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="26.1" cy="41.78" rx="2.85" ry="3.07" transform="rotate(122.06 26.1 41.78)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <rect x="24.88" y="39.88" width="2.25" height="3.25" fill="white"/>
@@ -244,7 +222,29 @@
       <circle cx="57" cy="28.5" r="2.93" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
       <circle cx="57.22" cy="28.5" r="1.7" fill="white"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP049D-R5.svg" target="_parent" aria-label="Open BP049, right example 5">
+    <title>BP049, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="25.37" cy="74.27" rx="2.62" ry="2.91" transform="rotate(12 25.37 74.27)" fill="black"/>
+      <ellipse cx="24.9" cy="74.71" rx="1.15" ry="1.68" transform="rotate(162.09 24.9 74.71)" fill="white"/>
+      <circle cx="11.87" cy="71.87" r="2.9" fill="black"/>
+      <circle cx="12" cy="72" r="1.21" fill="white"/>
+      <ellipse cx="18.45" cy="64.88" rx="2.78" ry="3.06" transform="rotate(20.29 18.45 64.88)" fill="black"/>
+      <ellipse cx="18.5" cy="65" rx="1.24" ry="1.79" transform="rotate(90 18.5 65)" fill="white"/>
+      <ellipse cx="62.65" cy="40.05" rx="24.59" ry="26.73" transform="rotate(1.68 62.65 40.05)" fill="black"/>
+      <ellipse cx="62.77" cy="39.72" rx="22.59" ry="24.56" transform="rotate(0.49 62.77 39.72)" fill="white"/>
+      <ellipse cx="61.03" cy="57.64" rx="2.73" ry="2.95" transform="rotate(102.42 61.03 57.64)" fill="black"/>
+      <ellipse cx="61.1" cy="57.71" rx="1.15" ry="1.68" transform="rotate(17.91 61.1 57.71)" fill="white"/>
+      <ellipse cx="53.96" cy="34.13" rx="2.72" ry="3.08" transform="rotate(121.27 53.96 34.13)" fill="black"/>
+      <circle cx="54" cy="34" r="1.21" fill="white"/>
+      <circle cx="75.92" cy="33.22" r="2.85" fill="black"/>
+      <circle cx="76" cy="33" r="1.21" fill="white"/>
+    </svg>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP049D-R6.svg" target="_parent" aria-label="Open BP049, right example 6">
     <title>BP049, right example 6</title>

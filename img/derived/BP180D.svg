@@ -17,42 +17,42 @@
   <a href="BP180D-L2.svg" target="_parent" aria-label="Open BP180, left example 2">
     <title>BP180, left example 2</title>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <polygon points="35.35,35.12 25.22,51.34 35.21,64.88 51.76,64.88 59.77,50.55 51.87,35.12" fill="black"/>
-      <polygon points="27.16,51.73 31.86,43.88 54.63,43.88 57.93,50.75 50.95,63.12 35.79,63.12" fill="white"/>
-    </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP180D-L3.svg" target="_parent" aria-label="Open BP180, left example 3">
-    <title>BP180, left example 3</title>
-    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <polygon points="31.6,25.12 20.2,54.57 44.42,71.48 49.02,73.96 74.9,53.64 65.44,25.12" fill="black"/>
-      <polygon points="22.2,53.86 27.88,40.62 30.88,30.38 33.1,26.88 63.54,26.88 65.12,28.46 65.12,30.53 63.7,31.96 59.38,34.12 27.62,55.12 24.75,56.41" fill="white"/>
-    </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP180D-L4.svg" target="_parent" aria-label="Open BP180, left example 4">
-    <title>BP180, left example 4</title>
-    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="55" cy="46.48" rx="16.91" ry="27.43" transform="rotate(0.04 55 46.48)" fill="black"/>
       <polygon points="52.6,20.88 56.9,20.88 62.74,23.77 68.08,32.32 70.12,40.38 70.12,52.62 68.22,60.12 42.23,60.12 40.91,56.49 39.88,52.62 40.7,35.63 46.16,24.7" fill="white"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP180D-L5.svg" target="_parent" aria-label="Open BP180, left example 5">
-    <title>BP180, left example 5</title>
-    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP180D-L3.svg" target="_parent" aria-label="Open BP180, left example 3">
+    <title>BP180, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="35.35,35.12 25.22,51.34 35.21,64.88 51.76,64.88 59.77,50.55 51.87,35.12" fill="black"/>
+      <polygon points="27.16,51.73 31.86,43.88 54.63,43.88 57.93,50.75 50.95,63.12 35.79,63.12" fill="white"/>
+    </svg>
+    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP180D-L4.svg" target="_parent" aria-label="Open BP180, left example 4">
+    <title>BP180, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <polygon points="38.58,26.12 23.76,55.71 79.88,68.17 79.88,66.53 39.47,26.12" fill="black"/>
       <polygon points="39.46,27.79 43.12,31.5 43.12,58.41 26.88,54.26 26.88,52.99" fill="white"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP180D-L5.svg" target="_parent" aria-label="Open BP180, left example 5">
+    <title>BP180, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="31.6,25.12 20.2,54.57 44.42,71.48 49.02,73.96 74.9,53.64 65.44,25.12" fill="black"/>
+      <polygon points="22.2,53.86 27.88,40.62 30.88,30.38 33.1,26.88 63.54,26.88 65.12,28.46 65.12,30.53 63.7,31.96 59.38,34.12 27.62,55.12 24.75,56.41" fill="white"/>
+    </svg>
+    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP180D-L6.svg" target="_parent" aria-label="Open BP180, left example 6">
     <title>BP180, left example 6</title>
@@ -77,42 +77,42 @@
   <a href="BP180D-R2.svg" target="_parent" aria-label="Open BP180, right example 2">
     <title>BP180, right example 2</title>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <polygon points="85.88,63.41 78.88,53.62 67.99,36.12 68.24,36.12 40.62,49.12 20.38,57.12 10.12,62.58 10.12,63.88 85.88,63.88" fill="black"/>
-      <path d="M15.88 61.38C30.11 54.76 44.63 49.19 58.38 41.88L59.12 42.38C58.14 49.09 57.26 55.66 55.62 62.12L16.38 62.12L15.88 61.38Z" fill="white"/>
-    </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP180D-R3.svg" target="_parent" aria-label="Open BP180, right example 3">
-    <title>BP180, right example 3</title>
-    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <polygon points="55.63,21.12 48.63,21.12 35.12,57.62 26.12,77.85 26.12,78.88 70.12,78.88" fill="black"/>
-      <polygon points="53.54,22.88 54.65,23.98 65.9,69.12 31.91,69.12 47.88,26.38 50.1,22.88" fill="white"/>
-    </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP180D-R4.svg" target="_parent" aria-label="Open BP180, right example 4">
-    <title>BP180, right example 4</title>
-    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="50.49" cy="47.49" rx="26.38" ry="27.22" transform="rotate(89.24 50.49 47.49)" fill="black"/>
       <path d="M65.12 27.62L36.38 28.12L35.88 27.38C43.59 21.38 57.77 21.21 65.12 27.62Z" fill="white"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP180D-R5.svg" target="_parent" aria-label="Open BP180, right example 5">
-    <title>BP180, right example 5</title>
-    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP180D-R3.svg" target="_parent" aria-label="Open BP180, right example 3">
+    <title>BP180, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="85.88,63.41 78.88,53.62 67.99,36.12 68.24,36.12 40.62,49.12 20.38,57.12 10.12,62.58 10.12,63.88 85.88,63.88" fill="black"/>
+      <path d="M15.88 61.38C30.11 54.76 44.63 49.19 58.38 41.88L59.12 42.38C58.14 49.09 57.26 55.66 55.62 62.12L16.38 62.12L15.88 61.38Z" fill="white"/>
+    </svg>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP180D-R4.svg" target="_parent" aria-label="Open BP180, right example 4">
+    <title>BP180, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <polygon points="54.91,24.62 37.34,20.24 23.09,77.09 64.19,71.18" fill="black"/>
       <path d="M28.88 62.38C31.43 48.83 35.33 36.25 38.38 22.88C43.72 22.81 47.9 24.85 52.62 25.88C55.63 31.08 55.04 38.01 57.12 43.62C48.84 51.91 38.26 55.6 29.62 63.12L28.88 62.38Z" fill="white"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP180D-R5.svg" target="_parent" aria-label="Open BP180, right example 5">
+    <title>BP180, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="55.63,21.12 48.63,21.12 35.12,57.62 26.12,77.85 26.12,78.88 70.12,78.88" fill="black"/>
+      <polygon points="53.54,22.88 54.65,23.98 65.9,69.12 31.91,69.12 47.88,26.38 50.1,22.88" fill="white"/>
+    </svg>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP180D-R6.svg" target="_parent" aria-label="Open BP180, right example 6">
     <title>BP180, right example 6</title>

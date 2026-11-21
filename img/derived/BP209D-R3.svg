@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP209, right example 3</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="11.12" y="8.12" width="79.75" height="79.75" fill="black"/>
-  <rect x="15.88" y="12.88" width="70.25" height="70.25" fill="white"/>
-  <circle cx="72.5" cy="34.5" r="9.54" fill="black"/>
+  <ellipse cx="37" cy="83" rx="6.94" ry="27.41" transform="rotate(90 37 83)" fill="black"/>
+  <ellipse cx="81" cy="76.5" rx="13.87" ry="14.45" transform="rotate(0 81 76.5)" fill="black"/>
+  <circle cx="15.5" cy="63.5" r="9.75" fill="black"/>
+  <ellipse cx="24.5" cy="31.5" rx="12.43" ry="13.46" transform="rotate(90 24.5 31.5)" fill="black"/>
+  <circle cx="39.5" cy="11.5" r="3.68" fill="black"/>
+  <path d="M61.88 40.12C59.15 38.02 56.91 35.16 53.62 34.12C50.03 33.83 46.7 34.31 44.12 35.62C34.57 41.2 35.34 55.28 44.38 60.88L46.62 60.88C55.63 64.92 65.11 55.58 63.88 46.12C64.38 43.52 61.13 42.37 62.12 39.88C70.41 50.19 88.73 50.5 96.88 39.62C98.49 32.33 98.49 21.67 96.88 14.38C94.77 13.25 93.96 10.2 91.38 10.12C80.51 1.05 60.27 8.42 59.12 22.62C57.06 24.33 58.6 28.03 58.12 30.62L59.12 31.38C57.92 35.4 62.41 36.86 61.88 40.12Z" fill="black"/>
+  <circle cx="17.5" cy="8.5" r="5.79" fill="black"/>
 </svg>

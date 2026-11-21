@@ -1,10 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP189, left example 5</title>
   <rect width="98" height="98" fill="white"/>
-  <ellipse cx="23.5" cy="73" rx="6.83" ry="7.51" transform="rotate(90 23.5 73)" fill="black"/>
-  <ellipse cx="23.5" cy="73" rx="5.17" ry="5.58" transform="rotate(90 23.5 73)" fill="white"/>
-  <rect x="28.12" y="54.12" width="12.75" height="11.75" fill="black"/>
-  <rect x="29.88" y="55.88" width="9.25" height="8.25" fill="white"/>
-  <ellipse cx="79.47" cy="20.47" rx="5.41" ry="6.24" transform="rotate(86.94 79.47 20.47)" fill="black"/>
-  <path d="M60.38 10.12L53.12 19.38C53.62 24.43 57.31 27.61 59.38 31.88C64.04 30.61 64.9 25.08 68.88 22.62C68.53 17.3 63.86 14.49 61.62 10.12L60.38 10.12Z" fill="black"/>
+  <rect x="50.12" y="40.12" width="11.75" height="11.75" fill="black"/>
+  <rect x="51.88" y="41.88" width="8.25" height="8.25" fill="white"/>
+  <rect x="34.12" y="40.12" width="11.75" height="11.75" fill="black"/>
+  <rect x="35.88" y="41.88" width="8.25" height="8.25" fill="white"/>
 </svg>

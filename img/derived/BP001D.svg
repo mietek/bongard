@@ -40,34 +40,25 @@
   <a href="BP001D-R2.svg" target="_parent" aria-label="Open BP001, right example 2">
     <title>BP001, right example 2</title>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M 24.5,70        C 20,57 22,43 28,39        C 36,35 44,47 52,42        C 58,39 56.5,25 53,24.7        C 47.6,22 45.2,29 49.5,34.7        C 54,41.5 66.8,41 70,31.7        C 74.4,19 68.7,18 66.7,24        C 62.7,34.5 75,38.1 78.4,47        C 82,57 75.4,60.5 68,56" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
+      <rect x="-14.1" y="-15.8" width="28.1" height="31.5" transform="translate(61.1 55.5) rotate(21.7)" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP001D-R3.svg" target="_parent" aria-label="Open BP001, right example 3">
     <title>BP001, right example 3</title>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <polygon points="51,21.6 56.5,37 72.4,38.3 59.8,47.3 66.2,66.7 49.8,53.6 32.4,64.6 40.7,45.7 27.2,35.8 44.7,36.5" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="miter" stroke-linecap="round"/>
+      <path d="M 24.5,70        C 20,57 22,43 28,39        C 36,35 44,47 52,42        C 58,39 56.5,25 53,24.7        C 47.6,22 45.2,29 49.5,34.7        C 54,41.5 66.8,41 70,31.7        C 74.4,19 68.7,18 66.7,24        C 62.7,34.5 75,38.1 78.4,47        C 82,57 75.4,60.5 68,56" fill="none" stroke="black" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP001D-R4.svg" target="_parent" aria-label="Open BP001, right example 4">
     <title>BP001, right example 4</title>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <rect x="-14.1" y="-15.8" width="28.1" height="31.5" transform="translate(61.1 55.5) rotate(21.7)" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="miter" stroke-linecap="round"/>
-    </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP001D-R5.svg" target="_parent" aria-label="Open BP001, right example 5">
-    <title>BP001, right example 5</title>
-    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <circle cx="75.6" cy="18.8" r="2.2" fill="none" stroke="black" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
       <circle cx="53.9" cy="22.9" r="2.2" fill="none" stroke="black" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
@@ -78,7 +69,16 @@
       <circle cx="72.4" cy="72.1" r="2.4" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/>
       <circle cx="50" cy="73.3" r="2.2" fill="none" stroke="black" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP001D-R5.svg" target="_parent" aria-label="Open BP001, right example 5">
+    <title>BP001, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="51,21.6 56.5,37 72.4,38.3 59.8,47.3 66.2,66.7 49.8,53.6 32.4,64.6 40.7,45.7 27.2,35.8 44.7,36.5" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="miter" stroke-linecap="round"/>
+    </svg>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP001D-R6.svg" target="_parent" aria-label="Open BP001, right example 6">
     <title>BP001, right example 6</title>

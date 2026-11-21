@@ -1,23 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP007, right example 5</title>
   <rect width="98" height="98" fill="white" />
-  <g fill="none" stroke="black">
-    <line x1="19" y1="40.9" x2="89.4" y2="41.2" stroke-width="1.7" />
-    <line x1="18.7" y1="41" x2="19.3" y2="55.8" stroke-width="1.5" />
-    <line x1="24.7" y1="41" x2="25.3" y2="54.8" stroke-width="1.5" />
-    <line x1="28.7" y1="41" x2="29.3" y2="54.8" stroke-width="1.5" />
-    <line x1="32.7" y1="41" x2="33.3" y2="55.8" stroke-width="1.5" />
-    <line x1="37.2" y1="41" x2="37.8" y2="54.8" stroke-width="1.5" />
-    <line x1="42.7" y1="41" x2="43.3" y2="54.8" stroke-width="1.5" />
-    <line x1="46.7" y1="41" x2="47.3" y2="54.8" stroke-width="1.5" />
-    <line x1="50.7" y1="41" x2="51.3" y2="54.8" stroke-width="1.5" />
-    <line x1="56.2" y1="41" x2="56.8" y2="54.8" stroke-width="1.5" />
-    <line x1="60.7" y1="41" x2="61.3" y2="54.8" stroke-width="1.5" />
-    <line x1="64.7" y1="41" x2="65.3" y2="54.8" stroke-width="1.5" />
-    <line x1="69.7" y1="41" x2="70.3" y2="54.8" stroke-width="1.5" />
-    <line x1="74.7" y1="41" x2="75.3" y2="53.8" stroke-width="1.5" />
-    <line x1="79.7" y1="41" x2="80.3" y2="54.8" stroke-width="1.5" />
-    <line x1="84.7" y1="41" x2="85.3" y2="54.8" stroke-width="1.5" />
-    <line x1="88.7" y1="41" x2="89.3" y2="54.8" stroke-width="1.5" />
-  </g>
+  <path d="M 16.7,79.6
+       C 19,70.8 31.6,68.4 43.6,66.1
+       C 60.4,63.6 78.2,64.1 82.1,70.3
+       C 83.9,76.6 82.2,83.9 72.3,86.6
+       C 60.2,90.1 35.4,88.9 25.8,88.6
+       C 19.4,88.4 15.2,85.2 16.7,79.6
+       Z" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" />
 </svg>

@@ -20,33 +20,7 @@
   <a href="BP054D-L2.svg" target="_parent" aria-label="Open BP054, left example 2">
     <title>BP054, left example 2</title>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <polygon points="49.48,60.12 47.78,60.12 43.47,77.22 58.88,71.8 58.88,69.53" fill="black"/>
-      <path d="M47.12 73.88C46.55 70.18 46.78 64.69 50.62 63.88C51.44 66.54 54.76 66.97 56.12 69.62C53.66 72.09 49.67 72.44 47.12 73.88Z" fill="white"/>
-      <path d="M30.88 39.38L29.62 38.12C25.34 39.76 28.38 33.74 25.38 34.12C25.67 37.29 24.29 38.67 21.12 38.38C21.41 41.03 26.97 38.92 25.12 43.62L26.62 43.88C26.09 40.38 28.25 39.69 30.88 39.38Z" fill="black"/>
-      <ellipse cx="70" cy="24" rx="5.22" ry="6.05" transform="rotate(4.91 70 24)" fill="black"/>
-      <ellipse cx="69.99" cy="23.91" rx="3.23" ry="3.96" transform="rotate(19.77 69.99 23.91)" fill="white"/>
-    </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP054D-L3.svg" target="_parent" aria-label="Open BP054, left example 3">
-    <title>BP054, left example 3</title>
-    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <circle cx="26.26" cy="67.09" r="5.96" fill="black"/>
-      <ellipse cx="26.4" cy="67.21" rx="3.68" ry="4.05" transform="rotate(179.23 26.4 67.21)" fill="white"/>
-      <path d="M82.38 39.12C82.67 42.29 81.29 43.67 78.12 43.38C79.97 44.98 82.53 46.02 82.62 48.88C82.68 47.19 84.65 46.54 82.88 45.38C83.75 44.21 86.57 45.78 85.88 43.38C82.55 43.99 83.11 40.97 82.38 39.12Z" fill="black"/>
-      <path d="M18.38 30.88C22.91 32.79 29.22 31.51 34.62 31.88L35.88 30.38C34.67 29.03 33.66 27.54 33.88 25.38C31.08 23.98 30.21 19.99 28.62 17.12C24.67 17.04 22.67 21.33 22.12 24.62C19.88 25.49 18.76 28.76 18.38 30.88Z" fill="black"/>
-      <path d="M26.88 19.88L28.12 20.38C27.67 22.37 28.56 22.9 30.12 23.38C28.9 26.14 33.51 26.77 31.62 29.12L21.88 28.62C23.21 25.08 25.16 22.65 26.88 19.88Z" fill="white"/>
-    </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP054D-L4.svg" target="_parent" aria-label="Open BP054, left example 4">
-    <title>BP054, left example 4</title>
-    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <path d="M49.38 69.12L48.12 69.38C49.97 74.08 44.41 71.97 44.12 74.62C47.29 74.33 48.67 75.71 48.38 78.88C51.38 79.26 48.34 73.24 52.62 74.88L52.88 73.38C48.55 73.85 49.24 71.49 49.38 69.12Z" fill="black"/>
       <ellipse cx="25.59" cy="32.97" rx="5.37" ry="5.88" transform="rotate(5.2 25.59 32.97)" fill="black"/>
@@ -54,12 +28,25 @@
       <polygon points="57.12,29.33 57.12,30.88 76.45,30.88 75.54,27.16 74.51,27.05 71.47,21.4 67.49,15.59 66.12,16.6 63.35,21.06 62.67,21.14 60.07,25.97" fill="black"/>
       <path d="M60.38 29.12L59.88 28.38C63.02 25.52 63.93 21.32 67.62 18.88L73.12 27.38L72.62 29.12L60.38 29.12Z" fill="white"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP054D-L5.svg" target="_parent" aria-label="Open BP054, left example 5">
-    <title>BP054, left example 5</title>
-    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP054D-L3.svg" target="_parent" aria-label="Open BP054, left example 3">
+    <title>BP054, left example 3</title>
+    <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <polygon points="49.48,60.12 47.78,60.12 43.47,77.22 58.88,71.8 58.88,69.53" fill="black"/>
+      <path d="M47.12 73.88C46.55 70.18 46.78 64.69 50.62 63.88C51.44 66.54 54.76 66.97 56.12 69.62C53.66 72.09 49.67 72.44 47.12 73.88Z" fill="white"/>
+      <path d="M30.88 39.38L29.62 38.12C25.34 39.76 28.38 33.74 25.38 34.12C25.67 37.29 24.29 38.67 21.12 38.38C21.41 41.03 26.97 38.92 25.12 43.62L26.62 43.88C26.09 40.38 28.25 39.69 30.88 39.38Z" fill="black"/>
+      <ellipse cx="70" cy="24" rx="5.22" ry="6.05" transform="rotate(4.91 70 24)" fill="black"/>
+      <ellipse cx="69.99" cy="23.91" rx="3.23" ry="3.96" transform="rotate(19.77 69.99 23.91)" fill="white"/>
+    </svg>
+    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP054D-L4.svg" target="_parent" aria-label="Open BP054, left example 4">
+    <title>BP054, left example 4</title>
+    <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <path d="M73.12 32.38C73.67 34.98 72.75 36.62 70.12 36.38C70.15 38.8 74.3 37.33 73.38 40.88L74.62 40.88C74.22 37.85 76.49 37.75 78.88 37.62C78.22 35.32 75.4 36.77 73.88 35.62C75.51 34.9 73.86 32.44 73.12 32.38Z" fill="black"/>
       <ellipse cx="54.7" cy="25.57" rx="5.46" ry="5.73" transform="rotate(14.42 54.7 25.57)" fill="black"/>
@@ -67,7 +54,20 @@
       <path d="M85.88 25.38C85.14 18.3 79.53 13.96 77.88 7.38L75.38 6.12C73.94 7.21 74.4 9.46 72.12 9.38C71.06 15.37 65.32 18.73 64.12 24.62L85.88 25.38Z" fill="black"/>
       <path d="M75.38 8.88C76.11 10.8 78.65 11.9 78.12 14.62L80.12 15.38C79.8 18.78 84.06 20.88 82.62 24.12C78.48 21.61 71.59 24.35 66.88 22.62C69.45 17.86 73.03 13.87 75.38 8.88Z" fill="white"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP054D-L5.svg" target="_parent" aria-label="Open BP054, left example 5">
+    <title>BP054, left example 5</title>
+    <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <circle cx="26.26" cy="67.09" r="5.96" fill="black"/>
+      <ellipse cx="26.4" cy="67.21" rx="3.68" ry="4.05" transform="rotate(179.23 26.4 67.21)" fill="white"/>
+      <path d="M82.38 39.12C82.67 42.29 81.29 43.67 78.12 43.38C79.97 44.98 82.53 46.02 82.62 48.88C82.68 47.19 84.65 46.54 82.88 45.38C83.75 44.21 86.57 45.78 85.88 43.38C82.55 43.99 83.11 40.97 82.38 39.12Z" fill="black"/>
+      <path d="M18.38 30.88C22.91 32.79 29.22 31.51 34.62 31.88L35.88 30.38C34.67 29.03 33.66 27.54 33.88 25.38C31.08 23.98 30.21 19.99 28.62 17.12C24.67 17.04 22.67 21.33 22.12 24.62C19.88 25.49 18.76 28.76 18.38 30.88Z" fill="black"/>
+      <path d="M26.88 19.88L28.12 20.38C27.67 22.37 28.56 22.9 30.12 23.38C28.9 26.14 33.51 26.77 31.62 29.12L21.88 28.62C23.21 25.08 25.16 22.65 26.88 19.88Z" fill="white"/>
+    </svg>
+    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP054D-L6.svg" target="_parent" aria-label="Open BP054, left example 6">
     <title>BP054, left example 6</title>
@@ -98,33 +98,7 @@
   <a href="BP054D-R2.svg" target="_parent" aria-label="Open BP054, right example 2">
     <title>BP054, right example 2</title>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <path d="M71.38 72.88C71.33 69.51 73.29 68.3 76.88 68.62C76.58 65.61 69.8 68.73 71.88 63.38L70.38 63.12C69.69 64.36 70.18 65.89 71.12 66.62L67.12 67.38C67.85 69.57 71.49 69.34 71.38 72.88Z" fill="black"/>
-      <polygon points="19.85,39.73 10.94,54.72 28.88,55.61 28.88,53.51 22.88,43.63 22.88,42.4" fill="black"/>
-      <polygon points="20.59,42.69 25.12,51.49 25.12,53.12 15.05,53.12 14.89,52.07 17.42,46.96 18.88,46.8 18.88,44.49" fill="white"/>
-      <ellipse cx="74.38" cy="23.28" rx="5.39" ry="5.82" transform="rotate(4.83 74.38 23.28)" fill="black"/>
-      <path d="M73.38 27.12L72.88 25.38C68.37 24.47 71.92 18.62 75.62 19.88C78.37 21.67 77.71 28.29 73.38 27.12Z" fill="white"/>
-    </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP054D-R3.svg" target="_parent" aria-label="Open BP054, right example 3">
-    <title>BP054, right example 3</title>
-    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
-      <rect width="98" height="98" fill="white"/>
-      <ellipse cx="44" cy="65.44" rx="5.15" ry="6.02" transform="rotate(0.62 44 65.44)" fill="black"/>
-      <ellipse cx="44.03" cy="65.43" rx="3.35" ry="3.79" transform="rotate(172.5 44.03 65.43)" fill="white"/>
-      <polygon points="75.76,30.65 69.12,42.42 69.12,43.98 67.12,44.2 67.12,46.88 82.77,46.88 83.28,47.82 85.61,46.47 82.9,41.17 78.88,34.93 78.88,33.4" fill="black"/>
-      <path d="M82.62 45.12L70.88 44.62C71.17 40.13 75.35 38.04 76.38 33.88C78.67 37.27 81.81 41.61 82.62 45.12Z" fill="white"/>
-      <path d="M26.12 18.38C27.06 21.74 24.86 22.46 22.12 22.38C21.74 25.38 27.76 22.34 26.12 26.62L27.62 26.88L27.88 24.38C31.65 24.23 31.39 21.29 27.38 22.12C27.33 21.11 27.72 18.7 26.12 18.38Z" fill="black"/>
-    </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
-  </a>
-  <a href="BP054D-R4.svg" target="_parent" aria-label="Open BP054, right example 4">
-    <title>BP054, right example 4</title>
-    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <ellipse cx="19.68" cy="72.06" rx="5.17" ry="5.84" transform="rotate(6.65 19.68 72.06)" fill="black"/>
       <circle cx="19.67" cy="71.66" r="3.56" fill="white"/>
@@ -132,12 +106,25 @@
       <polygon points="72.67,33.83 73.35,33.93 79.15,42.52 77.38,44.29 66.73,42.74" fill="white"/>
       <path d="M62.38 31.88C62 28.03 66.37 29.75 67.88 27.38C64.14 27.94 64.05 25.47 62.62 23.12C62.31 25.75 61.62 27.91 58.12 27.38C57.48 30.15 61.1 27.97 62.12 29.38L62.38 31.88Z" fill="black"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
-  <a href="BP054D-R5.svg" target="_parent" aria-label="Open BP054, right example 5">
-    <title>BP054, right example 5</title>
-    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+  <a href="BP054D-R3.svg" target="_parent" aria-label="Open BP054, right example 3">
+    <title>BP054, right example 3</title>
+    <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <path d="M71.38 72.88C71.33 69.51 73.29 68.3 76.88 68.62C76.58 65.61 69.8 68.73 71.88 63.38L70.38 63.12C69.69 64.36 70.18 65.89 71.12 66.62L67.12 67.38C67.85 69.57 71.49 69.34 71.38 72.88Z" fill="black"/>
+      <polygon points="19.85,39.73 10.94,54.72 28.88,55.61 28.88,53.51 22.88,43.63 22.88,42.4" fill="black"/>
+      <polygon points="20.59,42.69 25.12,51.49 25.12,53.12 15.05,53.12 14.89,52.07 17.42,46.96 18.88,46.8 18.88,44.49" fill="white"/>
+      <ellipse cx="74.38" cy="23.28" rx="5.39" ry="5.82" transform="rotate(4.83 74.38 23.28)" fill="black"/>
+      <path d="M73.38 27.12L72.88 25.38C68.37 24.47 71.92 18.62 75.62 19.88C78.37 21.67 77.71 28.29 73.38 27.12Z" fill="white"/>
+    </svg>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP054D-R4.svg" target="_parent" aria-label="Open BP054, right example 4">
+    <title>BP054, right example 4</title>
+    <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
       <path d="M90.62 32.12C86.56 33.35 86.79 29.93 86.62 27.12C84.05 26.63 85.5 30.09 85.12 31.62C83.79 31.69 82.61 31.29 81.12 32.62C85.84 31.57 84.34 36 86.62 37.88C86.7 35.36 87.18 32.05 90.62 32.88L90.62 32.12Z" fill="black"/>
       <polygon points="69.72,11.65 61.12,26.16 61.12,28.88 76.74,28.88 77.74,30.49 79.04,27.19 74.88,20.62 73.03,15.37" fill="black"/>
@@ -145,7 +132,20 @@
       <ellipse cx="84.71" cy="10.32" rx="5.75" ry="6.02" transform="rotate(137.78 84.71 10.32)" fill="black"/>
       <ellipse cx="84.55" cy="10.42" rx="3.52" ry="3.72" transform="rotate(35.49 84.55 10.42)" fill="white"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
+  </a>
+  <a href="BP054D-R5.svg" target="_parent" aria-label="Open BP054, right example 5">
+    <title>BP054, right example 5</title>
+    <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+      <rect width="98" height="98" fill="white"/>
+      <ellipse cx="44" cy="65.44" rx="5.15" ry="6.02" transform="rotate(0.62 44 65.44)" fill="black"/>
+      <ellipse cx="44.03" cy="65.43" rx="3.35" ry="3.79" transform="rotate(172.5 44.03 65.43)" fill="white"/>
+      <polygon points="75.76,30.65 69.12,42.42 69.12,43.98 67.12,44.2 67.12,46.88 82.77,46.88 83.28,47.82 85.61,46.47 82.9,41.17 78.88,34.93 78.88,33.4" fill="black"/>
+      <path d="M82.62 45.12L70.88 44.62C71.17 40.13 75.35 38.04 76.38 33.88C78.67 37.27 81.81 41.61 82.62 45.12Z" fill="white"/>
+      <path d="M26.12 18.38C27.06 21.74 24.86 22.46 22.12 22.38C21.74 25.38 27.76 22.34 26.12 26.62L27.62 26.88L27.88 24.38C31.65 24.23 31.39 21.29 27.38 22.12C27.33 21.11 27.72 18.7 26.12 18.38Z" fill="black"/>
+    </svg>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP054D-R6.svg" target="_parent" aria-label="Open BP054, right example 6">
     <title>BP054, right example 6</title>

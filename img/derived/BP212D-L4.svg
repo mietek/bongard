@@ -1,38 +1,49 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP212, left example 4</title>
   <rect width="98" height="98" fill="white"/>
-  <rect x="45.12" y="84.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="37.12" y="84.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="30.12" y="84.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="22.12" y="84.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="52.12" y="83.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="59.12" y="80.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="66.12" y="77.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="73.12" y="74.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="79.12" y="70.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="85.12" y="66.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="92.12" y="62.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="31.12" y="59.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="24.12" y="59.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="39.12" y="58.12" width="4.75" height="4.75" fill="black"/>
-  <path d="M11.38 53.12C9.91 56.82 12.03 58.9 15.88 57.88C15.74 61.39 16.29 64.04 20.62 62.88C22.09 59.18 19.97 57.1 16.12 58.12C16.26 54.61 15.71 51.96 11.38 53.12Z" fill="black"/>
-  <rect x="64.12" y="46.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="57.12" y="46.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="49.12" y="46.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="42.12" y="46.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="35.12" y="46.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="27.12" y="46.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="9.12" y="46.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="71.12" y="43.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="9.12" y="39.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="73.12" y="36.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="71.12" y="29.12" width="4.75" height="4.75" fill="black"/>
-  <path d="M17.38 27.12L16.88 32.12C13.03 31.1 10.91 33.18 12.38 36.88C16.71 38.04 17.26 35.39 17.12 31.88C23.3 34.39 23.67 24.82 17.38 27.12Z" fill="black"/>
-  <rect x="67.12" y="23.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="24.12" y="23.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="31.12" y="21.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="61.12" y="19.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="53.12" y="19.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="46.12" y="19.12" width="4.75" height="4.75" fill="black"/>
-  <rect x="38.12" y="19.12" width="4.75" height="4.75" fill="black"/>
+  <polygon points="63.88,77.12 59.12,77.12 59.12,83.12 53.12,83.12 53.12,88.12 49.12,88.12 49.12,92.88 53.88,92.88 53.88,87.88 59.88,87.88 59.88,82.88 63.88,82.88" fill="black"/>
+  <path d="M63.38 71.12C62.93 73.14 62.46 76.27 65.12 76.38C64.13 79.66 67.48 78.83 69.62 78.88C70.07 76.86 70.54 73.73 67.88 73.62C68.87 70.34 65.52 71.17 63.38 71.12Z" fill="black"/>
+  <rect x="71.12" y="70.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M24.12 96.88C25.27 98.2 33.96 99.51 32.88 95.38L33.88 93.38C37.81 93.53 38.47 91.22 37.88 87.38L41.62 86.88C41.48 83.74 44.31 83.94 44.38 80.88C48.37 80.97 48.82 77.38 49.38 73.88C51.33 74.49 53.12 75.27 55.62 74.88L55.88 70.38L46.38 69.12C46.48 72.89 45.16 75.29 42.12 76.38C42.67 78.46 41.46 79.67 39.38 79.12C39.73 82.07 37.15 81.79 36.62 84.12L33.12 84.38C33.59 87.9 33.29 91.11 29.12 90.38C29.47 93.67 28.28 97.11 24.38 96.12L24.12 96.88Z" fill="black"/>
+  <rect x="78.12" y="67.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="57.12" y="66.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="85.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="64.12" y="64.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M21.38 64.12L21.12 68.62C17.65 68.68 17 71.13 16.62 74.12C13.38 73.34 11.34 75.38 12.12 78.62C8.8 78.61 7.03 80.31 8.38 83.88L12.62 83.88C12.54 81.14 13.26 78.94 16.62 79.88C18.64 78.89 17.23 76.39 18.38 74.88C22.29 75.91 23.55 72.78 22.88 69.38C26.22 68.65 30.46 69.6 28.88 64.38L21.38 64.12Z" fill="black"/>
+  <rect x="48.12" y="63.12" width="4.75" height="4.75" fill="black"/>
+  <ellipse cx="94" cy="63" rx="2.85" ry="4.57" transform="rotate(164.5 94 63)" fill="black"/>
+  <rect x="83.12" y="57.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M26.38 57.12C25.48 59.83 25.97 63.08 29.62 61.88C29.52 65 32.12 65.5 34.88 64.62C35.29 61.7 34.96 59.09 31.38 60.12C31.33 57.05 29.35 56.73 26.38 57.12Z" fill="black"/>
+  <rect x="37.12" y="56.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="76.12" y="55.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M44.38 54.12L44.38 58.88L53.88 59.62L53.62 55.12L44.38 54.12Z" fill="black"/>
+  <rect x="69.12" y="52.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="30.12" y="51.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="63.12" y="49.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="56.12" y="45.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="33.12" y="44.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M25.38 44.88C26.46 46.35 29.16 46.01 30.88 45.62L30.88 41.38L21.38 40.12C21.13 42.81 21.43 47.05 17.38 46.12C18.35 51.84 10.71 49.29 11.62 55.12C7.69 54.07 7.47 57.47 6.62 60.12L3.12 60.38C2.51 62.33 1.73 64.12 2.12 66.62C5.56 67.95 8.4 66 7.88 62.38L8.88 61.88C14.76 63.52 10.49 53.85 16.62 55.88L18.62 54.88C17.96 50.55 21.69 50.32 24.88 49.62L25.38 44.88Z" fill="black"/>
+  <rect x="51.12" y="39.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="33.12" y="38.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="26.12" y="34.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="50.12" y="32.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="30.12" y="28.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="50.12" y="25.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="34.12" y="22.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M4.38 22.12L3.88 27.12C0.16 25.94 -0.64 28.97 0.38 31.88C4.51 33.14 3.8 29.59 4.12 26.88C10.3 29.39 10.67 19.82 4.38 22.12Z" fill="black"/>
+  <rect x="52.12" y="17.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="10.12" y="16.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="39.12" y="15.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="16.12" y="12.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M75.38 10.12C74.93 13 76.05 17.56 71.38 16.12C70.81 17.79 71.83 20.61 69.12 20.38C69.7 22.8 66.85 22.02 65.38 22.12C64.39 24.31 61.91 25.47 63.38 28.88C69.17 30.36 68.51 23.97 73.88 24.62L74.38 20.88L76.38 19.88C82.14 21.36 79.38 13.41 79.62 10.12L75.38 10.12Z" fill="black"/>
+  <rect x="42.12" y="9.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="22.12" y="8.12" width="4.75" height="4.75" fill="black"/>
+  <path d="M61.38 6.12L60.88 11.12C57.03 10.1 54.91 12.18 56.38 15.88C60.71 17.04 61.26 14.39 61.12 10.88C67.3 13.39 67.67 3.82 61.38 6.12Z" fill="black"/>
+  <rect x="79.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="29.12" y="4.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="68.12" y="2.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="43.12" y="2.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="36.12" y="2.12" width="4.75" height="4.75" fill="black"/>
+  <rect x="80.12" y="0.12" width="4.75" height="1.75" fill="black"/>
+  <rect x="74.12" y="0.12" width="4.75" height="2.75" fill="black"/>
 </svg>

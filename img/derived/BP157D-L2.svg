@@ -1,14 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP157, left example 2</title>
   <rect width="98" height="98" fill="white"/>
-  <path d="M51.12 78.38C50.92 79 51.44 78.89 51.88 78.88L51.88 78.12L52.88 77.88L52.88 77.12L53.88 76.88L53.88 76.12L54.88 75.88L54.88 75.12L55.88 74.88L55.88 74.12L56.88 73.88L56.88 73.12L57.88 72.88L57.88 72.12L58.88 71.88L58.88 71.12L59.88 70.88L59.88 70.12L60.88 69.88L60.88 69.12C63.34 67.72 64.37 65.14 66.88 63.88L67.12 62.88L67.88 62.88L68.12 61.88L68.88 61.88L69.12 60.88L69.88 60.88L70.12 59.88L70.88 59.88L71.12 58.88L71.88 58.88L72.12 57.88L72.88 57.88L73.12 56.88L73.88 56.88L74.12 55.88L74.88 55.88L75.12 54.88L75.88 54.88L76.12 53.88L76.88 53.88L76.88 53.12L76.12 53.12L76.12 53.88L75.12 54.12L75.12 54.88L74.12 55.12L74.12 55.88L73.12 56.12L73.12 56.88L72.12 57.12L72.12 57.88L71.12 58.12L71.12 58.88L70.12 59.12L70.12 59.88L69.12 60.12L69.12 60.88L68.12 61.12L68.12 61.88L67.12 62.12L67.12 62.88L66.12 63.12L66.12 63.88L65.12 64.12L65.12 64.88L64.12 65.12L64.12 65.88L63.12 66.12L63.12 66.88L62.12 67.12L62.12 67.88L61.12 68.12L61.12 68.88L60.12 69.12L60.12 69.88L59.12 70.12L59.12 70.88L58.12 71.12L58.12 71.88L57.12 72.12L57.12 72.88C54.71 74.4 53.36 76.8 51.12 78.38Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="46" cy="52.5" rx="6.45" ry="15.79" transform="rotate(90 46 52.5)" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="46" cy="52.5" rx="5.69" ry="15.22" transform="rotate(90 46 52.5)" fill="white"/>
-  <rect x="38.12" y="30.12" width="20.75" height="7.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="27" cy="27.5" rx="5.97" ry="6.39" transform="rotate(0 27 27.5)" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="27" cy="27.5" rx="5.29" ry="5.74" transform="rotate(0 27 27.5)" fill="white"/>
-  <circle cx="49.5" cy="22.5" r="2.49" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <rect x="47.88" y="20.88" width="3.25" height="3.25" fill="white"/>
-  <rect x="64.12" y="18.12" width="5.75" height="20.75" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <rect x="64.88" y="18.88" width="4.25" height="19.25" fill="white"/>
+  <rect x="32.12" y="55.12" width="40.75" height="19.75" fill="black"/>
+  <polygon points="72.88,21.12 62.02,21.12 58.12,27.62 41.88,50.6 40.6,52.88 72.88,52.88" fill="black"/>
+  <path d="M44.88 50.62C50.97 41.29 57.93 32.66 63.38 22.88L70.62 22.88L71.12 50.62L44.88 50.62Z" fill="white"/>
 </svg>

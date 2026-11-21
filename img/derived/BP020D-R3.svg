@@ -1,16 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP020, right example 3</title>
   <rect width="98" height="98" fill="white" />
-  <path d="M 48.2,36.4
-       C 59.5,25.1 65.9,26.3 70.4,39.3
-       C 79,65.3 62.6,73.9 51.5,62.7
-       C 44.2,53.4 38.7,49.4 33.2,53.5
-       C 17.2,64.3 37,84.9 48.1,83.3
-       C 71.4,85.8 80.8,52.8 74.2,29.2
-       C 69.4,11.4 42.6,6.5 30.3,16.3
-       C 17.6,28.7 26.5,47.9 38.5,42.2
-       C 42.2,41.7 45.7,39.3 48.2,36.4
-       Z" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
-  <circle cx="51.2" cy="38.9" r="3.7" fill="black" />
-  <circle cx="52.9" cy="58.8" r="3.7" fill="black" />
+  <path d="M 31.1,34
+       C 39.9,30.9 50.3,31.3 61,32.5
+       C 72.9,33.8 81,34.8 82.4,39.3
+       C 87.8,47.1 86.2,66.9 73.2,74.1
+       C 61.6,80.7 54.8,70.1 61.2,59
+       C 69.3,46.3 63.7,41.1 53.9,40.1
+       C 41.9,38 34.2,43.3 39.3,52.2
+       C 48.7,59.5 52.2,63.5 49.4,69.6
+       C 45,79.2 23.1,81.1 18.4,71.9
+       C 11.8,60.4 16.6,38 31.1,34
+       Z" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round" />
+  <circle cx="29.6" cy="31.2" r="3.7" fill="black" />
+  <circle cx="78.7" cy="32.2" r="3.7" fill="black" />
 </svg>

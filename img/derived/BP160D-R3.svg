@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP160, right example 3</title>
   <rect width="98" height="98" fill="white"/>
-  <polygon points="48.48,8.12 47.52,8.12 9.53,46.12 8.12,46.12 8.12,47.48 45.52,84.88 46.48,84.88 85.88,45.48 85.88,44.12 84.47,44.12" fill="black"/>
-  <polygon points="48.52,9.88 84.15,45.5 46.53,83.12 45.48,83.12 9.85,47.5 47.47,9.88" fill="white"/>
+  <rect x="16.12" y="23.12" width="63.75" height="48.75" fill="black"/>
+  <rect x="17.88" y="24.88" width="60.25" height="45.25" fill="white"/>
 </svg>

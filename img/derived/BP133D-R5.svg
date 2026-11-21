@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP133, right example 5</title>
   <rect width="98" height="98" fill="white"/>
-  <circle cx="16.38" cy="16.17" r="2.76" fill="black"/>
-  <circle cx="76.69" cy="15.31" r="3.19" fill="black"/>
-  <circle cx="45.33" cy="48.77" fill="none" stroke="black" stroke-width="1.15" r="11.18"/>
+  <circle cx="31.41" cy="81.46" r="2.45" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="19.16" cy="78.03" rx="2.28" ry="2.82" transform="rotate(174.36 19.16 78.03)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <ellipse cx="73.41" cy="73.77" rx="9.12" ry="10.53" transform="rotate(93.71 73.41 73.77)" fill="black" stroke="black" stroke-width=".22" stroke-linejoin="round"/>
+  <path d="M82.12 76.88C80.84 76.82 81.47 78.35 80.12 78.12C80.33 78.85 79.85 79.33 79.12 79.12C79.33 79.85 78.85 80.33 78.12 80.12C78.49 81.47 76.95 81.09 76.12 81.12C75.65 83.2 71.97 81.64 70.12 82.12L69.88 81.12L68.12 81.12C67.77 79.6 66.08 79.69 65.88 78.12C64.53 78.49 64.91 76.95 64.88 76.12C62.99 76.19 64.23 73.39 63.88 72.12L64.88 71.88C64.91 71.05 64.53 69.51 65.88 69.88C65.67 69.15 66.15 68.67 66.88 68.88C66.67 68.15 67.15 67.67 67.88 67.88C68.07 65.88 71.33 67.31 72.88 66.88L73.12 65.88C74.67 66.31 77.93 64.88 78.12 66.88C78.95 66.91 80.49 66.53 80.12 67.88C81.47 67.51 81.09 69.05 81.12 69.88L82.12 70.12L82.12 76.88Z" fill="white"/>
 </svg>

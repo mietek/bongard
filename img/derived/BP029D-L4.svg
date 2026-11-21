@@ -1,11 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP029, left example 4</title>
   <rect width="98" height="98" fill="white" />
-  <polygon points="79.3,18.9 82.7,50.5 35.6,56.3 35.6,20" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round" />
-  <circle cx="68.8" cy="27.5" r="4" fill="none" stroke="black" stroke-width="2.6" />
-  <circle cx="44.8" cy="28.4" r="4.1" fill="none" stroke="black" stroke-width="2.5" />
-  <circle cx="54.9" cy="40.3" r="4.1" fill="none" stroke="black" stroke-width="2.4" />
-  <circle cx="70" cy="41.5" r="4.1" fill="none" stroke="black" stroke-width="2.3" />
-  <circle cx="23.1" cy="64.1" r="4.3" fill="none" stroke="black" stroke-width="2.6" />
-  <circle cx="49.5" cy="73.9" r="4" fill="none" stroke="black" stroke-width="2.4" />
+  <ellipse cx="50.5" cy="44.3" rx="25.3" ry="16" transform="rotate(98.5 50.5 44.3)" fill="none" stroke="black" stroke-width="2.3" />
+  <circle cx="78.4" cy="20.4" r="4.1" fill="none" stroke="black" stroke-width="2.3" />
+  <circle cx="16.8" cy="26.6" r="4.1" fill="none" stroke="black" stroke-width="2.5" />
+  <circle cx="46.1" cy="32.1" r="4" fill="none" stroke="black" stroke-width="2.5" />
+  <circle cx="58.3" cy="36.4" r="4" fill="none" stroke="black" stroke-width="2.4" />
+  <circle cx="42.4" cy="46.6" r="4" fill="none" stroke="black" stroke-width="2.5" />
+  <circle cx="78.2" cy="47.3" r="3.9" fill="none" stroke="black" stroke-width="2.6" />
+  <circle cx="56.6" cy="48.3" r="4.1" fill="none" stroke="black" stroke-width="2.2" />
+  <circle cx="47.3" cy="60.4" r="4.1" fill="none" stroke="black" stroke-width="2.2" />
+  <circle cx="76.8" cy="70.4" r="4.2" fill="none" stroke="black" stroke-width="2.3" />
 </svg>

@@ -1,10 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP058, right example 5</title>
   <rect width="98" height="98" fill="white"/>
-  <path d="M21.12 72.62C24.63 73.57 27.87 72.41 30.88 71.62L30.62 61.12L21.12 61.38L20.12 63.62C22.23 65.62 20.62 69.73 21.12 72.62Z" fill="black"/>
-  <rect x="21.88" y="62.88" width="7.25" height="8.25" fill="white"/>
-  <rect x="58.12" y="46.12" width="22.75" height="23.75" fill="black"/>
-  <rect x="21.12" y="27.12" width="10.75" height="9.75" fill="black"/>
-  <path d="M57.12 32.62L67.88 32.62C67.73 28.09 66.95 26.92 66.62 22.12C63.47 22.59 59.26 20.98 57.12 23.38L57.12 32.62Z" fill="black"/>
-  <path d="M66.12 30.62L59.38 31.12L58.88 24.38C63.2 21.46 67.51 24.97 66.12 30.62Z" fill="white"/>
+  <path d="M19.12 70.62L30.62 70.88L30.88 62.38C26.69 62.32 22.79 59.7 19.12 62.38L19.12 70.62Z" fill="black"/>
+  <rect x="50.12" y="22.12" width="31.75" height="33.75" fill="black"/>
+  <rect x="19.12" y="20.12" width="18.75" height="19.75" fill="black"/>
+  <path d="M21.38 21.88L36.62 21.88C37.03 26.75 38.45 34.13 35.62 38.12L19.88 37.62C18.67 33.99 22.34 30.92 19.88 28.38C22.16 27.18 19.84 23.61 21.38 21.88Z" fill="white"/>
 </svg>

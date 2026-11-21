@@ -16,38 +16,38 @@
   <a href="BP158D-L2.svg" target="_parent" aria-label="Open BP158, left example 2">
     <title>BP158, left example 2</title>
     <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M12.88 60.12L13.62 60.88L79.62 27.88L79.88 26.38L78.38 25.12L12.38 58.12C11.84 58.75 12.03 59.94 12.88 60.12Z" fill="black"/>
+      <path d="M82.88 26.38L78.62 20.12L20.38 49.12L20.12 50.62L23.38 55.88C43.07 45.86 62.79 35.52 82.88 26.38Z" fill="black"/>
     </svg>
-    <rect x="115" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-L3.svg" target="_parent" aria-label="Open BP158, left example 3">
     <title>BP158, left example 3</title>
     <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M11.12 73.62L13.38 77.88L91.62 38.88L91.88 37.38L89.38 34.12L11.12 73.62Z" fill="black"/>
+      <path d="M12.88 60.12L13.62 60.88L79.62 27.88L79.88 26.38L78.38 25.12L12.38 58.12C11.84 58.75 12.03 59.94 12.88 60.12Z" fill="black"/>
     </svg>
-    <rect x="7" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-L4.svg" target="_parent" aria-label="Open BP158, left example 4">
     <title>BP158, left example 4</title>
     <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="116" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="116.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M82.88 26.38L78.62 20.12L20.38 49.12L20.12 50.62L23.38 55.88C43.07 45.86 62.79 35.52 82.88 26.38Z" fill="black"/>
+      <path d="M34.12 37.88C33.8 38.95 34.86 38.97 35.62 38.88L71.62 20.88L71.88 19.38L70.38 19.12L34.12 37.88Z" fill="black"/>
     </svg>
-    <rect x="115" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="115.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-L5.svg" target="_parent" aria-label="Open BP158, left example 5">
     <title>BP158, left example 5</title>
     <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="8" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="8" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M34.12 37.88C33.8 38.95 34.86 38.97 35.62 38.88L71.62 20.88L71.88 19.38L70.38 19.12L34.12 37.88Z" fill="black"/>
+      <path d="M11.12 73.62L13.38 77.88L91.62 38.88L91.88 37.38L89.38 34.12L11.12 73.62Z" fill="black"/>
     </svg>
-    <rect x="7" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="7" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-L6.svg" target="_parent" aria-label="Open BP158, left example 6">
     <title>BP158, left example 6</title>
@@ -70,38 +70,38 @@
   <a href="BP158D-R2.svg" target="_parent" aria-label="Open BP158, right example 2">
     <title>BP158, right example 2</title>
     <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="6" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409" y="6.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M13.12 69.62L16.62 69.88L17.38 68.88L22.62 68.88L23.38 67.88C41.2 65.62 57.81 61.18 75.62 58.88L76.38 57.88L83.62 57.88C85.11 56.87 84.95 55.18 84.88 53.38C61.52 57.01 38.02 62.27 14.38 66.12L13.12 69.62Z" fill="black"/>
+      <polygon points="72.88,42.12 68.31,42.12 67.77,43.12 62.38,43.12 51.62,46.12 46.38,46.12 40.62,48.12 25.38,50.12 22.12,51.32 22.12,55.84 70.1,46.6 72.88,45.6" fill="black"/>
     </svg>
-    <rect x="408" y="5" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408" y="5.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-R3.svg" target="_parent" aria-label="Open BP158, right example 3">
     <title>BP158, right example 3</title>
     <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <path d="M84.62 50.12C60.69 54.12 37.32 59.14 13.38 63.12C11.57 64.28 12.22 66.59 12.12 68.62L13.38 70.88C32.74 68.05 51.09 63.41 70.62 60.88L71.38 59.88L75.62 59.88L76.38 58.88L83.62 58.88C86.29 57.27 86.92 52.34 84.62 50.12Z" fill="black"/>
+      <path d="M13.12 69.62L16.62 69.88L17.38 68.88L22.62 68.88L23.38 67.88C41.2 65.62 57.81 61.18 75.62 58.88L76.38 57.88L83.62 57.88C85.11 56.87 84.95 55.18 84.88 53.38C61.52 57.01 38.02 62.27 14.38 66.12L13.12 69.62Z" fill="black"/>
     </svg>
-    <rect x="300" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="300.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-R4.svg" target="_parent" aria-label="Open BP158, right example 4">
     <title>BP158, right example 4</title>
     <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="409" y="114" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="409.0" y="114.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <polygon points="72.88,42.12 68.31,42.12 67.77,43.12 62.38,43.12 51.62,46.12 46.38,46.12 40.62,48.12 25.38,50.12 22.12,51.32 22.12,55.84 70.1,46.6 72.88,45.6" fill="black"/>
+      <polygon points="67.88,40.28 36.12,46.07 36.12,47.97 49.62,45.88 60.38,42.88 64.33,42.88 67.88,41.6" fill="black"/>
     </svg>
-    <rect x="408" y="113" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="408.0" y="113.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-R5.svg" target="_parent" aria-label="Open BP158, right example 5">
     <title>BP158, right example 5</title>
     <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black" class="frame"/>
-    <svg x="301" y="222" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
+    <svg x="301" y="222.0" width="98" height="98" viewBox="0 0 98 98" aria-hidden="true">
       <rect width="98" height="98" fill="white"/>
-      <polygon points="67.88,40.28 36.12,46.07 36.12,47.97 49.62,45.88 60.38,42.88 64.33,42.88 67.88,41.6" fill="black"/>
+      <path d="M84.62 50.12C60.69 54.12 37.32 59.14 13.38 63.12C11.57 64.28 12.22 66.59 12.12 68.62L13.38 70.88C32.74 68.05 51.09 63.41 70.62 60.88L71.38 59.88L75.62 59.88L76.38 58.88L83.62 58.88C86.29 57.27 86.92 52.34 84.62 50.12Z" fill="black"/>
     </svg>
-    <rect x="300" y="221" width="100" height="100" fill="transparent" pointer-events="all"/>
+    <rect x="300" y="221.0" width="100" height="100" fill="transparent" pointer-events="all"/>
   </a>
   <a href="BP158D-R6.svg" target="_parent" aria-label="Open BP158, right example 6">
     <title>BP158, right example 6</title>

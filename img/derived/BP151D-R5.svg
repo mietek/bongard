@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP151, right example 5</title>
   <rect width="98" height="98" fill="white"/>
-  <circle cx="79.47" cy="52.81" r="3.38" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="79.3" cy="52.86" rx="2.06" ry="2.56" transform="rotate(66.5 79.3 52.86)" fill="white"/>
-  <circle cx="58.26" cy="42.26" r="3.36" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="58" cy="42.5" rx="2.21" ry="2.63" transform="rotate(0 58 42.5)" fill="white"/>
-  <path d="M42.12 42.38C42.15 43.79 45.6 41.78 45.12 43.88C47.4 43.18 47.26 45.23 47.12 46.88L47.88 46.88C48.11 45.86 47.18 43.6 48.88 43.88C48.51 42.53 50.05 42.91 50.88 42.88L50.88 42.12C48.44 42.71 47.29 41.56 47.88 39.12L47.12 39.12L46.88 42.12L42.12 42.38Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <path d="M14.12 42.12L14.12 42.88C16.84 43.76 16.9 47.57 20.88 46.88L20.88 45.12L21.88 44.88C22.08 42.32 21.95 39.74 19.12 40.12C18.56 37.98 15.1 39.38 15.12 40.88C16.81 41.8 17.64 38.34 18.12 40.88L21.12 41.12C20.89 42.14 21.82 44.4 20.12 44.12C20.4 45.82 18.14 44.89 17.12 45.12L16.88 44.12C15.53 44.49 15.91 42.95 15.88 42.12L14.12 42.12Z" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="77.88" cy="30.74" rx="3.21" ry="3.75" transform="rotate(112.09 77.88 30.74)" fill="black" stroke="black" stroke-width="0.44" stroke-linejoin="round"/>
-  <ellipse cx="77.74" cy="30.8" rx="2.06" ry="3.09" transform="rotate(76.01 77.74 30.8)" fill="white"/>
+  <ellipse cx="71.7" cy="65.19" rx="2.92" ry="3.65" transform="rotate(72.51 71.7 65.19)" fill="black" stroke="black" stroke-width="0.67" stroke-linejoin="round"/>
+  <ellipse cx="72.17" cy="65.22" rx="2.14" ry="2.56" transform="rotate(56.54 72.17 65.22)" fill="white"/>
+  <path d="M23.38 60.12L23.12 60.88L24.88 60.88C25.15 61.73 25.74 64.4 24.12 64.12L23.88 65.12C23.15 65.33 22.67 64.85 22.88 64.12C21.18 64.4 22.11 62.14 21.88 61.12C20.87 61.54 19.82 62.23 20.12 63.88C20.85 63.67 21.33 64.15 21.12 64.88C21.85 64.67 22.33 65.15 22.12 65.88L25.88 65.88C25.91 65.05 25.53 63.51 26.88 63.88C26.95 62.77 27.04 61.98 25.88 61.88C26.48 59.85 24.91 60.01 23.38 60.12Z" fill="black" stroke="black" stroke-width="0.67" stroke-linejoin="round"/>
+  <path d="M45.38 43.12C44.38 43.9 46.14 44 46.88 43.88C46.87 45.36 48.22 44.55 49.12 45.12L49.12 45.88C47.08 46.17 49.08 47.62 49.88 47.88L50.12 43.88L52.88 43.88C52.62 43.08 51.17 41.08 50.88 43.12L50.12 43.12C49.26 41.7 51.05 38.25 48.12 39.12L48.12 41.88C48.85 41.67 49.33 42.15 49.12 42.88L45.38 43.12Z" fill="black" stroke="black" stroke-width="0.67" stroke-linejoin="round"/>
+  <ellipse cx="71.07" cy="23.27" rx="2.8" ry="3.37" transform="rotate(112.81 71.07 23.27)" fill="black" stroke="black" stroke-width="0.67" stroke-linejoin="round"/>
+  <circle cx="71" cy="23.24" r="2.3" fill="white"/>
+  <ellipse cx="24.97" cy="23.33" rx="2.82" ry="3.44" transform="rotate(143.3 24.97 23.33)" fill="black" stroke="black" stroke-width="0.67" stroke-linejoin="round"/>
+  <ellipse cx="24.88" cy="23.12" rx="2.05" ry="2.36" transform="rotate(45 24.88 23.12)" fill="white"/>
 </svg>

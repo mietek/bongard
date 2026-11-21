@@ -2,10 +2,19 @@
   <title>BP196, left example 5</title>
   <rect width="98" height="98" fill="white"/>
   <defs>
-  <pattern id="BP196DL5Tile" patternUnits="userSpaceOnUse" width="4" height="2">
-  <rect x="0" y="0" width="4" height="2" fill="white"/>
-  <circle cx="2.5" cy="0.5" r=".58" fill="black"/>
+  <pattern id="BP196DL5Tile" patternUnits="userSpaceOnUse" width="8" height="8">
+  <rect x="0" y="0" width="8" height="8" fill="white"/>
   <circle cx="0.5" cy="1.5" r=".58" fill="black"/>
+  <circle cx="4.5" cy="1.5" r=".58" fill="black"/>
+  <circle cx="6.5" cy="1.5" r=".58" fill="black"/>
+  <circle cx="2.5" cy="3.5" r=".58" fill="black"/>
+  <circle cx="6.5" cy="3.5" r=".58" fill="black"/>
+  <circle cx="0.5" cy="5.5" r=".58" fill="black"/>
+  <circle cx="2.5" cy="5.5" r=".58" fill="black"/>
+  <circle cx="4.5" cy="5.5" r=".58" fill="black"/>
+  <circle cx="6.5" cy="5.5" r=".58" fill="black"/>
+  <circle cx="2.5" cy="7.5" r=".58" fill="black"/>
+  <circle cx="6.5" cy="7.5" r=".58" fill="black"/>
   </pattern>
   </defs>
   <rect x="0" y="0" width="98" height="98" fill="url(#BP196DL5Tile)"/>

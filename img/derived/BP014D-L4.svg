@@ -1,13 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP014, left example 4</title>
   <rect width="98" height="98" fill="white" />
-  <path d="M 51.7,24.6
-       C 58.6,25.3 62.2,32 58,37.3
-       C 52.7,41.8 38.4,51.3 42.7,58.2
-       C 50.3,67.9 62,58.3 70.8,50.1
-       C 81.7,40.7 86.7,52.1 83.4,59.4
-       C 78.1,71.8 57.1,79.7 42.2,76.1
-       C 31.8,74 24,67.4 25.2,56.7
-       C 25.7,44.4 38.7,25.2 51.7,24.6
-       Z" fill="none" stroke="black" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 20.2,25 L 20.7,66" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 30.2,25 L 31.3,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 40.5,24 L 41.9,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 51.8,25 L 53.1,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 63.8,24 L 65.1,65" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 76,25 L 77.2,66" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M 17,46.9 L 80,46.1" fill="none" stroke="black" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round" />
 </svg>

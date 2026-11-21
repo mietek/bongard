@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP015, left example 2</title>
   <rect width="98" height="98" fill="white" />
-  <polygon points="36.6,18.9 71,31.5 71,66.3 39.8,70 22.6,49.2" fill="none" stroke="black" stroke-width="2" stroke-linejoin="miter" stroke-linecap="round" />
+  <path d="M 24.1,78.2
+       C 24.1,67.3 24,51.1 25.1,32.3
+       C 25.1,13.2 43.5,10.7 50.8,22.7
+       C 56.7,30.2 53.1,43.2 63.8,49.2
+       C 78.1,58 69.7,68.1 59.7,69.6
+       C 43.8,69.7 29.7,76.3 24.1,78.2
+       Z" fill="none" stroke="black" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 98 98">
   <title>BP023, right example 5</title>
   <rect width="98" height="98" fill="white" />
-  <rect x="-11.6" y="-29.8" width="23.2" height="59.6" transform="translate(32.7 40.1) rotate(17.9)" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round" />
-  <polygon points="67.5,50.6 82,66.8 62.5,67.1" fill="none" stroke="black" stroke-width="2.4" stroke-linejoin="miter" stroke-linecap="round" />
+  <polygon points="20.1,17.5 39,17.5 29.4,31.8" fill="none" stroke="black" stroke-width="2.7" stroke-linejoin="miter" stroke-linecap="round" />
+  <ellipse cx="57.4" cy="65.1" rx="5.9" ry="5.5" transform="rotate(108.3 57.4 65.1)" fill="none" stroke="black" stroke-width="2.3" />
 </svg>
