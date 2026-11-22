@@ -97,12 +97,11 @@ def html(element):
 
 def main():
     problems = json.loads(Path("problems.json").read_text(encoding="utf-8"))
-    ratings = json.loads(Path("difficulty.json").read_text(encoding="utf-8"))["problems"]
     counts = Counter(All=len(problems))
     sections = []
     for key in sorted(problems, key=lambda k: int(k[2:])):
         problem = problems[key]
-        difficulty = ratings[key]["difficulty"] if key in ratings else None
+        difficulty = problem.get("foundalis", {}).get("difficulty")
         counts["Flagged" if problem.get("flag_reason") else "Unflagged"] += 1
         counts[LEVELS[difficulty] if difficulty is not None else "Unrated"] += 1
         sections.append(html(problem_section(key, problem, difficulty)))

@@ -6,6 +6,23 @@
       "rule": {
         "left": "Empty picture",
         "right": "Not empty picture"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 31,
+          "mean_time_seconds": 6.9,
+          "sd_time_seconds": 5.1
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -24,6 +41,23 @@
       "rule": {
         "left": "Large figures",
         "right": "Small figures"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 28,
+        "correct": {
+          "count": 28,
+          "mean_time_seconds": 13.6,
+          "sd_time_seconds": 9.6
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -42,6 +76,23 @@
       "rule": {
         "left": "Outline figures",
         "right": "Solid figures"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 28,
+        "correct": {
+          "count": 28,
+          "mean_time_seconds": 7.9,
+          "sd_time_seconds": 6.1
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -60,6 +111,23 @@
       "rule": {
         "left": "Convex figures",
         "right": "Nonconvex figures"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 5,
+          "mean_time_seconds": 17.6,
+          "sd_time_seconds": 10.9
+        },
+        "incorrect": {
+          "count": 9,
+          "mean_time_seconds": 30.4
+        },
+        "no_answer": {
+          "count": 17,
+          "mean_time_seconds": 37.8
+        }
       }
     },
     "oebp": {
@@ -78,6 +146,23 @@
       "rule": {
         "left": "Polygons",
         "right": "Curvilinear figures"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 28,
+          "mean_time_seconds": 11.0,
+          "sd_time_seconds": 9.1
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 5.0
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 16.0
+        }
       }
     },
     "oebp": {
@@ -96,6 +181,23 @@
       "rule": {
         "left": "Triangles",
         "right": "Quadrangles"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 26,
+          "mean_time_seconds": 18.8,
+          "sd_time_seconds": 16.3
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 26.5
+        },
+        "no_answer": {
+          "count": 3,
+          "mean_time_seconds": 27.7
+        }
       }
     },
     "oebp": {
@@ -114,6 +216,23 @@
       "rule": {
         "left": "Figures elongated vertically",
         "right": "Figures elongated horizontally"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 27,
+          "mean_time_seconds": 11.5,
+          "sd_time_seconds": 12.3
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 3,
+          "mean_time_seconds": 25.7
+        }
       }
     },
     "oebp": {
@@ -132,6 +251,23 @@
       "rule": {
         "left": "Figures on the right side",
         "right": "Figures on the left side"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 24,
+          "mean_time_seconds": 21.0,
+          "sd_time_seconds": 20.9
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 7,
+          "mean_time_seconds": 23.0
+        }
       }
     },
     "oebp": {
@@ -150,6 +286,23 @@
       "rule": {
         "left": "Smooth contour figures",
         "right": "Twisting contour figures"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 31,
+          "mean_time_seconds": 10.5,
+          "sd_time_seconds": 7.3
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -168,6 +321,23 @@
       "rule": {
         "left": "Triangles",
         "right": "Quadrangles"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 27,
+          "mean_time_seconds": 12.2,
+          "sd_time_seconds": 9.7
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 27.0
+        },
+        "no_answer": {
+          "count": 2,
+          "mean_time_seconds": 26.5
+        }
       }
     },
     "oebp": {
@@ -186,6 +356,23 @@
       "rule": {
         "left": "Elongated figures",
         "right": "Compact figures"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 23.7,
+          "sd_time_seconds": 13.7
+        },
+        "incorrect": {
+          "count": 6,
+          "mean_time_seconds": 38.0
+        },
+        "no_answer": {
+          "count": 10,
+          "mean_time_seconds": 30.6
+        }
       }
     },
     "oebp": {
@@ -204,6 +391,23 @@
       "rule": {
         "left": "Convex hull of figure elongated",
         "right": "Convex hull of figure compact"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 7,
+          "mean_time_seconds": 33.1,
+          "sd_time_seconds": 14.4
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 21.5
+        },
+        "no_answer": {
+          "count": 21,
+          "mean_time_seconds": 30.5
+        }
       }
     },
     "oebp": {
@@ -222,6 +426,23 @@
       "rule": {
         "left": "Vertical rectangles or horizontal ellipses",
         "right": "Vertical ellipses or horizontal rectangles"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 23,
+        "correct": {
+          "count": 19,
+          "mean_time_seconds": 15.5,
+          "sd_time_seconds": 7.0
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 9.5
+        },
+        "no_answer": {
+          "count": 2,
+          "mean_time_seconds": 14.0
+        }
       }
     },
     "oebp": {
@@ -240,6 +461,23 @@
       "rule": {
         "left": "Large total line length",
         "right": "Small total line length"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 25,
+        "correct": {
+          "count": 24,
+          "mean_time_seconds": 15.0,
+          "sd_time_seconds": 12.3
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 1.0
+        }
       }
     },
     "oebp": {
@@ -258,6 +496,23 @@
       "rule": {
         "left": "Closed lines",
         "right": "Open lines"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 27,
+          "mean_time_seconds": 7.7,
+          "sd_time_seconds": 3.6
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 7.0
+        },
+        "no_answer": {
+          "count": 3,
+          "mean_time_seconds": 30.3
+        }
       }
     },
     "oebp": {
@@ -276,6 +531,23 @@
       "rule": {
         "left": "Spiral curls counterclockwise",
         "right": "Spiral curls clockwise"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 24,
+        "correct": {
+          "count": 9,
+          "mean_time_seconds": 29.4,
+          "sd_time_seconds": 20.2
+        },
+        "incorrect": {
+          "count": 5,
+          "mean_time_seconds": 27.4
+        },
+        "no_answer": {
+          "count": 10,
+          "mean_time_seconds": 21.6
+        }
       }
     },
     "oebp": {
@@ -295,6 +567,23 @@
       "rule": {
         "left": "An acute angle directed inward",
         "right": "No angle directed inward"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 23,
+        "correct": {
+          "count": 6,
+          "mean_time_seconds": 35.5,
+          "sd_time_seconds": 23.0
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 15.7
+        },
+        "no_answer": {
+          "count": 14,
+          "mean_time_seconds": 12.9
+        }
       }
     },
     "oebp": {
@@ -314,6 +603,23 @@
       "rule": {
         "left": "A neck",
         "right": "No neck"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 23,
+        "correct": {
+          "count": 8,
+          "mean_time_seconds": 16.1,
+          "sd_time_seconds": 6.5
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 27.0
+        },
+        "no_answer": {
+          "count": 13,
+          "mean_time_seconds": 13.2
+        }
       }
     },
     "oebp": {
@@ -332,6 +638,23 @@
       "rule": {
         "left": "Neck horizontal",
         "right": "Neck vertical"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 22,
+        "correct": {
+          "count": 10,
+          "mean_time_seconds": 18.7,
+          "sd_time_seconds": 10.7
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 12,
+          "mean_time_seconds": 12.1
+        }
       }
     },
     "oebp": {
@@ -350,6 +673,23 @@
       "rule": {
         "left": "Points located on one side of the neck",
         "right": "Points located on both sides of the neck"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 22,
+        "correct": {
+          "count": 5,
+          "mean_time_seconds": 21.4,
+          "sd_time_seconds": 6.2
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 26.0
+        },
+        "no_answer": {
+          "count": 15,
+          "mean_time_seconds": 16.3
+        }
       }
     },
     "oebp": {
@@ -368,6 +708,23 @@
       "rule": {
         "left": "Small figure present",
         "right": "No small figure present"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 20,
+          "mean_time_seconds": 25.1,
+          "sd_time_seconds": 16.3
+        },
+        "incorrect": {
+          "count": 9,
+          "mean_time_seconds": 31.4
+        },
+        "no_answer": {
+          "count": 2,
+          "mean_time_seconds": 42.5
+        }
       }
     },
     "oebp": {
@@ -386,6 +743,23 @@
       "rule": {
         "left": "Areas of figures approximately equal",
         "right": "Areas of figures differ greatly"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 11,
+          "mean_time_seconds": 23.9,
+          "sd_time_seconds": 20.2
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 42.0
+        },
+        "no_answer": {
+          "count": 16,
+          "mean_time_seconds": 35.0
+        }
       }
     },
     "oebp": {
@@ -404,6 +778,23 @@
       "rule": {
         "left": "One figure",
         "right": "Two figures"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 30,
+          "mean_time_seconds": 9.4,
+          "sd_time_seconds": 5.4
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 20.0
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -422,6 +813,23 @@
       "rule": {
         "left": "A circle",
         "right": "No circle"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 20,
+          "mean_time_seconds": 21.0,
+          "sd_time_seconds": 12.2
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 20.0
+        },
+        "no_answer": {
+          "count": 7,
+          "mean_time_seconds": 31.7
+        }
       }
     },
     "oebp": {
@@ -440,6 +848,23 @@
       "rule": {
         "left": "Black figure is a triangle",
         "right": "Black figure is a circle"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 26,
+        "correct": {
+          "count": 22,
+          "mean_time_seconds": 9.7,
+          "sd_time_seconds": 6.9
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 4,
+          "mean_time_seconds": 5.3
+        }
       }
     },
     "oebp": {
@@ -458,6 +883,23 @@
       "rule": {
         "left": "Solid black triangle",
         "right": "No solid black triangle"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 24,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 15.7,
+          "sd_time_seconds": 10.1
+        },
+        "incorrect": {
+          "count": 4,
+          "mean_time_seconds": 17.0
+        },
+        "no_answer": {
+          "count": 5,
+          "mean_time_seconds": 13.6
+        }
       }
     },
     "oebp": {
@@ -476,6 +918,23 @@
       "rule": {
         "left": "More solid black figures",
         "right": "More outline figures"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 22,
+        "correct": {
+          "count": 8,
+          "mean_time_seconds": 18.1,
+          "sd_time_seconds": 16.0
+        },
+        "incorrect": {
+          "count": 4,
+          "mean_time_seconds": 50.75
+        },
+        "no_answer": {
+          "count": 10,
+          "mean_time_seconds": 15.8
+        }
       }
     },
     "oebp": {
@@ -494,6 +953,23 @@
       "rule": {
         "left": "More solid black circles",
         "right": "More outline circles"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 21,
+        "correct": {
+          "count": 0,
+          "mean_time_seconds": null,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 21,
+          "mean_time_seconds": 20.5
+        }
       }
     },
     "oebp": {
@@ -512,6 +988,23 @@
       "rule": {
         "left": "There are more small circles inside the figure outline than outside",
         "right": "There are fewer small circles inside the figure outline than outside"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 25,
+        "correct": {
+          "count": 3,
+          "mean_time_seconds": 23.7,
+          "sd_time_seconds": 4.1
+        },
+        "incorrect": {
+          "count": 11,
+          "mean_time_seconds": 24.5
+        },
+        "no_answer": {
+          "count": 11,
+          "mean_time_seconds": 29.3
+        }
       }
     },
     "oebp": {
@@ -530,6 +1023,23 @@
       "rule": {
         "left": "A line with a self-crossing",
         "right": "A line without a self-crossing"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 25,
+        "correct": {
+          "count": 7,
+          "mean_time_seconds": 19.4,
+          "sd_time_seconds": 9.9
+        },
+        "incorrect": {
+          "count": 6,
+          "mean_time_seconds": 23.8
+        },
+        "no_answer": {
+          "count": 12,
+          "mean_time_seconds": 16.3
+        }
       }
     },
     "oebp": {
@@ -548,6 +1058,23 @@
       "rule": {
         "left": "One line",
         "right": "Two lines"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 24,
+        "correct": {
+          "count": 18,
+          "mean_time_seconds": 17.9,
+          "sd_time_seconds": 9.4
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 26.0
+        },
+        "no_answer": {
+          "count": 5,
+          "mean_time_seconds": 17.6
+        }
       }
     },
     "oebp": {
@@ -566,6 +1093,23 @@
       "rule": {
         "left": "A sharp projection",
         "right": "No sharp projection"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 24,
+        "correct": {
+          "count": 6,
+          "mean_time_seconds": 14.7,
+          "sd_time_seconds": 6.2
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 9.0
+        },
+        "no_answer": {
+          "count": 17,
+          "mean_time_seconds": 27.2
+        }
       }
     },
     "oebp": {
@@ -584,6 +1128,23 @@
       "rule": {
         "left": "Acute angle",
         "right": "No acute angle"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 5,
+          "mean_time_seconds": 48.6,
+          "sd_time_seconds": 28.4
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 19.7
+        },
+        "no_answer": {
+          "count": 22,
+          "mean_time_seconds": 37.4
+        }
       }
     },
     "oebp": {
@@ -602,6 +1163,23 @@
       "rule": {
         "left": "A large hole",
         "right": "A small hole"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 30,
+          "mean_time_seconds": 9.1,
+          "sd_time_seconds": 5.6
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 19.0
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -620,6 +1198,23 @@
       "rule": {
         "left": "The axis of the hole is parallel to the figure axis",
         "right": "The axis of the hole is perpendicular to the figure axis"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 26,
+        "correct": {
+          "count": 11,
+          "mean_time_seconds": 28.2,
+          "sd_time_seconds": 17.7
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 21.0
+        },
+        "no_answer": {
+          "count": 14,
+          "mean_time_seconds": 19.0
+        }
       }
     },
     "oebp": {
@@ -638,6 +1233,23 @@
       "rule": {
         "left": "Triangle above circle",
         "right": "Circle above triangle"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 23,
+          "mean_time_seconds": 20.1,
+          "sd_time_seconds": 14.6
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 69.0
+        },
+        "no_answer": {
+          "count": 5,
+          "mean_time_seconds": 23.6
+        }
       }
     },
     "oebp": {
@@ -656,6 +1268,23 @@
       "rule": {
         "left": "Triangle above circle",
         "right": "Circle above triangle"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 25,
+        "correct": {
+          "count": 3,
+          "mean_time_seconds": 42.0,
+          "sd_time_seconds": 24.5
+        },
+        "incorrect": {
+          "count": 5,
+          "mean_time_seconds": 27.2
+        },
+        "no_answer": {
+          "count": 17,
+          "mean_time_seconds": 28.5
+        }
       }
     },
     "oebp": {
@@ -674,6 +1303,23 @@
       "rule": {
         "left": "Triangle larger than circle",
         "right": "Triangle smaller than circle"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 24,
+          "mean_time_seconds": 19.8,
+          "sd_time_seconds": 11.0
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 19.0
+        },
+        "no_answer": {
+          "count": 4,
+          "mean_time_seconds": 16.3
+        }
       }
     },
     "oebp": {
@@ -692,6 +1338,23 @@
       "rule": {
         "left": "Segments almost parallel to each other",
         "right": "Large angles between segments"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 30,
+          "mean_time_seconds": 12.4,
+          "sd_time_seconds": 10.0
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 5.0
+        }
       }
     },
     "oebp": {
@@ -710,6 +1373,23 @@
       "rule": {
         "left": "Three points on a straight line",
         "right": "No three points on a straight line"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 29.1,
+          "sd_time_seconds": 12.1
+        },
+        "incorrect": {
+          "count": 11,
+          "mean_time_seconds": 25.5
+        },
+        "no_answer": {
+          "count": 4,
+          "mean_time_seconds": 29.0
+        }
       }
     },
     "oebp": {
@@ -728,6 +1408,23 @@
       "rule": {
         "left": "Outline circles on one straight line",
         "right": "Outline circles not on one straight line"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 26,
+        "correct": {
+          "count": 14,
+          "mean_time_seconds": 26.0,
+          "sd_time_seconds": 11.0
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 15.0
+        },
+        "no_answer": {
+          "count": 11,
+          "mean_time_seconds": 12.7
+        }
       }
     },
     "oebp": {
@@ -746,6 +1443,23 @@
       "rule": {
         "left": "Points inside the figure outline are on a straight line",
         "right": "Points inside the figure outline are not on a straight line"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 23,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 13.1,
+          "sd_time_seconds": 5.8
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 44.0
+        },
+        "no_answer": {
+          "count": 7,
+          "mean_time_seconds": 17.4
+        }
       }
     },
     "oebp": {
@@ -764,6 +1478,23 @@
       "rule": {
         "left": "The vibration amplitude increases from left to right",
         "right": "The vibration amplitude decreases from left to right"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 22,
+        "correct": {
+          "count": 14,
+          "mean_time_seconds": 14.0,
+          "sd_time_seconds": 11.1
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 16.7
+        },
+        "no_answer": {
+          "count": 5,
+          "mean_time_seconds": 19.8
+        }
       }
     },
     "oebp": {
@@ -782,6 +1513,23 @@
       "rule": {
         "left": "Small circles on different arcs",
         "right": "Small circles on one arc"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 21,
+        "correct": {
+          "count": 6,
+          "mean_time_seconds": 14.0,
+          "sd_time_seconds": 10.1
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 16.5
+        },
+        "no_answer": {
+          "count": 13,
+          "mean_time_seconds": 19.9
+        }
       }
     },
     "oebp": {
@@ -800,6 +1548,23 @@
       "rule": {
         "left": "Outline figure on top of solid black figure",
         "right": "Black figure on top of outline figure"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 29,
+          "mean_time_seconds": 15.0,
+          "sd_time_seconds": 12.9
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 2,
+          "mean_time_seconds": 42.5
+        }
       }
     },
     "oebp": {
@@ -818,6 +1583,23 @@
       "rule": {
         "left": "Triangle on top of the circle",
         "right": "Circle on top of the triangle"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 26,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 17.7,
+          "sd_time_seconds": 11.0
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 45.0
+        },
+        "no_answer": {
+          "count": 8,
+          "mean_time_seconds": 16.5
+        }
       }
     },
     "oebp": {
@@ -836,6 +1618,23 @@
       "rule": {
         "left": "Triangle inside of the circle",
         "right": "Circle inside of the triangle"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 31,
+          "mean_time_seconds": 11.0,
+          "sd_time_seconds": 4.1
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -854,6 +1653,23 @@
       "rule": {
         "left": "Solid dark figures above the outline figures",
         "right": "Outline figures above the solid dark figures"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 26,
+          "mean_time_seconds": 21.8,
+          "sd_time_seconds": 16.2
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 63.0
+        },
+        "no_answer": {
+          "count": 3,
+          "mean_time_seconds": 33.7
+        }
       }
     },
     "oebp": {
@@ -872,6 +1688,23 @@
       "rule": {
         "left": "Points inside the figure outline are grouped more densely than outside the contour",
         "right": "Points outside the figure contour are grouped more densely than inside the contour"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 27,
+        "correct": {
+          "count": 23,
+          "mean_time_seconds": 19.3,
+          "sd_time_seconds": 8.4
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 4,
+          "mean_time_seconds": 7.0
+        }
       }
     },
     "oebp": {
@@ -890,6 +1723,23 @@
       "rule": {
         "left": "Axes of symmetry",
         "right": "No axes of symmetry"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 28,
+        "correct": {
+          "count": 7,
+          "mean_time_seconds": 22.7,
+          "sd_time_seconds": 6.7
+        },
+        "incorrect": {
+          "count": 5,
+          "mean_time_seconds": 21.4
+        },
+        "no_answer": {
+          "count": 16,
+          "mean_time_seconds": 30.5
+        }
       }
     },
     "oebp": {
@@ -908,6 +1758,23 @@
       "rule": {
         "left": "Two circles close to each other",
         "right": "No two circles close to each other"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 19,
+          "mean_time_seconds": 32.1,
+          "sd_time_seconds": 21.8
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 28.5
+        },
+        "no_answer": {
+          "count": 9,
+          "mean_time_seconds": 34.3
+        }
       }
     },
     "oebp": {
@@ -926,6 +1793,23 @@
       "rule": {
         "left": "Arrows pointing in different directions",
         "right": "Arrows pointing in the same direction"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 22,
+        "correct": {
+          "count": 16,
+          "mean_time_seconds": 20.6,
+          "sd_time_seconds": 16.1
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 6,
+          "mean_time_seconds": 15.7
+        }
       }
     },
     "oebp": {
@@ -944,6 +1828,23 @@
       "rule": {
         "left": "Inside figure has fewer angles than outside figure",
         "right": "Inside figure has more angles than outside figure"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 26,
+        "correct": {
+          "count": 7,
+          "mean_time_seconds": 29.3,
+          "sd_time_seconds": 10.9
+        },
+        "incorrect": {
+          "count": 5,
+          "mean_time_seconds": 41.0
+        },
+        "no_answer": {
+          "count": 14,
+          "mean_time_seconds": 33.3
+        }
       }
     },
     "oebp": {
@@ -962,6 +1863,23 @@
       "rule": {
         "left": "A cross, circle, and triangle arranged counterclockwise",
         "right": "A cross, circle, and triangle arranged clockwise"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 20,
+        "correct": {
+          "count": 1,
+          "mean_time_seconds": 38.0,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 9.0
+        },
+        "no_answer": {
+          "count": 17,
+          "mean_time_seconds": 16.6
+        }
       }
     },
     "oebp": {
@@ -981,6 +1899,23 @@
       "rule": {
         "left": "A circle is at the left of the cavity if you look from inside the figure",
         "right": "A circle is at the right of the cavity if you look from inside the figure"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 18,
+        "correct": {
+          "count": 6,
+          "mean_time_seconds": 25.0,
+          "sd_time_seconds": 10.1
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 40.0
+        },
+        "no_answer": {
+          "count": 10,
+          "mean_time_seconds": 13.4
+        }
       }
     },
     "oebp": {
@@ -999,6 +1934,23 @@
       "rule": {
         "left": "All figures of the same color",
         "right": "Figures of different colors"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 22,
+          "mean_time_seconds": 14.0,
+          "sd_time_seconds": 13.1
+        },
+        "incorrect": {
+          "count": 4,
+          "mean_time_seconds": 25.3
+        },
+        "no_answer": {
+          "count": 5,
+          "mean_time_seconds": 25.8
+        }
       }
     },
     "oebp": {
@@ -1017,6 +1969,23 @@
       "rule": {
         "left": "Identical figures",
         "right": "Figures not identical"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 29,
+        "correct": {
+          "count": 14,
+          "mean_time_seconds": 16.1,
+          "sd_time_seconds": 9.5
+        },
+        "incorrect": {
+          "count": 13,
+          "mean_time_seconds": 16.2
+        },
+        "no_answer": {
+          "count": 2,
+          "mean_time_seconds": 5.5
+        }
       }
     },
     "oebp": {
@@ -1035,6 +2004,23 @@
       "rule": {
         "left": "Solid dark quadrangles are identical",
         "right": "Solid dark quadrangles are different"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 16,
+        "correct": {
+          "count": 4,
+          "mean_time_seconds": 10.0,
+          "sd_time_seconds": 1.4
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 22.0
+        },
+        "no_answer": {
+          "count": 10,
+          "mean_time_seconds": 16.6
+        }
       }
     },
     "oebp": {
@@ -1053,6 +2039,23 @@
       "rule": {
         "left": "Figures are similar",
         "right": "Figures are not similar"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 18,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 13.3,
+          "sd_time_seconds": 6.4
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 3,
+          "mean_time_seconds": 7.3
+        }
       }
     },
     "oebp": {
@@ -1071,6 +2074,23 @@
       "rule": {
         "left": "Some similar figures",
         "right": "No similar figures"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 16,
+        "correct": {
+          "count": 5,
+          "mean_time_seconds": 26.0,
+          "sd_time_seconds": 15.3
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 21.0
+        },
+        "no_answer": {
+          "count": 9,
+          "mean_time_seconds": 10.9
+        }
       }
     },
     "oebp": {
@@ -1089,6 +2109,23 @@
       "rule": {
         "left": "A line separates the crosses in half",
         "right": "A line does not separate the crosses in half"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 25,
+          "mean_time_seconds": 14.7,
+          "sd_time_seconds": 7.7
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 5,
+          "mean_time_seconds": 29.2
+        }
       }
     },
     "oebp": {
@@ -1107,6 +2144,23 @@
       "rule": {
         "left": "Ends of the curve are far apart",
         "right": "Ends of the curve are close together"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 28,
+        "correct": {
+          "count": 8,
+          "mean_time_seconds": 34.0,
+          "sd_time_seconds": 16.0
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 15.5
+        },
+        "no_answer": {
+          "count": 18,
+          "mean_time_seconds": 29.3
+        }
       }
     },
     "oebp": {
@@ -1125,6 +2179,23 @@
       "rule": {
         "left": "Shading thicker on the right side",
         "right": "Shading thicker on the left side"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 16,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 9.5,
+          "sd_time_seconds": 4.2
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 19.0
+        }
       }
     },
     "oebp": {
@@ -1143,6 +2214,23 @@
       "rule": {
         "left": "A cross is located on the extension of the ellipse axis",
         "right": "A circle is located on the extension of the ellipse axis"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 15,
+        "correct": {
+          "count": 1,
+          "mean_time_seconds": 19.0,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 30.5
+        },
+        "no_answer": {
+          "count": 12,
+          "mean_time_seconds": 11.75
+        }
       }
     },
     "oebp": {
@@ -1161,6 +2249,23 @@
       "rule": {
         "left": "A set of triangles elongated horizontally",
         "right": "A set of triangles elongated vertically"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 20.5,
+          "sd_time_seconds": 8.0
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 72.0
+        },
+        "no_answer": {
+          "count": 13,
+          "mean_time_seconds": 43.3
+        }
       }
     },
     "oebp": {
@@ -1179,6 +2284,23 @@
       "rule": {
         "left": "Unconnected circles on a horizontal line",
         "right": "Unconnected circles on a vertical line"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 29,
+        "correct": {
+          "count": 21,
+          "mean_time_seconds": 17.5,
+          "sd_time_seconds": 10.1
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 8,
+          "mean_time_seconds": 13.8
+        }
       }
     },
     "oebp": {
@@ -1197,6 +2319,23 @@
       "rule": {
         "left": "The right branch begins at a higher point than the left branch",
         "right": "The right branch begins at a lower point than the left branch"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 29,
+        "correct": {
+          "count": 9,
+          "mean_time_seconds": 34.3,
+          "sd_time_seconds": 16.3
+        },
+        "incorrect": {
+          "count": 7,
+          "mean_time_seconds": 37.9
+        },
+        "no_answer": {
+          "count": 13,
+          "mean_time_seconds": 21.3
+        }
       }
     },
     "oebp": {
@@ -1215,6 +2354,23 @@
       "rule": {
         "left": "The end of the right branch is higher than that of the left branch",
         "right": "The end of the right branch is lower than that of the left branch"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 14,
+        "correct": {
+          "count": 0,
+          "mean_time_seconds": null,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 17.0
+        },
+        "no_answer": {
+          "count": 11,
+          "mean_time_seconds": 15.7
+        }
       }
     },
     "oebp": {
@@ -1233,6 +2389,23 @@
       "rule": {
         "left": "Large black dot on the main branch",
         "right": "Large black dot on a side branch"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 16,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 10.5,
+          "sd_time_seconds": 5.3
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 18.0
+        }
       }
     },
     "oebp": {
@@ -1251,6 +2424,23 @@
       "rule": {
         "left": "There are no side branches of the second order",
         "right": "There are side branches of the second order"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 29,
+        "correct": {
+          "count": 19,
+          "mean_time_seconds": 28.4,
+          "sd_time_seconds": 17.9
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 21.3
+        },
+        "no_answer": {
+          "count": 7,
+          "mean_time_seconds": 29.9
+        }
       }
     },
     "oebp": {
@@ -1269,6 +2459,23 @@
       "rule": {
         "left": "There are inside figures of the second order",
         "right": "There are no inside figures of the second order"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 34.6,
+          "sd_time_seconds": 14.3
+        },
+        "incorrect": {
+          "count": 6,
+          "mean_time_seconds": 42.2
+        },
+        "no_answer": {
+          "count": 9,
+          "mean_time_seconds": 41.8
+        }
       }
     },
     "oebp": {
@@ -1287,6 +2494,23 @@
       "rule": {
         "left": "Ends of the curve are parallel",
         "right": "Ends of the curve are perpendicular"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 4,
+          "mean_time_seconds": 39.5,
+          "sd_time_seconds": 19.8
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 57.0
+        },
+        "no_answer": {
+          "count": 23,
+          "mean_time_seconds": 30.2
+        }
       }
     },
     "oebp": {
@@ -1305,6 +2529,23 @@
       "rule": {
         "left": "The long axes of the ellipse and rectangle are perpendicular",
         "right": "The long axes of the ellipse and rectangle are parallel"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 15,
+        "correct": {
+          "count": 0,
+          "mean_time_seconds": null,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 8.0
+        },
+        "no_answer": {
+          "count": 14,
+          "mean_time_seconds": 15.2
+        }
       }
     },
     "oebp": {
@@ -1323,6 +2564,23 @@
       "rule": {
         "left": "A tail grows from the obtuse end",
         "right": "A tail grows from the acute end"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 15,
+        "correct": {
+          "count": 11,
+          "mean_time_seconds": 12.2,
+          "sd_time_seconds": 5.0
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 10.7
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 2.0
+        }
       }
     },
     "oebp": {
@@ -1341,6 +2599,23 @@
       "rule": {
         "left": "Triangle located at the concave side of an arc",
         "right": "Triangle located at the convex side of an arc"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 26,
+          "mean_time_seconds": 16.6,
+          "sd_time_seconds": 9.2
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 4,
+          "mean_time_seconds": 32.25
+        }
       }
     },
     "oebp": {
@@ -1359,6 +2634,23 @@
       "rule": {
         "left": "Long sides concave",
         "right": "Long sides convex"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 14,
+        "correct": {
+          "count": 9,
+          "mean_time_seconds": 11.4,
+          "sd_time_seconds": 5.2
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 17.0
+        },
+        "no_answer": {
+          "count": 4,
+          "mean_time_seconds": 7.3
+        }
       }
     },
     "oebp": {
@@ -1377,6 +2669,23 @@
       "rule": {
         "left": "Angle divided in half",
         "right": "Angle not divided in half"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 18,
+          "mean_time_seconds": 29.6,
+          "sd_time_seconds": 22.0
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 24.3
+        },
+        "no_answer": {
+          "count": 9,
+          "mean_time_seconds": 31.2
+        }
       }
     },
     "oebp": {
@@ -1395,6 +2704,23 @@
       "rule": {
         "left": "Extensions of segments cross at one point",
         "right": "Extensions of segments do not cross at one point"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 8,
+          "mean_time_seconds": 32.4,
+          "sd_time_seconds": 14.5
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 22,
+          "mean_time_seconds": 29.0
+        }
       }
     },
     "oebp": {
@@ -1413,6 +2739,23 @@
       "rule": {
         "left": "A dark circle is closer to the outline circle than to the triangle",
         "right": "A dark circle is closer to the triangle than to the outline circle"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 16,
+        "correct": {
+          "count": 1,
+          "mean_time_seconds": 26.0,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 15,
+          "mean_time_seconds": 11.6
+        }
       }
     },
     "oebp": {
@@ -1431,6 +2774,23 @@
       "rule": {
         "left": "Points located at the same distances from a cross",
         "right": "Points located at different distances from a cross"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 15,
+        "correct": {
+          "count": 1,
+          "mean_time_seconds": 26.0,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 14,
+          "mean_time_seconds": 11.5
+        }
       }
     },
     "oebp": {
@@ -1449,6 +2809,23 @@
       "rule": {
         "left": "Dark figures can be divided from outline figures by a straight line alternatively: Convex hulls of filled and outline figures are disjoint",
         "right": "Dark figures are impossible to separate from the outline ones alternatively: Convex hulls of filled and outline figures overlap"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 13,
+          "mean_time_seconds": 13.7,
+          "sd_time_seconds": 6.2
+        },
+        "incorrect": {
+          "count": 6,
+          "mean_time_seconds": 29.0
+        },
+        "no_answer": {
+          "count": 12,
+          "mean_time_seconds": 55.0
+        }
       }
     },
     "oebp": {
@@ -1467,6 +2844,23 @@
       "rule": {
         "left": "The convex hull of the crosses forms an equilateral triangle",
         "right": "The convex hull of the crosses does not form an equilateral triangle"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 0,
+          "mean_time_seconds": null,
+          "sd_time_seconds": null
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 66.0
+        },
+        "no_answer": {
+          "count": 29,
+          "mean_time_seconds": 34.9
+        }
       }
     },
     "oebp": {
@@ -1485,6 +2879,23 @@
       "rule": {
         "left": "A circle is inside of a figure made by crosses",
         "right": "A circle is outside of a figure made by crosses"
+      },
+      "difficulty": 2,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 22,
+          "mean_time_seconds": 23.6,
+          "sd_time_seconds": 11.4
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 16.0
+        },
+        "no_answer": {
+          "count": 6,
+          "mean_time_seconds": 19.5
+        }
       }
     },
     "oebp": {
@@ -1503,6 +2914,23 @@
       "rule": {
         "left": "A quadrangle is outside of a figure made by circles",
         "right": "A quadrangle is inside of a figure made by circles"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 31,
+          "mean_time_seconds": 12.6,
+          "sd_time_seconds": 7.6
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -1521,6 +2949,23 @@
       "rule": {
         "left": "Three parts",
         "right": "Five parts"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 27,
+          "mean_time_seconds": 20.5,
+          "sd_time_seconds": 8.1
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 34.5
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 2.0
+        }
       }
     },
     "oebp": {
@@ -1539,6 +2984,23 @@
       "rule": {
         "left": "Three parts",
         "right": "Five parts"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 8,
+          "mean_time_seconds": 45.3,
+          "sd_time_seconds": 25.6
+        },
+        "incorrect": {
+          "count": 8,
+          "mean_time_seconds": 43.6
+        },
+        "no_answer": {
+          "count": 15,
+          "mean_time_seconds": 26.7
+        }
       }
     },
     "oebp": {
@@ -1557,6 +3019,23 @@
       "rule": {
         "left": "Four parts",
         "right": "Five parts"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 16,
+          "mean_time_seconds": 33.4,
+          "sd_time_seconds": 16.9
+        },
+        "incorrect": {
+          "count": 2,
+          "mean_time_seconds": 40.0
+        },
+        "no_answer": {
+          "count": 12,
+          "mean_time_seconds": 29.8
+        }
       }
     },
     "oebp": {
@@ -1575,6 +3054,23 @@
       "rule": {
         "left": "Three parts",
         "right": "Five parts"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 16,
+          "mean_time_seconds": 21.6,
+          "sd_time_seconds": 16.0
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 14,
+          "mean_time_seconds": 17.6
+        }
       }
     },
     "oebp": {
@@ -1593,6 +3089,23 @@
       "rule": {
         "left": "Three parts",
         "right": "Five parts"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 6,
+          "mean_time_seconds": 35.7,
+          "sd_time_seconds": 24.2
+        },
+        "incorrect": {
+          "count": 5,
+          "mean_time_seconds": 62.0
+        },
+        "no_answer": {
+          "count": 19,
+          "mean_time_seconds": 30.8
+        }
       }
     },
     "oebp": {
@@ -1611,6 +3124,23 @@
       "rule": {
         "left": "Three parts",
         "right": "Four parts"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 14,
+        "correct": {
+          "count": 2,
+          "mean_time_seconds": 36.0,
+          "sd_time_seconds": 19.8
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 12,
+          "mean_time_seconds": 17.7
+        }
       }
     },
     "oebp": {
@@ -1629,6 +3159,23 @@
       "rule": {
         "left": "Three identical elements",
         "right": "Four identical elements"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 18,
+          "mean_time_seconds": 32.0,
+          "sd_time_seconds": 15.4
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 12,
+          "mean_time_seconds": 22.8
+        }
       }
     },
     "oebp": {
@@ -1647,6 +3194,23 @@
       "rule": {
         "left": "The chain does not branch",
         "right": "The chain branches"
+      },
+      "difficulty": 4,
+      "human_results": {
+        "sample_size": 15,
+        "correct": {
+          "count": 6,
+          "mean_time_seconds": 21.0,
+          "sd_time_seconds": 12.6
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 9,
+          "mean_time_seconds": 11.1
+        }
       }
     },
     "oebp": {
@@ -1665,6 +3229,23 @@
       "rule": {
         "left": "Branches at outlined circle",
         "right": "Branches at solid dark circle"
+      },
+      "difficulty": 5,
+      "human_results": {
+        "sample_size": 20,
+        "correct": {
+          "count": 3,
+          "mean_time_seconds": 27.7,
+          "sd_time_seconds": 2.5
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 17,
+          "mean_time_seconds": 15.4
+        }
       }
     },
     "oebp": {
@@ -1683,6 +3264,23 @@
       "rule": {
         "left": "Solid dark circle not at end",
         "right": "Solid dark circle at end"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 15,
+        "correct": {
+          "count": 15,
+          "mean_time_seconds": 7.5,
+          "sd_time_seconds": 3.8
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
@@ -1701,6 +3299,23 @@
       "rule": {
         "left": "Vertical hatched lines",
         "right": "Horizontal hatched lines"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 30,
+          "mean_time_seconds": 8.4,
+          "sd_time_seconds": 5.1
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 1,
+          "mean_time_seconds": 17.0
+        }
       }
     },
     "oebp": {
@@ -1719,6 +3334,23 @@
       "rule": {
         "left": "Triangles",
         "right": "Quadrangles"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 30,
+        "correct": {
+          "count": 25,
+          "mean_time_seconds": 16.9,
+          "sd_time_seconds": 13.3
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 5,
+          "mean_time_seconds": 16.0
+        }
       }
     },
     "oebp": {
@@ -1737,6 +3369,23 @@
       "rule": {
         "left": "Triangles",
         "right": "Circles"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 31,
+        "correct": {
+          "count": 29,
+          "mean_time_seconds": 8.7,
+          "sd_time_seconds": 5.6
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 2,
+          "mean_time_seconds": 18.0
+        }
       }
     },
     "oebp": {
@@ -1755,6 +3404,23 @@
       "rule": {
         "left": "Triangles",
         "right": "Quadrangles"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 16,
+        "correct": {
+          "count": 9,
+          "mean_time_seconds": 12.1,
+          "sd_time_seconds": 8.7
+        },
+        "incorrect": {
+          "count": 3,
+          "mean_time_seconds": 13.7
+        },
+        "no_answer": {
+          "count": 4,
+          "mean_time_seconds": 19.3
+        }
       }
     },
     "oebp": {
@@ -1773,6 +3439,23 @@
       "rule": {
         "left": "Outlines made by triangles and circles intersect",
         "right": "Outlines made by triangles and circles do not intersect"
+      },
+      "difficulty": 3,
+      "human_results": {
+        "sample_size": 16,
+        "correct": {
+          "count": 9,
+          "mean_time_seconds": 19.8,
+          "sd_time_seconds": 9.5
+        },
+        "incorrect": {
+          "count": 1,
+          "mean_time_seconds": 19.0
+        },
+        "no_answer": {
+          "count": 6,
+          "mean_time_seconds": 8.3
+        }
       }
     },
     "oebp": {
@@ -1791,6 +3474,23 @@
       "rule": {
         "left": "The letter А",
         "right": "The letter Б"
+      },
+      "difficulty": 1,
+      "human_results": {
+        "sample_size": 14,
+        "correct": {
+          "count": 14,
+          "mean_time_seconds": 5.4,
+          "sd_time_seconds": 3.3
+        },
+        "incorrect": {
+          "count": 0,
+          "mean_time_seconds": null
+        },
+        "no_answer": {
+          "count": 0,
+          "mean_time_seconds": null
+        }
       }
     },
     "oebp": {
