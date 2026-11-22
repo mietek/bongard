@@ -57,13 +57,17 @@ def problem_section(key, problem, difficulty):
     reason = problem.get("flag_reason")
     section = ET.Element("section", {"class": "problem", "data-flagged": str(bool(reason)).lower()})
     ET.SubElement(section, "hr")
-    heading = [key]
+    heading = ET.SubElement(section, "h2", id=key)
+    link = ET.SubElement(heading, "a", href=f"#{key}")
+    link.text = key
+    labels = []
     if reason:
-        heading.append("Flagged")
+        labels.append("Flagged")
     if difficulty is not None:
-        heading.append(LEVELS[difficulty])
+        labels.append(LEVELS[difficulty])
         section.set("data-difficulty", str(difficulty))
-    ET.SubElement(section, "h2", id=key).text = " · ".join(heading)
+    if labels:
+        link.tail = " · " + " · ".join(labels)
 
     record = ET.SubElement(section, "div", {"class": "record"})
     table = ET.SubElement(record, "table")
