@@ -285,7 +285,8 @@
     },
     "derived": {
       "rule": "Following each spiral from its inner end outward, the curve winds clockwise on the left and counterclockwise on the right."
-    }
+    },
+    "flag_reason": "Foundalis and OEBP give opposite directions for the same spirals. Tracing L1 from the center outward gives OEBP’s clockwise turn. Tracing it inward gives Foundalis’s counterclockwise turn. Neither source specifies where to start."
   },
   "BP017": {
     "foundalis": {
@@ -303,7 +304,8 @@
     },
     "derived": {
       "rule": "Each left outline has an inward-pointing corner, while any inward bend on the right is smooth."
-    }
+    },
+    "flag_reason": "Foundalis calls the inward notch acute, but the opening in L2 measures about 110°. OEBP’s description of a reflex interior corner fits this example."
   },
   "BP018": {
     "foundalis": {
@@ -969,7 +971,8 @@
     },
     "derived": {
       "rule": "Visiting the cross, circle and triangle in that order goes counterclockwise on the left and clockwise on the right."
-    }
+    },
+    "flag_reason": "Both sources reverse the directions for the order they give. Visiting the cross, circle, and triangle in that order goes clockwise on the left and counterclockwise on the right. The dissertation gives the reverse order of shapes, for which its directions are correct."
   },
   "BP055": {
     "foundalis": {
@@ -1887,7 +1890,8 @@
     },
     "derived": {
       "rule": "At the two ends of the line the outward directions agree on the left and differ on the right."
-    }
+    },
+    "flag_reason": "Foundalis requires the two ends of the connector to point in opposite directions on the right. In R1 it meets the triangle horizontally and the square vertically, a difference of 90°. OEBP’s rule allows this."
   },
   "BP106": {
     "foundalis": {
@@ -2733,7 +2737,8 @@
     },
     "derived": {
       "rule": "The left figures lack mirror symmetry. Each right figure has a vertical mirror axis."
-    }
+    },
+    "flag_reason": "OEBP excludes every axis of symmetry on the left, but the tilted oval in L1 has oblique mirror axes. Foundalis correctly specifies that the left figures lack a vertical axis of symmetry."
   },
   "BP153": {
     "foundalis": {
@@ -2860,7 +2865,7 @@
     "derived": {
       "rule": "Treating the middle bar as a rectangle on the left and as a line on the right gives two groups of two and three. Only one object looks like a line on the left, while several do on the right."
     },
-    "flag_reason": "Foundalis shows isolated black bars, while OEBP shows groups of two and three objects. The published grouping rule applies to the OEBP presentation."
+    "flag_reason": "Foundalis’s sheet shows one rectangle in each left panel and one triangle in each right panel, as described in the dissertation. The grouping rule on Foundalis’s website fits the different OEBP sheet, where two ovals in R5 enclose two and three strokes respectively."
   },
   "BP160": {
     "foundalis": {
@@ -3077,7 +3082,7 @@
     "derived": {
       "rule": "The left lines bisect the triangle’s angles at the incenter. The right lines bisect its sides perpendicularly at the circumcenter."
     },
-    "flag_reason": "Both sources call the intersection of the perpendicular bisectors the orthocenter. The right drawings place the circumcenter there."
+    "flag_reason": "Both sources call the intersection of the perpendicular bisectors the orthocenter. The right drawings show the circumcenter, where the perpendicular bisectors of the sides meet. The orthocenter is where the altitudes meet."
   },
   "BP172": {
     "foundalis": {
@@ -3240,7 +3245,8 @@
     },
     "derived": {
       "rule": "Toward the boundary with the white region, the black part narrows on the left and widens on the right."
-    }
+    },
+    "flag_reason": "Both sources reverse the change in width. Approaching the black–white boundary through black, the black cap in L2 widens and the black region in R2 narrows. The dissertation gives the directions seen in the drawings."
   },
   "BP181": {
     "foundalis": {
@@ -3657,7 +3663,7 @@
     "derived": {
       "rule": "The object count is prime on the left and composite on the right."
     },
-    "flag_reason": "OEBP omits one of Foundalis’s left examples and three of his right examples."
+    "flag_reason": "Both sources put one dot on the prime side, in Foundalis L2 and OEBP L3. One is neither prime nor composite. OEBP omits one of Foundalis’s left examples and three of his right examples."
   },
   "BP204": {
     "foundalis": {
@@ -3843,7 +3849,8 @@
     },
     "derived": {
       "rule": "The tightest complete turn of the curve contains a self-crossing on the left and is clear of crossings on the right."
-    }
+    },
+    "flag_reason": "Foundalis places the crossing at the point of greatest curvature. In L3 the strands cross near the base of the small loop and bend more sharply elsewhere. OEBP places the crossing within the tightest complete turn."
   },
   "BP214": {
     "foundalis": {
@@ -4316,7 +4323,8 @@
     },
     "derived": {
       "rule": "The separate segment is parallel to the chord joining the curve’s ends on the left and perpendicular to that chord on the right."
-    }
+    },
+    "flag_reason": "Foundalis’s alternative rule allows the separate segment in R1 to slide across the rounded top of the C and enclose a small cap. The intended test requires the segment to bridge the two original ends. Foundalis’s primary direction rule and OEBP’s rule both fit."
   },
   "BP240": {
     "foundalis": {
@@ -4534,7 +4542,8 @@
     },
     "derived": {
       "rule": "The drawing can be a planar projection of a tetrahedron on the left and cannot be one on the right."
-    }
+    },
+    "flag_reason": "Both sources exclude projections of tetrahedra on the right, but R1’s thin triangle is such a projection. Place three vertices at its corners and the fourth directly above one corner. Viewed from above, the six edges project onto the triangle’s three sides."
   },
   "BP252": {
     "foundalis": {
@@ -4571,7 +4580,8 @@
     },
     "derived": {
       "rule": "The number of objects is prime on the left. On the right the objects can be divided into equal groups of at least two."
-    }
+    },
+    "flag_reason": "Both sources put one dot on the composite side in R1. One is neither prime nor composite, and a single dot cannot satisfy Foundalis’s alternative requirement of groups of two or more."
   },
   "BP254": {
     "foundalis": {
@@ -4589,7 +4599,8 @@
     },
     "derived": {
       "rule": "A straight line through the center of the small circle passes through two vertices on the left and through no pair of vertices on the right."
-    }
+    },
+    "flag_reason": "Both sources exclude collinearity on the right. In R3 the circle and the two central vertices of the chevron lie on the same vertical line. The circle lies beyond both vertices. Requiring its center to lie between the vertices excludes this example."
   },
   "BP255": {
     "foundalis": {
@@ -4661,7 +4672,8 @@
     },
     "derived": {
       "rule": "The two motifs are horizontal reflections on the left and vertical reflections on the right."
-    }
+    },
+    "flag_reason": "L1 shows two equal circles. Either a horizontal or a vertical reflection preserves the shape of a circle, so this panel fits both side descriptions in both sources."
   },
   "BP259": {
     "foundalis": {
@@ -4896,7 +4908,8 @@
     },
     "derived": {
       "rule": "Each character can be written in a single stroke without retracing on the left. Writing the character on the right requires lifting the pen."
-    }
+    },
+    "flag_reason": "Both sources omit the restriction on retracing. The T in R5 can be drawn without lifting the pen by tracing the crossbar, retracing part of it to the junction, and drawing the stem."
   },
   "BP272": {
     "foundalis": {
@@ -5242,7 +5255,8 @@
     },
     "derived": {
       "rule": "If any faces lack noses, smiling occurs among them exactly when it also occurs among the faces with noses on the left. The right examples violate that condition."
-    }
+    },
+    "flag_reason": "Both sources’ rule holds in two right panels. R1 has no noseless faces, so the outer conditional is true. R2 has a sad noseless face and no happy face with a nose, so both sides of the biconditional are false and the biconditional is true."
   },
   "BP291": {
     "foundalis": {
@@ -5278,7 +5292,8 @@
     },
     "derived": {
       "rule": "The two triangles subtend a right or obtuse angle at the square on the left and an acute angle on the right."
-    }
+    },
+    "flag_reason": "Both sources require a nonacute angle on the left. In L4 the angle at the center of the square, measured between the centers of the two triangles, is about 83° and therefore acute."
   },
   "BP293": {
     "foundalis": {
@@ -5733,7 +5748,8 @@
     },
     "derived": {
       "rule": "Larger enclosing circles go with more dots on the left. The counts on the right depart from that size relation."
-    }
+    },
+    "flag_reason": "Foundalis claims direct proportionality. In L5 the circles enclosing one, two, and three dots measure about 19, 36, and 49 pixels across. Neither their diameters nor their areas have the required ratio. OEBP’s weaker claim that size and count are correlated fits."
   },
   "BP318": {
     "foundalis": {
@@ -6155,7 +6171,8 @@
     },
     "derived": {
       "rule": "The left star polygons can be traced in one circuit by repeatedly advancing the same number of vertices. The right drawings violate that construction."
-    }
+    },
+    "flag_reason": "Foundalis requires continuous tracing from outer vertex to outer vertex. L2 consists of two triangles and L4 of two squares. Following whole edges closes one circuit before reaching the other. OEBP’s rule fits if regular star polygons include these compound figures."
   },
   "BP341": {
     "foundalis": {
@@ -6173,7 +6190,8 @@
     },
     "derived": {
       "rule": "The boundary moves consistently upward or consistently downward on the left and reverses its vertical direction on the right."
-    }
+    },
+    "flag_reason": "Both sources require strict increase or decrease. L5 and L6 have long horizontal runs. Their borders are respectively nonincreasing and nondecreasing as one moves to the right."
   },
   "BP342": {
     "foundalis": {
@@ -6424,7 +6442,8 @@
     },
     "derived": {
       "rule": "The changing quantity is an angle on the left. On the right it measures a quantity that can continue increasing without wrapping around."
-    }
+    },
+    "flag_reason": "Foundalis requires a quantity that increases without bound on the right. In R4 the white hole grows inside a fixed black oval, which bounds its diameter. OEBP’s description of the change as nonangular fits."
   },
   "BP355": {
     "foundalis": {
@@ -6640,7 +6659,7 @@
     "derived": {
       "rule": "Two quantities vary independently on the left. One changing quantity accounts for the sequence on the right."
     },
-    "flag_reason": "OEBP changes examples on both sides, including the final sequences."
+    "flag_reason": "Both sources describe two independent quantities on the left. In the grid sequence in Foundalis L1 and OEBP L2, the height is always twice the width minus one, so the width determines the height. OEBP changes examples on both sides, including the final sequences."
   },
   "BP366": {
     "foundalis": {
@@ -6712,7 +6731,8 @@
     },
     "derived": {
       "rule": "Identifying the marked points of one figure produces the other figure on the left. The corresponding identification fails on the right."
-    }
+    },
+    "flag_reason": "Foundalis allows gluing marked points in pairs. In R3, gluing the four tips of the X in two separate pairs produces the figure eight beside it. OEBP requires all the marked points to be identified at one junction, which excludes R3."
   },
   "BP370": {
     "foundalis": {
@@ -6992,7 +7012,7 @@
     "derived": {
       "rule": "The number of dots is a perfect square on the left and lies between consecutive perfect squares on the right."
     },
-    "flag_reason": "The two presentations use different dot configurations in several examples."
+    "flag_reason": "Foundalis R5 contains four groups of nine dots, placing 36, a perfect square, on the nonsquare side. OEBP places this arrangement on the square-number side in L5. The two presentations use different dot configurations in several examples."
   },
   "BP385": {
     "foundalis": {
@@ -7364,7 +7384,8 @@
     },
     "derived": {
       "rule": "The stem and branches sweep toward the right in the left examples and toward the left in the right examples."
-    }
+    },
+    "flag_reason": "Both sources say the branches on the right point leftward. In R4 the lower side branch points up and right even at its tip. It bends left relative to its initial direction, which fits the wind interpretation."
   },
   "BP406": {
     "foundalis": {
@@ -7382,7 +7403,8 @@
     },
     "derived": {
       "rule": "The main stem grows upward on the left and downward on the right."
-    }
+    },
+    "flag_reason": "Both sources say the stem grows downward on the right. In R2 it rises from the lower left toward the upper right throughout. It bends toward the horizontal as it rises, which fits the gravity interpretation."
   },
   "BP407": {
     "foundalis": {
