@@ -12,7 +12,7 @@ LEVELS = {1: "Very Easy", 2: "Easy", 3: "Moderate", 4: "Hard", 5: "Very Hard"}
 def filter_menu(counts):
     nav = ET.Element("nav", {"class": "filters"})
     menu = ET.SubElement(nav, "ul")
-    options = [("All", None), ("Unflagged", None), ("Flagged", None),
+    options = [("All", None), ("Flagged", None), ("Unflagged", None),
                *((name, level) for level, name in LEVELS.items()), ("Unrated", None)]
     for label, level in options:
         view = label.lower().replace(" ", "-")
