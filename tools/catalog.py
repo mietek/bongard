@@ -17,12 +17,9 @@ def filter_menu(counts):
     for label, level in options:
         view = label.lower().replace(" ", "-")
         item = ET.SubElement(menu, "li")
-        link = ET.SubElement(item, "a", {"data-show": view})
+        link = ET.SubElement(item, "a", {"data-show": view, "href": "?show=" + view})
         if label == "All":
             link.set("class", "active")
-            link.set("href", "problems.html")
-        else:
-            link.set("href", "?show=" + view)
         link.text = f"{label} ({counts[label]})"
         if level is not None:
             link.set("data-difficulty", str(level))

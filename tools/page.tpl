@@ -13,8 +13,7 @@ h2 { font-size: clamp(1.25rem, 2.3vw, 1.65rem); margin: 1.4rem 0 .7rem; }
 h1, h2 { line-height: 1.2; }
 hr { border: 0; border-top: 1px solid #636c75; margin: 1.7rem 0 1.1rem; }
 table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-th, td { padding: .65rem clamp(.25rem, 1vw, .85rem); text-align: left; vertical-align: top; overflow-wrap: anywhere; }
-th { font-weight: 650; border-bottom: 1px solid #a5adb4; }
+td { padding: .65rem clamp(.25rem, 1vw, .85rem); text-align: left; vertical-align: top; overflow-wrap: anywhere; }
 tbody tr + tr td { border-top: 1px solid #d9dee2; }
 img { display: block; width: 100%; height: auto; }
 a { color: #215b88; text-underline-offset: .15em; }
