@@ -1,0 +1,1713 @@
+{
+  "source": {
+    "author": "Harry E. Foundalis",
+    "title": "Phaeaco: A Cognitive Architecture Inspired by Bongard’s Problems",
+    "year": 2006,
+    "url": "https://www.foundalis.com/res/Foundalis_dissertation.pdf",
+    "section": "Appendix A, human performance tables"
+  },
+  "missing_values": "A null value represents a blank cell in the printed table.",
+  "difficulty_scale": "Difficulty is based on the percentage of participants who saw the problem and gave an incorrect answer or no answer. The cutoffs for levels 2, 3, 4, and 5 are 20%, 40%, 60%, and 80%, respectively. Level 1 is below 20%. Each cutoff is inclusive and uses the unrounded percentage.",
+  "problems": {
+    "BP001": {
+      "sample_size": 31,
+      "correct": {
+        "count": 31,
+        "mean_time_seconds": 6.9,
+        "sd_time_seconds": 5.1
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP002": {
+      "sample_size": 28,
+      "correct": {
+        "count": 28,
+        "mean_time_seconds": 13.6,
+        "sd_time_seconds": 9.6
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP003": {
+      "sample_size": 28,
+      "correct": {
+        "count": 28,
+        "mean_time_seconds": 7.9,
+        "sd_time_seconds": 6.1
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP004": {
+      "sample_size": 31,
+      "correct": {
+        "count": 5,
+        "mean_time_seconds": 17.6,
+        "sd_time_seconds": 10.9
+      },
+      "incorrect": {
+        "count": 9,
+        "mean_time_seconds": 30.4
+      },
+      "no_answer": {
+        "count": 17,
+        "mean_time_seconds": 37.8
+      },
+      "difficulty": 5
+    },
+    "BP005": {
+      "sample_size": 31,
+      "correct": {
+        "count": 28,
+        "mean_time_seconds": 11.0,
+        "sd_time_seconds": 9.1
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 5.0
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 16.0
+      },
+      "difficulty": 1
+    },
+    "BP006": {
+      "sample_size": 31,
+      "correct": {
+        "count": 26,
+        "mean_time_seconds": 18.8,
+        "sd_time_seconds": 16.3
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 26.5
+      },
+      "no_answer": {
+        "count": 3,
+        "mean_time_seconds": 27.7
+      },
+      "difficulty": 1
+    },
+    "BP007": {
+      "sample_size": 30,
+      "correct": {
+        "count": 27,
+        "mean_time_seconds": 11.5,
+        "sd_time_seconds": 12.3
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 3,
+        "mean_time_seconds": 25.7
+      },
+      "difficulty": 1
+    },
+    "BP008": {
+      "sample_size": 31,
+      "correct": {
+        "count": 24,
+        "mean_time_seconds": 21.0,
+        "sd_time_seconds": 20.9
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 7,
+        "mean_time_seconds": 23.0
+      },
+      "difficulty": 2
+    },
+    "BP009": {
+      "sample_size": 31,
+      "correct": {
+        "count": 31,
+        "mean_time_seconds": 10.5,
+        "sd_time_seconds": 7.3
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP010": {
+      "sample_size": 31,
+      "correct": {
+        "count": 27,
+        "mean_time_seconds": 12.2,
+        "sd_time_seconds": 9.7
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 27.0
+      },
+      "no_answer": {
+        "count": 2,
+        "mean_time_seconds": 26.5
+      },
+      "difficulty": 1
+    },
+    "BP011": {
+      "sample_size": 31,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 23.7,
+        "sd_time_seconds": 13.7
+      },
+      "incorrect": {
+        "count": 6,
+        "mean_time_seconds": 38.0
+      },
+      "no_answer": {
+        "count": 10,
+        "mean_time_seconds": 30.6
+      },
+      "difficulty": 3
+    },
+    "BP012": {
+      "sample_size": 30,
+      "correct": {
+        "count": 7,
+        "mean_time_seconds": 33.1,
+        "sd_time_seconds": 14.4
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 21.5
+      },
+      "no_answer": {
+        "count": 21,
+        "mean_time_seconds": 30.5
+      },
+      "difficulty": 4
+    },
+    "BP013": {
+      "sample_size": 23,
+      "correct": {
+        "count": 19,
+        "mean_time_seconds": 15.5,
+        "sd_time_seconds": 7.0
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 9.5
+      },
+      "no_answer": {
+        "count": 2,
+        "mean_time_seconds": 14.0
+      },
+      "difficulty": 1
+    },
+    "BP014": {
+      "sample_size": 25,
+      "correct": {
+        "count": 24,
+        "mean_time_seconds": 15.0,
+        "sd_time_seconds": 12.3
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 1.0
+      },
+      "difficulty": 1
+    },
+    "BP015": {
+      "sample_size": 31,
+      "correct": {
+        "count": 27,
+        "mean_time_seconds": 7.7,
+        "sd_time_seconds": 3.6
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 7.0
+      },
+      "no_answer": {
+        "count": 3,
+        "mean_time_seconds": 30.3
+      },
+      "difficulty": 1
+    },
+    "BP016": {
+      "sample_size": 24,
+      "correct": {
+        "count": 9,
+        "mean_time_seconds": 29.4,
+        "sd_time_seconds": 20.2
+      },
+      "incorrect": {
+        "count": 5,
+        "mean_time_seconds": 27.4
+      },
+      "no_answer": {
+        "count": 10,
+        "mean_time_seconds": 21.6
+      },
+      "difficulty": 4
+    },
+    "BP017": {
+      "sample_size": 23,
+      "correct": {
+        "count": 6,
+        "mean_time_seconds": 35.5,
+        "sd_time_seconds": 23.0
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 15.7
+      },
+      "no_answer": {
+        "count": 14,
+        "mean_time_seconds": 12.9
+      },
+      "difficulty": 4
+    },
+    "BP018": {
+      "sample_size": 23,
+      "correct": {
+        "count": 8,
+        "mean_time_seconds": 16.1,
+        "sd_time_seconds": 6.5
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 27.0
+      },
+      "no_answer": {
+        "count": 13,
+        "mean_time_seconds": 13.2
+      },
+      "difficulty": 4
+    },
+    "BP019": {
+      "sample_size": 22,
+      "correct": {
+        "count": 10,
+        "mean_time_seconds": 18.7,
+        "sd_time_seconds": 10.7
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 12,
+        "mean_time_seconds": 12.1
+      },
+      "difficulty": 3
+    },
+    "BP020": {
+      "sample_size": 22,
+      "correct": {
+        "count": 5,
+        "mean_time_seconds": 21.4,
+        "sd_time_seconds": 6.2
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 26.0
+      },
+      "no_answer": {
+        "count": 15,
+        "mean_time_seconds": 16.3
+      },
+      "difficulty": 4
+    },
+    "BP021": {
+      "sample_size": 31,
+      "correct": {
+        "count": 20,
+        "mean_time_seconds": 25.1,
+        "sd_time_seconds": 16.3
+      },
+      "incorrect": {
+        "count": 9,
+        "mean_time_seconds": 31.4
+      },
+      "no_answer": {
+        "count": 2,
+        "mean_time_seconds": 42.5
+      },
+      "difficulty": 2
+    },
+    "BP022": {
+      "sample_size": 30,
+      "correct": {
+        "count": 11,
+        "mean_time_seconds": 23.9,
+        "sd_time_seconds": 20.2
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 42.0
+      },
+      "no_answer": {
+        "count": 16,
+        "mean_time_seconds": 35.0
+      },
+      "difficulty": 4
+    },
+    "BP023": {
+      "sample_size": 31,
+      "correct": {
+        "count": 30,
+        "mean_time_seconds": 9.4,
+        "sd_time_seconds": 5.4
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 20.0
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP024": {
+      "sample_size": 30,
+      "correct": {
+        "count": 20,
+        "mean_time_seconds": 21.0,
+        "sd_time_seconds": 12.2
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 20.0
+      },
+      "no_answer": {
+        "count": 7,
+        "mean_time_seconds": 31.7
+      },
+      "difficulty": 2
+    },
+    "BP025": {
+      "sample_size": 26,
+      "correct": {
+        "count": 22,
+        "mean_time_seconds": 9.7,
+        "sd_time_seconds": 6.9
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 4,
+        "mean_time_seconds": 5.3
+      },
+      "difficulty": 1
+    },
+    "BP026": {
+      "sample_size": 24,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 15.7,
+        "sd_time_seconds": 10.1
+      },
+      "incorrect": {
+        "count": 4,
+        "mean_time_seconds": 17.0
+      },
+      "no_answer": {
+        "count": 5,
+        "mean_time_seconds": 13.6
+      },
+      "difficulty": 2
+    },
+    "BP027": {
+      "sample_size": 22,
+      "correct": {
+        "count": 8,
+        "mean_time_seconds": 18.1,
+        "sd_time_seconds": 16.0
+      },
+      "incorrect": {
+        "count": 4,
+        "mean_time_seconds": 50.75
+      },
+      "no_answer": {
+        "count": 10,
+        "mean_time_seconds": 15.8
+      },
+      "difficulty": 4
+    },
+    "BP028": {
+      "sample_size": 21,
+      "correct": {
+        "count": 0,
+        "mean_time_seconds": null,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 21,
+        "mean_time_seconds": 20.5
+      },
+      "difficulty": 5
+    },
+    "BP029": {
+      "sample_size": 25,
+      "correct": {
+        "count": 3,
+        "mean_time_seconds": 23.7,
+        "sd_time_seconds": 4.1
+      },
+      "incorrect": {
+        "count": 11,
+        "mean_time_seconds": 24.5
+      },
+      "no_answer": {
+        "count": 11,
+        "mean_time_seconds": 29.3
+      },
+      "difficulty": 5
+    },
+    "BP030": {
+      "sample_size": 25,
+      "correct": {
+        "count": 7,
+        "mean_time_seconds": 19.4,
+        "sd_time_seconds": 9.9
+      },
+      "incorrect": {
+        "count": 6,
+        "mean_time_seconds": 23.8
+      },
+      "no_answer": {
+        "count": 12,
+        "mean_time_seconds": 16.3
+      },
+      "difficulty": 4
+    },
+    "BP031": {
+      "sample_size": 24,
+      "correct": {
+        "count": 18,
+        "mean_time_seconds": 17.9,
+        "sd_time_seconds": 9.4
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 26.0
+      },
+      "no_answer": {
+        "count": 5,
+        "mean_time_seconds": 17.6
+      },
+      "difficulty": 2
+    },
+    "BP032": {
+      "sample_size": 24,
+      "correct": {
+        "count": 6,
+        "mean_time_seconds": 14.7,
+        "sd_time_seconds": 6.2
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 9.0
+      },
+      "no_answer": {
+        "count": 17,
+        "mean_time_seconds": 27.2
+      },
+      "difficulty": 4
+    },
+    "BP033": {
+      "sample_size": 30,
+      "correct": {
+        "count": 5,
+        "mean_time_seconds": 48.6,
+        "sd_time_seconds": 28.4
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 19.7
+      },
+      "no_answer": {
+        "count": 22,
+        "mean_time_seconds": 37.4
+      },
+      "difficulty": 5
+    },
+    "BP034": {
+      "sample_size": 31,
+      "correct": {
+        "count": 30,
+        "mean_time_seconds": 9.1,
+        "sd_time_seconds": 5.6
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 19.0
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP035": {
+      "sample_size": 26,
+      "correct": {
+        "count": 11,
+        "mean_time_seconds": 28.2,
+        "sd_time_seconds": 17.7
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 21.0
+      },
+      "no_answer": {
+        "count": 14,
+        "mean_time_seconds": 19.0
+      },
+      "difficulty": 3
+    },
+    "BP036": {
+      "sample_size": 30,
+      "correct": {
+        "count": 23,
+        "mean_time_seconds": 20.1,
+        "sd_time_seconds": 14.6
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 69.0
+      },
+      "no_answer": {
+        "count": 5,
+        "mean_time_seconds": 23.6
+      },
+      "difficulty": 2
+    },
+    "BP037": {
+      "sample_size": 25,
+      "correct": {
+        "count": 3,
+        "mean_time_seconds": 42.0,
+        "sd_time_seconds": 24.5
+      },
+      "incorrect": {
+        "count": 5,
+        "mean_time_seconds": 27.2
+      },
+      "no_answer": {
+        "count": 17,
+        "mean_time_seconds": 28.5
+      },
+      "difficulty": 5
+    },
+    "BP038": {
+      "sample_size": 30,
+      "correct": {
+        "count": 24,
+        "mean_time_seconds": 19.8,
+        "sd_time_seconds": 11.0
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 19.0
+      },
+      "no_answer": {
+        "count": 4,
+        "mean_time_seconds": 16.3
+      },
+      "difficulty": 2
+    },
+    "BP039": {
+      "sample_size": 31,
+      "correct": {
+        "count": 30,
+        "mean_time_seconds": 12.4,
+        "sd_time_seconds": 10.0
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 5.0
+      },
+      "difficulty": 1
+    },
+    "BP040": {
+      "sample_size": 30,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 29.1,
+        "sd_time_seconds": 12.1
+      },
+      "incorrect": {
+        "count": 11,
+        "mean_time_seconds": 25.5
+      },
+      "no_answer": {
+        "count": 4,
+        "mean_time_seconds": 29.0
+      },
+      "difficulty": 3
+    },
+    "BP041": {
+      "sample_size": 26,
+      "correct": {
+        "count": 14,
+        "mean_time_seconds": 26.0,
+        "sd_time_seconds": 11.0
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 15.0
+      },
+      "no_answer": {
+        "count": 11,
+        "mean_time_seconds": 12.7
+      },
+      "difficulty": 3
+    },
+    "BP042": {
+      "sample_size": 23,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 13.1,
+        "sd_time_seconds": 5.8
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 44.0
+      },
+      "no_answer": {
+        "count": 7,
+        "mean_time_seconds": 17.4
+      },
+      "difficulty": 2
+    },
+    "BP043": {
+      "sample_size": 22,
+      "correct": {
+        "count": 14,
+        "mean_time_seconds": 14.0,
+        "sd_time_seconds": 11.1
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 16.7
+      },
+      "no_answer": {
+        "count": 5,
+        "mean_time_seconds": 19.8
+      },
+      "difficulty": 2
+    },
+    "BP044": {
+      "sample_size": 21,
+      "correct": {
+        "count": 6,
+        "mean_time_seconds": 14.0,
+        "sd_time_seconds": 10.1
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 16.5
+      },
+      "no_answer": {
+        "count": 13,
+        "mean_time_seconds": 19.9
+      },
+      "difficulty": 4
+    },
+    "BP045": {
+      "sample_size": 31,
+      "correct": {
+        "count": 29,
+        "mean_time_seconds": 15.0,
+        "sd_time_seconds": 12.9
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 2,
+        "mean_time_seconds": 42.5
+      },
+      "difficulty": 1
+    },
+    "BP046": {
+      "sample_size": 26,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 17.7,
+        "sd_time_seconds": 11.0
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 45.0
+      },
+      "no_answer": {
+        "count": 8,
+        "mean_time_seconds": 16.5
+      },
+      "difficulty": 3
+    },
+    "BP047": {
+      "sample_size": 31,
+      "correct": {
+        "count": 31,
+        "mean_time_seconds": 11.0,
+        "sd_time_seconds": 4.1
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP048": {
+      "sample_size": 30,
+      "correct": {
+        "count": 26,
+        "mean_time_seconds": 21.8,
+        "sd_time_seconds": 16.2
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 63.0
+      },
+      "no_answer": {
+        "count": 3,
+        "mean_time_seconds": 33.7
+      },
+      "difficulty": 1
+    },
+    "BP049": {
+      "sample_size": 27,
+      "correct": {
+        "count": 23,
+        "mean_time_seconds": 19.3,
+        "sd_time_seconds": 8.4
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 4,
+        "mean_time_seconds": 7.0
+      },
+      "difficulty": 1
+    },
+    "BP050": {
+      "sample_size": 28,
+      "correct": {
+        "count": 7,
+        "mean_time_seconds": 22.7,
+        "sd_time_seconds": 6.7
+      },
+      "incorrect": {
+        "count": 5,
+        "mean_time_seconds": 21.4
+      },
+      "no_answer": {
+        "count": 16,
+        "mean_time_seconds": 30.5
+      },
+      "difficulty": 4
+    },
+    "BP051": {
+      "sample_size": 30,
+      "correct": {
+        "count": 19,
+        "mean_time_seconds": 32.1,
+        "sd_time_seconds": 21.8
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 28.5
+      },
+      "no_answer": {
+        "count": 9,
+        "mean_time_seconds": 34.3
+      },
+      "difficulty": 2
+    },
+    "BP052": {
+      "sample_size": 22,
+      "correct": {
+        "count": 16,
+        "mean_time_seconds": 20.6,
+        "sd_time_seconds": 16.1
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 6,
+        "mean_time_seconds": 15.7
+      },
+      "difficulty": 2
+    },
+    "BP053": {
+      "sample_size": 26,
+      "correct": {
+        "count": 7,
+        "mean_time_seconds": 29.3,
+        "sd_time_seconds": 10.9
+      },
+      "incorrect": {
+        "count": 5,
+        "mean_time_seconds": 41.0
+      },
+      "no_answer": {
+        "count": 14,
+        "mean_time_seconds": 33.3
+      },
+      "difficulty": 4
+    },
+    "BP054": {
+      "sample_size": 20,
+      "correct": {
+        "count": 1,
+        "mean_time_seconds": 38.0,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 9.0
+      },
+      "no_answer": {
+        "count": 17,
+        "mean_time_seconds": 16.6
+      },
+      "difficulty": 5
+    },
+    "BP055": {
+      "sample_size": 18,
+      "correct": {
+        "count": 6,
+        "mean_time_seconds": 25.0,
+        "sd_time_seconds": 10.1
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 40.0
+      },
+      "no_answer": {
+        "count": 10,
+        "mean_time_seconds": 13.4
+      },
+      "difficulty": 4
+    },
+    "BP056": {
+      "sample_size": 31,
+      "correct": {
+        "count": 22,
+        "mean_time_seconds": 14.0,
+        "sd_time_seconds": 13.1
+      },
+      "incorrect": {
+        "count": 4,
+        "mean_time_seconds": 25.3
+      },
+      "no_answer": {
+        "count": 5,
+        "mean_time_seconds": 25.8
+      },
+      "difficulty": 2
+    },
+    "BP057": {
+      "sample_size": 29,
+      "correct": {
+        "count": 14,
+        "mean_time_seconds": 16.1,
+        "sd_time_seconds": 9.5
+      },
+      "incorrect": {
+        "count": 13,
+        "mean_time_seconds": 16.2
+      },
+      "no_answer": {
+        "count": 2,
+        "mean_time_seconds": 5.5
+      },
+      "difficulty": 3
+    },
+    "BP058": {
+      "sample_size": 16,
+      "correct": {
+        "count": 4,
+        "mean_time_seconds": 10.0,
+        "sd_time_seconds": 1.4
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 22.0
+      },
+      "no_answer": {
+        "count": 10,
+        "mean_time_seconds": 16.6
+      },
+      "difficulty": 4
+    },
+    "BP059": {
+      "sample_size": 18,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 13.3,
+        "sd_time_seconds": 6.4
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 3,
+        "mean_time_seconds": 7.3
+      },
+      "difficulty": 1
+    },
+    "BP060": {
+      "sample_size": 16,
+      "correct": {
+        "count": 5,
+        "mean_time_seconds": 26.0,
+        "sd_time_seconds": 15.3
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 21.0
+      },
+      "no_answer": {
+        "count": 9,
+        "mean_time_seconds": 10.9
+      },
+      "difficulty": 4
+    },
+    "BP061": {
+      "sample_size": 30,
+      "correct": {
+        "count": 25,
+        "mean_time_seconds": 14.7,
+        "sd_time_seconds": 7.7
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 5,
+        "mean_time_seconds": 29.2
+      },
+      "difficulty": 1
+    },
+    "BP062": {
+      "sample_size": 28,
+      "correct": {
+        "count": 8,
+        "mean_time_seconds": 34.0,
+        "sd_time_seconds": 16.0
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 15.5
+      },
+      "no_answer": {
+        "count": 18,
+        "mean_time_seconds": 29.3
+      },
+      "difficulty": 4
+    },
+    "BP063": {
+      "sample_size": 16,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 9.5,
+        "sd_time_seconds": 4.2
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 19.0
+      },
+      "difficulty": 1
+    },
+    "BP064": {
+      "sample_size": 15,
+      "correct": {
+        "count": 1,
+        "mean_time_seconds": 19.0,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 30.5
+      },
+      "no_answer": {
+        "count": 12,
+        "mean_time_seconds": 11.75
+      },
+      "difficulty": 5
+    },
+    "BP065": {
+      "sample_size": 30,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 20.5,
+        "sd_time_seconds": 8.0
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 72.0
+      },
+      "no_answer": {
+        "count": 13,
+        "mean_time_seconds": 43.3
+      },
+      "difficulty": 3
+    },
+    "BP066": {
+      "sample_size": 29,
+      "correct": {
+        "count": 21,
+        "mean_time_seconds": 17.5,
+        "sd_time_seconds": 10.1
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 8,
+        "mean_time_seconds": 13.8
+      },
+      "difficulty": 2
+    },
+    "BP067": {
+      "sample_size": 29,
+      "correct": {
+        "count": 9,
+        "mean_time_seconds": 34.3,
+        "sd_time_seconds": 16.3
+      },
+      "incorrect": {
+        "count": 7,
+        "mean_time_seconds": 37.9
+      },
+      "no_answer": {
+        "count": 13,
+        "mean_time_seconds": 21.3
+      },
+      "difficulty": 4
+    },
+    "BP068": {
+      "sample_size": 14,
+      "correct": {
+        "count": 0,
+        "mean_time_seconds": null,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 17.0
+      },
+      "no_answer": {
+        "count": 11,
+        "mean_time_seconds": 15.7
+      },
+      "difficulty": 5
+    },
+    "BP069": {
+      "sample_size": 16,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 10.5,
+        "sd_time_seconds": 5.3
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 18.0
+      },
+      "difficulty": 1
+    },
+    "BP070": {
+      "sample_size": 29,
+      "correct": {
+        "count": 19,
+        "mean_time_seconds": 28.4,
+        "sd_time_seconds": 17.9
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 21.3
+      },
+      "no_answer": {
+        "count": 7,
+        "mean_time_seconds": 29.9
+      },
+      "difficulty": 2
+    },
+    "BP071": {
+      "sample_size": 30,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 34.6,
+        "sd_time_seconds": 14.3
+      },
+      "incorrect": {
+        "count": 6,
+        "mean_time_seconds": 42.2
+      },
+      "no_answer": {
+        "count": 9,
+        "mean_time_seconds": 41.8
+      },
+      "difficulty": 3
+    },
+    "BP072": {
+      "sample_size": 30,
+      "correct": {
+        "count": 4,
+        "mean_time_seconds": 39.5,
+        "sd_time_seconds": 19.8
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 57.0
+      },
+      "no_answer": {
+        "count": 23,
+        "mean_time_seconds": 30.2
+      },
+      "difficulty": 5
+    },
+    "BP073": {
+      "sample_size": 15,
+      "correct": {
+        "count": 0,
+        "mean_time_seconds": null,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 8.0
+      },
+      "no_answer": {
+        "count": 14,
+        "mean_time_seconds": 15.2
+      },
+      "difficulty": 5
+    },
+    "BP074": {
+      "sample_size": 15,
+      "correct": {
+        "count": 11,
+        "mean_time_seconds": 12.2,
+        "sd_time_seconds": 5.0
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 10.7
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 2.0
+      },
+      "difficulty": 2
+    },
+    "BP075": {
+      "sample_size": 30,
+      "correct": {
+        "count": 26,
+        "mean_time_seconds": 16.6,
+        "sd_time_seconds": 9.2
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 4,
+        "mean_time_seconds": 32.25
+      },
+      "difficulty": 1
+    },
+    "BP076": {
+      "sample_size": 14,
+      "correct": {
+        "count": 9,
+        "mean_time_seconds": 11.4,
+        "sd_time_seconds": 5.2
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 17.0
+      },
+      "no_answer": {
+        "count": 4,
+        "mean_time_seconds": 7.3
+      },
+      "difficulty": 2
+    },
+    "BP077": {
+      "sample_size": 30,
+      "correct": {
+        "count": 18,
+        "mean_time_seconds": 29.6,
+        "sd_time_seconds": 22.0
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 24.3
+      },
+      "no_answer": {
+        "count": 9,
+        "mean_time_seconds": 31.2
+      },
+      "difficulty": 3
+    },
+    "BP078": {
+      "sample_size": 30,
+      "correct": {
+        "count": 8,
+        "mean_time_seconds": 32.4,
+        "sd_time_seconds": 14.5
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 22,
+        "mean_time_seconds": 29.0
+      },
+      "difficulty": 4
+    },
+    "BP079": {
+      "sample_size": 16,
+      "correct": {
+        "count": 1,
+        "mean_time_seconds": 26.0,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 15,
+        "mean_time_seconds": 11.6
+      },
+      "difficulty": 5
+    },
+    "BP080": {
+      "sample_size": 15,
+      "correct": {
+        "count": 1,
+        "mean_time_seconds": 26.0,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 14,
+        "mean_time_seconds": 11.5
+      },
+      "difficulty": 5
+    },
+    "BP081": {
+      "sample_size": 31,
+      "correct": {
+        "count": 13,
+        "mean_time_seconds": 13.7,
+        "sd_time_seconds": 6.2
+      },
+      "incorrect": {
+        "count": 6,
+        "mean_time_seconds": 29.0
+      },
+      "no_answer": {
+        "count": 12,
+        "mean_time_seconds": 55.0
+      },
+      "difficulty": 3
+    },
+    "BP082": {
+      "sample_size": 30,
+      "correct": {
+        "count": 0,
+        "mean_time_seconds": null,
+        "sd_time_seconds": null
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 66.0
+      },
+      "no_answer": {
+        "count": 29,
+        "mean_time_seconds": 34.9
+      },
+      "difficulty": 5
+    },
+    "BP083": {
+      "sample_size": 30,
+      "correct": {
+        "count": 22,
+        "mean_time_seconds": 23.6,
+        "sd_time_seconds": 11.4
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 16.0
+      },
+      "no_answer": {
+        "count": 6,
+        "mean_time_seconds": 19.5
+      },
+      "difficulty": 2
+    },
+    "BP084": {
+      "sample_size": 31,
+      "correct": {
+        "count": 31,
+        "mean_time_seconds": 12.6,
+        "sd_time_seconds": 7.6
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP085": {
+      "sample_size": 30,
+      "correct": {
+        "count": 27,
+        "mean_time_seconds": 20.5,
+        "sd_time_seconds": 8.1
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 34.5
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 2.0
+      },
+      "difficulty": 1
+    },
+    "BP086": {
+      "sample_size": 31,
+      "correct": {
+        "count": 8,
+        "mean_time_seconds": 45.3,
+        "sd_time_seconds": 25.6
+      },
+      "incorrect": {
+        "count": 8,
+        "mean_time_seconds": 43.6
+      },
+      "no_answer": {
+        "count": 15,
+        "mean_time_seconds": 26.7
+      },
+      "difficulty": 4
+    },
+    "BP087": {
+      "sample_size": 30,
+      "correct": {
+        "count": 16,
+        "mean_time_seconds": 33.4,
+        "sd_time_seconds": 16.9
+      },
+      "incorrect": {
+        "count": 2,
+        "mean_time_seconds": 40.0
+      },
+      "no_answer": {
+        "count": 12,
+        "mean_time_seconds": 29.8
+      },
+      "difficulty": 3
+    },
+    "BP088": {
+      "sample_size": 30,
+      "correct": {
+        "count": 16,
+        "mean_time_seconds": 21.6,
+        "sd_time_seconds": 16.0
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 14,
+        "mean_time_seconds": 17.6
+      },
+      "difficulty": 3
+    },
+    "BP089": {
+      "sample_size": 30,
+      "correct": {
+        "count": 6,
+        "mean_time_seconds": 35.7,
+        "sd_time_seconds": 24.2
+      },
+      "incorrect": {
+        "count": 5,
+        "mean_time_seconds": 62.0
+      },
+      "no_answer": {
+        "count": 19,
+        "mean_time_seconds": 30.8
+      },
+      "difficulty": 5
+    },
+    "BP090": {
+      "sample_size": 14,
+      "correct": {
+        "count": 2,
+        "mean_time_seconds": 36.0,
+        "sd_time_seconds": 19.8
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 12,
+        "mean_time_seconds": 17.7
+      },
+      "difficulty": 5
+    },
+    "BP091": {
+      "sample_size": 30,
+      "correct": {
+        "count": 18,
+        "mean_time_seconds": 32.0,
+        "sd_time_seconds": 15.4
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 12,
+        "mean_time_seconds": 22.8
+      },
+      "difficulty": 3
+    },
+    "BP092": {
+      "sample_size": 15,
+      "correct": {
+        "count": 6,
+        "mean_time_seconds": 21.0,
+        "sd_time_seconds": 12.6
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 9,
+        "mean_time_seconds": 11.1
+      },
+      "difficulty": 4
+    },
+    "BP093": {
+      "sample_size": 20,
+      "correct": {
+        "count": 3,
+        "mean_time_seconds": 27.7,
+        "sd_time_seconds": 2.5
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 17,
+        "mean_time_seconds": 15.4
+      },
+      "difficulty": 5
+    },
+    "BP094": {
+      "sample_size": 15,
+      "correct": {
+        "count": 15,
+        "mean_time_seconds": 7.5,
+        "sd_time_seconds": 3.8
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    },
+    "BP095": {
+      "sample_size": 31,
+      "correct": {
+        "count": 30,
+        "mean_time_seconds": 8.4,
+        "sd_time_seconds": 5.1
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 1,
+        "mean_time_seconds": 17.0
+      },
+      "difficulty": 1
+    },
+    "BP096": {
+      "sample_size": 30,
+      "correct": {
+        "count": 25,
+        "mean_time_seconds": 16.9,
+        "sd_time_seconds": 13.3
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 5,
+        "mean_time_seconds": 16.0
+      },
+      "difficulty": 1
+    },
+    "BP097": {
+      "sample_size": 31,
+      "correct": {
+        "count": 29,
+        "mean_time_seconds": 8.7,
+        "sd_time_seconds": 5.6
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 2,
+        "mean_time_seconds": 18.0
+      },
+      "difficulty": 1
+    },
+    "BP098": {
+      "sample_size": 16,
+      "correct": {
+        "count": 9,
+        "mean_time_seconds": 12.1,
+        "sd_time_seconds": 8.7
+      },
+      "incorrect": {
+        "count": 3,
+        "mean_time_seconds": 13.7
+      },
+      "no_answer": {
+        "count": 4,
+        "mean_time_seconds": 19.3
+      },
+      "difficulty": 3
+    },
+    "BP099": {
+      "sample_size": 16,
+      "correct": {
+        "count": 9,
+        "mean_time_seconds": 19.8,
+        "sd_time_seconds": 9.5
+      },
+      "incorrect": {
+        "count": 1,
+        "mean_time_seconds": 19.0
+      },
+      "no_answer": {
+        "count": 6,
+        "mean_time_seconds": 8.3
+      },
+      "difficulty": 3
+    },
+    "BP100": {
+      "sample_size": 14,
+      "correct": {
+        "count": 14,
+        "mean_time_seconds": 5.4,
+        "sd_time_seconds": 3.3
+      },
+      "incorrect": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "no_answer": {
+        "count": 0,
+        "mean_time_seconds": null
+      },
+      "difficulty": 1
+    }
+  }
+}
