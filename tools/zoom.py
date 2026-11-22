@@ -1,20 +1,14 @@
-"""Add a zoom view for every linked example in a Pandoc catalog page."""
+"""Build the catalog zoom views from a derived whole-problem SVG."""
 
-from pathlib import Path
-import sys
 from xml.etree import ElementTree as ET
 
 
 SVG = "{http://www.w3.org/2000/svg}"
 
 
-def zoom_sheet(cell, details, heading_id):
-    original = cell.find("object")
-    sheet_path = Path(original.attrib["data"])
+def zoom_sheet(cell, details, heading_id, sheet_path):
     source = ET.parse(sheet_path).getroot()
-    container = ET.Element("div", {"class": "derived-sheet"})
-    container.tail = original.tail
-    cell[list(cell).index(original)] = container
+    container = ET.SubElement(cell, "div", {"class": "derived-sheet"})
     ET.SubElement(container, "img", src=sheet_path.as_posix(), loading="lazy",
                   width=source.attrib["width"], height=source.attrib["height"])
     overlay = ET.SubElement(container, "svg", {
@@ -39,36 +33,3 @@ def zoom_sheet(cell, details, heading_id):
         download.text = "Download " + individual.name
         download.tail = " · "
         ET.SubElement(actions, "a", href="#" + heading_id).text = "Back to " + heading_id.upper()
-
-
-def add_zoom(page):
-    head, opening, rest = page.partition("<main>")
-    body, closing, foot = rest.partition("</main>")
-    if not opening or not closing:
-        raise ValueError("Missing main element in catalog template")
-    main = ET.fromstring(opening + body + closing)
-    headings = main.findall("h2")
-    if headings:
-        start, end = headings[0].text, headings[-1].text
-        head = head.replace("</title>", f" · {start}–{end}</title>", 1)
-    for image in main.iter("img"):
-        image.set("loading", "lazy")
-        image.set("decoding", "async")
-    for index, record in enumerate(main):
-        if record.get("class") != "record":
-            continue
-        cell = record.find(".//td[object]")
-        if cell is None:
-            continue
-        heading = main[index - 1]
-        if index == 0 or heading.tag != "h2":
-            raise ValueError("Missing problem heading before derived sheet")
-        details = ET.SubElement(record, "div", {"class": "details"})
-        zoom_sheet(cell, details, heading.attrib["id"])
-        details.tail = "\n"
-    return head + ET.tostring(main, method="html", encoding="unicode") + foot
-
-
-if __name__ == "__main__":
-    page = Path(sys.argv[1])
-    page.write_text(add_zoom(page.read_text(encoding="utf-8")), encoding="utf-8")

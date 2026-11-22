@@ -22,11 +22,14 @@ td p { margin: 0; }
 @media (max-width: 38rem) { body { font-size: .9rem; } }
 
 td object[type="image/svg+xml"], .sheet-map { display:block; width:100%; height:auto; aspect-ratio:515/326; }
-$if(catalog)$
+.filters ul { display: flex; flex-wrap: wrap; gap: .3rem .55rem; list-style: none; padding: 0; margin: 0; }
+.filters li { white-space: nowrap; }
+.filters li:not(:last-child)::after { content: "·"; margin-left: .55rem; }
+.filters a { text-decoration: none; }
+.filters a:hover, .filters a:focus-visible, .filters a.active { text-decoration: underline; }
+.filters a.active { color: inherit; font-weight: 700; }
 .record { overflow-x: auto; }
 .record td > * + p { margin-top: .5rem; }
-$endif$
-$if(zoom)$
 .derived-sheet { position: relative; }
 .derived-sheet > img { width: 100%; height: auto; }
 .derived-sheet > .sheet-map { position: absolute; inset: 0; }
@@ -38,7 +41,7 @@ table:has(+ .details > .individual:target) { display: none; }
 .individual h3 { margin: 0 0 .6rem; }
 .individual img { width: min(65vw, 20rem); height: auto; border: 1px solid #9da4a9; }
 .individual p { margin: .65rem 0 0; }
-$endif$</style>
+</style>
 </head>
 <body>
 <main>
