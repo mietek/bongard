@@ -1,5 +1,3 @@
 # Bongard Problems
 
----
-
-[Browse the catalog](problems.html)
+[Browse the catalog](https://mietek.github.io/bongard/problems.html)

@@ -5,9 +5,6 @@ from pathlib import Path
 import json
 from xml.etree import ElementTree as ET
 
-from zoom import zoom_sheet
-
-
 TITLE = "Bongard Problems"
 LEVELS = {1: "Very Easy", 2: "Easy", 3: "Moderate", 4: "Hard", 5: "Very Hard"}
 
@@ -32,6 +29,11 @@ def filter_menu(counts):
     return nav
 
 
+def image_link(cell, path):
+    link = ET.SubElement(cell, "a", href=path)
+    ET.SubElement(link, "img", src=path, loading="lazy", decoding="async")
+
+
 def source_row(table, source, label, foundalis=False):
     row = ET.SubElement(table, "tr")
     image_cell = ET.SubElement(row, "td")
@@ -39,8 +41,7 @@ def source_row(table, source, label, foundalis=False):
     if source is None:
         return
     if path := source.get("image"):
-        link = ET.SubElement(image_cell, "a", href=path)
-        ET.SubElement(link, "img", src=path, loading="lazy", decoding="async")
+        image_link(image_cell, path)
     rule = source["rule"]
     if foundalis:
         quote = f'“{rule["left"]}” / “{rule["right"]}”'
@@ -82,8 +83,7 @@ def problem_section(key, problem, difficulty):
     image_cell = ET.SubElement(row, "td")
     derived = problem["derived"]
     if path := derived.get("image"):
-        details = ET.SubElement(record, "div", {"class": "details"})
-        zoom_sheet(image_cell, details, key, Path(path))
+        image_link(image_cell, path)
     if reason:
         ET.SubElement(image_cell, "p").text = reason
     ET.SubElement(row, "td").text = derived["rule"]
