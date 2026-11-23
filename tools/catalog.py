@@ -39,12 +39,10 @@ def image_link(cell, path):
         image.set("height", str(height))
 
 
-def source_row(table, source, label, name):
-    if source is None:
-        return
+def disclosure_row(table, name, *, initially_open):
     row = ET.SubElement(table, "tr")
     cell = ET.SubElement(row, "td", {"class": "source-row", "colspan": "2"})
-    details = ET.SubElement(cell, "details", {"open": ""} if name == "OEBP" else {})
+    details = ET.SubElement(cell, "details", {"open": ""} if initially_open else {})
     summary = ET.SubElement(details, "summary")
     arrow = ET.SubElement(summary, "span", {"class": "triangle"})
     arrow.text = "▼"
@@ -53,6 +51,13 @@ def source_row(table, source, label, name):
     columns = ET.SubElement(reveal, "div", {"class": "source-columns"})
     image_cell = ET.SubElement(columns, "div")
     rule_cell = ET.SubElement(columns, "div")
+    return image_cell, rule_cell
+
+
+def source_row(table, source, label, name):
+    if source is None:
+        return
+    image_cell, rule_cell = disclosure_row(table, name, initially_open=(name == "OEBP"))
     rule = source["rule"]
     quote = f'“{rule["left"]}” / “{rule["right"]}”' if name == "Foundalis" else f'“{rule}”'
     if path := source.get("image"):
@@ -89,14 +94,13 @@ def problem_section(key, problem, difficulty):
     source_row(rows, problem.get("foundalis"), key + "F", "Foundalis")
     source_row(rows, problem.get("oebp"), key + "E", "OEBP")
 
-    row = ET.SubElement(rows, "tr")
-    image_cell = ET.SubElement(row, "td")
+    image_cell, rule_cell = disclosure_row(rows, "Derived", initially_open=True)
     derived = problem["derived"]
     if path := derived.get("image"):
         image_link(image_cell, path)
     if reason:
         ET.SubElement(image_cell, "p").text = reason
-    ET.SubElement(row, "td").text = derived["rule"]
+    rule_cell.text = derived["rule"]
     return section
 
 
