@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 18.8 68
+             C 18.1 64.2 23.8 63.2 25.4 56
+             C 27 48.8 27.9 43.7 35.7 45.4
+             C 40.6 46.5 43 47 47.3 41.7
+             C 52.5 35.4 55.2 27.8 61.1 26.9
+             C 67.3 25.9 71.3 31.2 75 30.5
+             C 79.5 29.8 80.1 24.8 84 25.8
+             C 89 26.9 88.4 36.1 87.3 41.3
+             C 85.6 48.8 87.8 57.6 78.9 62.5
+             C 69.4 67.6 65.6 68.8 58.3 74.3
+             C 51.6 79.4 46.9 77.4 38.8 81.8
+             C 29.2 87.1 20.6 81.4 18.8 68 Z"/>
+  </g>
+  <g transform="translate(115 5)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="51,24 79,57 36,57.5"/>
+  </g>
+  <g transform="translate(7 113)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="28" cy="49" r="5.9"/>
+  </g>
+  <g transform="translate(115 113)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48" y="43" width="9" height="9"/>
+  </g>
+  <g transform="translate(7 221)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="26,74 38,30 48.5,48.5 85,33.5 81,54 68,59.5 77.5,67.5 75.5,83.5"/>
+  </g>
+  <g transform="translate(115 221)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="82,80 93,82.5 84.5,95.5"/>
+  </g>
+  <g transform="translate(300 5)" fill="black">
+    <polygon points="49.5,13 72,71 20,70"/>
+  </g>
+  <g transform="translate(408 5)" fill="black">
+    <path d="M 53.4 20
+             C 54.7 14.7 60.7 12.1 64.4 15.5
+             C 66.5 17.4 67.7 17.5 69.7 14.1
+             C 73.4 8.1 78.9 11.5 77.3 17.8
+             C 76.1 23.2 74.1 25.6 70.1 23.8
+             C 66.8 22.2 65.9 22.7 63.3 26.6
+             C 59.8 32 51.9 27.4 53.4 20 Z"/>
+  </g>
+  <g transform="translate(300 113)" fill="black">
+    <rect x="77" y="74" width="11.5" height="11.5"/>
+  </g>
+  <g transform="translate(408 113)" fill="black">
+    <circle cx="19" cy="18.3" r="7.1"/>
+  </g>
+  <g transform="translate(300 221)" fill="black">
+    <polygon points="12.5,66 33.5,66 26.6,76 33.5,86.5 12.5,86.5 19.4,76"/>
+  </g>
+  <g transform="translate(408 221)" fill="black">
+    <rect x="29.5" y="25.5" width="47" height="47" transform="rotate(28 53 49)"/>
+  </g>
+</svg>
