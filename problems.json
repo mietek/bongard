@@ -72,7 +72,7 @@
     },
     "derived": {
       "image": "img/derived/BP002D.svg",
-      "rule": "The figure takes up a large part of its panel on the left and a small part on the right."
+      "rule": "Each left panel contains a large figure. Each right panel contains a small figure."
     }
   },
   "BP003": {
@@ -110,7 +110,7 @@
     },
     "derived": {
       "image": "img/derived/BP003D.svg",
-      "rule": "The figures on the left are drawn in outline. The figures on the right are filled solid black."
+      "rule": "Each left figure is drawn in outline. Each right figure is filled solid black."
     }
   },
   "BP004": {
