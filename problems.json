@@ -7153,13 +7153,12 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP300",
-      "image": "img/original/BP300E.png",
+      "image": "img/corrected/BP300E.png",
       "rule": "Acceleration and deceleration vs. constant speed."
     },
     "derived": {
       "rule": "The moving object changes speed on the left and travels at constant speed on the right."
-    },
-    "flag_reason": "The rule depends on changes in speed. Both sources use animated examples."
+    }
   },
   "BP301": {
     "foundalis": {
@@ -9016,13 +9015,12 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP400",
-      "image": "img/original/BP400E.png",
+      "image": "img/corrected/BP400E.png",
       "rule": "Inner objects from red to yellow; outer from green to violet vs. inner objects from green to violet; outer from red to yellow."
     },
     "derived": {
       "rule": "Warm-colored objects lie inside the boundary and cool-colored objects outside on the left. The color ranges exchange places on the right."
-    },
-    "flag_reason": "The rule distinguishes warm hues from cool hues. A black-and-white drawing cannot show that distinction."
+    }
   },
   "BP401": {
     "foundalis": {
@@ -9077,16 +9075,6 @@
     "derived": {
       "rule": "The main stem is straight on the left and bends on the right."
     }
-  },
-  "BP404": {
-    "oebp": {
-      "url": "https://oebp.org/BP404",
-      "rule": "404: Bongard Problem not found"
-    },
-    "derived": {
-      "rule": "The placeholder supplies no examples from which to derive a rule."
-    },
-    "flag_reason": "OEBP uses this number for its missing-problem entry. Foundalis also skips the number."
   },
   "BP405": {
     "foundalis": {
