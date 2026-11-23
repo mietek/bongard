@@ -1863,8 +1863,8 @@
       "url": "https://www.foundalis.com/res/bps/bongard/p054.htm",
       "image": "img/corrected/BP054F.png",
       "rule": {
-        "left": "A cross, circle, and triangle arranged clockwise",
-        "right": "A cross, circle, and triangle arranged counterclockwise"
+        "left": "A cross, circle, and triangle arranged counterclockwise",
+        "right": "A cross, circle, and triangle arranged clockwise"
       },
       "difficulty": 5,
       "human_results": {
@@ -1883,7 +1883,7 @@
           "mean_time_seconds": 16.6
         }
       },
-      "note": "Rule corrected from original by swapping the left and right descriptions."
+      "note": "Incorrect rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP54",
@@ -2987,8 +2987,8 @@
       "url": "https://www.foundalis.com/res/bps/bongard/p086.htm",
       "image": "img/corrected/BP086F.png",
       "rule": {
-        "left": "Three arms meeting at a junction",
-        "right": "Five arms meeting at a junction"
+        "left": "Three parts",
+        "right": "Five parts"
       },
       "difficulty": 4,
       "human_results": {
@@ -3007,7 +3007,7 @@
           "mean_time_seconds": 26.7
         }
       },
-      "note": "Rule corrected from original by specifying that each part is an arm of the junction."
+      "note": "Ambiguous rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP86",
@@ -3094,8 +3094,8 @@
       "url": "https://www.foundalis.com/res/bps/bongard/p089.htm",
       "image": "img/corrected/BP089F.png",
       "rule": {
-        "left": "Three connected groups of ovals",
-        "right": "Five connected groups of ovals"
+        "left": "Three parts",
+        "right": "Five parts"
       },
       "difficulty": 5,
       "human_results": {
@@ -3114,7 +3114,7 @@
           "mean_time_seconds": 30.8
         }
       },
-      "note": "Rule corrected from original by specifying that each part is a group of connected ovals."
+      "note": "Ambiguous rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP89",
@@ -3131,8 +3131,8 @@
       "url": "https://www.foundalis.com/res/bps/bongard/p090.htm",
       "image": "img/corrected/BP090F.png",
       "rule": {
-        "left": "Three connected groups of outlined ovals",
-        "right": "Four connected groups of outlined ovals"
+        "left": "Three parts",
+        "right": "Four parts"
       },
       "difficulty": 5,
       "human_results": {
@@ -3151,7 +3151,7 @@
           "mean_time_seconds": 17.7
         }
       },
-      "note": "Rule corrected from original by specifying that each part is a group of connected ovals that are outlined."
+      "note": "Ambiguous rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP90",
@@ -4259,10 +4259,10 @@
       "url": "https://www.foundalis.com/res/bps/doughof/p142.htm",
       "image": "img/corrected/BP142F.png",
       "rule": {
-        "left": "Three of one kind and two of another, with the pair adjacent",
-        "right": "Three of one kind and two of another, with the pair separated"
+        "left": "Two clusters of three and two that are adjacent",
+        "right": "Two clusters of three and two that are not adjacent"
       },
-      "note": "Rule corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
+      "note": "Ambiguous rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP142",
@@ -4952,10 +4952,10 @@
       "url": "https://www.foundalis.com/res/bps/foundal/p180.htm",
       "image": "img/corrected/BP180F.png",
       "rule": {
-        "left": "Black region widens toward the boundary with white",
-        "right": "Black region narrows toward the boundary with white"
+        "left": "Black region narrows at the boundary or black/white",
+        "right": "Black region widens at the boundary or black/white"
       },
-      "note": "Rule corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
+      "note": "Incorrect rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP180",
@@ -5361,7 +5361,7 @@
       "url": "https://oebp.org/BP202",
       "image": "img/corrected/BP202E.png",
       "rule": "Even number vs. odd number.",
-      "note": "Corrected from original by separating the bottom-right rectangle in R4 from the other two."
+      "note": "Image corrected from original by separating the bottom-right rectangle in R4 from the other two."
     },
     "derived": {
       "rule": "The number of objects is even on the left and odd on the right."
@@ -5381,7 +5381,7 @@
       "url": "https://oebp.org/BP203",
       "image": "img/corrected/BP203E.png",
       "rule": "Prime number vs. composite number.",
-      "note": "Corrected from original by restoring L1, R1, R4, and R5 with each pile drawn as a single object, and by changing the lone dot in L2 to three punctuation marks."
+      "note": "Image corrected from original by drawing each pile in L1, R1, R4, and R5 as a single object, and by adding punctuation marks to L2."
     },
     "derived": {
       "rule": "The object count is prime on the left and composite on the right."
@@ -5509,7 +5509,7 @@
       "url": "https://oebp.org/BP210",
       "image": "img/corrected/BP210E.png",
       "rule": "Part of at least one object is out of box vs. all objects are within the box.",
-      "note": "Corrected from original by separating the bottom oval in R1 from the edge."
+      "note": "Image corrected from original by separating the bottom oval in R1 from the edge."
     },
     "derived": {
       "rule": "At least one shape extends beyond the frame on the left. The frame contains all the shapes on the right."
@@ -5589,7 +5589,7 @@
       "url": "https://oebp.org/BP214",
       "image": "img/corrected/BP214E.png",
       "rule": "Smiley face vs. not a smiley face.",
-      "note": "Corrected from original by turning the mouth in R2 upside down."
+      "note": "Image corrected from original by turning the mouth in R2 upside down."
     },
     "derived": {
       "rule": "The marks read as a smiling face on the left and lack that arrangement on the right."
@@ -6100,7 +6100,7 @@
       "url": "https://oebp.org/BP242",
       "image": "img/corrected/BP242E.png",
       "rule": "Convex hull is a square vs. convex hull is not a square.",
-      "note": "Corrected from original by restoring R4 without its bottom-right dot."
+      "note": "Image corrected from original by removing the bottom-right dot from R4."
     },
     "derived": {
       "rule": "The convex hull of the figure is a square on the left and has a different shape on the right."
@@ -7179,7 +7179,7 @@
       "url": "https://oebp.org/BP301",
       "image": "img/corrected/BP301E.png",
       "rule": "Large and medium-sized square, the latter can be hidden vs. large and small-sized square, the latter can be hidden.",
-      "note": "Corrected from original by extending L5 and R5 with partially visible outlined squares."
+      "note": "Image corrected from original by adding partially hidden squares to L5 and R5."
     },
     "derived": {
       "rule": "Each example contains a large square and a second square that may be hidden. The second square is medium-sized on the left and small on the right."
@@ -8874,7 +8874,7 @@
       "url": "https://oebp.org/BP392",
       "image": "img/corrected/BP392E.png",
       "rule": "Exponential increase vs. linear increase.",
-      "note": "Corrected from original by restoring R2."
+      "note": "Image corrected from original by restoring R2."
     },
     "derived": {
       "rule": "The illustrated quantity grows exponentially on the left and linearly on the right."
