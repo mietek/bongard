@@ -574,17 +574,18 @@
           "count": 10,
           "mean_time_seconds": 21.6
         }
-      }
+      },
+      "note": "Ambiguous rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP16",
       "image": "img/original/BP016E.png",
-      "rule": "Clockwise spiraling curve vs. counter-clockwise spiraling curve."
+      "rule": "Curve spirals clockwise from the center outward vs. curve spirals counter-clockwise from the center outward.",
+      "note": "Rule corrected from original by specifying that each curve is traced from the center outward."
     },
     "derived": {
       "rule": "Spiral handedness distinguishes the drawings. Either traversal convention can name that distinction."
-    },
-    "flag_reason": "Tracing L1 from the outside inward gives a counterclockwise turn, as in Appendix A (p. 358) and on Foundalis’s website. Tracing it from the center outward gives a clockwise turn, as on OEBP. Neither source specifies where to start."
+    }
   },
   "BP017": {
     "difficulty": "hard",
