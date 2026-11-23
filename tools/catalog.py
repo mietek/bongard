@@ -7,14 +7,14 @@ import struct
 from xml.etree import ElementTree as ET
 
 TITLE = "Bongard Problems"
-LEVELS = {1: "Very Easy", 2: "Easy", 3: "Moderate", 4: "Hard", 5: "Very Hard"}
+LEVELS = ("very easy", "easy", "moderate", "hard", "very hard")
 
 
 def filter_menu(counts):
     nav = ET.Element("nav", {"class": "filters"})
     menu = ET.SubElement(nav, "ul")
     options = [("All", None), ("Corrected", None), ("Flagged", None), ("Unflagged", None),
-               *((name, level) for level, name in LEVELS.items()), ("Unrated", None)]
+               *((level.title(), level) for level in LEVELS), ("Unrated", None)]
     for label, level in options:
         view = label.lower().replace(" ", "-")
         item = ET.SubElement(menu, "li")
@@ -23,7 +23,7 @@ def filter_menu(counts):
             link.set("class", "active")
         link.text = f"{label} ({counts[label]})"
         if level is not None:
-            link.set("data-difficulty", str(level))
+            link.set("data-difficulty", level)
     return nav
 
 
@@ -84,8 +84,8 @@ def problem_section(key, problem, difficulty, corrected):
     if reason:
         labels.append("Flagged")
     if difficulty is not None:
-        labels.append(LEVELS[difficulty])
-        section.set("data-difficulty", str(difficulty))
+        labels.append(difficulty.title())
+        section.set("data-difficulty", difficulty)
     if labels:
         link.tail = " · " + " · ".join(labels)
 
@@ -120,12 +120,12 @@ def main():
     sections = []
     for key in sorted(problems, key=lambda k: int(k[2:])):
         problem = problems[key]
-        difficulty = problem.get("foundalis", {}).get("difficulty")
+        difficulty = problem.get("difficulty")
         corrected = any(source and source.get("note")
                         for source in (problem.get("foundalis"), problem.get("oebp")))
         counts["Corrected"] += corrected
         counts["Flagged" if problem.get("flag_reason") else "Unflagged"] += 1
-        counts[LEVELS[difficulty] if difficulty is not None else "Unrated"] += 1
+        counts[difficulty.title() if difficulty is not None else "Unrated"] += 1
         sections.append(html(problem_section(key, problem, difficulty, corrected)))
 
     script = Path("tools/catalog.js").read_text(encoding="utf-8").rstrip()

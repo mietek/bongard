@@ -1,5 +1,6 @@
 {
   "BP001": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p001.htm",
       "image": "img/corrected/BP001F.png",
@@ -7,7 +8,7 @@
         "left": "Empty picture",
         "right": "Not empty picture"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -28,10 +29,12 @@
     "oebp": {
       "url": "https://oebp.org/BP1",
       "image": "img/corrected/BP001E.png",
-      "rule": "Empty image vs. non-empty image."
+      "rule": "Empty image vs. non-empty image.",
+      "difficulty": "easy"
     }
   },
   "BP002": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p002.htm",
       "image": "img/corrected/BP002F.png",
@@ -39,7 +42,7 @@
         "left": "Large figures",
         "right": "Small figures"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 28,
         "correct": {
@@ -60,10 +63,12 @@
     "oebp": {
       "url": "https://oebp.org/BP2",
       "image": "img/corrected/BP002E.png",
-      "rule": "Big vs. small."
+      "rule": "Big vs. small.",
+      "difficulty": "easy"
     }
   },
   "BP003": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p003.htm",
       "image": "img/corrected/BP003F.png",
@@ -71,7 +76,7 @@
         "left": "Outline figures",
         "right": "Solid figures"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 28,
         "correct": {
@@ -92,10 +97,12 @@
     "oebp": {
       "url": "https://oebp.org/BP3",
       "image": "img/corrected/BP003E.png",
-      "rule": "Hollow outline vs. filled in solid."
+      "rule": "Hollow outline vs. filled in solid.",
+      "difficulty": "easy"
     }
   },
   "BP004": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p004.htm",
       "image": "img/corrected/BP004F.png",
@@ -103,7 +110,7 @@
         "left": "Convex figures",
         "right": "Nonconvex figures"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -124,10 +131,12 @@
     "oebp": {
       "url": "https://oebp.org/BP4",
       "image": "img/corrected/BP004E.png",
-      "rule": "Convex vs. concave."
+      "rule": "Convex vs. concave.",
+      "difficulty": "easy"
     }
   },
   "BP005": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p005.htm",
       "image": "img/corrected/BP005F.png",
@@ -135,7 +144,7 @@
         "left": "Polygons",
         "right": "Curvilinear figures"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -156,10 +165,12 @@
     "oebp": {
       "url": "https://oebp.org/BP5",
       "image": "img/corrected/BP005E.png",
-      "rule": "Is polygon vs. is smooth without straight lines or corners."
+      "rule": "Is polygon vs. is smooth without straight lines or corners.",
+      "difficulty": "easy"
     }
   },
   "BP006": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p006.htm",
       "image": "img/corrected/BP006F.png",
@@ -167,7 +178,7 @@
         "left": "Triangles",
         "right": "Quadrangles"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -188,10 +199,12 @@
     "oebp": {
       "url": "https://oebp.org/BP6",
       "image": "img/corrected/BP006E.png",
-      "rule": "Triangle vs. quadrilateral."
+      "rule": "Triangle vs. quadrilateral.",
+      "difficulty": "easy"
     }
   },
   "BP007": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p007.htm",
       "image": "img/corrected/BP007F.png",
@@ -199,7 +212,7 @@
         "left": "Figures elongated vertically",
         "right": "Figures elongated horizontally"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -220,10 +233,12 @@
     "oebp": {
       "url": "https://oebp.org/BP7",
       "image": "img/corrected/BP007E.png",
-      "rule": "Taller than wide vs. wider than tall."
+      "rule": "Taller than wide vs. wider than tall.",
+      "difficulty": "easy"
     }
   },
   "BP008": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p008.htm",
       "image": "img/corrected/BP008F.png",
@@ -231,7 +246,7 @@
         "left": "Figures on the right side",
         "right": "Figures on the left side"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -252,10 +267,12 @@
     "oebp": {
       "url": "https://oebp.org/BP8",
       "image": "img/corrected/BP008E.png",
-      "rule": "Positioned right vs. positioned left."
+      "rule": "Positioned right vs. positioned left.",
+      "difficulty": "easy"
     }
   },
   "BP009": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p009.htm",
       "image": "img/corrected/BP009F.png",
@@ -263,7 +280,7 @@
         "left": "Smooth contour figures",
         "right": "Twisting contour figures"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -284,10 +301,12 @@
     "oebp": {
       "url": "https://oebp.org/BP9",
       "image": "img/corrected/BP009E.png",
-      "rule": "Non-wiggly outline vs. wiggly outline."
+      "rule": "Non-wiggly outline vs. wiggly outline.",
+      "difficulty": "easy"
     }
   },
   "BP010": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p010.htm",
       "image": "img/corrected/BP010F.png",
@@ -295,7 +314,7 @@
         "left": "Triangles",
         "right": "Quadrangles"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -316,10 +335,12 @@
     "oebp": {
       "url": "https://oebp.org/BP10",
       "image": "img/corrected/BP010E.png",
-      "rule": "Approximately triangular outline vs. approximately convex quadrilateral outline."
+      "rule": "Approximately triangular outline vs. approximately convex quadrilateral outline.",
+      "difficulty": "easy"
     }
   },
   "BP011": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p011.htm",
       "image": "img/corrected/BP011F.png",
@@ -327,7 +348,7 @@
         "left": "Elongated figures",
         "right": "Compact figures"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -352,6 +373,7 @@
     }
   },
   "BP012": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p012.htm",
       "image": "img/corrected/BP012F.png",
@@ -359,7 +381,7 @@
         "left": "Convex hull of figure elongated",
         "right": "Convex hull of figure compact"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -384,6 +406,7 @@
     }
   },
   "BP013": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p013.htm",
       "image": "img/corrected/BP013F.png",
@@ -391,7 +414,7 @@
         "left": "Vertical rectangles or horizontal ellipses",
         "right": "Vertical ellipses or horizontal rectangles"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 23,
         "correct": {
@@ -416,6 +439,7 @@
     }
   },
   "BP014": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p014.htm",
       "image": "img/corrected/BP014F.png",
@@ -423,7 +447,7 @@
         "left": "Large total line length",
         "right": "Small total line length"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 25,
         "correct": {
@@ -449,6 +473,7 @@
     "flag_reason": "Appendix A (p. 357) and Foundalis’s website compare the total line length in each panel. OEBP compares the sizes of the individual figures. Both tests fit the examples, including the grid in L4 and the single short line in R1."
   },
   "BP015": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p015.htm",
       "image": "img/corrected/BP015F.png",
@@ -456,7 +481,7 @@
         "left": "Closed lines",
         "right": "Open lines"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -481,6 +506,7 @@
     }
   },
   "BP016": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p016.htm",
       "image": "img/corrected/BP016F.png",
@@ -488,7 +514,7 @@
         "left": "Spiral curls counterclockwise",
         "right": "Spiral curls clockwise"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 24,
         "correct": {
@@ -514,6 +540,7 @@
     "flag_reason": "Appendix A (p. 358) and Foundalis’s website call the left spirals counterclockwise, while OEBP calls them clockwise. None specifies a starting end. Tracing L1 inward gives Foundalis’s direction. Tracing it outward gives OEBP’s direction."
   },
   "BP017": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p017.htm",
       "image": "img/corrected/BP017F.png",
@@ -521,7 +548,7 @@
         "left": "An acute angle directed inward",
         "right": "No angle directed inward"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 23,
         "correct": {
@@ -547,6 +574,7 @@
     }
   },
   "BP018": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p018.htm",
       "image": "img/corrected/BP018F.png",
@@ -554,7 +582,7 @@
         "left": "A neck",
         "right": "No neck"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 23,
         "correct": {
@@ -579,6 +607,7 @@
     }
   },
   "BP019": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p019.htm",
       "image": "img/corrected/BP019F.png",
@@ -586,7 +615,7 @@
         "left": "Neck horizontal",
         "right": "Neck vertical"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 22,
         "correct": {
@@ -611,6 +640,7 @@
     }
   },
   "BP020": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p020.htm",
       "image": "img/corrected/BP020F.png",
@@ -618,7 +648,7 @@
         "left": "Points located on one side of the neck",
         "right": "Points located on both sides of the neck"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 22,
         "correct": {
@@ -643,6 +673,7 @@
     }
   },
   "BP021": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p021.htm",
       "image": "img/corrected/BP021F.png",
@@ -650,7 +681,7 @@
         "left": "Small figure present",
         "right": "No small figure present"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -675,6 +706,7 @@
     }
   },
   "BP022": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p022.htm",
       "image": "img/corrected/BP022F.png",
@@ -682,7 +714,7 @@
         "left": "Areas of figures approximately equal",
         "right": "Areas of figures differ greatly"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -707,6 +739,7 @@
     }
   },
   "BP023": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p023.htm",
       "image": "img/corrected/BP023F.png",
@@ -714,7 +747,7 @@
         "left": "One figure",
         "right": "Two figures"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -735,10 +768,12 @@
     "oebp": {
       "url": "https://oebp.org/BP23",
       "image": "img/corrected/BP023E.png",
-      "rule": "One vs. two figures."
+      "rule": "One vs. two figures.",
+      "difficulty": "easy"
     }
   },
   "BP024": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p024.htm",
       "image": "img/corrected/BP024F.png",
@@ -746,7 +781,7 @@
         "left": "A circle",
         "right": "No circle"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -771,6 +806,7 @@
     }
   },
   "BP025": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p025.htm",
       "image": "img/corrected/BP025F.png",
@@ -778,7 +814,7 @@
         "left": "Black figure is a triangle",
         "right": "Black figure is a circle"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 26,
         "correct": {
@@ -803,6 +839,7 @@
     }
   },
   "BP026": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p026.htm",
       "image": "img/corrected/BP026F.png",
@@ -810,7 +847,7 @@
         "left": "Solid black triangle",
         "right": "No solid black triangle"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 24,
         "correct": {
@@ -835,6 +872,7 @@
     }
   },
   "BP027": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p027.htm",
       "image": "img/corrected/BP027F.png",
@@ -842,7 +880,7 @@
         "left": "More solid black figures",
         "right": "More outline figures"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 22,
         "correct": {
@@ -867,6 +905,7 @@
     }
   },
   "BP028": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p028.htm",
       "image": "img/corrected/BP028F.png",
@@ -874,7 +913,7 @@
         "left": "More solid black circles",
         "right": "More outline circles"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 21,
         "correct": {
@@ -899,6 +938,7 @@
     }
   },
   "BP029": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p029.htm",
       "image": "img/corrected/BP029F.png",
@@ -906,7 +946,7 @@
         "left": "There are more small circles inside the figure outline than outside",
         "right": "There are fewer small circles inside the figure outline than outside"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 25,
         "correct": {
@@ -931,6 +971,7 @@
     }
   },
   "BP030": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p030.htm",
       "image": "img/corrected/BP030F.png",
@@ -938,7 +979,7 @@
         "left": "A line with a self-crossing",
         "right": "A line without a self-crossing"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 25,
         "correct": {
@@ -963,6 +1004,7 @@
     }
   },
   "BP031": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p031.htm",
       "image": "img/corrected/BP031F.png",
@@ -970,7 +1012,7 @@
         "left": "One line",
         "right": "Two lines"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 24,
         "correct": {
@@ -991,10 +1033,12 @@
     "oebp": {
       "url": "https://oebp.org/BP31",
       "image": "img/corrected/BP031E.png",
-      "rule": "One line vs. two lines."
+      "rule": "One line vs. two lines.",
+      "difficulty": "easy"
     }
   },
   "BP032": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p032.htm",
       "image": "img/corrected/BP032F.png",
@@ -1002,7 +1046,7 @@
         "left": "A sharp projection",
         "right": "No sharp projection"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 24,
         "correct": {
@@ -1027,6 +1071,7 @@
     }
   },
   "BP033": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p033.htm",
       "image": "img/corrected/BP033F.png",
@@ -1034,7 +1079,7 @@
         "left": "Acute angle",
         "right": "No acute angle"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -1059,6 +1104,7 @@
     }
   },
   "BP034": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p034.htm",
       "image": "img/corrected/BP034F.png",
@@ -1066,7 +1112,7 @@
         "left": "A large hole",
         "right": "A small hole"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -1091,6 +1137,7 @@
     }
   },
   "BP035": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p035.htm",
       "image": "img/corrected/BP035F.png",
@@ -1098,7 +1145,7 @@
         "left": "The axis of the hole is parallel to the figure axis",
         "right": "The axis of the hole is perpendicular to the figure axis"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 26,
         "correct": {
@@ -1123,6 +1170,7 @@
     }
   },
   "BP036": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p036.htm",
       "image": "img/corrected/BP036F.png",
@@ -1130,7 +1178,7 @@
         "left": "Triangle above circle",
         "right": "Circle above triangle"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -1155,6 +1203,7 @@
     }
   },
   "BP037": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p037.htm",
       "image": "img/corrected/BP037F.png",
@@ -1162,7 +1211,7 @@
         "left": "Triangle above circle",
         "right": "Circle above triangle"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 25,
         "correct": {
@@ -1187,6 +1236,7 @@
     }
   },
   "BP038": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p038.htm",
       "image": "img/corrected/BP038F.png",
@@ -1194,7 +1244,7 @@
         "left": "Triangle larger than circle",
         "right": "Triangle smaller than circle"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -1219,6 +1269,7 @@
     }
   },
   "BP039": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p039.htm",
       "image": "img/corrected/BP039F.png",
@@ -1226,7 +1277,7 @@
         "left": "Segments almost parallel to each other",
         "right": "Large angles between segments"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -1251,6 +1302,7 @@
     }
   },
   "BP040": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p040.htm",
       "image": "img/corrected/BP040F.png",
@@ -1258,7 +1310,7 @@
         "left": "Three points on a straight line",
         "right": "No three points on a straight line"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -1283,6 +1335,7 @@
     }
   },
   "BP041": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p041.htm",
       "image": "img/corrected/BP041F.png",
@@ -1290,7 +1343,7 @@
         "left": "Outline circles on one straight line",
         "right": "Outline circles not on one straight line"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 26,
         "correct": {
@@ -1315,6 +1368,7 @@
     }
   },
   "BP042": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p042.htm",
       "image": "img/corrected/BP042F.png",
@@ -1322,7 +1376,7 @@
         "left": "Points inside the figure outline are on a straight line",
         "right": "Points inside the figure outline are not on a straight line"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 23,
         "correct": {
@@ -1347,6 +1401,7 @@
     }
   },
   "BP043": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p043.htm",
       "image": "img/corrected/BP043F.png",
@@ -1354,7 +1409,7 @@
         "left": "The vibration amplitude increases from left to right",
         "right": "The vibration amplitude decreases from left to right"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 22,
         "correct": {
@@ -1379,6 +1434,7 @@
     }
   },
   "BP044": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p044.htm",
       "image": "img/corrected/BP044F.png",
@@ -1386,7 +1442,7 @@
         "left": "Small circles on different arcs",
         "right": "Small circles on one arc"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 21,
         "correct": {
@@ -1411,6 +1467,7 @@
     }
   },
   "BP045": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p045.htm",
       "image": "img/corrected/BP045F.png",
@@ -1418,7 +1475,7 @@
         "left": "Outline figure on top of solid black figure",
         "right": "Black figure on top of outline figure"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -1443,6 +1500,7 @@
     }
   },
   "BP046": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p046.htm",
       "image": "img/corrected/BP046F.png",
@@ -1450,7 +1508,7 @@
         "left": "Triangle on top of the circle",
         "right": "Circle on top of the triangle"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 26,
         "correct": {
@@ -1475,6 +1533,7 @@
     }
   },
   "BP047": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p047.htm",
       "image": "img/corrected/BP047F.png",
@@ -1482,7 +1541,7 @@
         "left": "Triangle inside of the circle",
         "right": "Circle inside of the triangle"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -1507,6 +1566,7 @@
     }
   },
   "BP048": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p048.htm",
       "image": "img/corrected/BP048F.png",
@@ -1514,7 +1574,7 @@
         "left": "Solid dark figures above the outline figures",
         "right": "Outline figures above the solid dark figures"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -1539,6 +1599,7 @@
     }
   },
   "BP049": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p049.htm",
       "image": "img/corrected/BP049F.png",
@@ -1546,7 +1607,7 @@
         "left": "Points inside the figure outline are grouped more densely than outside the contour",
         "right": "Points outside the figure contour are grouped more densely than inside the contour"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 27,
         "correct": {
@@ -1571,6 +1632,7 @@
     }
   },
   "BP050": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p050.htm",
       "image": "img/corrected/BP050F.png",
@@ -1578,7 +1640,7 @@
         "left": "Axes of symmetry",
         "right": "No axes of symmetry"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 28,
         "correct": {
@@ -1604,6 +1666,7 @@
     "flag_reason": "Appendix A (p. 369) and Foundalis’s website allow any axis of reflection on the left. OEBP specifies a vertical axis. L1–L6 all have a vertical axis, so both rules fit."
   },
   "BP051": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p051.htm",
       "image": "img/corrected/BP051F.png",
@@ -1611,7 +1674,7 @@
         "left": "Two circles close to each other",
         "right": "No two circles close to each other"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -1636,6 +1699,7 @@
     }
   },
   "BP052": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p052.htm",
       "image": "img/corrected/BP052F.png",
@@ -1643,7 +1707,7 @@
         "left": "Arrows pointing in different directions",
         "right": "Arrows pointing in the same direction"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 22,
         "correct": {
@@ -1668,6 +1732,7 @@
     }
   },
   "BP053": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p053.htm",
       "image": "img/corrected/BP053F.png",
@@ -1675,7 +1740,7 @@
         "left": "Inside figure has fewer angles than outside figure",
         "right": "Inside figure has more angles than outside figure"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 26,
         "correct": {
@@ -1700,6 +1765,7 @@
     }
   },
   "BP054": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p054.htm",
       "image": "img/corrected/BP054F.png",
@@ -1707,7 +1773,7 @@
         "left": "A cross, circle, and triangle arranged counterclockwise",
         "right": "A cross, circle, and triangle arranged clockwise"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 20,
         "correct": {
@@ -1734,6 +1800,7 @@
     }
   },
   "BP055": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p055.htm",
       "image": "img/corrected/BP055F.png",
@@ -1741,7 +1808,7 @@
         "left": "A circle is at the left of the cavity if you look from inside the figure",
         "right": "A circle is at the right of the cavity if you look from inside the figure"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 18,
         "correct": {
@@ -1766,6 +1833,7 @@
     }
   },
   "BP056": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p056.htm",
       "image": "img/corrected/BP056F.png",
@@ -1773,7 +1841,7 @@
         "left": "All figures of the same color",
         "right": "Figures of different colors"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -1798,6 +1866,7 @@
     }
   },
   "BP057": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p057.htm",
       "image": "img/corrected/BP057F.png",
@@ -1805,7 +1874,7 @@
         "left": "Identical figures",
         "right": "Figures not identical"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 29,
         "correct": {
@@ -1830,6 +1899,7 @@
     }
   },
   "BP058": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p058.htm",
       "image": "img/corrected/BP058F.png",
@@ -1837,7 +1907,7 @@
         "left": "Solid dark quadrangles are identical",
         "right": "Solid dark quadrangles are different"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 16,
         "correct": {
@@ -1863,6 +1933,7 @@
     "flag_reason": "Appendix A (p. 372) describes the two identical filled squares in each of L1–L6. Both websites extend the comparison to filled quadrilaterals. The drawings fit both descriptions."
   },
   "BP059": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p059.htm",
       "image": "img/corrected/BP059F.png",
@@ -1870,7 +1941,7 @@
         "left": "Figures are similar",
         "right": "Figures are not similar"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 18,
         "correct": {
@@ -1895,6 +1966,7 @@
     }
   },
   "BP060": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p060.htm",
       "image": "img/corrected/BP060F.png",
@@ -1902,7 +1974,7 @@
         "left": "Some similar figures",
         "right": "No similar figures"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 16,
         "correct": {
@@ -1927,6 +1999,7 @@
     }
   },
   "BP061": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p061.htm",
       "image": "img/corrected/BP061F.png",
@@ -1934,7 +2007,7 @@
         "left": "A line separates the crosses in half",
         "right": "A line does not separate the crosses in half"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -1959,6 +2032,7 @@
     }
   },
   "BP062": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p062.htm",
       "image": "img/corrected/BP062F.png",
@@ -1966,7 +2040,7 @@
         "left": "Ends of the curve are far apart",
         "right": "Ends of the curve are close together"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 28,
         "correct": {
@@ -1991,6 +2065,7 @@
     }
   },
   "BP063": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p063.htm",
       "image": "img/corrected/BP063F.png",
@@ -1998,7 +2073,7 @@
         "left": "Shading thicker on the right side",
         "right": "Shading thicker on the left side"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 16,
         "correct": {
@@ -2023,6 +2098,7 @@
     }
   },
   "BP064": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p064.htm",
       "image": "img/corrected/BP064F.png",
@@ -2030,7 +2106,7 @@
         "left": "A cross is located on the extension of the ellipse axis",
         "right": "A circle is located on the extension of the ellipse axis"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 15,
         "correct": {
@@ -2055,6 +2131,7 @@
     }
   },
   "BP065": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p065.htm",
       "image": "img/corrected/BP065F.png",
@@ -2062,7 +2139,7 @@
         "left": "A set of triangles elongated horizontally",
         "right": "A set of triangles elongated vertically"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2087,6 +2164,7 @@
     }
   },
   "BP066": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p066.htm",
       "image": "img/corrected/BP066F.png",
@@ -2094,7 +2172,7 @@
         "left": "Unconnected circles on a horizontal line",
         "right": "Unconnected circles on a vertical line"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 29,
         "correct": {
@@ -2119,6 +2197,7 @@
     }
   },
   "BP067": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p067.htm",
       "image": "img/corrected/BP067F.png",
@@ -2126,7 +2205,7 @@
         "left": "The right branch begins at a higher point than the left branch",
         "right": "The right branch begins at a lower point than the left branch"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 29,
         "correct": {
@@ -2151,6 +2230,7 @@
     }
   },
   "BP068": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p068.htm",
       "image": "img/corrected/BP068F.png",
@@ -2158,7 +2238,7 @@
         "left": "The end of the right branch is higher than that of the left branch",
         "right": "The end of the right branch is lower than that of the left branch"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 14,
         "correct": {
@@ -2183,6 +2263,7 @@
     }
   },
   "BP069": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p069.htm",
       "image": "img/corrected/BP069F.png",
@@ -2190,7 +2271,7 @@
         "left": "Large black dot on the main branch",
         "right": "Large black dot on a side branch"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 16,
         "correct": {
@@ -2215,6 +2296,7 @@
     }
   },
   "BP070": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p070.htm",
       "image": "img/corrected/BP070F.png",
@@ -2222,7 +2304,7 @@
         "left": "There are no side branches of the second order",
         "right": "There are side branches of the second order"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 29,
         "correct": {
@@ -2247,6 +2329,7 @@
     }
   },
   "BP071": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p071.htm",
       "image": "img/corrected/BP071F.png",
@@ -2254,7 +2337,7 @@
         "left": "There are inside figures of the second order",
         "right": "There are no inside figures of the second order"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2279,6 +2362,7 @@
     }
   },
   "BP072": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p072.htm",
       "image": "img/corrected/BP072F.png",
@@ -2286,7 +2370,7 @@
         "left": "Ends of the curve are parallel",
         "right": "Ends of the curve are perpendicular"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2311,6 +2395,7 @@
     }
   },
   "BP073": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p073.htm",
       "image": "img/corrected/BP073F.png",
@@ -2318,7 +2403,7 @@
         "left": "The long axes of the ellipse and rectangle are perpendicular",
         "right": "The long axes of the ellipse and rectangle are parallel"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 15,
         "correct": {
@@ -2343,6 +2428,7 @@
     }
   },
   "BP074": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p074.htm",
       "image": "img/corrected/BP074F.png",
@@ -2350,7 +2436,7 @@
         "left": "A tail grows from the obtuse end",
         "right": "A tail grows from the acute end"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 15,
         "correct": {
@@ -2375,6 +2461,7 @@
     }
   },
   "BP075": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p075.htm",
       "image": "img/corrected/BP075F.png",
@@ -2382,7 +2469,7 @@
         "left": "Triangle located at the concave side of an arc",
         "right": "Triangle located at the convex side of an arc"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2407,6 +2494,7 @@
     }
   },
   "BP076": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p076.htm",
       "image": "img/corrected/BP076F.png",
@@ -2414,7 +2502,7 @@
         "left": "Long sides concave",
         "right": "Long sides convex"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 14,
         "correct": {
@@ -2439,6 +2527,7 @@
     }
   },
   "BP077": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p077.htm",
       "image": "img/corrected/BP077F.png",
@@ -2446,7 +2535,7 @@
         "left": "Angle divided in half",
         "right": "Angle not divided in half"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2471,6 +2560,7 @@
     }
   },
   "BP078": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p078.htm",
       "image": "img/corrected/BP078F.png",
@@ -2478,7 +2568,7 @@
         "left": "Extensions of segments cross at one point",
         "right": "Extensions of segments do not cross at one point"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2503,6 +2593,7 @@
     }
   },
   "BP079": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p079.htm",
       "image": "img/corrected/BP079F.png",
@@ -2510,7 +2601,7 @@
         "left": "A dark circle is closer to the outline circle than to the triangle",
         "right": "A dark circle is closer to the triangle than to the outline circle"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 16,
         "correct": {
@@ -2535,6 +2626,7 @@
     }
   },
   "BP080": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p080.htm",
       "image": "img/corrected/BP080F.png",
@@ -2542,7 +2634,7 @@
         "left": "Points located at the same distances from a cross",
         "right": "Points located at different distances from a cross"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 15,
         "correct": {
@@ -2567,6 +2659,7 @@
     }
   },
   "BP081": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p081.htm",
       "image": "img/corrected/BP081F.png",
@@ -2574,7 +2667,7 @@
         "left": "Dark figures can be divided from outline figures by a straight line alternatively: Convex hulls of filled and outline figures are disjoint",
         "right": "Dark figures are impossible to separate from the outline ones alternatively: Convex hulls of filled and outline figures overlap"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -2599,6 +2692,7 @@
     }
   },
   "BP082": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p082.htm",
       "image": "img/corrected/BP082F.png",
@@ -2606,7 +2700,7 @@
         "left": "The convex hull of the crosses forms an equilateral triangle",
         "right": "The convex hull of the crosses does not form an equilateral triangle"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2631,6 +2725,7 @@
     }
   },
   "BP083": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p083.htm",
       "image": "img/corrected/BP083F.png",
@@ -2638,7 +2733,7 @@
         "left": "A circle is inside of a figure made by crosses",
         "right": "A circle is outside of a figure made by crosses"
       },
-      "difficulty": 2,
+      "difficulty": "easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2663,6 +2758,7 @@
     }
   },
   "BP084": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p084.htm",
       "image": "img/corrected/BP084F.png",
@@ -2670,7 +2766,7 @@
         "left": "A quadrangle is outside of a figure made by circles",
         "right": "A quadrangle is inside of a figure made by circles"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -2696,6 +2792,7 @@
     "flag_reason": "Appendix A (p. 381) calls the four-sided figure a square. Both websites allow any quadrilateral. In L1 the square lies outside the ring of circles, and in R1 it lies inside. The same distinction holds across both sheets."
   },
   "BP085": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p085.htm",
       "image": "img/corrected/BP085F.png",
@@ -2703,7 +2800,7 @@
         "left": "Three parts",
         "right": "Five parts"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2728,6 +2825,7 @@
     }
   },
   "BP086": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p086.htm",
       "image": "img/corrected/BP086F.png",
@@ -2735,7 +2833,7 @@
         "left": "Three parts",
         "right": "Five parts"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -2762,6 +2860,7 @@
     }
   },
   "BP087": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p087.htm",
       "image": "img/corrected/BP087F.png",
@@ -2769,7 +2868,7 @@
         "left": "Four parts",
         "right": "Five parts"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2794,6 +2893,7 @@
     }
   },
   "BP088": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p088.htm",
       "image": "img/corrected/BP088F.png",
@@ -2801,7 +2901,7 @@
         "left": "Three parts",
         "right": "Five parts"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2826,6 +2926,7 @@
     }
   },
   "BP089": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p089.htm",
       "image": "img/corrected/BP089F.png",
@@ -2833,7 +2934,7 @@
         "left": "Three parts",
         "right": "Five parts"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2860,6 +2961,7 @@
     }
   },
   "BP090": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p090.htm",
       "image": "img/corrected/BP090F.png",
@@ -2867,7 +2969,7 @@
         "left": "Three parts",
         "right": "Four parts"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 14,
         "correct": {
@@ -2894,6 +2996,7 @@
     }
   },
   "BP091": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p091.htm",
       "image": "img/corrected/BP091F.png",
@@ -2901,7 +3004,7 @@
         "left": "Three identical elements",
         "right": "Four identical elements"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -2926,6 +3029,7 @@
     }
   },
   "BP092": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p092.htm",
       "image": "img/corrected/BP092F.png",
@@ -2933,7 +3037,7 @@
         "left": "The chain does not branch",
         "right": "The chain branches"
       },
-      "difficulty": 4,
+      "difficulty": "hard",
       "human_results": {
         "sample_size": 15,
         "correct": {
@@ -2958,6 +3062,7 @@
     }
   },
   "BP093": {
+    "difficulty": "very hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p093.htm",
       "image": "img/corrected/BP093F.png",
@@ -2965,7 +3070,7 @@
         "left": "Branches at outlined circle",
         "right": "Branches at solid dark circle"
       },
-      "difficulty": 5,
+      "difficulty": "very hard",
       "human_results": {
         "sample_size": 20,
         "correct": {
@@ -2990,6 +3095,7 @@
     }
   },
   "BP094": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p094.htm",
       "image": "img/corrected/BP094F.png",
@@ -2997,7 +3103,7 @@
         "left": "Solid dark circle not at end",
         "right": "Solid dark circle at end"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 15,
         "correct": {
@@ -3022,6 +3128,7 @@
     }
   },
   "BP095": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p095.htm",
       "image": "img/corrected/BP095F.png",
@@ -3029,7 +3136,7 @@
         "left": "Vertical hatched lines",
         "right": "Horizontal hatched lines"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -3054,6 +3161,7 @@
     }
   },
   "BP096": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p096.htm",
       "image": "img/corrected/BP096F.png",
@@ -3061,7 +3169,7 @@
         "left": "Triangles",
         "right": "Quadrangles"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 30,
         "correct": {
@@ -3086,6 +3194,7 @@
     }
   },
   "BP097": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p097.htm",
       "image": "img/corrected/BP097F.png",
@@ -3093,7 +3202,7 @@
         "left": "Triangles",
         "right": "Circles"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 31,
         "correct": {
@@ -3114,10 +3223,12 @@
     "oebp": {
       "url": "https://oebp.org/BP97",
       "image": "img/corrected/BP097E.png",
-      "rule": "Triangles vs. circles."
+      "rule": "Triangles vs. circles.",
+      "difficulty": "easy"
     }
   },
   "BP098": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p098.htm",
       "image": "img/corrected/BP098F.png",
@@ -3125,7 +3236,7 @@
         "left": "Triangles",
         "right": "Quadrangles"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 16,
         "correct": {
@@ -3146,10 +3257,12 @@
     "oebp": {
       "url": "https://oebp.org/BP98",
       "image": "img/corrected/BP098E.png",
-      "rule": "Triangles vs. quadrangles."
+      "rule": "Triangles vs. quadrangles.",
+      "difficulty": "easy"
     }
   },
   "BP099": {
+    "difficulty": "moderate",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p099.htm",
       "image": "img/corrected/BP099F.png",
@@ -3157,7 +3270,7 @@
         "left": "Outlines made by triangles and circles intersect",
         "right": "Outlines made by triangles and circles do not intersect"
       },
-      "difficulty": 3,
+      "difficulty": "moderate",
       "human_results": {
         "sample_size": 16,
         "correct": {
@@ -3182,6 +3295,7 @@
     }
   },
   "BP100": {
+    "difficulty": "very easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p100.htm",
       "image": "img/corrected/BP100F.png",
@@ -3189,7 +3303,7 @@
         "left": "The letter А",
         "right": "The letter Б"
       },
-      "difficulty": 1,
+      "difficulty": "very easy",
       "human_results": {
         "sample_size": 14,
         "correct": {
@@ -3210,7 +3324,8 @@
     "oebp": {
       "url": "https://oebp.org/BP100",
       "image": "img/corrected/BP100E.png",
-      "rule": "The letter A vs. the letter Б."
+      "rule": "The letter A vs. the letter Б.",
+      "difficulty": "easy"
     }
   },
   "BP101": {
@@ -3380,6 +3495,7 @@
     }
   },
   "BP112": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/doughof/p112.htm",
       "image": "img/corrected/BP112F.png",
@@ -3391,7 +3507,8 @@
     "oebp": {
       "url": "https://oebp.org/BP112",
       "image": "img/corrected/BP112E.png",
-      "rule": "X-coordinates of dots are equidistant vs. y-coordinates of dots are equidistant."
+      "rule": "X-coordinates of dots are equidistant vs. y-coordinates of dots are equidistant.",
+      "difficulty": "hard"
     }
   },
   "BP113": {
@@ -4136,6 +4253,7 @@
     }
   },
   "BP162": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/foundal/p162.htm",
       "image": "img/corrected/BP162F.png",
@@ -4147,7 +4265,8 @@
     "oebp": {
       "url": "https://oebp.org/BP162",
       "image": "img/corrected/BP162E.png",
-      "rule": "Every other side, if extended, passes through one point vs. not so."
+      "rule": "Every other side, if extended, passes through one point vs. not so.",
+      "difficulty": "hard"
     }
   },
   "BP163": {
@@ -4619,6 +4738,7 @@
     }
   },
   "BP194": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/foundal/p194.htm",
       "image": "img/corrected/BP194F.png",
@@ -4630,7 +4750,8 @@
     "oebp": {
       "url": "https://oebp.org/BP194",
       "image": "img/corrected/BP194E.png",
-      "rule": "Background is a parallelogram vs. background is a triangle."
+      "rule": "Background is a parallelogram vs. background is a triangle.",
+      "difficulty": "easy"
     },
     "flag_reason": "Appendix A (p. 417) calls the backgrounds in L1–L6 quadrilaterals. Both websites identify them more specifically as parallelograms. R1–R6 have triangular backgrounds under all three descriptions."
   },
@@ -4650,6 +4771,7 @@
     }
   },
   "BP196": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/foundal/p196.htm",
       "image": "img/corrected/BP196F.png",
@@ -4661,7 +4783,8 @@
     "oebp": {
       "url": "https://oebp.org/BP196",
       "image": "img/corrected/BP196E.png",
-      "rule": "Light-colored texture vs. dark-colored texture."
+      "rule": "Light-colored texture vs. dark-colored texture.",
+      "difficulty": "easy"
     }
   },
   "BP197": {
@@ -4881,6 +5004,7 @@
     }
   },
   "BP211": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/insana/p211.htm",
       "image": "img/corrected/BP211F.png",
@@ -4893,6 +5017,7 @@
       "url": "https://oebp.org/BP211",
       "image": "img/original/BP211E.png",
       "rule": "More black than white vs. more white than black.",
+      "difficulty": "easy",
       "extra": {
         "left": 6,
         "right": 6
@@ -6910,6 +7035,7 @@
     }
   },
   "BP344": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/fairbanks/p344.htm",
       "image": "img/corrected/BP344F.png",
@@ -6922,6 +7048,7 @@
       "url": "https://oebp.org/BP344",
       "image": "img/original/BP344E.png",
       "rule": "Shape can tile itself vs. shape cannot tile itself.",
+      "difficulty": "hard",
       "extra": {
         "left": 0,
         "right": 1
@@ -7222,6 +7349,7 @@
     "flag_reason": "Foundalis L1 uses dots and L2 uses stars. OEBP L1 uses dashed outlines around figures and L2 mixes dots and triangles. In the cross analogy, Foundalis R5 has a wavy figure in the lower-left cell, where OEBP R6 has a cross."
   },
   "BP363": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/fairbanks/p363.htm",
       "image": "img/corrected/BP363F.png",
@@ -7233,7 +7361,8 @@
     "oebp": {
       "url": "https://oebp.org/BP363",
       "image": "img/corrected/BP363E.png",
-      "rule": "Counterclockwise along the curve following the arrow vs. clockwise along the curve following the arrow."
+      "rule": "Counterclockwise along the curve following the arrow vs. clockwise along the curve following the arrow.",
+      "difficulty": "easy"
     }
   },
   "BP364": {
@@ -7394,6 +7523,7 @@
     }
   },
   "BP374": {
+    "difficulty": "easy",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/fairbanks/p374.htm",
       "image": "img/corrected/BP374F.png",
@@ -7405,7 +7535,8 @@
     "oebp": {
       "url": "https://oebp.org/BP374",
       "image": "img/corrected/BP374E.png",
-      "rule": "Simple object vs. complex object."
+      "rule": "Simple object vs. complex object.",
+      "difficulty": "easy"
     }
   },
   "BP375": {
@@ -7535,6 +7666,7 @@
     }
   },
   "BP383": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/fairbanks/p383.htm",
       "image": "img/corrected/BP383F.png",
@@ -7546,7 +7678,8 @@
     "oebp": {
       "url": "https://oebp.org/BP383",
       "image": "img/corrected/BP383E.png",
-      "rule": "When the shape is removed from the dots, the dots give enough information to place the shape back where it was (up to symmetry) vs. not so."
+      "rule": "When the shape is removed from the dots, the dots give enough information to place the shape back where it was (up to symmetry) vs. not so.",
+      "difficulty": "hard"
     }
   },
   "BP384": {
@@ -7702,6 +7835,7 @@
     }
   },
   "BP394": {
+    "difficulty": "hard",
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/collins/p394.htm",
       "image": "img/corrected/BP394F.png",
@@ -7713,7 +7847,8 @@
     "oebp": {
       "url": "https://oebp.org/BP394",
       "image": "img/corrected/BP394E.png",
-      "rule": "For each colored square only, there exists a path starting on it that covers each square of the figure exactly once vs. there is no path that starts on a colored square and covers each square of the figure exactly once."
+      "rule": "For each colored square only, there exists a path starting on it that covers each square of the figure exactly once vs. there is no path that starts on a colored square and covers each square of the figure exactly once.",
+      "difficulty": "hard"
     }
   },
   "BP395": {
