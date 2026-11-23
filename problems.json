@@ -1863,8 +1863,8 @@
       "url": "https://www.foundalis.com/res/bps/bongard/p054.htm",
       "image": "img/corrected/BP054F.png",
       "rule": {
-        "left": "A cross, circle, and triangle arranged counterclockwise",
-        "right": "A cross, circle, and triangle arranged clockwise"
+        "left": "A cross, circle, and triangle arranged clockwise",
+        "right": "A cross, circle, and triangle arranged counterclockwise"
       },
       "difficulty": 5,
       "human_results": {
@@ -1882,17 +1882,18 @@
           "count": 17,
           "mean_time_seconds": 16.6
         }
-      }
+      },
+      "note": "Corrected from original by swapping the left and right descriptions."
     },
     "oebp": {
       "url": "https://oebp.org/BP54",
       "image": "img/corrected/BP054E.png",
-      "rule": "A cross, circle, and triangle arranged counterclockwise vs. a cross, circle, and triangle arranged clockwise."
+      "rule": "A cross, circle, and triangle arranged clockwise vs. a cross, circle, and triangle arranged counterclockwise.",
+      "note": "Corrected from original by swapping the left and right descriptions."
     },
     "derived": {
-      "rule": "Visiting the cross, circle and triangle in that order goes counterclockwise on the left and clockwise on the right."
-    },
-    "flag_reason": "Appendix A (p. 371) visits the triangle, circle, and cross in that order, counterclockwise on the left and clockwise on the right. In L1 the triangle is on the left, the circle at lower right, and the cross at upper right. Both websites and the derived rule visit the shapes in reverse order but keep the same directions. Their order actually runs clockwise on the left and counterclockwise on the right."
+      "rule": "Visiting the cross, circle, and triangle in that order goes clockwise on the left and counterclockwise on the right."
+    }
   },
   "BP055": {
     "foundalis": {
@@ -2986,8 +2987,8 @@
       "url": "https://www.foundalis.com/res/bps/bongard/p086.htm",
       "image": "img/corrected/BP086F.png",
       "rule": {
-        "left": "Three parts",
-        "right": "Five parts"
+        "left": "Three arms meeting at a junction",
+        "right": "Five arms meeting at a junction"
       },
       "difficulty": 4,
       "human_results": {
@@ -3005,17 +3006,18 @@
           "count": 15,
           "mean_time_seconds": 26.7
         }
-      }
+      },
+      "note": "Corrected from original by specifying that each part is an arm of the junction."
     },
     "oebp": {
       "url": "https://oebp.org/BP86",
       "image": "img/corrected/BP086E.png",
-      "rule": "Three parts vs. five parts."
+      "rule": "Three arms meeting at a junction vs. five arms meeting at a junction.",
+      "note": "Corrected from original by specifying that each part is an arm of the junction."
     },
     "derived": {
-      "rule": "The figure is made from three segments on the left and five on the right."
-    },
-    "flag_reason": "The derived rule counts straight segments. Appendix A (p. 381) counts the arms meeting at a junction, three on the left and five on the right. The bends in L2 divide its three arms into five straight segments."
+      "rule": "Three arms meet at the junction on the left and five on the right."
+    }
   },
   "BP087": {
     "foundalis": {
@@ -3092,8 +3094,8 @@
       "url": "https://www.foundalis.com/res/bps/bongard/p089.htm",
       "image": "img/corrected/BP089F.png",
       "rule": {
-        "left": "Three parts",
-        "right": "Five parts"
+        "left": "Three connected groups of ovals",
+        "right": "Five connected groups of ovals"
       },
       "difficulty": 5,
       "human_results": {
@@ -3111,25 +3113,26 @@
           "count": 19,
           "mean_time_seconds": 30.8
         }
-      }
+      },
+      "note": "Corrected from original by specifying that each part is a group of connected ovals."
     },
     "oebp": {
       "url": "https://oebp.org/BP89",
       "image": "img/corrected/BP089E.png",
-      "rule": "Three parts vs. five parts."
+      "rule": "Three connected groups of ovals vs. five connected groups of ovals.",
+      "note": "Corrected from original by specifying that each part is a group of connected ovals."
     },
     "derived": {
-      "rule": "Counting all the elongated pieces, including those that touch, gives three on the left and five on the right."
-    },
-    "flag_reason": "The derived rule counts individual ovals. Appendix A (p. 382) counts groups of touching ovals, three on the left and five on the right. L2 has seven ovals in three groups of three, two, and two."
+      "rule": "The ovals form three connected groups on the left and five on the right."
+    }
   },
   "BP090": {
     "foundalis": {
       "url": "https://www.foundalis.com/res/bps/bongard/p090.htm",
       "image": "img/corrected/BP090F.png",
       "rule": {
-        "left": "Three parts",
-        "right": "Four parts"
+        "left": "Three connected groups of outlined ovals",
+        "right": "Four connected groups of outlined ovals"
       },
       "difficulty": 5,
       "human_results": {
@@ -3147,17 +3150,18 @@
           "count": 12,
           "mean_time_seconds": 17.7
         }
-      }
+      },
+      "note": "Corrected from original by specifying that each part is a group of outlined ovals."
     },
     "oebp": {
       "url": "https://oebp.org/BP90",
       "image": "img/corrected/BP090E.png",
-      "rule": "Three parts vs. four parts."
+      "rule": "Three connected groups of outlined ovals vs. four connected groups of outlined ovals.",
+      "note": "Corrected from original by specifying that each part is a group of outlined ovals."
     },
     "derived": {
-      "rule": "Each arrangement contains three elongated pieces on the left and four on the right."
-    },
-    "flag_reason": "The derived rule counts individual pieces. Appendix A (p. 383) counts connected groups of outlined ovals, three on the left and four on the right. In L2 two solid ovals separate a single row into three runs of outlined ovals. Figure 2.10 (p. 29) explains which ovals to count."
+      "rule": "The outlined ovals form three connected groups on the left and four on the right."
+    }
   },
   "BP091": {
     "foundalis": {
@@ -4255,19 +4259,20 @@
       "url": "https://www.foundalis.com/res/bps/doughof/p142.htm",
       "image": "img/corrected/BP142F.png",
       "rule": {
-        "left": "Two clusters of three and two that are adjacent",
-        "right": "Two clusters of three and two that are not adjacent"
-      }
+        "left": "Three of one kind and two of another, with the pair adjacent",
+        "right": "Three of one kind and two of another, with the pair separated"
+      },
+      "note": "Corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
     },
     "oebp": {
       "url": "https://oebp.org/BP142",
       "image": "img/corrected/BP142E.png",
-      "rule": "Two clusters of three and two that are adjacent vs. two clusters of three and two that are not adjacent."
+      "rule": "Three of one kind and two of another, with the pair adjacent vs. three of one kind and two of another, with the pair separated.",
+      "note": "Corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
     },
     "derived": {
-      "rule": "The groups of three and two are adjacent on the left and separated from each other on the right."
-    },
-    "flag_reason": "Appendix A (p. 400) says the two members of the pair stay together on the left. The derived rule instead says the groups of two and three are adjacent. In L2 the two inverted hooks occupy positions 3 and 4, while the three upright hooks occupy positions 1, 2, and 5, on both sides of the pair."
+      "rule": "Each panel has three of one kind and two of another. The two members of the pair are adjacent on the left and separated on the right."
+    }
   },
   "BP143": {
     "foundalis": {
@@ -4444,12 +4449,12 @@
     "oebp": {
       "url": "https://oebp.org/BP152",
       "image": "img/corrected/BP152E.png",
-      "rule": "No axis of symmetry vs. vertical axis of symmetry."
+      "rule": "No vertical axis of symmetry vs. vertical axis of symmetry.",
+      "note": "Corrected from original by adding “vertical” to the left description."
     },
     "derived": {
-      "rule": "The left figures lack mirror symmetry. Each right figure has a vertical mirror axis."
-    },
-    "flag_reason": "Appendix A (p. 403) and Foundalis’s website specify vertical mirror symmetry. OEBP and the derived rule exclude every mirror axis on the left. The tilted oval in L1 has oblique mirror axes and lacks a vertical one."
+      "rule": "The left figures lack a vertical axis of symmetry, and the right figures have one."
+    }
   },
   "BP153": {
     "foundalis": {
@@ -4947,19 +4952,20 @@
       "url": "https://www.foundalis.com/res/bps/foundal/p180.htm",
       "image": "img/corrected/BP180F.png",
       "rule": {
-        "left": "Black region narrows at the boundary or black/white",
-        "right": "Black region widens at the boundary or black/white"
-      }
+        "left": "Black region widens toward the boundary with white",
+        "right": "Black region narrows toward the boundary with white"
+      },
+      "note": "Corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
     },
     "oebp": {
       "url": "https://oebp.org/BP180",
       "image": "img/corrected/BP180E.png",
-      "rule": "Black region narrows at the boundary of black/white vs. black region widens at the boundary of black/white."
+      "rule": "Black region widens toward the boundary with white vs. black region narrows toward the boundary with white.",
+      "note": "Corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
     },
     "derived": {
-      "rule": "Toward the boundary with the white region, the black part narrows on the left and widens on the right."
-    },
-    "flag_reason": "Approaching the boundary with white through the black region, the small black cap in L2 widens and the larger black region in R2 narrows. Both websites and the derived rule reverse these changes. Appendix A (p. 413) describes the change toward the center and gives the directions seen in the drawings. Figure 1.15 (p. 17) shows the same sheet."
+      "rule": "As it approaches the boundary with white, the black region widens on the left and narrows on the right."
+    }
   },
   "BP181": {
     "foundalis": {
