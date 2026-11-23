@@ -33,7 +33,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Presence of any drawing separates the sides."
+      "rule": "Temporary: Presence of any drawing separates the sides."
     }
   },
   "BP002": {
@@ -70,7 +70,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Compare the overall size of the single figure. Fill and shape vary on both sides."
+      "rule": "Temporary: Compare the overall size of the single figure. Fill and shape vary on both sides."
     }
   },
   "BP003": {
@@ -107,7 +107,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Interior fill is immediately visible, including in the small shapes."
+      "rule": "Temporary: Interior fill is immediately visible, including in the small shapes."
     }
   },
   "BP004": {
@@ -144,7 +144,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "An indentation gives a visual test for nonconvexity."
+      "rule": "Temporary: An indentation gives a visual test for nonconvexity."
     }
   },
   "BP005": {
@@ -181,7 +181,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Straight-sided versus curved-sided is enough. Calling the joins smooth requires judging the tips of R6. Compare the sharper lens in BP033 L2."
+      "rule": "Temporary: Straight-sided versus curved-sided is enough. Calling the joins smooth requires judging the tips of R6. Compare the sharper lens in BP033 L2."
     }
   },
   "BP006": {
@@ -218,7 +218,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Counting corners works regardless of orientation, concavity, and fill."
+      "rule": "Temporary: Counting corners works regardless of orientation, concavity, and fill."
     }
   },
   "BP007": {
@@ -255,7 +255,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Horizontal versus vertical elongation is visible even in the zigzags and combs."
+      "rule": "Temporary: Horizontal versus vertical elongation is visible even in the zigzags and combs."
     }
   },
   "BP008": {
@@ -292,7 +292,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Its location alone determines the side."
+      "rule": "Temporary: Its location alone determines the side."
     }
   },
   "BP009": {
@@ -329,7 +329,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "The texture of the outline is more consistent across the sheet than its overall geometry."
+      "rule": "Temporary: The texture of the outline is more consistent across the sheet than its overall geometry."
     }
   },
   "BP010": {
@@ -366,7 +366,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Ignore the fine teeth and count the three or four main sides."
+      "rule": "Temporary: Ignore the fine teeth and count the three or four main sides."
     }
   },
   "BP011": {
@@ -402,7 +402,7 @@
       "rule": "Thin and elongated vs. compact."
     },
     "derived": {
-      "rule": "Follow the shape itself to judge its slenderness."
+      "rule": "Temporary: Follow the shape itself to judge its slenderness."
     }
   },
   "BP012": {
@@ -438,7 +438,7 @@
       "rule": "Thin elongated convex hull vs. compact convex hull."
     },
     "derived": {
-      "rule": "The overall footprint is enough. Its aspect ratio is visible without constructing a convex hull."
+      "rule": "Temporary: The overall footprint is enough. Its aspect ratio is visible without constructing a convex hull."
     }
   },
   "BP013": {
@@ -474,7 +474,7 @@
       "rule": "Tall rectangle OR wide ellipse vs. wide rectangle OR tall ellipse."
     },
     "derived": {
-      "rule": "Shape and orientation together give the distinction. Each occurs on both sides when considered alone."
+      "rule": "Temporary: Shape and orientation together give the distinction. Each occurs on both sides when considered alone."
     }
   },
   "BP014": {
@@ -510,7 +510,7 @@
       "rule": "All big individual figures vs. all small individual figures."
     },
     "derived": {
-      "rule": "Individual figure size and total line length provide two simple readings that agree on the displayed examples."
+      "rule": "Temporary: Individual figure size and total line length provide two simple readings that agree on the displayed examples."
     }
   },
   "BP015": {
@@ -546,7 +546,7 @@
       "rule": "Closed shape outline vs. non-closed curve."
     },
     "derived": {
-      "rule": "Look for a gap or two free ends."
+      "rule": "Temporary: Look for a gap or two free ends."
     }
   },
   "BP016": {
@@ -584,7 +584,7 @@
       "note": "Rule corrected from original by specifying that each curve is traced from the center outward."
     },
     "derived": {
-      "rule": "Spiral handedness distinguishes the drawings. Either traversal convention can name that distinction."
+      "rule": "Temporary: Spiral handedness distinguishes the drawings. Either traversal convention can name that distinction."
     }
   },
   "BP017": {
@@ -621,7 +621,7 @@
       "rule": "Shape with a reflex corner vs. shape without a reflex corner."
     },
     "derived": {
-      "rule": "An inward notch ending at a corner separates the sides. Concavity alone would accept several right panels."
+      "rule": "Temporary: An inward notch ending at a corner separates the sides. Concavity alone would accept several right panels."
     }
   },
   "BP018": {
@@ -657,7 +657,7 @@
       "rule": "\"Pinched\" shape (drastically thinner somewhere in the middle than on the ends) vs. non-pinched shape."
     },
     "derived": {
-      "rule": "Look for a waist between two wider portions."
+      "rule": "Temporary: Look for a waist between two wider portions."
     }
   },
   "BP019": {
@@ -693,7 +693,7 @@
       "rule": "Horizontal pinch vs. vertical pinch."
     },
     "derived": {
-      "rule": "The orientation of the short connecting bridge supplies the rule."
+      "rule": "Temporary: The orientation of the short connecting bridge supplies the rule."
     }
   },
   "BP020": {
@@ -729,7 +729,7 @@
       "rule": "Both dots touching same bulb vs. dots on opposite bulbs."
     },
     "derived": {
-      "rule": "See which lobe each dot touches. Their distance alone is unreliable."
+      "rule": "Temporary: See which lobe each dot touches. Their distance alone is unreliable."
     }
   },
   "BP021": {
@@ -765,7 +765,7 @@
       "rule": "Small shape present vs. all shapes large."
     },
     "derived": {
-      "rule": "The size of the smallest figure is sufficient."
+      "rule": "Temporary: The size of the smallest figure is sufficient."
     }
   },
   "BP022": {
@@ -801,7 +801,7 @@
       "rule": "All shapes approximately the same size vs. shapes of different size."
     },
     "derived": {
-      "rule": "Look for a size outlier within the panel."
+      "rule": "Temporary: Look for a size outlier within the panel."
     }
   },
   "BP023": {
@@ -838,7 +838,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Count the figures."
+      "rule": "Temporary: Count the figures."
     }
   },
   "BP024": {
@@ -874,7 +874,7 @@
       "rule": "A circle vs. no circle."
     },
     "derived": {
-      "rule": "Look for any circle."
+      "rule": "Temporary: Look for any circle."
     }
   },
   "BP025": {
@@ -910,7 +910,7 @@
       "rule": "Black figure is a triangle vs. black figure is a circle."
     },
     "derived": {
-      "rule": "Inspect the filled shape and ignore outlines."
+      "rule": "Temporary: Inspect the filled shape and ignore outlines."
     }
   },
   "BP026": {
@@ -946,7 +946,7 @@
       "rule": "Solid black triangle vs. no solid black triangle."
     },
     "derived": {
-      "rule": "Search for the combination of triangular shape and solid fill."
+      "rule": "Temporary: Search for the combination of triangular shape and solid fill."
     }
   },
   "BP027": {
@@ -982,7 +982,7 @@
       "rule": "More solid black figures vs. more outline figures."
     },
     "derived": {
-      "rule": "Compare the two counts within the panel."
+      "rule": "Temporary: Compare the two counts within the panel."
     }
   },
   "BP028": {
@@ -1018,7 +1018,7 @@
       "rule": "More solid black circles vs. more outline circles."
     },
     "derived": {
-      "rule": "Identify circles first, then compare the two fills."
+      "rule": "Temporary: Identify circles first, then compare the two fills."
     }
   },
   "BP029": {
@@ -1054,7 +1054,7 @@
       "rule": "There are more small circles inside the figure outline than outside vs. there are fewer small circles inside the figure outline than outside."
     },
     "derived": {
-      "rule": "Which region contains the majority explains even the one- and two-dot cases."
+      "rule": "Temporary: Which region contains the majority explains even the one- and two-dot cases."
     }
   },
   "BP030": {
@@ -1090,7 +1090,7 @@
       "rule": "A curve with one self-crossing vs. a curve without a self-crossing."
     },
     "derived": {
-      "rule": "A visible self-crossing distinguishes the panels."
+      "rule": "Temporary: A visible self-crossing distinguishes the panels."
     }
   },
   "BP031": {
@@ -1127,7 +1127,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Count paths by smooth continuation. Counting ink components would put R2 on the wrong side."
+      "rule": "Temporary: Count paths by smooth continuation. Counting ink components would put R2 on the wrong side."
     }
   },
   "BP032": {
@@ -1163,7 +1163,7 @@
       "rule": "A sharp projection vs. no sharp projection."
     },
     "derived": {
-      "rule": "Look for a protruding tip, with inward notches serving as distractors."
+      "rule": "Temporary: Look for a protruding tip, with inward notches serving as distractors."
     }
   },
   "BP033": {
@@ -1199,7 +1199,7 @@
       "rule": "Acute angle vs. no acute angle."
     },
     "derived": {
-      "rule": "Look for two sides meeting at a sharp angle, whether the point projects outward or inward."
+      "rule": "Temporary: Look for two sides meeting at a sharp angle, whether the point projects outward or inward."
     }
   },
   "BP034": {
@@ -1235,7 +1235,7 @@
       "rule": "A large hole vs. a small hole."
     },
     "derived": {
-      "rule": "The size of the white opening separates the sides directly."
+      "rule": "Temporary: The size of the white opening separates the sides directly."
     }
   },
   "BP035": {
@@ -1271,7 +1271,7 @@
       "rule": "The axis of the hole is parallel to the figure axis vs. the axis of the hole is perpendicular to the figure axis."
     },
     "derived": {
-      "rule": "Compare the two long axes within each shape."
+      "rule": "Temporary: Compare the two long axes within each shape."
     }
   },
   "BP036": {
@@ -1307,7 +1307,7 @@
       "rule": "Triangle above circle vs. circle above triangle."
     },
     "derived": {
-      "rule": "Compare the figures’ heights and ignore which way the triangle points."
+      "rule": "Temporary: Compare the figures’ heights and ignore which way the triangle points."
     }
   },
   "BP037": {
@@ -1343,7 +1343,7 @@
       "rule": "Triangle above circle vs. circle above triangle."
     },
     "derived": {
-      "rule": "The square is a distractor. The same two-figure height comparison as BP036 works."
+      "rule": "Temporary: The square is a distractor. The same two-figure height comparison as BP036 works."
     }
   },
   "BP038": {
@@ -1379,7 +1379,7 @@
       "rule": "Triangle larger than circle vs. triangle smaller than circle."
     },
     "derived": {
-      "rule": "Compare sizes. Either shape can be the higher one."
+      "rule": "Temporary: Compare sizes. Either shape can be the higher one."
     }
   },
   "BP039": {
@@ -1415,7 +1415,7 @@
       "rule": "Segments approximately parallel to each other vs. large angles between segments."
     },
     "derived": {
-      "rule": "Compare the spread of the slopes across all segments."
+      "rule": "Temporary: Compare the spread of the slopes across all segments."
     }
   },
   "BP040": {
@@ -1451,7 +1451,7 @@
       "rule": "Three points on a straight line vs. no three points on a straight line."
     },
     "derived": {
-      "rule": "Look for a row of three without requiring all four dots to line up."
+      "rule": "Temporary: Look for a row of three without requiring all four dots to line up."
     }
   },
   "BP041": {
@@ -1487,7 +1487,7 @@
       "rule": "Outline circles on one straight line vs. outline circles not on one straight line."
     },
     "derived": {
-      "rule": "Ignore filled dots and test the three remaining centers for alignment."
+      "rule": "Temporary: Ignore filled dots and test the three remaining centers for alignment."
     }
   },
   "BP042": {
@@ -1523,7 +1523,7 @@
       "rule": "Points inside the figure outline are on a straight line vs. points inside the figure outline are not on a straight line."
     },
     "derived": {
-      "rule": "The frame around the relevant dots selects which triple to inspect."
+      "rule": "Temporary: The frame around the relevant dots selects which triple to inspect."
     }
   },
   "BP043": {
@@ -1559,7 +1559,7 @@
       "rule": "The vibration amplitude increases from left to right vs. the vibration amplitude decreases from left to right."
     },
     "derived": {
-      "rule": "Compare the height of successive swings, regardless of wave shape or overall slope."
+      "rule": "Temporary: Compare the height of successive swings, regardless of wave shape or overall slope."
     }
   },
   "BP044": {
@@ -1595,7 +1595,7 @@
       "rule": "Small circles on different arcs vs. small circles on one arc."
     },
     "derived": {
-      "rule": "Follow the curve between marks and identify its junctions."
+      "rule": "Temporary: Follow the curve between marks and identify its junctions."
     }
   },
   "BP045": {
@@ -1631,7 +1631,7 @@
       "rule": "Outline figure on top of solid black figure vs. black figure on top of outline figure."
     },
     "derived": {
-      "rule": "The uninterrupted boundary at the overlap supplies the foreground cue."
+      "rule": "Temporary: The uninterrupted boundary at the overlap supplies the foreground cue."
     }
   },
   "BP046": {
@@ -1667,7 +1667,7 @@
       "rule": "Triangle on top of the circle vs. circle on top of the triangle."
     },
     "derived": {
-      "rule": "Identify which of the two shapes appears in front using the outline interruptions elsewhere on the sheet."
+      "rule": "Temporary: Identify which of the two shapes appears in front using the outline interruptions elsewhere on the sheet."
     }
   },
   "BP047": {
@@ -1703,7 +1703,7 @@
       "rule": "Triangle inside of the circle vs. circle inside of the triangle."
     },
     "derived": {
-      "rule": "Look for the enclosing member of the nested pair."
+      "rule": "Temporary: Look for the enclosing member of the nested pair."
     }
   },
   "BP048": {
@@ -1739,7 +1739,7 @@
       "rule": "Solid dark figures above the outline figures vs. outline figures above the solid dark figures."
     },
     "derived": {
-      "rule": "Compare the vertical positions of the filled and unfilled groups."
+      "rule": "Temporary: Compare the vertical positions of the filled and unfilled groups."
     }
   },
   "BP049": {
@@ -1775,7 +1775,7 @@
       "rule": "Points inside the figure outline are grouped more densely than outside the contour vs. points outside the figure contour are grouped more densely than inside the contour."
     },
     "derived": {
-      "rule": "Find the tighter group and check whether it lies inside the outline."
+      "rule": "Temporary: Find the tighter group and check whether it lies inside the outline."
     }
   },
   "BP050": {
@@ -1811,7 +1811,7 @@
       "rule": "Vertical axis of symmetry vs. no axis of symmetry."
     },
     "derived": {
-      "rule": "Either any mirror symmetry or specifically vertical mirror symmetry separates this sheet."
+      "rule": "Temporary: Either any mirror symmetry or specifically vertical mirror symmetry separates this sheet."
     }
   },
   "BP051": {
@@ -1847,7 +1847,7 @@
       "rule": "Two circles close to each other vs. no two circles close to each other."
     },
     "derived": {
-      "rule": "Look for the shortest separation between two circles."
+      "rule": "Temporary: Look for the shortest separation between two circles."
     }
   },
   "BP052": {
@@ -1885,7 +1885,7 @@
       "note": "Rule corrected from original by specifying that the arrow directions are compared along the curve."
     },
     "derived": {
-      "rule": "Follow the shared curve. Ask whether the two arrows prescribe the same way around it, independently of which way they point on the page."
+      "rule": "Temporary: Follow the shared curve. Ask whether the two arrows prescribe the same way around it, independently of which way they point on the page."
     }
   },
   "BP053": {
@@ -1921,7 +1921,7 @@
       "rule": "Inside figure has fewer angles than outside figure vs. inside figure has more angles than outside figure."
     },
     "derived": {
-      "rule": "Count corners on the nested boundaries and compare."
+      "rule": "Temporary: Count corners on the nested boundaries and compare."
     }
   },
   "BP054": {
@@ -1959,7 +1959,7 @@
       "note": "Rule corrected from original by swapping the left and right descriptions."
     },
     "derived": {
-      "rule": "Handedness of the three labeled positions survives rotation and translation."
+      "rule": "Temporary: Handedness of the three labeled positions survives rotation and translation."
     }
   },
   "BP055": {
@@ -1995,7 +1995,7 @@
       "rule": "A circle is at the left of the cavity if you look from inside the figure vs. a circle is at the right of the cavity if you look from inside the figure."
     },
     "derived": {
-      "rule": "Mentally rotate the cavity to face away, then inspect which edge carries the circle."
+      "rule": "Temporary: Mentally rotate the cavity to face away, then inspect which edge carries the circle."
     }
   },
   "BP056": {
@@ -2031,7 +2031,7 @@
       "rule": "All figures of the same color vs. figures of different colors."
     },
     "derived": {
-      "rule": "Uniform versus mixed fill supplies the distinction."
+      "rule": "Temporary: Uniform versus mixed fill supplies the distinction."
     }
   },
   "BP057": {
@@ -2067,7 +2067,7 @@
       "rule": "Identical figures vs. figures not identical."
     },
     "derived": {
-      "rule": "Ask whether one figure is a translated copy of the other at the same scale."
+      "rule": "Temporary: Ask whether one figure is a translated copy of the other at the same scale."
     }
   },
   "BP058": {
@@ -2103,7 +2103,7 @@
       "rule": "Solid dark quadrangles are identical vs. solid dark quadrangles are different."
     },
     "derived": {
-      "rule": "Select the filled squares and compare their sizes. Other figures are distractors."
+      "rule": "Temporary: Select the filled squares and compare their sizes. Other figures are distractors."
     }
   },
   "BP059": {
@@ -2139,7 +2139,7 @@
       "rule": "Figures are similar vs. figures are not similar."
     },
     "derived": {
-      "rule": "Ask whether resizing one shape uniformly would make it match the other."
+      "rule": "Temporary: Ask whether resizing one shape uniformly would make it match the other."
     }
   },
   "BP060": {
@@ -2175,7 +2175,7 @@
       "rule": "Some similar figures vs. no similar figures."
     },
     "derived": {
-      "rule": "Search for any similar pair, ignoring the additional figures."
+      "rule": "Temporary: Search for any similar pair, ignoring the additional figures."
     }
   },
   "BP061": {
@@ -2211,7 +2211,7 @@
       "rule": "A line separates the crosses in half vs. a line does not separate the crosses in half."
     },
     "derived": {
-      "rule": "Count on either side of the displayed line. Total parity alone fails."
+      "rule": "Temporary: Count on either side of the displayed line. Total parity alone fails."
     }
   },
   "BP062": {
@@ -2247,7 +2247,7 @@
       "rule": "Ends of the curve are far apart vs. ends of the curve are close together."
     },
     "derived": {
-      "rule": "Locate the two ends and compare their separation, irrespective of the curve’s winding."
+      "rule": "Temporary: Locate the two ends and compare their separation, irrespective of the curve’s winding."
     }
   },
   "BP063": {
@@ -2283,7 +2283,7 @@
       "rule": "Shading thicker on the right side vs. shading thicker on the left side."
     },
     "derived": {
-      "rule": "Inspect which side of a boundary carries the heavier stroke."
+      "rule": "Temporary: Inspect which side of a boundary carries the heavier stroke."
     }
   },
   "BP064": {
@@ -2321,7 +2321,7 @@
       "note": "Rule corrected from original by specifying the major axis of the ellipse."
     },
     "derived": {
-      "rule": "Extend the long axis of the ellipse and identify the marker it meets. Naming the major axis resolves the double reading."
+      "rule": "Temporary: Extend the long axis of the ellipse and identify the marker it meets. Naming the major axis resolves the double reading."
     }
   },
   "BP065": {
@@ -2357,7 +2357,7 @@
       "rule": "A set of triangles elongated horizontally vs. a set of triangles elongated vertically."
     },
     "derived": {
-      "rule": "Isolate the triangles and compare the width and height of their group."
+      "rule": "Temporary: Isolate the triangles and compare the width and height of their group."
     }
   },
   "BP066": {
@@ -2393,7 +2393,7 @@
       "rule": "Unconnected circles on a horizontal line vs. unconnected circles on a vertical line."
     },
     "derived": {
-      "rule": "Ignore all joined circles, then read the orientation of the remaining row."
+      "rule": "Temporary: Ignore all joined circles, then read the orientation of the remaining row."
     }
   },
   "BP067": {
@@ -2429,7 +2429,7 @@
       "rule": "The right branch begins at a higher point than the left branch vs. the right branch begins at a lower point than the left branch."
     },
     "derived": {
-      "rule": "Compare the fork positions on the stem, instead of the extreme ends of the branches."
+      "rule": "Temporary: Compare the fork positions on the stem, instead of the extreme ends of the branches."
     }
   },
   "BP068": {
@@ -2465,7 +2465,7 @@
       "rule": "The end of the right branch is higher than that of the left branch vs. the end of the right branch is lower than that of the left branch."
     },
     "derived": {
-      "rule": "Compare terminal heights without following the branches back to their forks."
+      "rule": "Temporary: Compare terminal heights without following the branches back to their forks."
     }
   },
   "BP069": {
@@ -2501,7 +2501,7 @@
       "rule": "Large black dot on the main branch vs. large black dot on a side branch."
     },
     "derived": {
-      "rule": "Trace the main stem from the root through each fork."
+      "rule": "Temporary: Trace the main stem from the root through each fork."
     }
   },
   "BP070": {
@@ -2537,7 +2537,7 @@
       "rule": "There are no side branches of the second order vs. there are side branches of the second order."
     },
     "derived": {
-      "rule": "Check whether all branch points lie along one root-to-tip path."
+      "rule": "Temporary: Check whether all branch points lie along one root-to-tip path."
     }
   },
   "BP071": {
@@ -2573,7 +2573,7 @@
       "rule": "There are inside figures of the second order vs. there are no inside figures of the second order."
     },
     "derived": {
-      "rule": "Counting nesting levels explains the layout without identifying the shapes."
+      "rule": "Temporary: Counting nesting levels explains the layout without identifying the shapes."
     }
   },
   "BP072": {
@@ -2609,7 +2609,7 @@
       "rule": "Ends of the curve are parallel vs. ends of the curve are perpendicular."
     },
     "derived": {
-      "rule": "Look just at the two short end segments, even in the coiled examples."
+      "rule": "Temporary: Look just at the two short end segments, even in the coiled examples."
     }
   },
   "BP073": {
@@ -2645,7 +2645,7 @@
       "rule": "The long axes of the ellipse and rectangle are perpendicular vs. the long axes of the ellipse and rectangle are parallel."
     },
     "derived": {
-      "rule": "The triangle can be ignored throughout."
+      "rule": "Temporary: The triangle can be ignored throughout."
     }
   },
   "BP074": {
@@ -2681,7 +2681,7 @@
       "rule": "A tail grows from the obtuse end vs. a tail grows from the acute end."
     },
     "derived": {
-      "rule": "Blunt versus pointed gives the intended everyday meaning of obtuse versus acute here."
+      "rule": "Temporary: Blunt versus pointed gives the intended everyday meaning of obtuse versus acute here."
     }
   },
   "BP075": {
@@ -2717,7 +2717,7 @@
       "rule": "Triangle located at the concave side of an arc vs. triangle located at the convex side of an arc."
     },
     "derived": {
-      "rule": "The opening of the arc faces toward or away from the triangle."
+      "rule": "Temporary: The opening of the arc faces toward or away from the triangle."
     }
   },
   "BP076": {
@@ -2753,7 +2753,7 @@
       "rule": "Long sides concave vs. long sides convex."
     },
     "derived": {
-      "rule": "An inward pinch versus an outward bulge is visible at any orientation."
+      "rule": "Temporary: An inward pinch versus an outward bulge is visible at any orientation."
     }
   },
   "BP077": {
@@ -2789,7 +2789,7 @@
       "rule": "Angle divided in half vs. angle not divided in half."
     },
     "derived": {
-      "rule": "Compare the two gaps between the three rays."
+      "rule": "Temporary: Compare the two gaps between the three rays."
     }
   },
   "BP078": {
@@ -2825,7 +2825,7 @@
       "rule": "Extensions of segments cross at one point vs. extensions of segments do not cross at one point."
     },
     "derived": {
-      "rule": "Mentally extending the marks gives the stated test, including intersections outside the marks."
+      "rule": "Temporary: Mentally extending the marks gives the stated test, including intersections outside the marks."
     }
   },
   "BP079": {
@@ -2861,7 +2861,7 @@
       "rule": "A dark circle is closer to the outline circle than to the triangle vs. a dark circle is closer to the triangle than to the outline circle."
     },
     "derived": {
-      "rule": "Choosing the nearer of the two hollow symbols separates the examples."
+      "rule": "Temporary: Choosing the nearer of the two hollow symbols separates the examples."
     }
   },
   "BP080": {
@@ -2897,7 +2897,7 @@
       "rule": "Points located at the same distances from a cross vs. points located at different distances from a cross."
     },
     "derived": {
-      "rule": "Imagine a circle centred on the cross through one dot and check the other."
+      "rule": "Temporary: Imagine a circle centred on the cross through one dot and check the other."
     }
   },
   "BP081": {
@@ -2933,7 +2933,7 @@
       "rule": "Dark figures can be divided from outline figures by a straight line vs. convex hulls of filled and outlined figures overlap."
     },
     "derived": {
-      "rule": "The straight-divider wording is the more immediate visual test."
+      "rule": "Temporary: The straight-divider wording is the more immediate visual test."
     }
   },
   "BP082": {
@@ -2969,7 +2969,7 @@
       "rule": "The convex hull of the crosses forms an equilateral triangle vs. the convex hull of the crosses does not form an equilateral triangle."
     },
     "derived": {
-      "rule": "Ignore the hollow circle and the crosses inside the hull."
+      "rule": "Temporary: Ignore the hollow circle and the crosses inside the hull."
     }
   },
   "BP083": {
@@ -3005,7 +3005,7 @@
       "rule": "A circle is inside of a figure made by crosses vs. a circle is outside of figures made by crosses."
     },
     "derived": {
-      "rule": "The perimeter through the outermost cross centres supplies the boundary."
+      "rule": "Temporary: The perimeter through the outermost cross centres supplies the boundary."
     }
   },
   "BP084": {
@@ -3041,7 +3041,7 @@
       "rule": "A quadrangle is outside of a figure made by circles vs. a quadrangle is inside of a figure made by circles."
     },
     "derived": {
-      "rule": "Trace the dotted boundary. Both website captions describe the visible distinction."
+      "rule": "Temporary: Trace the dotted boundary. Both website captions describe the visible distinction."
     }
   },
   "BP085": {
@@ -3077,7 +3077,7 @@
       "rule": "Three parts vs. five parts."
     },
     "derived": {
-      "rule": "Count straight strokes through intersections. BP087 requires the opposite convention for a similar drawing."
+      "rule": "Temporary: Count straight strokes through intersections. BP087 requires the opposite convention for a similar drawing."
     }
   },
   "BP086": {
@@ -3115,7 +3115,7 @@
       "note": "Rule corrected from original by specifying that each part is an arm of the junction."
     },
     "derived": {
-      "rule": "Follow each arm past any bends, as in L3 and R2."
+      "rule": "Temporary: Follow each arm past any bends, as in L3 and R2."
     }
   },
   "BP087": {
@@ -3151,7 +3151,7 @@
       "rule": "Four parts vs. five parts."
     },
     "derived": {
-      "rule": "Split strokes at junctions and count the resulting segments. This contrasts with BP085."
+      "rule": "Temporary: Split strokes at junctions and count the resulting segments. This contrasts with BP085."
     }
   },
   "BP088": {
@@ -3187,7 +3187,7 @@
       "rule": "Three parts vs. five parts."
     },
     "derived": {
-      "rule": "Count each oval separately regardless of fill or contact. BP089 instead counts groups."
+      "rule": "Temporary: Count each oval separately regardless of fill or contact. BP089 instead counts groups."
     }
   },
   "BP089": {
@@ -3225,7 +3225,7 @@
       "note": "Rule corrected from original by specifying that each part is a group of connected ovals."
     },
     "derived": {
-      "rule": "Touching ovals form one group regardless of whether they are filled."
+      "rule": "Temporary: Touching ovals form one group regardless of whether they are filled."
     }
   },
   "BP090": {
@@ -3263,7 +3263,7 @@
       "note": "Rule corrected from original by specifying that each part is a group of connected ovals that are outlined."
     },
     "derived": {
-      "rule": "A filled oval separates adjacent runs, even in a continuous row."
+      "rule": "Temporary: A filled oval separates adjacent runs, even in a continuous row."
     }
   },
   "BP091": {
@@ -3299,7 +3299,7 @@
       "rule": "Three identical elements vs. four identical elements."
     },
     "derived": {
-      "rule": "Identify the repeated element in each panel before counting, e.g. sides in L2 and R1."
+      "rule": "Temporary: Identify the repeated element in each panel before counting, e.g. sides in L2 and R1."
     }
   },
   "BP092": {
@@ -3335,7 +3335,7 @@
       "rule": "The chain does not branch vs. the chain branches."
     },
     "derived": {
-      "rule": "Look for a fork, allowing for dotted instead of continuous strokes."
+      "rule": "Temporary: Look for a fork, allowing for dotted instead of continuous strokes."
     }
   },
   "BP093": {
@@ -3371,7 +3371,7 @@
       "rule": "Branches at outlined circle vs. branches at solid dark circle."
     },
     "derived": {
-      "rule": "Identify the fork first, then read the fill of its dot."
+      "rule": "Temporary: Identify the fork first, then read the fill of its dot."
     }
   },
   "BP094": {
@@ -3407,7 +3407,7 @@
       "rule": "Solid dark circle not at end vs. solid dark circle at end."
     },
     "derived": {
-      "rule": "Count its immediate neighbours. A chain endpoint has one."
+      "rule": "Temporary: Count its immediate neighbours. A chain endpoint has one."
     }
   },
   "BP095": {
@@ -3443,7 +3443,7 @@
       "rule": "Vertical hatched lines vs. horizontal hatched lines."
     },
     "derived": {
-      "rule": "Hatch direction alone separates all examples."
+      "rule": "Temporary: Hatch direction alone separates all examples."
     }
   },
   "BP096": {
@@ -3479,7 +3479,7 @@
       "rule": "Triangles vs. quadrangles."
     },
     "derived": {
-      "rule": "Read the boundary of the striped area and ignore stripe direction."
+      "rule": "Temporary: Read the boundary of the striped area and ignore stripe direction."
     }
   },
   "BP097": {
@@ -3516,7 +3516,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Classify the outline of the whole assembly instead of its individual marks."
+      "rule": "Temporary: Classify the outline of the whole assembly instead of its individual marks."
     }
   },
   "BP098": {
@@ -3553,7 +3553,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Follow the deliberately drawn contour across the background texture."
+      "rule": "Temporary: Follow the deliberately drawn contour across the background texture."
     }
   },
   "BP099": {
@@ -3589,7 +3589,7 @@
       "rule": "Outlines made by triangles and circles intersect vs. outlines made by triangles and circles do not intersect."
     },
     "derived": {
-      "rule": "Join markers of each kind into their visual groups."
+      "rule": "Temporary: Join markers of each kind into their visual groups."
     }
   },
   "BP100": {
@@ -3626,7 +3626,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Letter identity accounts for the font variation."
+      "rule": "Temporary: Letter identity accounts for the font variation."
     }
   },
   "BP101": {
@@ -3644,7 +3644,7 @@
       "rule": "Parallel dents vs. perpendicular dents."
     },
     "derived": {
-      "rule": "Follow the margins of the dents instead of comparing the outer polygon."
+      "rule": "Temporary: Follow the margins of the dents instead of comparing the outer polygon."
     }
   },
   "BP102": {
@@ -3662,7 +3662,7 @@
       "rule": "Internal arrows point outward vs. internal arrows point inward."
     },
     "derived": {
-      "rule": "Read the little arrowheads along the path, independently of whether the path bends."
+      "rule": "Temporary: Read the little arrowheads along the path, independently of whether the path bends."
     }
   },
   "BP103": {
@@ -3680,7 +3680,7 @@
       "rule": "Isosceles triangle vs. scalene triangle."
     },
     "derived": {
-      "rule": "Treat the drawn segment as the base and connect its ends to the dot. An equality test based on relative side-length difference would accept R3 before L5. This particular test does not exclude a different construction or tolerance."
+      "rule": "Temporary: Treat the drawn segment as the base and connect its ends to the dot. An equality test based on relative side-length difference would accept R3 before L5. This particular test does not exclude a different construction or tolerance."
     },
     "flag_reason": "The implied triangles in L5 and L6 are only approximately isosceles. The two legs measure about 37 and 44 pixels in L5 and 20 and 22 pixels in L6. These drawings need equal legs to make the distinction from the scalene triangles on the right clear."
   },
@@ -3699,7 +3699,7 @@
       "rule": "One circle passes through the center of the other circle vs. no circle passes through the center of the other circle."
     },
     "derived": {
-      "rule": "Estimate the centre of each circle, even for nested or touching circles."
+      "rule": "Temporary: Estimate the centre of each circle, even for nested or touching circles."
     }
   },
   "BP105": {
@@ -3717,7 +3717,7 @@
       "rule": "Ends of line point to the same direction vs. ends of line do not point to the same direction."
     },
     "derived": {
-      "rule": "Compare the directions of the two terminal segments. The rest of the path can be ignored."
+      "rule": "Temporary: Compare the directions of the two terminal segments. The rest of the path can be ignored."
     },
     "flag_reason": "Appendix A (p. 388) and Foundalis’s website require the ends of the connector to point in opposite directions on the right. In R1 the line meets the triangle roughly horizontally and the square vertically, about 90° apart. OEBP requires only that the directions differ, which fits R1."
   },
@@ -3736,7 +3736,7 @@
       "rule": "Negative slope vs. positive slope."
     },
     "derived": {
-      "rule": "Either dot order gives the same slope."
+      "rule": "Temporary: Either dot order gives the same slope."
     }
   },
   "BP107": {
@@ -3754,7 +3754,7 @@
       "rule": "Three simple lines vs. three complex lines."
     },
     "derived": {
-      "rule": "Count a decorated side as a unit, even if it consists of many marks."
+      "rule": "Temporary: Count a decorated side as a unit, even if it consists of many marks."
     }
   },
   "BP108": {
@@ -3772,7 +3772,7 @@
       "rule": "Petals taper off vs. petals thicken."
     },
     "derived": {
-      "rule": "The relative breadth at the base and outer portion is more informative than the number of petals."
+      "rule": "Temporary: The relative breadth at the base and outer portion is more informative than the number of petals."
     }
   },
   "BP109": {
@@ -3790,7 +3790,7 @@
       "rule": "Circle on the right of the box vs. circle on the left of the box."
     },
     "derived": {
-      "rule": "Ignore every cross and compare the circle to the panel midpoint."
+      "rule": "Temporary: Ignore every cross and compare the circle to the panel midpoint."
     }
   },
   "BP110": {
@@ -3808,7 +3808,7 @@
       "rule": "Four out of five objects are circles vs. never four out of five objects are circles."
     },
     "derived": {
-      "rule": "Count circular contours, including circles contained in another object."
+      "rule": "Temporary: Count circular contours, including circles contained in another object."
     }
   },
   "BP111": {
@@ -3826,7 +3826,7 @@
       "rule": "Middle shape is a triangle vs. middle shape is not a triangle."
     },
     "derived": {
-      "rule": "Checking only the middle contour explains all the panels."
+      "rule": "Temporary: Checking only the middle contour explains all the panels."
     }
   },
   "BP112": {
@@ -3846,7 +3846,7 @@
       "difficulty": "hard"
     },
     "derived": {
-      "rule": "Ask which coordinate puts the middle dot halfway between the other two. Measured in absolute pixels, the right-hand test admits L4 at any tolerance broad enough for R2 and R4. The choice of tolerance matters for these small drawings."
+      "rule": "Temporary: Ask which coordinate puts the middle dot halfway between the other two. Measured in absolute pixels, the right-hand test admits L4 at any tolerance broad enough for R2 and R4. The choice of tolerance matters for these small drawings."
     },
     "flag_reason": "The vertical gaps between dot centers differ by about 2.5 pixels in L4, 3.0 in R2, and 3.4 in R4. Adjust the dot positions so that equal vertical spacing is clear in R2 and R4 and visibly absent in L4."
   },
@@ -3865,7 +3865,7 @@
       "rule": "T-like junction vs. y-like junction."
     },
     "derived": {
-      "rule": "Compare directions where the branches meet, independently of distant bends."
+      "rule": "Temporary: Compare directions where the branches meet, independently of distant bends."
     }
   },
   "BP114": {
@@ -3883,7 +3883,7 @@
       "rule": "Four X-like points vs. two X-like points."
     },
     "derived": {
-      "rule": "Count intersections between outlines, ignoring the quadrilaterals' own corners."
+      "rule": "Temporary: Count intersections between outlines, ignoring the quadrilaterals' own corners."
     }
   },
   "BP115": {
@@ -3901,7 +3901,7 @@
       "rule": "Innermost shape is reachable from the outermost one vs. innermost shape is unreachable from the outermost one."
     },
     "derived": {
-      "rule": "Trace connections between contours, including indirect ones."
+      "rule": "Temporary: Trace connections between contours, including indirect ones."
     }
   },
   "BP116": {
@@ -3919,7 +3919,7 @@
       "rule": "Polygon stands on side vs. polygon stands on vertex."
     },
     "derived": {
-      "rule": "Compare the two lowest polygon vertices and disregard the circle."
+      "rule": "Temporary: Compare the two lowest polygon vertices and disregard the circle."
     }
   },
   "BP117": {
@@ -3937,7 +3937,7 @@
       "rule": "Triangle points to center of circle vs. triangle does not point to center of circle."
     },
     "derived": {
-      "rule": "Use the direction of the pointing corner even where the shapes overlap."
+      "rule": "Temporary: Use the direction of the pointing corner even where the shapes overlap."
     }
   },
   "BP118": {
@@ -3955,7 +3955,7 @@
       "rule": "No cycle vs. a cycle exists."
     },
     "derived": {
-      "rule": "The arrows make a directed tour the relevant test, not merely a closed outline."
+      "rule": "Temporary: The arrows make a directed tour the relevant test, not merely a closed outline."
     }
   },
   "BP119": {
@@ -3973,7 +3973,7 @@
       "rule": "A small correction will result in a single circle vs. no small correction will result in a single circle."
     },
     "derived": {
-      "rule": "On the left, a small repair turns the drawing into a single circle. The closed outline in R5 could already be a circle or could be a slightly elongated oval."
+      "rule": "Temporary: On the left, a small repair turns the drawing into a single circle. The closed outline in R5 could already be a circle or could be a slightly elongated oval."
     },
     "flag_reason": "R5 could be a circle that needs no correction or an oval that needs more than a small correction. The rule leaves unclear how to classify a figure that is already a circle."
   },
@@ -3993,7 +3993,7 @@
       "note": "Rule restored to Foundalis original."
     },
     "derived": {
-      "rule": "Following successive turns gives a direct test without searching the network for a subfigure."
+      "rule": "Temporary: Following successive turns gives a direct test without searching the network for a subfigure."
     }
   },
   "BP121": {
@@ -4011,7 +4011,7 @@
       "rule": "Objects below match their \"symbols\" above, according to one \"code\" vs. objects below match their \"symbols\" above, according to another \"code.\""
     },
     "derived": {
-      "rule": "Decode each diagram with Foundalis's four-pair key. The right-hand key inverts both V marks in every left-hand symbol."
+      "rule": "Temporary: Decode each diagram with Foundalis's four-pair key. The right-hand key inverts both V marks in every left-hand symbol."
     },
     "flag_reason": "OEBP says that each side uses a different code but leaves both codes unspecified. For example, VV represents a circle in L1 and a triangle in R2. Foundalis gives both keys."
   },
@@ -4030,7 +4030,7 @@
       "rule": "Line divides interior into two regions vs. not so."
     },
     "derived": {
-      "rule": "Count the enclosed pieces after following the added line."
+      "rule": "Temporary: Count the enclosed pieces after following the added line."
     }
   },
   "BP123": {
@@ -4048,7 +4048,7 @@
       "rule": "Similar shapes vs. dissimilar shapes."
     },
     "derived": {
-      "rule": "Compare the arrangement of parts as well as the outer silhouette."
+      "rule": "Temporary: Compare the arrangement of parts as well as the outer silhouette."
     }
   },
   "BP124": {
@@ -4066,7 +4066,7 @@
       "rule": "Similar textures vs. dissimilar textures."
     },
     "derived": {
-      "rule": "Both filled or both outlined versus one of each is more specific than “texture.”"
+      "rule": "Temporary: Both filled or both outlined versus one of each is more specific than “texture.”"
     }
   },
   "BP125": {
@@ -4084,7 +4084,7 @@
       "rule": "One protrusion and one indentation of the same shape vs. not so."
     },
     "derived": {
-      "rule": "Imagine moving the protrusion into the indentation."
+      "rule": "Temporary: Imagine moving the protrusion into the indentation."
     }
   },
   "BP126": {
@@ -4102,7 +4102,7 @@
       "rule": "One large and one small object vs. not so."
     },
     "derived": {
-      "rule": "Count first, then compare size, even if the shapes overlap."
+      "rule": "Temporary: Count first, then compare size, even if the shapes overlap."
     }
   },
   "BP127": {
@@ -4120,7 +4120,7 @@
       "rule": "Exactly one circle vs. not exactly one circle."
     },
     "derived": {
-      "rule": "Count circular contours and ignore the other shapes."
+      "rule": "Temporary: Count circular contours and ignore the other shapes."
     }
   },
   "BP128": {
@@ -4138,7 +4138,7 @@
       "rule": "Same objects inside and outside the large shape vs. not same objects inside and outside the large shape."
     },
     "derived": {
-      "rule": "Pair inside and outside objects by shape and fill."
+      "rule": "Temporary: Pair inside and outside objects by shape and fill."
     }
   },
   "BP129": {
@@ -4156,7 +4156,7 @@
       "rule": "Indentation on protrusion vs. indentation on indentation."
     },
     "derived": {
-      "rule": "Inspect the immediate neighbourhood of the small notch."
+      "rule": "Temporary: Inspect the immediate neighbourhood of the small notch."
     }
   },
   "BP130": {
@@ -4174,7 +4174,7 @@
       "rule": "Closed region is made of curves if flaws are ignored vs. closed region is a polygon if flaws are ignored."
     },
     "derived": {
-      "rule": "Reconstruct the longer contour segments on either side of each local irregularity."
+      "rule": "Temporary: Reconstruct the longer contour segments on either side of each local irregularity."
     }
   },
   "BP131": {
@@ -4192,7 +4192,7 @@
       "rule": "Dots are vertices of a parallelogram vs. dots are not vertices of a parallelogram."
     },
     "derived": {
-      "rule": "Compare opposite sides of the imaginary quadrilateral and disregard the drawn outline."
+      "rule": "Temporary: Compare opposite sides of the imaginary quadrilateral and disregard the drawn outline."
     }
   },
   "BP132": {
@@ -4210,7 +4210,7 @@
       "rule": "Dots are vertices of a triangle standing on a side vs. dots are vertices of a triangle standing on a vertex."
     },
     "derived": {
-      "rule": "The relative height of the three dots suffices without drawing the triangle."
+      "rule": "Temporary: The relative height of the three dots suffices without drawing the triangle."
     }
   },
   "BP133": {
@@ -4228,7 +4228,7 @@
       "rule": "Dots collinear with center of circle vs. dots not collinear with center of circle."
     },
     "derived": {
-      "rule": "Extend the line through the two dots and check for a diameter."
+      "rule": "Temporary: Extend the line through the two dots and check for a diameter."
     }
   },
   "BP134": {
@@ -4246,7 +4246,7 @@
       "rule": "Circle centers are collinear vs. circle centers are not collinear."
     },
     "derived": {
-      "rule": "The circle sizes and overlap change while centre alignment persists."
+      "rule": "Temporary: The circle sizes and overlap change while centre alignment persists."
     }
   },
   "BP135": {
@@ -4264,7 +4264,7 @@
       "rule": "Circles on same side of curve vs. circles on different sides of curves."
     },
     "derived": {
-      "rule": "Travel along the curve in either direction. Reversing direction preserves whether the two sides agree."
+      "rule": "Temporary: Travel along the curve in either direction. Reversing direction preserves whether the two sides agree."
     }
   },
   "BP136": {
@@ -4282,7 +4282,7 @@
       "rule": "Concave shape vs. convex shape."
     },
     "derived": {
-      "rule": "Looking for a reentrant corner suffices."
+      "rule": "Temporary: Looking for a reentrant corner suffices."
     }
   },
   "BP137": {
@@ -4300,7 +4300,7 @@
       "rule": "Dots equal in number to the sides of the closed region vs. dots unequal in number to the sides of the closed region."
     },
     "derived": {
-      "rule": "Compare dot count to side count, with explicit treatment of these two panels. OEBP identifies the blank as intentional with its left-null tag."
+      "rule": "Temporary: Compare dot count to side count, with explicit treatment of these two panels. OEBP identifies the blank as intentional with its left-null tag."
     }
   },
   "BP138": {
@@ -4318,7 +4318,7 @@
       "rule": "No dot well within the convex hull vs. at least one dot well within the convex hull."
     },
     "derived": {
-      "rule": "Wrap the outer dots in an imaginary taut band. L4 illustrates the need for the word “well.”"
+      "rule": "Temporary: Wrap the outer dots in an imaginary taut band. L4 illustrates the need for the word “well.”"
     }
   },
   "BP139": {
@@ -4336,7 +4336,7 @@
       "rule": "Similar components that change regularly vs. not so."
     },
     "derived": {
-      "rule": "The left panels show a regular progression among similar components. In R6 the five outlines seem to close progressively, but their pixelated edges obscure the changes between them."
+      "rule": "Temporary: The left panels show a regular progression among similar components. In R6 the five outlines seem to close progressively, but their pixelated edges obscure the changes between them."
     },
     "flag_reason": "In R6, the five outlines are only a few pixels across. Their uneven stroke widths make it difficult to tell how the shapes change from one to the next."
   },
@@ -4355,7 +4355,7 @@
       "rule": "One large shape and two smaller identical ones vs. not so."
     },
     "derived": {
-      "rule": "Compare the two smaller shapes, after first checking their number and relative size."
+      "rule": "Temporary: Compare the two smaller shapes, after first checking their number and relative size."
     }
   },
   "BP141": {
@@ -4373,7 +4373,7 @@
       "rule": "Two clusters of three and two objects each vs. one cluster of three objects and two different objects."
     },
     "derived": {
-      "rule": "Find the three matching items, then compare the other two. R4 has three large squares, a small square and a circle."
+      "rule": "Temporary: Find the three matching items, then compare the other two. R4 has three large squares, a small square and a circle."
     }
   },
   "BP142": {
@@ -4393,7 +4393,7 @@
       "note": "Rule corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
     },
     "derived": {
-      "rule": "Identify the pair and inspect its two positions."
+      "rule": "Temporary: Identify the pair and inspect its two positions."
     }
   },
   "BP143": {
@@ -4411,7 +4411,7 @@
       "rule": "Two clusters of three and two vs. two clusters of four and one."
     },
     "derived": {
-      "rule": "Looking for a single exception on the right is equivalent on these examples."
+      "rule": "Temporary: Looking for a single exception on the right is equivalent on these examples."
     }
   },
   "BP144": {
@@ -4429,7 +4429,7 @@
       "rule": "Two clusters of three and two: different features (including clustering) yield different 3-2 splits vs. two clusters of three and two: different features yield the same 3-2 split."
     },
     "derived": {
-      "rule": "Compare which objects are paired by the two salient features."
+      "rule": "Temporary: Compare which objects are paired by the two salient features."
     }
   },
   "BP145": {
@@ -4447,7 +4447,7 @@
       "rule": "Different ways of grouping yield same 4-1 split vs. different ways of grouping yield different 4-1 splits."
     },
     "derived": {
-      "rule": "In L1 the lone open triangle is also set apart spatially. Following the outlier is easier than comparing verbal descriptions of the clusters."
+      "rule": "Temporary: In L1 the lone open triangle is also set apart spatially. Following the outlier is easier than comparing verbal descriptions of the clusters."
     }
   },
   "BP146": {
@@ -4465,7 +4465,7 @@
       "rule": "A shape contains a square if and only if it is a circle vs. a shape contains a square if and only if it is a triangle."
     },
     "derived": {
-      "rule": "A rule that requires a visible square in every panel misses L4/L5 and R2/R4, which show empty figures."
+      "rule": "Temporary: A rule that requires a visible square in every panel misses L4/L5 and R2/R4, which show empty figures."
     }
   },
   "BP147": {
@@ -4483,7 +4483,7 @@
       "rule": "Three collinear and two others, the two are vertical vs. the two are horizontal."
     },
     "derived": {
-      "rule": "The triple tells the solver which pair to compare. R3 also contains a conspicuous vertical string of three."
+      "rule": "Temporary: The triple tells the solver which pair to compare. R3 also contains a conspicuous vertical string of three."
     }
   },
   "BP148": {
@@ -4501,7 +4501,7 @@
       "rule": "A little less than a regular shape vs. a little more than a regular shape."
     },
     "derived": {
-      "rule": "Look for a gap versus an overshoot, as in the almost-complete and overdrawn squares."
+      "rule": "Temporary: Look for a gap versus an overshoot, as in the almost-complete and overdrawn squares."
     }
   },
   "BP149": {
@@ -4519,7 +4519,7 @@
       "rule": "Lone square vs. lone circle."
     },
     "derived": {
-      "rule": "Find the isolated item first. Counting all squares fails in L1."
+      "rule": "Temporary: Find the isolated item first. Counting all squares fails in L1."
     }
   },
   "BP150": {
@@ -4537,7 +4537,7 @@
       "rule": "Odd number of squares vs. even number of squares."
     },
     "derived": {
-      "rule": "Ignore fill, rotation and nesting when counting squares."
+      "rule": "Temporary: Ignore fill, rotation and nesting when counting squares."
     }
   },
   "BP151": {
@@ -4555,7 +4555,7 @@
       "rule": "If the circle closest to the cross is removed, the rest form an equilateral triangle vs. not so."
     },
     "derived": {
-      "rule": "The cross matters: R4 already contains an approximately equilateral triple when a different circle is omitted."
+      "rule": "Temporary: The cross matters: R4 already contains an approximately equilateral triple when a different circle is omitted."
     }
   },
   "BP152": {
@@ -4574,7 +4574,7 @@
       "note": "Rule corrected from original by adding “vertical” to the left description."
     },
     "derived": {
-      "rule": "Try a vertical mirror first. The tilted oval in L1 has other symmetry axes."
+      "rule": "Temporary: Try a vertical mirror first. The tilted oval in L1 has other symmetry axes."
     }
   },
   "BP153": {
@@ -4592,7 +4592,7 @@
       "rule": "Predominance of curves and hook-like endings vs. predominance of straight lines and staple-like endings."
     },
     "derived": {
-      "rule": "The two drawing styles are visible in both the long strokes and their ends."
+      "rule": "Temporary: The two drawing styles are visible in both the long strokes and their ends."
     }
   },
   "BP154": {
@@ -4610,7 +4610,7 @@
       "rule": "Wedged endings vs. rounded endings."
     },
     "derived": {
-      "rule": "Compare the cut ends of the bands."
+      "rule": "Temporary: Compare the cut ends of the bands."
     }
   },
   "BP155": {
@@ -4628,7 +4628,7 @@
       "rule": "Curves are longer than straight lines vs. curves are shorter than straight lines."
     },
     "derived": {
-      "rule": "Compare how much of the figure is curved. The rule does not require counting segments."
+      "rule": "Temporary: Compare how much of the figure is curved. The rule does not require counting segments."
     }
   },
   "BP156": {
@@ -4646,7 +4646,7 @@
       "rule": "Three spatially separated clusters vs. two spatially separated clusters."
     },
     "derived": {
-      "rule": "The variation in shapes and numbers leaves spatial separation as the consistent distinction."
+      "rule": "Temporary: The variation in shapes and numbers leaves spatial separation as the consistent distinction."
     }
   },
   "BP157": {
@@ -4664,7 +4664,7 @@
       "rule": "White background vs. black background."
     },
     "derived": {
-      "rule": "The background alone decides every panel."
+      "rule": "Temporary: The background alone decides every panel."
     }
   },
   "BP158": {
@@ -4682,7 +4682,7 @@
       "rule": "Some slope vs. another slope."
     },
     "derived": {
-      "rule": "The steeper strokes are on the left. Thickness and length vary independently."
+      "rule": "Temporary: The steeper strokes are on the left. Thickness and length vary independently."
     }
   },
   "BP159": {
@@ -4700,7 +4700,7 @@
       "rule": "Two clusters of 2+3, middle shape must be seen as rectangle (AND only one linelike shape) vs. two clusters of 2+3, middle shape must be seen as piece of straight line (AND more than one linelike shape)."
     },
     "derived": {
-      "rule": "Rectangle versus triangle suffices on Foundalis. OEBP R5 illustrates the 2+3 grouping by enclosing two strokes in one oval and three in another."
+      "rule": "Temporary: Rectangle versus triangle suffices on Foundalis. OEBP R5 illustrates the 2+3 grouping by enclosing two strokes in one oval and three in another."
     },
     "flag_reason": "Foundalis L1–L6 each show one rectangle and R1–R6 each show one triangle, as described in the dissertation. The grouping rule on Foundalis’s website fits the different OEBP sheet. In OEBP R5 one oval encloses two strokes and the other encloses three."
   },
@@ -4719,7 +4719,7 @@
       "rule": "Quadrilateral that is nearly a triangle vs. typical quadrilateral."
     },
     "derived": {
-      "rule": "Perceived triangle versus perceived quadrilateral captures the visual distinction better than counting the literal vertices."
+      "rule": "Temporary: Perceived triangle versus perceived quadrilateral captures the visual distinction better than counting the literal vertices."
     }
   },
   "BP161": {
@@ -4737,7 +4737,7 @@
       "rule": "Midpoints are collinear vs. midpoints are not collinear."
     },
     "derived": {
-      "rule": "Segment parallelism alone fails in R4, whose three segments are approximately parallel."
+      "rule": "Temporary: Segment parallelism alone fails in R4, whose three segments are approximately parallel."
     }
   },
   "BP162": {
@@ -4757,7 +4757,7 @@
       "difficulty": "hard"
     },
     "derived": {
-      "rule": "Look for a single point toward which the alternating edges aim."
+      "rule": "Temporary: Look for a single point toward which the alternating edges aim."
     }
   },
   "BP163": {
@@ -4775,7 +4775,7 @@
       "rule": "Line connecting small shapes does not intersect large one vs. line connecting small shapes intersects large one."
     },
     "derived": {
-      "rule": "Imagine a taut string between the centers of the two small shapes."
+      "rule": "Temporary: Imagine a taut string between the centers of the two small shapes."
     }
   },
   "BP164": {
@@ -4793,7 +4793,7 @@
       "rule": "Number of objects is one less than sides of each object vs. number of objects is one more than sides of each object."
     },
     "derived": {
-      "rule": "Compare the number of objects with the number of sides of one object, counting a continuous arc as one boundary piece."
+      "rule": "Temporary: Compare the number of objects with the number of sides of one object, counting a continuous arc as one boundary piece."
     }
   },
   "BP165": {
@@ -4811,7 +4811,7 @@
       "rule": "Line perpendicular to one side of the object vs. line parallel to one side of the object."
     },
     "derived": {
-      "rule": "Match the orientation of the short stroke to one of the straight edges."
+      "rule": "Temporary: Match the orientation of the short stroke to one of the straight edges."
     }
   },
   "BP166": {
@@ -4829,7 +4829,7 @@
       "rule": "Two clusters vs. three clusters."
     },
     "derived": {
-      "rule": "The number of spatial groups is more stable than the number of dots."
+      "rule": "Temporary: The number of spatial groups is more stable than the number of dots."
     }
   },
   "BP167": {
@@ -4847,7 +4847,7 @@
       "rule": "Every cluster has two clusters of dots vs. every cluster has three clusters of dots."
     },
     "derived": {
-      "rule": "Inspect the next scale of grouping inside each cluster."
+      "rule": "Temporary: Inspect the next scale of grouping inside each cluster."
     }
   },
   "BP168": {
@@ -4865,7 +4865,7 @@
       "rule": "Bulky interior, if closed vs. narrow interior, if closed."
     },
     "derived": {
-      "rule": "Compare the local width of the implied interior."
+      "rule": "Temporary: Compare the local width of the implied interior."
     }
   },
   "BP169": {
@@ -4883,7 +4883,7 @@
       "rule": "Two clusters of different numbers of elements vs. two clusters of equal number of elements."
     },
     "derived": {
-      "rule": "Compare the group sizes after grouping by shape, size or arrangement as the panel suggests."
+      "rule": "Temporary: Compare the group sizes after grouping by shape, size or arrangement as the panel suggests."
     }
   },
   "BP170": {
@@ -4901,7 +4901,7 @@
       "rule": "Pi-like shape vs. x-like shape."
     },
     "derived": {
-      "rule": "The overall silhouette is enough to classify the examples."
+      "rule": "Temporary: The overall silhouette is enough to classify the examples."
     }
   },
   "BP171": {
@@ -4919,7 +4919,7 @@
       "rule": "Angle bisectors meet at the incenter vs. perpendicular bisectors meet at the orthocenter."
     },
     "derived": {
-      "rule": "A simpler visible test is whether the three internal segments start at the triangle’s vertices or at the midpoints of its sides."
+      "rule": "Temporary: A simpler visible test is whether the three internal segments start at the triangle’s vertices or at the midpoints of its sides."
     },
     "flag_reason": "The angle bisectors on the left meet at the incenter. In R1–R6 on both sheets, the perpendicular bisectors meet at the circumcenter. Appendix A (p. 410) and both websites call this point the orthocenter, where the altitudes meet."
   },
@@ -4938,7 +4938,7 @@
       "rule": "Rotationally symmetric vs. not."
     },
     "derived": {
-      "rule": "Try a partial turn of the whole figure. Left examples have different orders of symmetry."
+      "rule": "Temporary: Try a partial turn of the whole figure. Left examples have different orders of symmetry."
     }
   },
   "BP173": {
@@ -4956,7 +4956,7 @@
       "rule": "Small variance of slopes vs. large variance of slopes."
     },
     "derived": {
-      "rule": "Compare unoriented line directions. The segments cluster around one orientation on the left and fan out in many orientations on the right."
+      "rule": "Temporary: Compare unoriented line directions. The segments cluster around one orientation on the left and fan out in many orientations on the right."
     },
     "flag_reason": "Both source rules compare the variance of slopes. The vertical segment in L2 has undefined slope, and the slopes vary more in L6 than in R4. The rule should compare the spread of segment orientations, treating directions 180° apart as the same orientation."
   },
@@ -4975,7 +4975,7 @@
       "rule": "Convex central interior vs. concave central interior."
     },
     "derived": {
-      "rule": "Trace only the boundary of the central space."
+      "rule": "Temporary: Trace only the boundary of the central space."
     }
   },
   "BP175": {
@@ -4993,7 +4993,7 @@
       "rule": "Small object can glide in the bay vs. small object cannot glide in the bay."
     },
     "derived": {
-      "rule": "Compare the object’s thickness with the width of the mouth."
+      "rule": "Temporary: Compare the object’s thickness with the width of the mouth."
     }
   },
   "BP176": {
@@ -5011,7 +5011,7 @@
       "rule": "Line that connects dots avoiding obstacles is short vs. line that connects dots avoiding obstacles is long."
     },
     "derived": {
-      "rule": "The left routes go almost directly between the dots, whereas the right routes take a detour."
+      "rule": "Temporary: The left routes go almost directly between the dots, whereas the right routes take a detour."
     }
   },
   "BP177": {
@@ -5029,7 +5029,7 @@
       "rule": "All interiors are convex vs. at least one concave interior."
     },
     "derived": {
-      "rule": "Inspect the bounded cells individually. The silhouette of the entire drawing can be concave on either side."
+      "rule": "Temporary: Inspect the bounded cells individually. The silhouette of the entire drawing can be concave on either side."
     }
   },
   "BP178": {
@@ -5047,7 +5047,7 @@
       "rule": "Center of circle in triangle perpendicular to the other two vs. not so."
     },
     "derived": {
-      "rule": "Use the circle center, even when the circle surrounds all three shapes as in L6."
+      "rule": "Temporary: Use the circle center, even when the circle surrounds all three shapes as in L6."
     }
   },
   "BP179": {
@@ -5065,7 +5065,7 @@
       "rule": "Object thinner at top vs. object thicker at top."
     },
     "derived": {
-      "rule": "Compare upper and lower bulk across the shape."
+      "rule": "Temporary: Compare upper and lower bulk across the shape."
     }
   },
   "BP180": {
@@ -5085,7 +5085,7 @@
       "note": "Rule corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
     },
     "derived": {
-      "rule": "Follow the black portion toward the interface and compare its width."
+      "rule": "Temporary: Follow the black portion toward the interface and compare its width."
     }
   },
   "BP181": {
@@ -5103,7 +5103,7 @@
       "rule": "One concavity vs. two concavities."
     },
     "derived": {
-      "rule": "Count the inward bays of the silhouette."
+      "rule": "Temporary: Count the inward bays of the silhouette."
     }
   },
   "BP182": {
@@ -5121,7 +5121,7 @@
       "rule": "Concave if proximal border points are connected vs. convex if proximal border points are connected."
     },
     "derived": {
-      "rule": "Compare the implied boundaries of the dotted shapes."
+      "rule": "Temporary: Compare the implied boundaries of the dotted shapes."
     }
   },
   "BP183": {
@@ -5140,7 +5140,7 @@
       "note": "Rule restored to Foundalis original."
     },
     "derived": {
-      "rule": "At the middle, the left curves keep bending the same way and the right curves reverse their bend, forming an inflection."
+      "rule": "Temporary: At the middle, the left curves keep bending the same way and the right curves reverse their bend, forming an inflection."
     }
   },
   "BP184": {
@@ -5158,7 +5158,7 @@
       "rule": "Curve is smooth close to the middle vs. curve zigzags close to the middle."
     },
     "derived": {
-      "rule": "Ignore the two ends and look for a zigzag in the connecting stretch."
+      "rule": "Temporary: Ignore the two ends and look for a zigzag in the connecting stretch."
     }
   },
   "BP185": {
@@ -5176,7 +5176,7 @@
       "rule": "Curve with two complex parts vs. curve with three complex parts."
     },
     "derived": {
-      "rule": "Count the locally intricate parts of the long curve."
+      "rule": "Temporary: Count the locally intricate parts of the long curve."
     }
   },
   "BP186": {
@@ -5194,7 +5194,7 @@
       "rule": "Object made of objects vs. object made of objects made of objects."
     },
     "derived": {
-      "rule": "Look for a repeated motif whose parts themselves have visible parts."
+      "rule": "Temporary: Look for a repeated motif whose parts themselves have visible parts."
     },
     "flag_reason": "In R1 the angular figure is made of groups of dots, so it also fits the left description, “object made of objects”. The rule needs to specify exactly one visible level of grouping on the left and two on the right."
   },
@@ -5213,7 +5213,7 @@
       "rule": "Sides of parts are one more than sides of whole vs. sides of parts are one less than sides of whole."
     },
     "derived": {
-      "rule": "Compare the side counts of a single tile and of the outline made by all the tiles."
+      "rule": "Temporary: Compare the side counts of a single tile and of the outline made by all the tiles."
     }
   },
   "BP188": {
@@ -5231,7 +5231,7 @@
       "rule": "Shape of whole different from shape of parts vs. shape of whole same as shape of parts."
     },
     "derived": {
-      "rule": "Compare the local motif with the global shape."
+      "rule": "Temporary: Compare the local motif with the global shape."
     }
   },
   "BP189": {
@@ -5249,7 +5249,7 @@
       "rule": "All clusters are made of objects of the same texture vs. not all clusters are made of objects of the same texture."
     },
     "derived": {
-      "rule": "Check each spatial cluster for a mixture of fill styles."
+      "rule": "Temporary: Check each spatial cluster for a mixture of fill styles."
     }
   },
   "BP190": {
@@ -5267,7 +5267,7 @@
       "rule": "All connected objects have the same texture vs. some connected objects have different textures."
     },
     "derived": {
-      "rule": "Trace each string through ordinary crossings and look for differently filled nodes along one string."
+      "rule": "Temporary: Trace each string through ordinary crossings and look for differently filled nodes along one string."
     }
   },
   "BP191": {
@@ -5285,7 +5285,7 @@
       "rule": "Orifice on the left vs. orifice on the right."
     },
     "derived": {
-      "rule": "Locate the side of the opening."
+      "rule": "Temporary: Locate the side of the opening."
     }
   },
   "BP192": {
@@ -5303,7 +5303,7 @@
       "rule": "Elongated vertically vs. elongated horizontally."
     },
     "derived": {
-      "rule": "Compare the underlying shape’s aspect ratio while ignoring the lips of its opening."
+      "rule": "Temporary: Compare the underlying shape’s aspect ratio while ignoring the lips of its opening."
     }
   },
   "BP193": {
@@ -5321,7 +5321,7 @@
       "rule": "Ghost triangle vs. Ghost rectangle."
     },
     "derived": {
-      "rule": "Perceive the principal white shape; its surrounding marks or corners can vary."
+      "rule": "Temporary: Perceive the principal white shape; its surrounding marks or corners can vary."
     }
   },
   "BP194": {
@@ -5341,7 +5341,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Look at the outer envelope while ignoring the triangular white cutout. The historical wording gives no current source conflict."
+      "rule": "Temporary: Look at the outer envelope while ignoring the triangular white cutout. The historical wording gives no current source conflict."
     }
   },
   "BP195": {
@@ -5362,7 +5362,7 @@
       "note": "Rule corrected from original by specifying that each panel is viewed as a parallel stereo pair. Image corrected from original by extending the vertical divider in each panel to its top and bottom edges."
     },
     "derived": {
-      "rule": "A two-dimensional test works without stereo fusion. The lower copies are closer together than the upper copies on the left and farther apart on the right."
+      "rule": "Temporary: A two-dimensional test works without stereo fusion. The lower copies are closer together than the upper copies on the left and farther apart on the right."
     }
   },
   "BP196": {
@@ -5382,7 +5382,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Average tone alone separates the sheets."
+      "rule": "Temporary: Average tone alone separates the sheets."
     }
   },
   "BP197": {
@@ -5400,7 +5400,7 @@
       "rule": "Some style (font) vs. another style (font)."
     },
     "derived": {
-      "rule": "Compare the same word across the two sides, for example “silk”. Word meaning and letter count cannot account for the split."
+      "rule": "Temporary: Compare the same word across the two sides, for example “silk”. Word meaning and letter count cannot account for the split."
     }
   },
   "BP198": {
@@ -5418,7 +5418,7 @@
       "rule": "Stays in vs. escapes."
     },
     "derived": {
-      "rule": "Inspect the chain endpoints without needing to decide which way time flows."
+      "rule": "Temporary: Inspect the chain endpoints without needing to decide which way time flows."
     }
   },
   "BP199": {
@@ -5436,7 +5436,7 @@
       "rule": "Stays put vs. tumbles."
     },
     "derived": {
-      "rule": "Compare the horizontal position of the balance point with the span of the support."
+      "rule": "Temporary: Compare the horizontal position of the balance point with the span of the support."
     }
   },
   "BP200": {
@@ -5455,7 +5455,7 @@
       "note": "Image corrected from original by extending the vertical divider in each panel to its top and bottom edges."
     },
     "derived": {
-      "rule": "A solver needs to solve each inner problem before comparing the kinds of solutions."
+      "rule": "Temporary: A solver needs to solve each inner problem before comparing the kinds of solutions."
     }
   },
   "BP201": {
@@ -5473,7 +5473,7 @@
       "rule": "Two of the shapes make tiles along their border lines vs. not so."
     },
     "derived": {
-      "rule": "Search for complementary contour sections on two different pieces."
+      "rule": "Temporary: Search for complementary contour sections on two different pieces."
     }
   },
   "BP202": {
@@ -5493,7 +5493,7 @@
       "note": "Image corrected from original by separating the bottom-right rectangle in R4 from the other two."
     },
     "derived": {
-      "rule": "Count the component shapes and check parity."
+      "rule": "Temporary: Count the component shapes and check parity."
     }
   },
   "BP203": {
@@ -5513,7 +5513,7 @@
       "note": "Image corrected from original by drawing each pile in L1, R1, R4, and R5 as a single object, and by adding punctuation marks to L2."
     },
     "derived": {
-      "rule": "The first source needs a counting convention for the piles. The repaired OEBP L2 gives three punctuation marks, or five separate pieces of ink; both numbers are prime."
+      "rule": "Temporary: The first source needs a counting convention for the piles. The repaired OEBP L2 gives three punctuation marks, or five separate pieces of ink; both numbers are prime."
     }
   },
   "BP204": {
@@ -5531,7 +5531,7 @@
       "rule": "Five vs. four."
     },
     "derived": {
-      "rule": "The intended common feature may be five versus four salient elements, but the solver must choose which elements to count separately in each panel."
+      "rule": "Temporary: The intended common feature may be five versus four salient elements, but the solver must choose which elements to count separately in each panel."
     }
   },
   "BP205": {
@@ -5549,7 +5549,7 @@
       "rule": "Two clusters of two elements each vs. not so."
     },
     "derived": {
-      "rule": "Look for two pairs of like elements. The two outer squares of R6 match, but its two inner marks do not."
+      "rule": "Temporary: Look for two pairs of like elements. The two outer squares of R6 match, but its two inner marks do not."
     },
     "flag_reason": "R6 on both sheets shows two squares, one enclosing a cross and the other a dot. Counting by proximity gives two pairs, as the left rule requires. The rule needs to specify what makes two elements a pair. Grouping by appearance pairs the squares and leaves the cross and dot unmatched."
   },
@@ -5570,7 +5570,7 @@
       "note": "Rule corrected from original by specifying that the directions refer to the loose end of the curve."
     },
     "derived": {
-      "rule": "Inspect the tangent at the outer, loosely curled end."
+      "rule": "Temporary: Inspect the tangent at the outer, loosely curled end."
     }
   },
   "BP207": {
@@ -5590,7 +5590,7 @@
       "note": "Rule corrected from original by specifying that the position is that of the loose end of the curve."
     },
     "derived": {
-      "rule": "Locate the loosely curled end of each spiral. The inner endpoint does not obey the same partition."
+      "rule": "Temporary: Locate the loosely curled end of each spiral. The inner endpoint does not obey the same partition."
     }
   },
   "BP208": {
@@ -5608,7 +5608,7 @@
       "rule": "All curves spiral counterclockwise, starting from maximum curvature vs. all curves spiral clockwise, starting from maximum curvature."
     },
     "derived": {
-      "rule": "Starting at the tight curl resolves the reversal possible in BP016."
+      "rule": "Temporary: Starting at the tight curl resolves the reversal possible in BP016."
     }
   },
   "BP209": {
@@ -5626,7 +5626,7 @@
       "rule": "No objects are centered at the center of the box vs. one object is centered at the center of the box."
     },
     "derived": {
-      "rule": "Compare each object center with the panel center."
+      "rule": "Temporary: Compare each object center with the panel center."
     }
   },
   "BP210": {
@@ -5646,7 +5646,7 @@
       "note": "Image corrected from original by separating the bottom oval in R1 from the edge."
     },
     "derived": {
-      "rule": "An incomplete contour at the panel boundary is a direct indication of clipping."
+      "rule": "Temporary: An incomplete contour at the panel boundary is a direct indication of clipping."
     }
   },
   "BP211": {
@@ -5670,7 +5670,7 @@
       }
     },
     "derived": {
-      "rule": "A glance at the dominant colour gives the stated test."
+      "rule": "Temporary: A glance at the dominant colour gives the stated test."
     }
   },
   "BP212": {
@@ -5688,7 +5688,7 @@
       "rule": "No dot is too far apart from another dot vs. at least one dot is far apart from all other dots."
     },
     "derived": {
-      "rule": "On the left, every dot has a nearby neighbour. On the right, at least one dot has a more distant nearest neighbour. In R1 and R2, many dots are spaced that far apart."
+      "rule": "Temporary: On the left, every dot has a nearby neighbour. On the right, at least one dot has a more distant nearest neighbour. In R1 and R2, many dots are spaced that far apart."
     },
     "flag_reason": "Every dot on the left has a nearby neighbour. The right rule suggests an isolated dot, but the dots in R1 and R2 are more widely spaced throughout. Measured center to center on the OEBP sheet, every left dot has a neighbour within 8.3 pixels. Across the six right panels, the largest distance to a nearest neighbour ranges from 12.2 to 13.0 pixels, rounded. A cutoff of 10 pixels separates the panels. In R1 all seven dots exceed it, and in R2 all eighteen do. The rule needs to make clear what counts as far from the nearest neighbour."
   },
@@ -5707,7 +5707,7 @@
       "rule": "The tightest-curved section, out of all sections of curve that make a complete turn (360 degrees), contains an x-crossing point vs. not so."
     },
     "derived": {
-      "rule": "Look for a crossing in the tight curl. A crossing anywhere would also admit R6."
+      "rule": "Temporary: Look for a crossing in the tight curl. A crossing anywhere would also admit R6."
     },
     "flag_reason": "Foundalis places the crossing at the point of greatest curvature. In L3 the strands cross near the base of the small loop and bend more sharply elsewhere. OEBP places the crossing within the tightest complete turn, which fits L3."
   },
@@ -5728,7 +5728,7 @@
       "note": "Image corrected from original by turning the mouth in R2 upside down."
     },
     "derived": {
-      "rule": "A face with two eyes and an upturned mouth is a natural reading of the left drawings."
+      "rule": "Temporary: A face with two eyes and an upturned mouth is a natural reading of the left drawings."
     }
   },
   "BP215": {
@@ -5746,7 +5746,7 @@
       "rule": "Mouth concave upwards vs. Mouth convex upwards."
     },
     "derived": {
-      "rule": "Smiling versus frowning is an ordinary visual description of the orientation."
+      "rule": "Temporary: Smiling versus frowning is an ordinary visual description of the orientation."
     }
   },
   "BP216": {
@@ -5764,7 +5764,7 @@
       "rule": "Ink tip (non-homogeneous line) vs. Marker tip (homogeneous line)."
     },
     "derived": {
-      "rule": "Compare thickness at two points on the same stroke. Identifying the pen is optional."
+      "rule": "Temporary: Compare thickness at two points on the same stroke. Identifying the pen is optional."
     }
   },
   "BP217": {
@@ -5782,7 +5782,7 @@
       "rule": "Totally black lines vs. lines with white specks."
     },
     "derived": {
-      "rule": "Solid versus speckled ink gives an observable test for the broad quality judgment."
+      "rule": "Temporary: Solid versus speckled ink gives an observable test for the broad quality judgment."
     }
   },
   "BP218": {
@@ -5800,7 +5800,7 @@
       "rule": "Something is missing vs. an extra copy of something is added."
     },
     "derived": {
-      "rule": "Look for a gap or a surplus in an otherwise regular pattern."
+      "rule": "Temporary: Look for a gap or a surplus in an otherwise regular pattern."
     }
   },
   "BP219": {
@@ -5818,7 +5818,7 @@
       "rule": "Parallel curves vs. non-parallel curves."
     },
     "derived": {
-      "rule": "Check whether the directions agree across the entire panel."
+      "rule": "Temporary: Check whether the directions agree across the entire panel."
     }
   },
   "BP220": {
@@ -5836,7 +5836,7 @@
       "rule": "One cluster vs. two clusters."
     },
     "derived": {
-      "rule": "Count perceptual clusters, independent of how many marks each contains."
+      "rule": "Temporary: Count perceptual clusters, independent of how many marks each contains."
     }
   },
   "BP221": {
@@ -5854,7 +5854,7 @@
       "rule": "No small square at the end of any curve vs. curve ends at a small square."
     },
     "derived": {
-      "rule": "Checking for a small square at a curve end avoids any need to infer depth."
+      "rule": "Temporary: Checking for a small square at a curve end avoids any need to infer depth."
     }
   },
   "BP222": {
@@ -5872,7 +5872,7 @@
       "rule": "Border of black rectangle is incomplete vs. border of black rectangle is complete."
     },
     "derived": {
-      "rule": "“An intact black rectangular border is visible on the right” classifies the blank panel directly."
+      "rule": "Temporary: “An intact black rectangular border is visible on the right” classifies the blank panel directly."
     },
     "flag_reason": "L4 is blank, so there is no black rectangle whose border can be judged incomplete. The left rule should say that no complete black rectangular border is visible. This also covers the interrupted borders in the other five left panels."
   },
@@ -5891,7 +5891,7 @@
       "rule": "Large black region if completed is a circle vs. large black region if completed is an ellipse."
     },
     "derived": {
-      "rule": "The right disks are slightly wider than they are tall. Compare their outer arcs, disregarding the cutouts."
+      "rule": "Temporary: The right disks are slightly wider than they are tall. Compare their outer arcs, disregarding the cutouts."
     },
     "flag_reason": "Completing the outer boundary of the black region gives a circle in every left panel. Since every circle is an ellipse, L1–L6 also satisfy the published right rule. The completed figures on the right are slightly wider than they are tall. The right rule should specify an ellipse that is not a circle."
   },
@@ -5910,7 +5910,7 @@
       "rule": "Diametrically opposite objects affect similarly the large black circular region vs. not so."
     },
     "derived": {
-      "rule": "Compare what happens on opposite sides of each disk. Exact rotational identity would be too strong for the textured marks in L3."
+      "rule": "Temporary: Compare what happens on opposite sides of each disk. Exact rotational identity would be too strong for the textured marks in L3."
     }
   },
   "BP225": {
@@ -5928,7 +5928,7 @@
       "rule": "Low contrast; alternatively: no fully black region vs. high contrast; alternatively: at least one fully black region."
     },
     "derived": {
-      "rule": "Dark patches and contrast are visible at the scale of the whole panel."
+      "rule": "Temporary: Dark patches and contrast are visible at the scale of the whole panel."
     }
   },
   "BP226": {
@@ -5946,7 +5946,7 @@
       "rule": "What comes out of black circle has a clockwise direction vs. not so."
     },
     "derived": {
-      "rule": "The black disk fixes where to begin tracing, which makes the rotational direction meaningful."
+      "rule": "Temporary: The black disk fixes where to begin tracing, which makes the rotational direction meaningful."
     }
   },
   "BP227": {
@@ -5964,7 +5964,7 @@
       "rule": "Dots touch each other if and only if no large region touches the edges of the box vs. dots dont touch each other if and only if no large region touches the edges of the box."
     },
     "derived": {
-      "rule": "Both features matter: dot contact alone or contact with the frame alone occurs on both sides."
+      "rule": "Temporary: Both features matter: dot contact alone or contact with the frame alone occurs on both sides."
     }
   },
   "BP228": {
@@ -5982,7 +5982,7 @@
       "rule": "After rotating so that the longest line is horizontal, there is a left arm raised and a weight down vs. after rotating so that the longest line is horizontal, there is a left arm down and a weight raised."
     },
     "derived": {
-      "rule": "The drawings compare handedness. Merely telling whether the attachments lie on opposite sides of the bar does not separate the sheets."
+      "rule": "Temporary: The drawings compare handedness. Merely telling whether the attachments lie on opposite sides of the bar does not separate the sheets."
     }
   },
   "BP229": {
@@ -6000,7 +6000,7 @@
       "rule": "When the objects are rotated and their dots are overlapped and eliminated, they form three-square-tall structures with columns of the same color vs. not so."
     },
     "derived": {
-      "rule": "Once the dotted edges face one another, compare each opposing column’s colour and add its two heights. Neither colour nor height suffices alone."
+      "rule": "Temporary: Once the dotted edges face one another, compare each opposing column’s colour and add its two heights. Neither colour nor height suffices alone."
     }
   },
   "BP230": {
@@ -6018,7 +6018,7 @@
       "rule": "The sum of vertices, line ends, and dots is 7 vs. not so."
     },
     "derived": {
-      "rule": "Counting salient points explains all three kinds of mark with one operation."
+      "rule": "Temporary: Counting salient points explains all three kinds of mark with one operation."
     }
   },
   "BP231": {
@@ -6036,7 +6036,7 @@
       "rule": "Five concavities vs. not five concavities."
     },
     "derived": {
-      "rule": "Count dents in the outlines. The number of objects and their fill vary on both sides."
+      "rule": "Temporary: Count dents in the outlines. The number of objects and their fill vary on both sides."
     }
   },
   "BP232": {
@@ -6054,7 +6054,7 @@
       "rule": "Box divided into six areas vs. box divided into four areas."
     },
     "derived": {
-      "rule": "Counting white pieces while treating the black as walls gives the stated rule directly."
+      "rule": "Temporary: Counting white pieces while treating the black as walls gives the stated rule directly."
     }
   },
   "BP233": {
@@ -6072,7 +6072,7 @@
       "rule": "Lines plus triangles equal stars vs. lines minus triangles equal stars."
     },
     "derived": {
-      "rule": "Each panel contains a triangle. Consequently “more stars than lines” on the left and “fewer stars than lines” on the right separates all twelve without counting triangles."
+      "rule": "Temporary: Each panel contains a triangle. Consequently “more stars than lines” on the left and “fewer stars than lines” on the right separates all twelve without counting triangles."
     }
   },
   "BP234": {
@@ -6090,7 +6090,7 @@
       "rule": "Circle falls by gravity on the right of all other objects if let loose vs. circle falls by gravity on the left of all other objects if let loose."
     },
     "derived": {
-      "rule": "Predict the exit direction of the ball. Exact resting positions depend on how the drawn obstacles are treated."
+      "rule": "Temporary: Predict the exit direction of the ball. Exact resting positions depend on how the drawn obstacles are treated."
     }
   },
   "BP235": {
@@ -6108,7 +6108,7 @@
       "rule": "The rope, if extended, reaches the other ball vs. the rope, if extended, does not reach the other ball."
     },
     "derived": {
-      "rule": "Compare available rope length with a path around obstacles. Straight-line distance alone ignores the closed boxes."
+      "rule": "Temporary: Compare available rope length with a path around obstacles. Straight-line distance alone ignores the closed boxes."
     }
   },
   "BP236": {
@@ -6126,7 +6126,7 @@
       "rule": "Texture with stripy squiggle vs. texture with blotchy squiggle."
     },
     "derived": {
-      "rule": "The fine texture distinguishes them without naming the drawing implement."
+      "rule": "Temporary: The fine texture distinguishes them without naming the drawing implement."
     }
   },
   "BP237": {
@@ -6144,7 +6144,7 @@
       "rule": "Upper central line APPEARS shorter than lower central line vs. upper central line APPEARS longer than lower central line."
     },
     "derived": {
-      "rule": "The relation to compare is the apparent central span. Overall drawing width includes the decorative wings."
+      "rule": "Temporary: The relation to compare is the apparent central span. Overall drawing width includes the decorative wings."
     }
   },
   "BP238": {
@@ -6162,7 +6162,7 @@
       "rule": "C-like curves point to the same direction vs. c-like curves point to opposite directions."
     },
     "derived": {
-      "rule": "Locate the opening of each C."
+      "rule": "Temporary: Locate the opening of each C."
     }
   },
   "BP239": {
@@ -6180,7 +6180,7 @@
       "rule": "Straight line parallel to line joining the ends of curve and sliding the straight line suitably can make a closed area vs. straight line perpendicular to line joining the ends of curve."
     },
     "derived": {
-      "rule": "Looking at the segment’s angle to the chord between the curve ends is sufficient."
+      "rule": "Temporary: Looking at the segment’s angle to the chord between the curve ends is sufficient."
     },
     "flag_reason": "Foundalis’s alternative test allows the segment in R1 to slide across the rounded top of the C and enclose a small cap. To exclude R1, the segment must bridge the two original ends of the curve. Foundalis’s primary orientation test fits, as does OEBP’s rule, which retains the orientation condition."
   },
@@ -6199,7 +6199,7 @@
       "rule": "Straight line joining the curve ends does not cut the curve vs. straight line joining the curve ends intersects the curve."
     },
     "derived": {
-      "rule": "Imagine closing the gap with a straight segment and check for an additional contact."
+      "rule": "Temporary: Imagine closing the gap with a straight segment and check for an additional contact."
     }
   },
   "BP241": {
@@ -6217,7 +6217,7 @@
       "rule": "Circumference shorter than length of everything else vs. circumference longer than length of everything else."
     },
     "derived": {
-      "rule": "Comparing circle sizes alone fails because a large circle can enclose a long spiral in L3."
+      "rule": "Temporary: Comparing circle sizes alone fails because a large circle can enclose a long spiral in L3."
     }
   },
   "BP242": {
@@ -6237,7 +6237,7 @@
       "note": "Image corrected from original by removing the bottom-right dot from R4."
     },
     "derived": {
-      "rule": "Ignore the internal connections and imagine stretching a band around the extreme points."
+      "rule": "Temporary: Ignore the internal connections and imagine stretching a band around the extreme points."
     }
   },
   "BP243": {
@@ -6255,7 +6255,7 @@
       "rule": "Triangle closer to box corner than any of the circles vs. not so."
     },
     "derived": {
-      "rule": "Select the symbol closest to any corner. Its shape gives the classification."
+      "rule": "Temporary: Select the symbol closest to any corner. Its shape gives the classification."
     }
   },
   "BP244": {
@@ -6273,7 +6273,7 @@
       "rule": "Scanning left-to-right, top-to-bottom, each filled box is separated from the next filled box by the same number of empty boxes vs. not so."
     },
     "derived": {
-      "rule": "Flatten the grid into reading order and look for a regularly spaced sequence with at least one empty cell between marks."
+      "rule": "Temporary: Flatten the grid into reading order and look for a regularly spaced sequence with at least one empty cell between marks."
     },
     "flag_reason": "R5 on both sheets has five consecutive filled cells in the middle row. All four gaps contain zero empty cells, so they are equal as the left rule requires. Every left example has a positive constant gap. Requiring at least one empty cell between successive filled cells would exclude R5."
   },
@@ -6292,7 +6292,7 @@
       "rule": "Can be completed to be made into a rectangle vs. cannot be completed to be made into a rectangle."
     },
     "derived": {
-      "rule": "Fit all existing strokes onto four sides of the same rectangle."
+      "rule": "Temporary: Fit all existing strokes onto four sides of the same rectangle."
     }
   },
   "BP246": {
@@ -6310,7 +6310,7 @@
       "rule": "Equal numbers of straight lines and continuous curves vs. unequal numbers of straight lines and continuous curves."
     },
     "derived": {
-      "rule": "Compare how many marks are straight and how many are curved, breaking them where their character changes."
+      "rule": "Temporary: Compare how many marks are straight and how many are curved, breaking them where their character changes."
     }
   },
   "BP247": {
@@ -6328,7 +6328,7 @@
       "rule": "Five straight or curved lines vs. not five straight or curved lines."
     },
     "derived": {
-      "rule": "The count combines straight and curved strokes. Counting whole objects would miss the pentagon."
+      "rule": "Temporary: The count combines straight and curved strokes. Counting whole objects would miss the pentagon."
     }
   },
   "BP248": {
@@ -6346,7 +6346,7 @@
       "rule": "Dashed lines inside solid shape make an identical but slightly smaller shape, parallel to the one outside vs. not so."
     },
     "derived": {
-      "rule": "A close-fitting dashed lining gives the visual distinction. Similarity here is perceptual instead of exact scaling."
+      "rule": "Temporary: A close-fitting dashed lining gives the visual distinction. Similarity here is perceptual instead of exact scaling."
     }
   },
   "BP249": {
@@ -6364,7 +6364,7 @@
       "rule": "Dashed lines form the same shape centered inside vs. not so."
     },
     "derived": {
-      "rule": "Ask two questions: is it the same kind of shape, and is it centered? Requiring identical orientation would lose valid panels."
+      "rule": "Temporary: Ask two questions: is it the same kind of shape, and is it centered? Requiring identical orientation would lose valid panels."
     }
   },
   "BP250": {
@@ -6382,7 +6382,7 @@
       "rule": "Tetrahedron projected on the box plane vs. not so."
     },
     "derived": {
-      "rule": "The left drawings look like triangle-based pyramids viewed from different angles. L3 requires a special view."
+      "rule": "Temporary: The left drawings look like triangle-based pyramids viewed from different angles. L3 requires a special view."
     }
   },
   "BP251": {
@@ -6400,7 +6400,7 @@
       "rule": "Tetrahedron projected on the box plane vs. not so."
     },
     "derived": {
-      "rule": "Broad versus narrow triangles distinguishes these two panels but does not explain the other solids."
+      "rule": "Temporary: Broad versus narrow triangles distinguishes these two panels but does not explain the other solids."
     },
     "flag_reason": "Both sources exclude tetrahedron projections on the right, yet L3 and R1 are both triangle outlines. Place three vertices of a tetrahedron at the corners of R1’s thin triangle and the fourth directly above one corner. From above, the two vertices coincide in projection, and the projections of all six edges lie on the triangle’s three sides. The same construction works for L3, so ruling out coincident projected vertices would also exclude that left example."
   },
@@ -6419,7 +6419,7 @@
       "rule": "Impossible solid in 3-D vs. possible solid in 3-D."
     },
     "derived": {
-      "rule": "Trace a face across a junction and test whether its depth assignment stays consistent."
+      "rule": "Temporary: Trace a face across a junction and test whether its depth assignment stays consistent."
     }
   },
   "BP253": {
@@ -6437,7 +6437,7 @@
       "rule": "Prime number vs. composite number."
     },
     "derived": {
-      "rule": "Prime versus composite is concise once R1 is set aside. Shape identity and grouping offer extra cues in some panels."
+      "rule": "Temporary: Prime versus composite is concise once R1 is set aside. Shape identity and grouping offer extra cues in some panels."
     },
     "flag_reason": "R1 contains a single dot. One is neither prime nor composite, and a single dot cannot form several equal-sized groups of at least two objects, as Foundalis’s alternative rule requires. All the left counts are prime, and every other right count is composite."
   },
@@ -6456,7 +6456,7 @@
       "rule": "Circle and two vertices are collinear vs. no two vertices and the circle are collinear."
     },
     "derived": {
-      "rule": "Ask whether the center lies on a segment joining two vertices. This excludes the R3 extension."
+      "rule": "Temporary: Ask whether the center lies on a segment joining two vertices. This excludes the R3 extension."
     },
     "flag_reason": "Both sources exclude collinearity on the right. In R3 the circle’s center and the two central vertices of the chevron lie on one vertical line, with the center beyond both vertices. Requiring the center to lie on the segment between the vertices would exclude R3."
   },
@@ -6475,7 +6475,7 @@
       "rule": "Three pairs of parallel and non-collinear pieces of straight lines, each pair with a different slope vs. not so."
     },
     "derived": {
-      "rule": "Pair strokes by orientation, then check that neither pair lies on a single supporting line."
+      "rule": "Temporary: Pair strokes by orientation, then check that neither pair lies on a single supporting line."
     }
   },
   "BP256": {
@@ -6493,7 +6493,7 @@
       "rule": "Each large circle closer to a small circle than a large one, and each small circle closer to a large one than a small one vs. not so."
     },
     "derived": {
-      "rule": "Colour each circle by size and inspect its nearest neighbour. Center distances give a consistent convention in the near-tie."
+      "rule": "Temporary: Colour each circle by size and inspect its nearest neighbour. Center distances give a consistent convention in the near-tie."
     }
   },
   "BP257": {
@@ -6511,7 +6511,7 @@
       "rule": "The distance from the center of the line to the bottom of the square is the same as the distance from the dot to the right edge of the square vs. not so."
     },
     "derived": {
-      "rule": "Imagine turning one measured margin through a right angle and comparing the lengths."
+      "rule": "Temporary: Imagine turning one measured margin through a right angle and comparing the lengths."
     }
   },
   "BP258": {
@@ -6529,7 +6529,7 @@
       "rule": "Objects identical after mirroring horizontally vs. objects identical after mirroring vertically."
     },
     "derived": {
-      "rule": "Compare mirror orientation of the shape outlines. Displacement of the pair gives no intrinsic reflection direction for the two circles."
+      "rule": "Temporary: Compare mirror orientation of the shape outlines. Displacement of the pair gives no intrinsic reflection direction for the two circles."
     },
     "flag_reason": "In L1 the two equal circles fit both sources’ descriptions for both sides if a shape may be translated after reflection. Reflecting a circle about either a horizontal or a vertical diameter preserves its shape. The other outlines show an orientation that the circles lack."
   },
@@ -6548,7 +6548,7 @@
       "rule": "Two identical overlapping objects of which the top is rotated slightly clockwise vs. not so."
     },
     "derived": {
-      "rule": "The overlap cue identifies which copy is in front. Relative rotation alone would also admit disjoint copies."
+      "rule": "Temporary: The overlap cue identifies which copy is in front. Relative rotation alone would also admit disjoint copies."
     }
   },
   "BP260": {
@@ -6566,7 +6566,7 @@
       "rule": "Squares are either all empty or all contain something vs. not so."
     },
     "derived": {
-      "rule": "Check whether an empty square and an occupied square occur together."
+      "rule": "Temporary: Check whether an empty square and an occupied square occur together."
     }
   },
   "BP261": {
@@ -6584,7 +6584,7 @@
       "rule": "Straight lines that join filled and outlined circles intersect vs. straight lines that join filled and outlined circles do not intersect."
     },
     "derived": {
-      "rule": "Join the two black centers to each other and the two white centers to each other, then test those segments for a crossing. Ignore the squares."
+      "rule": "Temporary: Join the two black centers to each other and the two white centers to each other, then test those segments for a crossing. Ignore the squares."
     },
     "flag_reason": "The rules need to specify which circles to pair and where the segments end. In L1 the two filled centers form one diagonal of a rectangle and the two outlined centers form the other. Pairing each filled circle with an outlined one gives opposite sides of the rectangle. In R3 the vertical segment ends at the center of the upper filled circle. Extending it upward would make it cross the segment between the outlined centers inside the panel."
   },
@@ -6603,7 +6603,7 @@
       "rule": "Exactly one point where lines bend at an angle vs. not exactly one point where lines bend at an angle."
     },
     "derived": {
-      "rule": "Count corners where two pieces meet. Smooth bends along one piece do not count."
+      "rule": "Temporary: Count corners where two pieces meet. Smooth bends along one piece do not count."
     }
   },
   "BP263": {
@@ -6621,7 +6621,7 @@
       "rule": "At least one ending edge is straight vs. all ending edges are curved."
     },
     "derived": {
-      "rule": "Inspect only the edges incident to the two endpoints."
+      "rule": "Temporary: Inspect only the edges incident to the two endpoints."
     }
   },
   "BP264": {
@@ -6639,7 +6639,7 @@
       "rule": "Closed area vs. no closed area."
     },
     "derived": {
-      "rule": "Look for a hole in the ink."
+      "rule": "Temporary: Look for a hole in the ink."
     }
   },
   "BP265": {
@@ -6657,7 +6657,7 @@
       "rule": "Axis of symmetry vs. no axis of symmetry."
     },
     "derived": {
-      "rule": "Mirror the glyph across a candidate axis."
+      "rule": "Temporary: Mirror the glyph across a candidate axis."
     }
   },
   "BP266": {
@@ -6675,7 +6675,7 @@
       "rule": "At least one touch or cross point vs. no touch or cross point."
     },
     "derived": {
-      "rule": "Look for a branch point in the stroke skeleton. Counting ordinary corner contacts as joins would admit R4."
+      "rule": "Temporary: Look for a branch point in the stroke skeleton. Counting ordinary corner contacts as joins would admit R4."
     }
   },
   "BP267": {
@@ -6693,7 +6693,7 @@
       "rule": "Odd number of straight line segments vs. even number of straight line segments."
     },
     "derived": {
-      "rule": "Use maximal straight strokes, passing through an intersection without splitting the stroke there."
+      "rule": "Temporary: Use maximal straight strokes, passing through an intersection without splitting the stroke there."
     }
   },
   "BP268": {
@@ -6711,7 +6711,7 @@
       "rule": "Convex hull elongated vertically vs. convex hull elongated horizontally."
     },
     "derived": {
-      "rule": "Compare height and width directly. Constructing a hull is unnecessary."
+      "rule": "Temporary: Compare height and width directly. Constructing a hull is unnecessary."
     }
   },
   "BP269": {
@@ -6729,7 +6729,7 @@
       "rule": "Center of symmetry vs. no center of symmetry."
     },
     "derived": {
-      "rule": "Turn the letter upside down and see whether its shape is preserved."
+      "rule": "Temporary: Turn the letter upside down and see whether its shape is preserved."
     }
   },
   "BP270": {
@@ -6747,7 +6747,7 @@
       "rule": "Only vertical or horizontal lines vs. neither vertical nor horizontal lines."
     },
     "derived": {
-      "rule": "Look for curves and slanted strokes."
+      "rule": "Temporary: Look for curves and slanted strokes."
     }
   },
   "BP271": {
@@ -6765,7 +6765,7 @@
       "rule": "Can be hand-written without raising the pen vs. cannot be hand-written without raising the pen."
     },
     "derived": {
-      "rule": "Test for a single traversal of each stroke. Retracing makes the written criterion too permissive."
+      "rule": "Temporary: Test for a single traversal of each stroke. Retracing makes the written criterion too permissive."
     },
     "flag_reason": "Both sources omit a restriction on retracing. The T in R5 can be drawn without lifting the pen by tracing the crossbar, retracing it partway to the junction, and drawing the stem. The accent over the O in R4 is a separate component and does require a pen lift."
   },
@@ -6786,7 +6786,7 @@
       "note": "Rule corrected from original by specifying that stroke thickness is ignored."
     },
     "derived": {
-      "rule": "Imagine thin pen strokes before stretching a band around their extremities."
+      "rule": "Temporary: Imagine thin pen strokes before stretching a band around their extremities."
     }
   },
   "BP273": {
@@ -6804,7 +6804,7 @@
       "rule": "Stays put (both when placed on its top and bottom) vs. tumbles (when placed on its bottom)."
     },
     "derived": {
-      "rule": "Picture balancing a uniform cutout on a horizontal surface. Raster flats at the bottoms of curves need to be idealized away."
+      "rule": "Temporary: Picture balancing a uniform cutout on a horizontal surface. Raster flats at the bottoms of curves need to be idealized away."
     }
   },
   "BP274": {
@@ -6822,7 +6822,7 @@
       "rule": "Notch from above (holds poured water) vs. no notch from above (does not hold poured water)."
     },
     "derived": {
-      "rule": "Follow a drop vertically from above and see whether a basin can retain it."
+      "rule": "Temporary: Follow a drop vertically from above and see whether a basin can retain it."
     }
   },
   "BP275": {
@@ -6840,7 +6840,7 @@
       "rule": "Straight line joining the ends does not intersect the object vs. straight line joining the ends intersects the object."
     },
     "derived": {
-      "rule": "Bridge the two ends with a chord and disregard the contacts at the two endpoints themselves."
+      "rule": "Temporary: Bridge the two ends with a chord and disregard the contacts at the two endpoints themselves."
     }
   },
   "BP276": {
@@ -6858,7 +6858,7 @@
       "rule": "At least one endpoint vs. no endpoints."
     },
     "derived": {
-      "rule": "Tracing the strokes to their ends works even for letters with loops."
+      "rule": "Temporary: Tracing the strokes to their ends works even for letters with loops."
     }
   },
   "BP277": {
@@ -6876,7 +6876,7 @@
       "rule": "One object vs. two or more objects."
     },
     "derived": {
-      "rule": "Connected ink gives an easier test than deciding what counts as one written character."
+      "rule": "Temporary: Connected ink gives an easier test than deciding what counts as one written character."
     }
   },
   "BP278": {
@@ -6894,7 +6894,7 @@
       "rule": "Shorter on the left, taller on the right vs. taller on the left, shorter on the right."
     },
     "derived": {
-      "rule": "Comparing the vertical spans accounts for every pair."
+      "rule": "Temporary: Comparing the vertical spans accounts for every pair."
     }
   },
   "BP279": {
@@ -6912,7 +6912,7 @@
       "rule": "The left part has more pixels (area) than the right part vs. the left part has fewer pixels than the right part."
     },
     "derived": {
-      "rule": "Total ink explains examples for which height or width alone would be misleading."
+      "rule": "Temporary: Total ink explains examples for which height or width alone would be misleading."
     }
   },
   "BP280": {
@@ -6930,7 +6930,7 @@
       "rule": "The left part is wider than the right part vs. the left part is narrower than the right part."
     },
     "derived": {
-      "rule": "The horizontal span gives the distinction directly."
+      "rule": "Temporary: The horizontal span gives the distinction directly."
     }
   },
   "BP281": {
@@ -6948,7 +6948,7 @@
       "rule": "Equal number of horizontal and vertical lines vs. unequal number of horizontal and vertical lines."
     },
     "derived": {
-      "rule": "Comparing the two line counts accounts for the incomplete grids."
+      "rule": "Temporary: Comparing the two line counts accounts for the incomplete grids."
     }
   },
   "BP282": {
@@ -6966,7 +6966,7 @@
       "rule": "Shape of black region has as many sides as overall object vs. shape of black region has different number of sides than overall object."
     },
     "derived": {
-      "rule": "Counting sides or comparing polygon types works without requiring proportional shapes."
+      "rule": "Temporary: Counting sides or comparing polygon types works without requiring proportional shapes."
     }
   },
   "BP283": {
@@ -6984,7 +6984,7 @@
       "rule": "Rectangle left after tiling all black shapes into empty square vs. triangle left after tiling all black shapes into empty square."
     },
     "derived": {
-      "rule": "The shape of the space left over accounts for the square, arrow and triangle pieces across the sheet."
+      "rule": "Temporary: The shape of the space left over accounts for the square, arrow and triangle pieces across the sheet."
     }
   },
   "BP284": {
@@ -7006,7 +7006,7 @@
       }
     },
     "derived": {
-      "rule": "Comparing areas works for diagonal cuts and the central diamond as well as for straight halves."
+      "rule": "Temporary: Comparing areas works for diagonal cuts and the central diamond as well as for straight halves."
     }
   },
   "BP285": {
@@ -7024,7 +7024,7 @@
       "rule": "The centers (barycenters) of the objects are collinear vs. the centers (barycenters) of the objects are not collinear."
     },
     "derived": {
-      "rule": "Replacing each object with its center makes the distinction visible."
+      "rule": "Temporary: Replacing each object with its center makes the distinction visible."
     }
   },
   "BP286": {
@@ -7042,7 +7042,7 @@
       "rule": "Decreasing in size from top to bottom vs. increasing in size from top to bottom."
     },
     "derived": {
-      "rule": "Reading the progression by size groups accounts for horizontally staggered objects."
+      "rule": "Temporary: Reading the progression by size groups accounts for horizontally staggered objects."
     }
   },
   "BP287": {
@@ -7060,7 +7060,7 @@
       "rule": "Rays emanating from a central point vs. not so."
     },
     "derived": {
-      "rule": "The fan of outward-pointing triangles is easier to see than the construction with extended altitudes."
+      "rule": "Temporary: The fan of outward-pointing triangles is easier to see than the construction with extended altitudes."
     }
   },
   "BP288": {
@@ -7078,7 +7078,7 @@
       "rule": "The sum of the ratios of the filled areas is 1 vs. the sum of the ratios of the filled areas is other than 1."
     },
     "derived": {
-      "rule": "Fractions within individual shapes explain examples in which the shapes have different sizes."
+      "rule": "Temporary: Fractions within individual shapes explain examples in which the shapes have different sizes."
     }
   },
   "BP289": {
@@ -7096,7 +7096,7 @@
       "rule": "Shapes, if tiled up properly, form a square vs. shapes cannot form a square no matter how they are tiled."
     },
     "derived": {
-      "rule": "The square-packing interpretation accounts for the changing number of pieces."
+      "rule": "Temporary: The square-packing interpretation accounts for the changing number of pieces."
     }
   },
   "BP290": {
@@ -7114,7 +7114,7 @@
       "rule": "If any non-nosed faces exist, they are happy if and only if happy nosed faces exist as well vs. not so."
     },
     "derived": {
-      "rule": "Every left panel has a happy face with a nose. No right panel has one, including the happy noseless face in R6."
+      "rule": "Temporary: Every left panel has a happy face with a nose. No right panel has one, including the happy noseless face in R6."
     },
     "flag_reason": "Five right panels satisfy the conditional stated by both sources. R1, R4, and R5 have no noseless faces, so the outer conditional is vacuously true. In R2 and R3 the noseless faces are sad and there are no happy faces with noses, so both sides of the biconditional are false and the biconditional is true. Only R6 fails the conditional."
   },
@@ -7133,7 +7133,7 @@
       "rule": "The shapes in the large square never appear outside of it vs. at least one shape in the large square appears outside of it."
     },
     "derived": {
-      "rule": "Comparing the two sets of shape types works regardless of how often a type appears."
+      "rule": "Temporary: Comparing the two sets of shape types works regardless of how often a type appears."
     }
   },
   "BP292": {
@@ -7151,7 +7151,7 @@
       "rule": "Angle made by shapes with vertex at square is not acute vs. angle made by shapes with vertex at square is acute."
     },
     "derived": {
-      "rule": "The angle at the square remains the natural feature. L4 falls close to the dividing angle on its acute side."
+      "rule": "Temporary: The angle at the square remains the natural feature. L4 falls close to the dividing angle on its acute side."
     },
     "flag_reason": "Both sources require a nonacute angle on the left. In L4 the rays from the center of the square to the centers of the two triangles form an angle of about 83°, which is acute."
   },
@@ -7170,7 +7170,7 @@
       "rule": "Square divided into four areas of the same size and shape vs. not so."
     },
     "derived": {
-      "rule": "Checking whether the four pieces could be superimposed captures both size and shape."
+      "rule": "Temporary: Checking whether the four pieces could be superimposed captures both size and shape."
     }
   },
   "BP294": {
@@ -7188,7 +7188,7 @@
       "rule": "The two points are reachable through a path vs. the two points are unreachable by any path."
     },
     "derived": {
-      "rule": "Following the passages is enough, independent of the direct distance between the dots."
+      "rule": "Temporary: Following the passages is enough, independent of the direct distance between the dots."
     }
   },
   "BP295": {
@@ -7206,7 +7206,7 @@
       "rule": "Line joins large and small square vs. line joins the two middle-sized squares."
     },
     "derived": {
-      "rule": "It suffices to compare the sizes at the ends of the line."
+      "rule": "Temporary: It suffices to compare the sizes at the ends of the line."
     }
   },
   "BP296": {
@@ -7224,7 +7224,7 @@
       "rule": "All three sizes are present vs. only two of the three sizes present."
     },
     "derived": {
-      "rule": "The number of sizes works even when a size is represented several times."
+      "rule": "Temporary: The number of sizes works even when a size is represented several times."
     }
   },
   "BP297": {
@@ -7242,7 +7242,7 @@
       "rule": "Ghost shape is square vs. Ghost shape is rectangular."
     },
     "derived": {
-      "rule": "Square versus nonsquare rectangle expresses the visible distinction."
+      "rule": "Temporary: Square versus nonsquare rectangle expresses the visible distinction."
     },
     "flag_reason": "In L1–L6 the implied shape is a square, so it also satisfies the published right rule. The right rule should specify a rectangle that is not a square."
   },
@@ -7261,7 +7261,7 @@
       "rule": "One of the two small squares is near the lower-right corner vs. one of the two small squares is near the upper-right corner."
     },
     "derived": {
-      "rule": "Locate the small square by a right-hand corner. The large squares, triangles and bars serve as distractors."
+      "rule": "Temporary: Locate the small square by a right-hand corner. The large squares, triangles and bars serve as distractors."
     }
   },
   "BP299": {
@@ -7279,7 +7279,7 @@
       "rule": "Lines if slightly extended make up a regular polygon vs. lines if slightly extended cannot make up a regular polygon."
     },
     "derived": {
-      "rule": "Imagining the completed polygon works across several different numbers of sides."
+      "rule": "Temporary: Imagining the completed polygon works across several different numbers of sides."
     }
   },
   "BP300": {
@@ -7297,7 +7297,7 @@
       "rule": "Acceleration and deceleration vs. constant speed."
     },
     "derived": {
-      "rule": "Pace distinguishes the sides. A still frame or the identity of the moving symbol does not."
+      "rule": "Temporary: Pace distinguishes the sides. A still frame or the identity of the moving symbol does not."
     }
   },
   "BP301": {
@@ -7317,7 +7317,7 @@
       "note": "Image corrected from original by adding partially hidden squares to L5 and R5."
     },
     "derived": {
-      "rule": "Compare the smaller square’s size relative to the large square, allowing for partial occlusion."
+      "rule": "Temporary: Compare the smaller square’s size relative to the large square, allowing for partial occlusion."
     }
   },
   "BP302": {
@@ -7335,7 +7335,7 @@
       "rule": "5 collinear objects, of which the 3rd is moved elsewhere vs. 5 collinear objects, of which the 2nd/4th is moved elsewhere."
     },
     "derived": {
-      "rule": "The doubled gap lies between two pairs on the left and beside a run of three on the right."
+      "rule": "Temporary: The doubled gap lies between two pairs on the left and beside a run of three on the right."
     }
   },
   "BP303": {
@@ -7353,7 +7353,7 @@
       "rule": "Three objects are identical, the fourth differs vs. not so."
     },
     "derived": {
-      "rule": "Three of a kind plus one odd object explains the panels directly."
+      "rule": "Temporary: Three of a kind plus one odd object explains the panels directly."
     }
   },
   "BP304": {
@@ -7371,7 +7371,7 @@
       "rule": "At least one (interior or exterior) right angle vs. no right angle (either interior or exterior)."
     },
     "derived": {
-      "rule": "A single square corner anywhere on the contour distinguishes the sides."
+      "rule": "Temporary: A single square corner anywhere on the contour distinguishes the sides."
     }
   },
   "BP305": {
@@ -7389,7 +7389,7 @@
       "rule": "Shapes identical after rotation vs. shapes identical after rotation and mirroring."
     },
     "derived": {
-      "rule": "Checking handedness accounts for the examples even when their orientations differ."
+      "rule": "Temporary: Checking handedness accounts for the examples even when their orientations differ."
     }
   },
   "BP306": {
@@ -7407,7 +7407,7 @@
       "rule": "Ratio of inside to outside identical shapes is constant vs. not so."
     },
     "derived": {
-      "rule": "Comparing the proportions of shapes inside and outside is equivalent and avoids choosing a particular shape type."
+      "rule": "Temporary: Comparing the proportions of shapes inside and outside is equivalent and avoids choosing a particular shape type."
     }
   },
   "BP307": {
@@ -7425,7 +7425,7 @@
       "rule": "Dots are in tight clusters around convex vertices vs. dots are spread around."
     },
     "derived": {
-      "rule": "Hiding the polygon still leaves the clustered-versus-diffuse cue. Foundalis also records this simpler reading."
+      "rule": "Temporary: Hiding the polygon still leaves the clustered-versus-diffuse cue. Foundalis also records this simpler reading."
     }
   },
   "BP308": {
@@ -7443,7 +7443,7 @@
       "rule": "Three or more small clusters of dots vs. not so."
     },
     "derived": {
-      "rule": "Spatial clustering alone carries this sheet; it also explains the dots in BP307."
+      "rule": "Temporary: Spatial clustering alone carries this sheet; it also explains the dots in BP307."
     }
   },
   "BP309": {
@@ -7461,7 +7461,7 @@
       "rule": "Ball touches curve at a point of local minimum downwards vs. ball touches curve at a point of local maximum upwards."
     },
     "derived": {
-      "rule": "A ball resting in a hollow versus touching the underside of a hump describes the same local feature."
+      "rule": "Temporary: A ball resting in a hollow versus touching the underside of a hump describes the same local feature."
     }
   },
   "BP310": {
@@ -7479,7 +7479,7 @@
       "rule": "Enclosed square repelled by the outside squares, closest to the side of the enclosing square thats farthest from the common center of the outside squares. vs. enclosed square attracted by the outside squares, closest to the side of the enclosing square thats closest to the common center of the outside squares.."
     },
     "derived": {
-      "rule": "The inside square lies toward or away from the outside group; the centroid version resolves diagonally placed groups."
+      "rule": "Temporary: The inside square lies toward or away from the outside group; the centroid version resolves diagonally placed groups."
     }
   },
   "BP311": {
@@ -7497,7 +7497,7 @@
       "rule": "Number of sides minus number of pluses = 3 vs. number of sides minus number of pluses = 4."
     },
     "derived": {
-      "rule": "The same difference handles every polygon without separate rules for triangles and quadrilaterals."
+      "rule": "Temporary: The same difference handles every polygon without separate rules for triangles and quadrilaterals."
     }
   },
   "BP312": {
@@ -7515,7 +7515,7 @@
       "rule": "Lines intersect within the box vs. lines intersect out of the box."
     },
     "derived": {
-      "rule": "Extrapolating the two directions gives the distinction directly."
+      "rule": "Temporary: Extrapolating the two directions gives the distinction directly."
     }
   },
   "BP313": {
@@ -7535,7 +7535,7 @@
       "note": "Rule corrected from original by specifying that each curve is traced from the loose end."
     },
     "derived": {
-      "rule": "Use the long free tail as the start and distinguish curls that close a loop from ones that stop short."
+      "rule": "Temporary: Use the long free tail as the start and distinguish curls that close a loop from ones that stop short."
     }
   },
   "BP314": {
@@ -7553,7 +7553,7 @@
       "rule": "Long distance between the marked locations vs. short distance between the marked locations."
     },
     "derived": {
-      "rule": "Route length separates the sides even when the markers appear close in ordinary distance."
+      "rule": "Temporary: Route length separates the sides even when the markers appear close in ordinary distance."
     }
   },
   "BP315": {
@@ -7571,7 +7571,7 @@
       "rule": "One area unreachable by the marked locations vs. all areas reachable by the marked locations."
     },
     "derived": {
-      "rule": "Looking for an isolated pocket avoids measuring any route lengths."
+      "rule": "Temporary: Looking for an isolated pocket avoids measuring any route lengths."
     }
   },
   "BP316": {
@@ -7589,7 +7589,7 @@
       "rule": "At least one path is a cycle vs. no path is a cycle."
     },
     "derived": {
-      "rule": "The possibility of going around a loop, instead of merely turning back, distinguishes these mazes."
+      "rule": "Temporary: The possibility of going around a loop, instead of merely turning back, distinguishes these mazes."
     }
   },
   "BP317": {
@@ -7607,7 +7607,7 @@
       "rule": "Number of enclosed black circles varies in correlation with enclosing circle outline size vs. not so."
     },
     "derived": {
-      "rule": "A larger circle gets more dots and equal circles get equal counts on the left. The right examples violate this correspondence."
+      "rule": "Temporary: A larger circle gets more dots and equal circles get equal counts on the left. The right examples violate this correspondence."
     },
     "flag_reason": "Foundalis requires direct proportionality. In L5 the circles enclosing one, two, and three dots measure about 19, 36, and 49 pixels across. Neither their diameters nor their areas are in the ratio 1 to 2 to 3. OEBP’s correlation rule fits if larger circles enclose more dots and equal circles enclose equal counts. L1, L4, and L6 show no variation in size or count within the panel."
   },
@@ -7626,7 +7626,7 @@
       "rule": "The numbers of dots can be put into a sequence of consecutive numbers vs. not so."
     },
     "derived": {
-      "rule": "Sorting the counts avoids imposing a reading direction on the arrangement of clusters."
+      "rule": "Temporary: Sorting the counts avoids imposing a reading direction on the arrangement of clusters."
     }
   },
   "BP319": {
@@ -7644,7 +7644,7 @@
       "rule": "The number of dots in one cluster is a multiple of the other vs. not so."
     },
     "derived": {
-      "rule": "Divisibility accounts for both small and large clusters without a size threshold."
+      "rule": "Temporary: Divisibility accounts for both small and large clusters without a size threshold."
     }
   },
   "BP320": {
@@ -7662,7 +7662,7 @@
       "rule": "The numbers of dots in the two clusters are approximately equal (log scale) vs. the numbers of dots in the two clusters differ a lot."
     },
     "derived": {
-      "rule": "Relative imbalance explains R1 where the absolute difference is just one dot."
+      "rule": "Temporary: Relative imbalance explains R1 where the absolute difference is just one dot."
     }
   },
   "BP321": {
@@ -7680,7 +7680,7 @@
       "rule": "Small round object unreachable from the border of the box vs. small round object reachable from the border of the box."
     },
     "derived": {
-      "rule": "A closed white barrier around the marked object characterizes the left; tracing a black route is another way to test it."
+      "rule": "Temporary: A closed white barrier around the marked object characterizes the left; tracing a black route is another way to test it."
     }
   },
   "BP322": {
@@ -7698,7 +7698,7 @@
       "rule": "One outer outline vs. more than one outer outline."
     },
     "derived": {
-      "rule": "Count only figures exposed to the outside. An enclosing loop hides its interior figures from this count."
+      "rule": "Temporary: Count only figures exposed to the outside. An enclosing loop hides its interior figures from this count."
     }
   },
   "BP323": {
@@ -7716,7 +7716,7 @@
       "rule": "Jigsaw puzzle pieces can be assembled into a square vs. jigsaw puzzle pieces cannot be assembled into a square."
     },
     "derived": {
-      "rule": "A square outer boundary plus matching internal tabs accounts for the varied orientations and piece counts."
+      "rule": "Temporary: A square outer boundary plus matching internal tabs accounts for the varied orientations and piece counts."
     }
   },
   "BP324": {
@@ -7734,7 +7734,7 @@
       "rule": "Left shapes can be placed on top of each other to make right shape vs. not so."
     },
     "derived": {
-      "rule": "Translation-only superposition explains why R6 belongs on the right."
+      "rule": "Temporary: Translation-only superposition explains why R6 belongs on the right."
     }
   },
   "BP325": {
@@ -7752,7 +7752,7 @@
       "rule": "Left shapes can combine by symmetric difference (XOR logical operator) to make right shape vs. left shapes can combine by intersection (AND logical operator) to make right shape."
     },
     "derived": {
-      "rule": "Require the two input shapes to overlap. Otherwise the empty output in L5 can be obtained with either operation."
+      "rule": "Temporary: Require the two input shapes to overlap. Otherwise the empty output in L5 can be obtained with either operation."
     },
     "flag_reason": "In L5 there is no shape on the right of the panel. The two identical input squares have an empty symmetric difference when they coincide. Both captions refer to a right-hand shape, so the rule needs to allow an empty result and specify how the inputs may be placed. Disjoint squares would also give an empty intersection."
   },
@@ -7771,7 +7771,7 @@
       "rule": "Straight line tangent to circle vs. straight line not tangent to circle."
     },
     "derived": {
-      "rule": "The line’s direction at contact distinguishes tangent from secant even when the interior part is occluded."
+      "rule": "Temporary: The line’s direction at contact distinguishes tangent from secant even when the interior part is occluded."
     }
   },
   "BP327": {
@@ -7789,7 +7789,7 @@
       "rule": "Straight line tangent to curve vs. straight line not tangent to curve."
     },
     "derived": {
-      "rule": "Look locally where the two strokes meet; counting intersection pixels is insufficient."
+      "rule": "Temporary: Look locally where the two strokes meet; counting intersection pixels is insufficient."
     }
   },
   "BP328": {
@@ -7807,7 +7807,7 @@
       "rule": "All sides are equal vs. all angles are equal."
     },
     "derived": {
-      "rule": "Side lengths versus turning angles gives an exclusive distinction for these examples."
+      "rule": "Temporary: Side lengths versus turning angles gives an exclusive distinction for these examples."
     }
   },
   "BP329": {
@@ -7825,7 +7825,7 @@
       "rule": "Regular polygon vs. not regular polygon."
     },
     "derived": {
-      "rule": "A regular polygon explains the sheet without choosing either side lengths or angles alone."
+      "rule": "Temporary: A regular polygon explains the sheet without choosing either side lengths or angles alone."
     }
   },
   "BP330": {
@@ -7843,7 +7843,7 @@
       "rule": "1-D curve vs. 2-D shape."
     },
     "derived": {
-      "rule": "Open traces on the left versus enclosed or filled regions on the right fits the visible marks."
+      "rule": "Temporary: Open traces on the left versus enclosed or filled regions on the right fits the visible marks."
     }
   },
   "BP331": {
@@ -7861,7 +7861,7 @@
       "rule": "Image of something 2-D vs. image of something 3-D."
     },
     "derived": {
-      "rule": "Depth cues distinguish the depicted objects without reasoning about the image’s physical dimensions."
+      "rule": "Temporary: Depth cues distinguish the depicted objects without reasoning about the image’s physical dimensions."
     }
   },
   "BP332": {
@@ -7879,7 +7879,7 @@
       "rule": "Wireframe drawing of solid vs. drawing of opaque solid."
     },
     "derived": {
-      "rule": "Visible hidden edges capture the wireframe/opaque distinction."
+      "rule": "Temporary: Visible hidden edges capture the wireframe/opaque distinction."
     }
   },
   "BP333": {
@@ -7897,7 +7897,7 @@
       "rule": "Drawing of platonic solid (regular polyhedron) vs. drawing of non-platonic solid."
     },
     "derived": {
-      "rule": "Recognizing the five regular solids accounts for the left set despite changes of view."
+      "rule": "Temporary: Recognizing the five regular solids accounts for the left set despite changes of view."
     }
   },
   "BP334": {
@@ -7919,7 +7919,7 @@
       }
     },
     "derived": {
-      "rule": "Parity separates the crowded and sparse configurations alike."
+      "rule": "Temporary: Parity separates the crowded and sparse configurations alike."
     }
   },
   "BP335": {
@@ -7941,7 +7941,7 @@
       }
     },
     "derived": {
-      "rule": "Using identical copies of the single displayed tile is the relevant tiling convention."
+      "rule": "Temporary: Using identical copies of the single displayed tile is the relevant tiling convention."
     }
   },
   "BP336": {
@@ -7959,7 +7959,7 @@
       "rule": "Any one gear turns all vs. no gear turns all."
     },
     "derived": {
-      "rule": "Connectivity alone misses R1; the connected gear train must also be free to turn."
+      "rule": "Temporary: Connectivity alone misses R1; the connected gear train must also be free to turn."
     }
   },
   "BP337": {
@@ -7977,7 +7977,7 @@
       "rule": "Black is below upward slopes vs. black is below downward slopes."
     },
     "derived": {
-      "rule": "Read left to right: black lies below rising segments and above falling ones on the left. Reverse both colors on the right."
+      "rule": "Temporary: Read left to right: black lies below rising segments and above falling ones on the left. Reverse both colors on the right."
     }
   },
   "BP338": {
@@ -7995,7 +7995,7 @@
       "rule": "High approximate similarity vs. lower approximate similarity."
     },
     "derived": {
-      "rule": "Comparing the drawings after translation gives the likely grouping; an absolute numerical cutoff is unspecified."
+      "rule": "Temporary: Comparing the drawings after translation gives the likely grouping; an absolute numerical cutoff is unspecified."
     }
   },
   "BP339": {
@@ -8013,7 +8013,7 @@
       "rule": "Union of left sets is right set vs. intersection of left sets is right set."
     },
     "derived": {
-      "rule": "Treating repeated kinds of marks as set members explains both operations."
+      "rule": "Temporary: Treating repeated kinds of marks as set members explains both operations."
     }
   },
   "BP340": {
@@ -8031,7 +8031,7 @@
       "rule": "Regular star polygon vs. not so."
     },
     "derived": {
-      "rule": "A constant step between successive outer vertices allows a regular star to have several disconnected circuits."
+      "rule": "Temporary: A constant step between successive outer vertices allows a regular star to have several disconnected circuits."
     },
     "flag_reason": "Foundalis requires a continuous trace from outer vertex to outer vertex. L2 consists of two triangles and L4 of two squares. Following whole edges closes one circuit before reaching the other. OEBP’s rule fits if regular star polygons include these compound figures."
   },
@@ -8050,7 +8050,7 @@
       "rule": "Strictly increasing or strictly decreasing border line vs. both increasing and decreasing border line."
     },
     "derived": {
-      "rule": "A border that never reverses vertical direction as one moves right explains the left staircase examples."
+      "rule": "Temporary: A border that never reverses vertical direction as one moves right explains the left staircase examples."
     },
     "flag_reason": "Both sources require a strictly increasing or strictly decreasing border on the left. L5 and L6 have long horizontal runs. As one moves right, the border in L5 is nonincreasing and the border in L6 is nondecreasing. Each is monotone in the weaker sense that it never reverses direction."
   },
@@ -8069,7 +8069,7 @@
       "rule": "Exactly one axis of symmetry vs. either zero or more than one axis of symmetry."
     },
     "derived": {
-      "rule": "Trying all plausible mirror lines distinguishes exactly one from merely having symmetry."
+      "rule": "Temporary: Trying all plausible mirror lines distinguishes exactly one from merely having symmetry."
     }
   },
   "BP343": {
@@ -8087,7 +8087,7 @@
       "rule": "No two shapes are the same vs. at least two shapes are the same."
     },
     "derived": {
-      "rule": "Looking for a repeated figure separates the panels when fill is part of its identity. Looking only for a repeated outer shape puts L1 on the right."
+      "rule": "Temporary: Looking for a repeated figure separates the panels when fill is part of its identity. Looking only for a repeated outer shape puts L1 on the right."
     }
   },
   "BP344": {
@@ -8111,7 +8111,7 @@
       }
     },
     "derived": {
-      "rule": "Forming a parallelogram and making a larger copy of the tile are different tests."
+      "rule": "Temporary: Forming a parallelogram and making a larger copy of the tile are different tests."
     },
     "flag_reason": "Foundalis R3 shows an angular piece. OEBP R3 (EX4120) has a round tab and socket. Two copies of the OEBP piece interlock to form a rectangle, which satisfies Foundalis’s left rule about forming a parallelogram. Smaller copies cannot tile the piece itself, so it belongs on the right under OEBP’s rule."
   },
@@ -8130,7 +8130,7 @@
       "rule": "Intersection of circle and square vs. union of circle and square."
     },
     "derived": {
-      "rule": "Convexity alone misses R1, so the distinction between intersection and union earns its place."
+      "rule": "Temporary: Convexity alone misses R1, so the distinction between intersection and union earns its place."
     }
   },
   "BP346": {
@@ -8148,7 +8148,7 @@
       "rule": "Object on the right fits in pattern on the left vs. object on the right does not fit in pattern on the left."
     },
     "derived": {
-      "rule": "Which properties should be generalized from the models? Shape, fill, and orientation give different answers. In R4, counting four sides accepts the test shape, while requiring oblique sides rejects it."
+      "rule": "Temporary: Which properties should be generalized from the models? Shape, fill, and orientation give different answers. In R4, counting four sides accepts the test shape, while requiring oblique sides rejects it."
     }
   },
   "BP347": {
@@ -8166,7 +8166,7 @@
       "rule": "No pattern (variety of shapes) vs. all shapes have something in common."
     },
     "derived": {
-      "rule": "A repeated salient feature fits better than identity of all the objects."
+      "rule": "Temporary: A repeated salient feature fits better than identity of all the objects."
     }
   },
   "BP348": {
@@ -8184,7 +8184,7 @@
       "rule": "Shape on the right is the convex hull of shape on the left vs. not so."
     },
     "derived": {
-      "rule": "Imagine stretching a rubber band around the first outline."
+      "rule": "Temporary: Imagine stretching a rubber band around the first outline."
     }
   },
   "BP349": {
@@ -8202,7 +8202,7 @@
       "rule": "One object does not belong to the pattern of the rest vs. all objects form one pattern."
     },
     "derived": {
-      "rule": "A panel may have a conspicuous outlier at one level of description while every object belongs to a straightforward broader class."
+      "rule": "Temporary: A panel may have a conspicuous outlier at one level of description while every object belongs to a straightforward broader class."
     },
     "flag_reason": "Only L3 and R3 match exactly. OEBP redraws the other ten panels. For example, the small loop among the triangles in Foundalis L2 becomes a square in OEBP L2. L3 also presents a rule problem on both sheets. The filled and outlined figures all belong to the category of convex polygons, so L3 also fits the right rule."
   },
@@ -8221,7 +8221,7 @@
       "rule": "Some quantity keeps increasing from left to right vs. not so."
     },
     "derived": {
-      "rule": "Compare each item with its predecessor. A larger final item alone also occurs on the right."
+      "rule": "Temporary: Compare each item with its predecessor. A larger final item alone also occurs on the right."
     }
   },
   "BP351": {
@@ -8243,7 +8243,7 @@
       }
     },
     "derived": {
-      "rule": "The filled and unfilled subdivisions in L6 make the distinction visible beside R6's undivided bars."
+      "rule": "Temporary: The filled and unfilled subdivisions in L6 make the distinction visible beside R6's undivided bars."
     }
   },
   "BP352": {
@@ -8265,7 +8265,7 @@
       }
     },
     "derived": {
-      "rule": "The range is inferred by extrapolating the depicted measurement scale. The L2 line shapes also differ."
+      "rule": "Temporary: The range is inferred by extrapolating the depicted measurement scale. The L2 line shapes also differ."
     },
     "flag_reason": "In L2, the six connectors between the dots are straight in Foundalis. OEBP draws them wavy and thinner. The dots have the same positions and fills in both drawings."
   },
@@ -8284,7 +8284,7 @@
       "rule": "Increasing quantity loops back to starting value vs. increasing quantity cannot loop back to starting value."
     },
     "derived": {
-      "rule": "A sequence need only be capable of returning, as Foundalis says. It need not show the return within the supplied frames."
+      "rule": "Temporary: A sequence need only be capable of returning, as Foundalis says. It need not show the return within the supplied frames."
     },
     "flag_reason": "The left sequences can continue periodically. The right sequences track a quantity that changes nonperiodically. In L3, OEBP replaces Foundalis’s rotating open angles with white strokes rotating inside black squares. In R5, it replaces Foundalis’s U-shapes becoming bars with solid quadrilaterals."
   },
@@ -8303,7 +8303,7 @@
       "rule": "Increasing quantity is angular vs. not so."
     },
     "derived": {
-      "rule": "Angular versus nonangular change already separates the examples."
+      "rule": "Temporary: Angular versus nonangular change already separates the examples."
     },
     "flag_reason": "Foundalis requires a quantity that increases without bound on the right. In R4 the white hole grows inside a fixed black oval, which bounds its diameter. OEBP’s description of the change as nonangular fits."
   },
@@ -8322,7 +8322,7 @@
       "rule": "Fractal iteration based on 2-D (shapes) vs. fractal iteration based on 1-D (line segments)."
     },
     "derived": {
-      "rule": "The first stage alone separates every panel: a filled planar motif on the left and thin open strokes on the right."
+      "rule": "Temporary: The first stage alone separates every panel: a filled planar motif on the left and thin open strokes on the right."
     }
   },
   "BP356": {
@@ -8344,7 +8344,7 @@
       }
     },
     "derived": {
-      "rule": "Use the dots as an index; comparing only with the last visible item fails."
+      "rule": "Temporary: Use the dots as an index; comparing only with the last visible item fails."
     }
   },
   "BP357": {
@@ -8362,7 +8362,7 @@
       "rule": "Decelerating change in quantity, left-to-right vs. accelerating change in quantity, left-to-right."
     },
     "derived": {
-      "rule": "Compare successive increments. In the last pair the marker travels around a rectangle's perimeter."
+      "rule": "Temporary: Compare successive increments. In the last pair the marker travels around a rectangle's perimeter."
     }
   },
   "BP358": {
@@ -8380,7 +8380,7 @@
       "rule": "The circles will collide if the arrows are their velocities vs. the circles will not collide if the arrows are their velocities."
     },
     "derived": {
-      "rule": "Crossing paths alone misses the timing condition; the collinear examples also require relative speed."
+      "rule": "Temporary: Crossing paths alone misses the timing condition; the collinear examples also require relative speed."
     }
   },
   "BP359": {
@@ -8398,7 +8398,7 @@
       "rule": "Random arrangement of pixels vs. not so."
     },
     "derived": {
-      "rule": "Visible spatial regularity makes the intended classification possible without claiming a proof of randomness."
+      "rule": "Temporary: Visible spatial regularity makes the intended classification possible without claiming a proof of randomness."
     }
   },
   "BP360": {
@@ -8416,7 +8416,7 @@
       "rule": "Order is high (low entropy) vs. order is low (high entropy)."
     },
     "derived": {
-      "rule": "Orderliness describes the visible difference. A numerical entropy would require specifying a spatial model."
+      "rule": "Temporary: Orderliness describes the visible difference. A numerical entropy would require specifying a spatial model."
     }
   },
   "BP361": {
@@ -8434,7 +8434,7 @@
       "rule": "Analogy makes sense vs. analogy does not make sense."
     },
     "derived": {
-      "rule": "Following the same operation is simpler than inferring a separate category for each analogy."
+      "rule": "Temporary: Following the same operation is simpler than inferring a separate category for each analogy."
     },
     "flag_reason": "In each left analogy the same transformation explains both rows. In each right analogy the second row breaks the pattern of the first. Foundalis L1 and R1 use a three-pronged figure that is absent from their OEBP counterparts. The dot analogies in L3 and L5 are recognizable on both sheets. In R3 the first three cells have the same dot groupings, but the fourth contains twenty dots in Foundalis and five in OEBP. R5 redraws the analogy with black-and-white grids."
   },
@@ -8457,7 +8457,7 @@
       }
     },
     "derived": {
-      "rule": "Check the candidate answers against the transformation in the top row."
+      "rule": "Temporary: Check the candidate answers against the transformation in the top row."
     },
     "flag_reason": "The choices include a suitable completion for each left analogy and omit it on the right. Foundalis L1 uses dots and L2 uses stars. OEBP L1 uses dashed outlines around figures and L2 mixes dots and triangles. In R5 the lower-left cell of the cross analogy contains a wavy figure in Foundalis and a cross in OEBP."
   },
@@ -8478,7 +8478,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Follow the border and see which side the interior stays on."
+      "rule": "Temporary: Follow the border and see which side the interior stays on."
     }
   },
   "BP364": {
@@ -8496,7 +8496,7 @@
       "rule": "Two clearly separable groups vs. not so."
     },
     "derived": {
-      "rule": "Counting the visible groups gives a clearer criterion than asking whether any groups are separable."
+      "rule": "Temporary: Counting the visible groups gives a clearer criterion than asking whether any groups are separable."
     },
     "flag_reason": "Foundalis R2 has eight distinct groups of dots, although his right rule says there are no clearly separable groups. OEBP’s rule asks whether there are exactly two. OEBP redraws L2, R2, L3, and R3. In OEBP R2 the eight groups become a loose field of dots. Foundalis L6 shows a grid of panels forming a miniature problem sheet and R6 is blank. OEBP L6 and R6 show two and three solid polygons, respectively."
   },
@@ -8519,7 +8519,7 @@
       }
     },
     "derived": {
-      "rule": "Counting how many things visibly change differs from counting independent quantities."
+      "rule": "Temporary: Counting how many things visibly change differs from counting independent quantities."
     },
     "flag_reason": "Both rules call the two changing quantities on the left independent. In the L1 grid sequence on both sheets, height is always twice the width minus one. In R1 the black and white counts both change, but their sum stays at six. The number of independent quantities depends on which measurements the solver compares. OEBP replaces the line-and-dot sequences in Foundalis L3 and L4 with bar sequences. It retains all six right-hand sequences."
   },
@@ -8538,7 +8538,7 @@
       "rule": "White dot is at center of mass vs. white dot is not at center of mass."
     },
     "derived": {
-      "rule": "Balance the silhouette at the dot; the middle of its bounding box is insufficient."
+      "rule": "Temporary: Balance the silhouette at the dot; the middle of its bounding box is insufficient."
     }
   },
   "BP367": {
@@ -8556,7 +8556,7 @@
       "rule": "Center of mass within the black area of the shape vs. center of mass out of the black area of the shape."
     },
     "derived": {
-      "rule": "Where a cutout would balance works for concave figures as well as shapes with holes."
+      "rule": "Temporary: Where a cutout would balance works for concave figures as well as shapes with holes."
     }
   },
   "BP368": {
@@ -8574,7 +8574,7 @@
       "rule": "There is a point that can see (in straight lines) all points vs. there is no point that can see (in straight lines) all points."
     },
     "derived": {
-      "rule": "Convexity is unnecessarily strong: the left star and cross have reentrant corners."
+      "rule": "Temporary: Convexity is unnecessarily strong: the left star and cross have reentrant corners."
     }
   },
   "BP369": {
@@ -8592,7 +8592,7 @@
       "rule": "All points (small white circles) on one figure can be glued together to make the other figure vs. not so."
     },
     "derived": {
-      "rule": "Requiring one common junction removes the extra admissible pairing."
+      "rule": "Temporary: Requiring one common junction removes the extra admissible pairing."
     },
     "flag_reason": "Foundalis allows marked points to be glued in pairs. In R3, gluing the four tips of the X in two separate pairs produces the figure eight beside it, so the panel fits Foundalis’s left rule. OEBP requires all marked points to meet at one junction, which excludes R3."
   },
@@ -8611,7 +8611,7 @@
       "rule": "Gluing sides with the same symbols makes a sphere vs. gluing sides with the same symbols makes a torus."
     },
     "derived": {
-      "rule": "The black outline alone is insufficient; the side markings determine the surface."
+      "rule": "Temporary: The black outline alone is insufficient; the side markings determine the surface."
     }
   },
   "BP371": {
@@ -8629,7 +8629,7 @@
       "rule": "Net (folding along edges can make a 3D solid) vs. not a net."
     },
     "derived": {
-      "rule": "Foldability depends on face arrangement and dimensions, not just how many faces are drawn."
+      "rule": "Temporary: Foldability depends on face arrangement and dimensions, not just how many faces are drawn."
     }
   },
   "BP372": {
@@ -8647,7 +8647,7 @@
       "rule": "Shape below fits on the left vs. shape below fits on the right."
     },
     "derived": {
-      "rule": "The position of the matching group gives one common rule across the six miniature classification tasks."
+      "rule": "Temporary: The position of the matching group gives one common rule across the six miniature classification tasks."
     }
   },
   "BP373": {
@@ -8665,7 +8665,7 @@
       "rule": "Intersection (AND) vs. union (OR)."
     },
     "derived": {
-      "rule": "The dot-grid pair L4/R4 shows why both commonality and inclusion must be interpreted in the representation at hand."
+      "rule": "Temporary: The dot-grid pair L4/R4 shows why both commonality and inclusion must be interpreted in the representation at hand."
     }
   },
   "BP374": {
@@ -8685,7 +8685,7 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Simple picture includes the blank. R1 is intricate but follows a repeated rotational motif, so complexity depends on what is being measured."
+      "rule": "Temporary: Simple picture includes the blank. R1 is intricate but follows a repeated rotational motif, so complexity depends on what is being measured."
     },
     "flag_reason": "L1 is blank, so there is no object to call simple. L4 contains three separate dots. Both rules should describe the visual complexity of the whole picture."
   },
@@ -8704,7 +8704,7 @@
       "rule": "Representationally uniform vs. representationally non-uniform."
     },
     "derived": {
-      "rule": "A visually busy drawing still fits the left if its style is uniform, as in L2."
+      "rule": "Temporary: A visually busy drawing still fits the left if its style is uniform, as in L2."
     }
   },
   "BP376": {
@@ -8722,7 +8722,7 @@
       "rule": "A \"chess piece\" that moves as shown may reach every square vs. not so."
     },
     "derived": {
-      "rule": "Reachability is simpler to test by marking new squares successively than by seeking a single route through all squares."
+      "rule": "Temporary: Reachability is simpler to test by marking new squares successively than by seeking a single route through all squares."
     }
   },
   "BP377": {
@@ -8740,7 +8740,7 @@
       "rule": "The two objects have similar representations vs. the two objects have dissimilar representations."
     },
     "derived": {
-      "rule": "The presentation style can agree even when the objects depicted differ."
+      "rule": "Temporary: The presentation style can agree even when the objects depicted differ."
     }
   },
   "BP378": {
@@ -8758,7 +8758,7 @@
       "rule": "The two objects are conceptually related vs. the two objects are conceptually unrelated."
     },
     "derived": {
-      "rule": "The rule depends on recognizing the intended association; conceptual unrelatedness has no absolute visual test."
+      "rule": "Temporary: The rule depends on recognizing the intended association; conceptual unrelatedness has no absolute visual test."
     }
   },
   "BP379": {
@@ -8780,7 +8780,7 @@
       }
     },
     "derived": {
-      "rule": "Completeness depends on first identifying which family the symbols denote."
+      "rule": "Temporary: Completeness depends on first identifying which family the symbols denote."
     },
     "flag_reason": "The left collections are complete and the right collections omit members. For example, L1 shows all five regular polyhedra and R1 shows four. The sheets differ in the last row. In L5, Foundalis groups the arrangements within four outlines and OEBP encloses each arrangement separately. L6 shows cube nets in Foundalis and tetrominoes in OEBP. R5 shows tiling patterns in Foundalis and strips of three squares in OEBP. R6 matches on both sheets."
   },
@@ -8799,7 +8799,7 @@
       "rule": "The completed version of the collection is finite vs. the completed version of the collection is infinite."
     },
     "derived": {
-      "rule": "Finite versus infinite applies to the implied family, since every sheet visibly contains only finitely many drawings."
+      "rule": "Temporary: Finite versus infinite applies to the implied family, since every sheet visibly contains only finitely many drawings."
     },
     "flag_reason": "The completed left collections, including the cube nets in L6, are finite. The right collections can continue indefinitely, as in the sequence of increasing dot counts. Foundalis L5 shows tiling patterns and OEBP L5 shows strips of three squares."
   },
@@ -8818,7 +8818,7 @@
       "rule": "Adding the top two waves yields the bottom wave vs. not so."
     },
     "derived": {
-      "rule": "Adding the displacements explains both cancellation and reinforcement."
+      "rule": "Temporary: Adding the displacements explains both cancellation and reinforcement."
     }
   },
   "BP382": {
@@ -8836,7 +8836,7 @@
       "rule": "No knot (unknot) vs. knot."
     },
     "derived": {
-      "rule": "Counting visible crossings fails: a crossing can disappear when an unknot is deformed."
+      "rule": "Temporary: Counting visible crossings fails: a crossing can disappear when an unknot is deformed."
     }
   },
   "BP383": {
@@ -8856,7 +8856,7 @@
       "difficulty": "hard"
     },
     "derived": {
-      "rule": "Uniqueness of the placement matters, not the number of dots alone."
+      "rule": "Temporary: Uniqueness of the placement matters, not the number of dots alone."
     }
   },
   "BP384": {
@@ -8874,7 +8874,7 @@
       "rule": "Square number of dots vs. non-square number of dots."
     },
     "derived": {
-      "rule": "Counting dots distinguishes square numbers regardless of whether they form a square array."
+      "rule": "Temporary: Counting dots distinguishes square numbers regardless of whether they form a square array."
     },
     "flag_reason": "Foundalis R5 contains four groups of nine dots. Their total, 36, is a square number and belongs on the left under both rules. OEBP L4 shows the same count with different spacing. Foundalis L4 (4 dots), R2 (8), and R4 (91) are absent from OEBP. OEBP adds R2 (5), R4 (106), and R5 (26). In L2, Foundalis arranges nine dots in columns and OEBP groups them into triangles."
   },
@@ -8893,7 +8893,7 @@
       "rule": "Nets of cubes vs. not nets of cubes."
     },
     "derived": {
-      "rule": "Counting squares alone fails since several nonnets also have six."
+      "rule": "Temporary: Counting squares alone fails since several nonnets also have six."
     }
   },
   "BP386": {
@@ -8911,7 +8911,7 @@
       "rule": "Lower shape can be used as a tile to build the upper one vs. not so."
     },
     "derived": {
-      "rule": "Area divisibility is only a preliminary check; the tile must actually fit repeatedly."
+      "rule": "Temporary: Area divisibility is only a preliminary check; the tile must actually fit repeatedly."
     }
   },
   "BP387": {
@@ -8929,7 +8929,7 @@
       "rule": "Dots can be shared equally between figures vs. dots cannot be shared equally between figures."
     },
     "derived": {
-      "rule": "Whether sharing leaves any dots over is the direct common test."
+      "rule": "Temporary: Whether sharing leaves any dots over is the direct common test."
     }
   },
   "BP388": {
@@ -8947,7 +8947,7 @@
       "rule": "White dot can see (in straight lines) all black points vs. white dot cannot see (in straight lines) all black points."
     },
     "derived": {
-      "rule": "A concave outline can still work when the eye lies in the region of shared visibility."
+      "rule": "Temporary: A concave outline can still work when the eye lies in the region of shared visibility."
     }
   },
   "BP389": {
@@ -8965,7 +8965,7 @@
       "rule": "Loops are entangled (in 3-D) vs. loops can be separated (in 3-D)."
     },
     "derived": {
-      "rule": "The number of visible crossings is insufficient; one must follow the loops."
+      "rule": "Temporary: The number of visible crossings is insufficient; one must follow the loops."
     }
   },
   "BP390": {
@@ -8983,7 +8983,7 @@
       "rule": "Each graph vertex is uniquely defined by its connections (the graph does not admit nontrivial automorphisms) vs. the graph admits nontrivial automorphisms."
     },
     "derived": {
-      "rule": "Ignore the drawn angles and compare which vertices could exchange roles."
+      "rule": "Temporary: Ignore the drawn angles and compare which vertices could exchange roles."
     }
   },
   "BP391": {
@@ -9001,7 +9001,7 @@
       "rule": "There exists an edge such that removing it yields two disconnected graphs (i.e., the minimum number of edges whose removal results in two disconnected graphs is 1) vs. the minimum number of edges whose removal results in two disconnected graphs is 2."
     },
     "derived": {
-      "rule": "For the displayed drawings, looking for one bridge already separates the columns."
+      "rule": "Temporary: For the displayed drawings, looking for one bridge already separates the columns."
     }
   },
   "BP392": {
@@ -9020,7 +9020,7 @@
       "note": "Image corrected from original by restoring R2."
     },
     "derived": {
-      "rule": "Compare multiplication by a fixed factor with addition of a fixed increment. The comparison is made on the quantity illustrated, such as bar height or square side length."
+      "rule": "Temporary: Compare multiplication by a fixed factor with addition of a fixed increment. The comparison is made on the quantity illustrated, such as bar height or square side length."
     }
   },
   "BP393": {
@@ -9038,7 +9038,7 @@
       "rule": "Correct vs. incorrect."
     },
     "derived": {
-      "rule": "There is no one graphic operation shared by all twelve; each diagram asserts something to be checked."
+      "rule": "Temporary: There is no one graphic operation shared by all twelve; each diagram asserts something to be checked."
     }
   },
   "BP394": {
@@ -9058,7 +9058,7 @@
       "difficulty": "hard"
     },
     "derived": {
-      "rule": "Parity explains the checkerboards in L6/R6, but the irregular boards also require respecting their bottlenecks."
+      "rule": "Temporary: Parity explains the checkerboards in L6/R6, but the irregular boards also require respecting their bottlenecks."
     }
   },
   "BP395": {
@@ -9076,7 +9076,7 @@
       "rule": "Objects share a feature inside & outside of a closed curve vs. not so."
     },
     "derived": {
-      "rule": "The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
+      "rule": "Temporary: The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
     },
     "flag_reason": "In R3 all four objects are black and all have holes. If these count as the two shared features, any grouping satisfies the left rule. Even if the feature must distinguish the groups, the solid curve pairs the pentagon with the triangle (odd numbers of sides) and the rectangle with the hexagon (even numbers of sides)."
   },
@@ -9095,7 +9095,7 @@
       "rule": "Objects share a feature in two regions of an open curve vs. not so."
     },
     "derived": {
-      "rule": "Look at side edges instead of holes. R3 then meets the intended meaning of the left rule even when the feature must distinguish the groups."
+      "rule": "Temporary: Look at side edges instead of holes. R3 then meets the intended meaning of the left rule even when the feature must distinguish the groups."
     },
     "flag_reason": "In R3 all four objects are black and all have holes. If these count as the two shared features, any grouping satisfies the left rule. Even if the feature must distinguish the groups, the disk and hexagon on one side of the zigzag have no straight vertical edges, while the octagon and square on the other side each have two."
   },
@@ -9114,7 +9114,7 @@
       "rule": "Objects share a feature in & out of dot-made closed curve vs. not so."
     },
     "derived": {
-      "rule": "The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
+      "rule": "Temporary: The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
     },
     "flag_reason": "In R3 all four objects are black and all have holes. If these count as the two shared features, any grouping satisfies the left rule. Even if the feature must distinguish the groups, the dotted curve pairs the pentagon with the triangle (odd numbers of sides) and the rectangle with the hexagon (even numbers of sides)."
   },
@@ -9133,7 +9133,7 @@
       "rule": "Objects share a feature in spatially separated groups vs. not so."
     },
     "derived": {
-      "rule": "The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
+      "rule": "Temporary: The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
     },
     "flag_reason": "In R3 all four objects are black and all have holes. If these count as the two shared features, any grouping satisfies the left rule. Even if the feature must distinguish the groups, the spacing pairs the pentagon with the triangle (odd numbers of sides) and the rectangle with the hexagon (even numbers of sides)."
   },
@@ -9152,7 +9152,7 @@
       "rule": "Objects connected by dots share a feature vs. not so"
     },
     "derived": {
-      "rule": "The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
+      "rule": "Temporary: The holes within the shapes suggest a different way to group them. Counting the outer sides supplies a distinguishing feature even when the hole counts are mixed."
     },
     "flag_reason": "In R3 all four objects are black and all have holes. If these count as the two shared features, any grouping satisfies the left rule. Even if the feature must distinguish the groups, the dotted connections pairs the pentagon with the triangle (odd numbers of sides) and the rectangle with the hexagon (even numbers of sides)."
   },
@@ -9171,7 +9171,7 @@
       "rule": "Inner objects from red to yellow; outer from green to violet vs. inner objects from green to violet; outer from red to yellow."
     },
     "derived": {
-      "rule": "Inside versus outside color suffices without attending to shape or the thin boundary strokes."
+      "rule": "Temporary: Inside versus outside color suffices without attending to shape or the thin boundary strokes."
     }
   },
   "BP401": {
@@ -9189,7 +9189,7 @@
       "rule": "Branches form right angles with stem vs. branches form acute angles with stem."
     },
     "derived": {
-      "rule": "Examine the directions right at the join; some branches bend afterward."
+      "rule": "Temporary: Examine the directions right at the join; some branches bend afterward."
     }
   },
   "BP402": {
@@ -9207,7 +9207,7 @@
       "rule": "Branches have small curvature vs. branches have large curvature"
     },
     "derived": {
-      "rule": "A visible change in tangent direction along a branch is an adequate qualitative cue; the captions give no numerical threshold."
+      "rule": "Temporary: A visible change in tangent direction along a branch is an adequate qualitative cue; the captions give no numerical threshold."
     }
   },
   "BP403": {
@@ -9225,7 +9225,7 @@
       "rule": "Straight stems vs. curved stems"
     },
     "derived": {
-      "rule": "Trace the main stem from the base and ignore curvature of the side shoots."
+      "rule": "Temporary: Trace the main stem from the base and ignore curvature of the side shoots."
     }
   },
   "BP405": {
@@ -9243,7 +9243,7 @@
       "rule": "Branches and stems point rightward (\"wind\" from left) vs. branches and stems point leftward (\"wind\" from right)"
     },
     "derived": {
-      "rule": "Bending under wind and pointing in the direction of the wind describe different things."
+      "rule": "Temporary: Bending under wind and pointing in the direction of the wind describe different things."
     },
     "flag_reason": "Both sources say the branches on the right point leftward. In R4 the lower side branch points up and right even at its tip. It bends left relative to its initial direction, which fits the wind interpretation."
   },
@@ -9262,7 +9262,7 @@
       "rule": "Stem grows upward (against \"gravity\") vs. stem grows downward (\"gravity\" wins)."
     },
     "derived": {
-      "rule": "The direction of bending relative to gravity explains the drawing better than the sign of the stem's slope."
+      "rule": "Temporary: The direction of bending relative to gravity explains the drawing better than the sign of the stem's slope."
     },
     "flag_reason": "Both sources say the stem grows downward on the right. In R2 it rises from the lower left toward the upper right throughout. It bends toward the horizontal as it rises, which fits the gravity interpretation."
   },
@@ -9283,7 +9283,7 @@
       "note": "Rule corrected from original by replacing “grow away from the stem” with “turn away from the stem”."
     },
     "derived": {
-      "rule": "Outward versus inward curvature relative to the stem separates the drawings. Increasing distance from the stem does not."
+      "rule": "Temporary: Outward versus inward curvature relative to the stem separates the drawings. Increasing distance from the stem does not."
     }
   },
   "BP408": {
@@ -9301,7 +9301,7 @@
       "rule": "Branches follow the curve of the stem vs. branches grow against the curve of the stem"
     },
     "derived": {
-      "rule": "Relative bend is visible despite changes in the stems' absolute orientation."
+      "rule": "Temporary: Relative bend is visible despite changes in the stems' absolute orientation."
     }
   },
   "BP409": {
@@ -9319,7 +9319,7 @@
       "rule": "Stem curves left vs. stem curves right"
     },
     "derived": {
-      "rule": "The turning direction of the main stem alone suffices."
+      "rule": "Temporary: The turning direction of the main stem alone suffices."
     }
   }
 }
