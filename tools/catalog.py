@@ -63,6 +63,8 @@ def source_row(table, source, label, name):
     if path := source.get("image"):
         image_link(image_cell, path)
     ET.SubElement(rule_cell, "p").text = quote
+    if note := source.get("note"):
+        ET.SubElement(ET.SubElement(rule_cell, "p"), "em").text = note
     if extra := source.get("extra"):
         label += f' ({extra["left"]}+{extra["right"]} more)'
     link = ET.SubElement(ET.SubElement(rule_cell, "p"), "a", href=source["url"])
