@@ -32,18 +32,25 @@ def image_link(cell, path):
 
 
 def source_row(table, source, label, foundalis=False):
-    row = ET.SubElement(table, "tr")
-    image_cell = ET.SubElement(row, "td")
-    rule_cell = ET.SubElement(row, "td")
     if source is None:
         return
-    if path := source.get("image"):
-        image_link(image_cell, path)
+    row = ET.SubElement(table, "tr")
     rule = source["rule"]
     if foundalis:
+        cell = ET.SubElement(row, "td", {"class": "foundalis", "colspan": "2"})
+        details = ET.SubElement(cell, "details")
+        summary = ET.SubElement(details, "summary", title=f"Foundalis · {label}")
+        ET.SubElement(summary, "span").text = "▼"
+        columns = ET.SubElement(details, "div", {"class": "source-columns"})
+        image_cell = ET.SubElement(columns, "div")
+        rule_cell = ET.SubElement(columns, "div")
         quote = f'“{rule["left"]}” / “{rule["right"]}”'
     else:
+        image_cell = ET.SubElement(row, "td")
+        rule_cell = ET.SubElement(row, "td")
         quote = f'“{rule}”'
+    if path := source.get("image"):
+        image_link(image_cell, path)
     ET.SubElement(rule_cell, "p").text = quote
     if extra := source.get("extra"):
         label += f' ({extra["left"]}+{extra["right"]} more)'
@@ -70,8 +77,8 @@ def problem_section(key, problem, difficulty):
     record = ET.SubElement(section, "div", {"class": "record"})
     table = ET.SubElement(record, "table")
     columns = ET.SubElement(table, "colgroup")
-    for width in ("67%", "33%"):
-        ET.SubElement(columns, "col", style=f"width: {width}")
+    ET.SubElement(columns, "col")
+    ET.SubElement(columns, "col")
     rows = ET.SubElement(table, "tbody")
     source_row(rows, problem.get("foundalis"), key + "F", foundalis=True)
     source_row(rows, problem.get("oebp"), key + "E")
