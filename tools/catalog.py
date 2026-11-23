@@ -13,7 +13,7 @@ LEVELS = {1: "Very Easy", 2: "Easy", 3: "Moderate", 4: "Hard", 5: "Very Hard"}
 def filter_menu(counts):
     nav = ET.Element("nav", {"class": "filters"})
     menu = ET.SubElement(nav, "ul")
-    options = [("All", None), ("Flagged", None), ("Unflagged", None),
+    options = [("All", None), ("Corrected", None), ("Flagged", None), ("Unflagged", None),
                *((name, level) for level, name in LEVELS.items()), ("Unrated", None)]
     for label, level in options:
         view = label.lower().replace(" ", "-")
@@ -71,9 +71,11 @@ def source_row(table, source, label, name):
     link.text = label
 
 
-def problem_section(key, problem, difficulty):
+def problem_section(key, problem, difficulty, corrected):
     reason = problem.get("flag_reason")
     section = ET.Element("section", {"class": "problem", "data-flagged": str(bool(reason)).lower()})
+    if corrected:
+        section.set("data-corrected", "true")
     ET.SubElement(section, "hr")
     heading = ET.SubElement(section, "h2", id=key)
     link = ET.SubElement(heading, "a", href=f"#{key}")
@@ -118,9 +120,12 @@ def main():
     for key in sorted(problems, key=lambda k: int(k[2:])):
         problem = problems[key]
         difficulty = problem.get("foundalis", {}).get("difficulty")
+        corrected = any(source and source.get("note")
+                        for source in (problem.get("foundalis"), problem.get("oebp")))
+        counts["Corrected"] += corrected
         counts["Flagged" if problem.get("flag_reason") else "Unflagged"] += 1
         counts[LEVELS[difficulty] if difficulty is not None else "Unrated"] += 1
-        sections.append(html(problem_section(key, problem, difficulty)))
+        sections.append(html(problem_section(key, problem, difficulty, corrected)))
 
     script = Path("tools/catalog.js").read_text(encoding="utf-8").rstrip()
     body = "\n".join([f'<h1 id="bongard-problems">{TITLE}</h1>', html(filter_menu(counts)),

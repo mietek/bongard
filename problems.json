@@ -1883,13 +1883,13 @@
           "mean_time_seconds": 16.6
         }
       },
-      "note": "Corrected from original by swapping the left and right descriptions."
+      "note": "Rule corrected from original by swapping the left and right descriptions."
     },
     "oebp": {
       "url": "https://oebp.org/BP54",
       "image": "img/corrected/BP054E.png",
       "rule": "A cross, circle, and triangle arranged clockwise vs. a cross, circle, and triangle arranged counterclockwise.",
-      "note": "Corrected from original by swapping the left and right descriptions."
+      "note": "Rule corrected from original by swapping the left and right descriptions."
     },
     "derived": {
       "rule": "Visiting the cross, circle, and triangle in that order goes clockwise on the left and counterclockwise on the right."
@@ -3007,13 +3007,13 @@
           "mean_time_seconds": 26.7
         }
       },
-      "note": "Corrected from original by specifying that each part is an arm of the junction."
+      "note": "Rule corrected from original by specifying that each part is an arm of the junction."
     },
     "oebp": {
       "url": "https://oebp.org/BP86",
       "image": "img/corrected/BP086E.png",
       "rule": "Three arms meeting at a junction vs. five arms meeting at a junction.",
-      "note": "Corrected from original by specifying that each part is an arm of the junction."
+      "note": "Rule corrected from original by specifying that each part is an arm of the junction."
     },
     "derived": {
       "rule": "Three arms meet at the junction on the left and five on the right."
@@ -3114,13 +3114,13 @@
           "mean_time_seconds": 30.8
         }
       },
-      "note": "Corrected from original by specifying that each part is a group of connected ovals."
+      "note": "Rule corrected from original by specifying that each part is a group of connected ovals."
     },
     "oebp": {
       "url": "https://oebp.org/BP89",
       "image": "img/corrected/BP089E.png",
       "rule": "Three connected groups of ovals vs. five connected groups of ovals.",
-      "note": "Corrected from original by specifying that each part is a group of connected ovals."
+      "note": "Rule corrected from original by specifying that each part is a group of connected ovals."
     },
     "derived": {
       "rule": "The ovals form three connected groups on the left and five on the right."
@@ -3151,13 +3151,13 @@
           "mean_time_seconds": 17.7
         }
       },
-      "note": "Corrected from original by specifying that each part is a group of outlined ovals."
+      "note": "Rule corrected from original by specifying that each part is a group of connected ovals that are outlined."
     },
     "oebp": {
       "url": "https://oebp.org/BP90",
       "image": "img/corrected/BP090E.png",
       "rule": "Three connected groups of outlined ovals vs. four connected groups of outlined ovals.",
-      "note": "Corrected from original by specifying that each part is a group of outlined ovals."
+      "note": "Rule corrected from original by specifying that each part is a group of connected ovals that are outlined."
     },
     "derived": {
       "rule": "The outlined ovals form three connected groups on the left and four on the right."
@@ -4262,13 +4262,13 @@
         "left": "Three of one kind and two of another, with the pair adjacent",
         "right": "Three of one kind and two of another, with the pair separated"
       },
-      "note": "Corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
+      "note": "Rule corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
     },
     "oebp": {
       "url": "https://oebp.org/BP142",
       "image": "img/corrected/BP142E.png",
       "rule": "Three of one kind and two of another, with the pair adjacent vs. three of one kind and two of another, with the pair separated.",
-      "note": "Corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
+      "note": "Rule corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
     },
     "derived": {
       "rule": "Each panel has three of one kind and two of another. The two members of the pair are adjacent on the left and separated on the right."
@@ -4450,7 +4450,7 @@
       "url": "https://oebp.org/BP152",
       "image": "img/corrected/BP152E.png",
       "rule": "No vertical axis of symmetry vs. vertical axis of symmetry.",
-      "note": "Corrected from original by adding “vertical” to the left description."
+      "note": "Rule corrected from original by adding “vertical” to the left description."
     },
     "derived": {
       "rule": "The left figures lack a vertical axis of symmetry, and the right figures have one."
@@ -4955,13 +4955,13 @@
         "left": "Black region widens toward the boundary with white",
         "right": "Black region narrows toward the boundary with white"
       },
-      "note": "Corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
+      "note": "Rule corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
     },
     "oebp": {
       "url": "https://oebp.org/BP180",
       "image": "img/corrected/BP180E.png",
       "rule": "Black region widens toward the boundary with white vs. black region narrows toward the boundary with white.",
-      "note": "Corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
+      "note": "Rule corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
     },
     "derived": {
       "rule": "As it approaches the boundary with white, the black region widens on the left and narrows on the right."
@@ -5354,17 +5354,18 @@
       "rule": {
         "left": "Even number",
         "right": "Odd number"
-      }
+      },
+      "note": "Ambiguous image (R4) retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP202",
       "image": "img/corrected/BP202E.png",
-      "rule": "Even number vs. odd number."
+      "rule": "Even number vs. odd number.",
+      "note": "Corrected from original by separating the bottom-right rectangle in R4 from the other two."
     },
     "derived": {
       "rule": "The number of objects is even on the left and odd on the right."
-    },
-    "flag_reason": "OEBP omits one of Foundalis’s six right examples."
+    }
   },
   "BP203": {
     "foundalis": {
@@ -5373,17 +5374,18 @@
       "rule": {
         "left": "Prime number",
         "right": "Composite number"
-      }
+      },
+      "note": "Ambiguous images (L1, R1, R4, and R5) retained from original. Incorrect image (L2) retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP203",
-      "image": "img/original/BP203E.png",
-      "rule": "Prime number vs. composite number."
+      "image": "img/corrected/BP203E.png",
+      "rule": "Prime number vs. composite number.",
+      "note": "Corrected from original by restoring L1, R1, R4, and R5 with each pile drawn as a single object, and by changing the lone dot in L2 to three punctuation marks."
     },
     "derived": {
       "rule": "The object count is prime on the left and composite on the right."
-    },
-    "flag_reason": "Both sources put one dot on the prime side, in Foundalis L2 and OEBP L3. One is neither prime nor composite. OEBP omits one of Foundalis’s left examples and three of his right examples."
+    }
   },
   "BP204": {
     "foundalis": {
@@ -5500,17 +5502,18 @@
       "rule": {
         "left": "Part of at least one object is out of box",
         "right": "All objects are within the box"
-      }
+      },
+      "note": "Ambiguous image (R1) retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP210",
       "image": "img/corrected/BP210E.png",
-      "rule": "Part of at least one object is out of box vs. all objects are within the box."
+      "rule": "Part of at least one object is out of box vs. all objects are within the box.",
+      "note": "Corrected from original by separating the bottom oval in R1 from the edge."
     },
     "derived": {
       "rule": "At least one shape extends beyond the frame on the left. The frame contains all the shapes on the right."
-    },
-    "flag_reason": "One of Foundalis’s right examples is missing from the OEBP presentation."
+    }
   },
   "BP211": {
     "foundalis": {
@@ -5579,17 +5582,18 @@
       "rule": {
         "left": "“Smiley face”",
         "right": "Not a \"smiley face”"
-      }
+      },
+      "note": "Ambiguous image (R2) retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP214",
       "image": "img/corrected/BP214E.png",
-      "rule": "Smiley face vs. not a smiley face."
+      "rule": "Smiley face vs. not a smiley face.",
+      "note": "Corrected from original by turning the mouth in R2 upside down."
     },
     "derived": {
       "rule": "The marks read as a smiling face on the left and lack that arrangement on the right."
-    },
-    "flag_reason": "One of Foundalis’s six right examples is missing from OEBP."
+    }
   },
   "BP215": {
     "foundalis": {
@@ -6089,17 +6093,18 @@
       "rule": {
         "left": "Convex hull is a square",
         "right": "Convex hull is not a square"
-      }
+      },
+      "note": "Ambiguous image (R4) retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP242",
-      "image": "img/original/BP242E.png",
-      "rule": "Convex hull is a square vs. convex hull is not a square."
+      "image": "img/corrected/BP242E.png",
+      "rule": "Convex hull is a square vs. convex hull is not a square.",
+      "note": "Corrected from original by restoring R4 without its bottom-right dot."
     },
     "derived": {
       "rule": "The convex hull of the figure is a square on the left and has a different shape on the right."
-    },
-    "flag_reason": "OEBP changes a left drawing and omits one of the right drawings."
+    }
   },
   "BP243": {
     "foundalis": {
@@ -7167,17 +7172,18 @@
       "rule": {
         "left": "Large and medium-sized square, the latter can be hidden",
         "right": "Large and small-sized square, the latter can be hidden"
-      }
+      },
+      "note": "Ambiguous images (L5 and R5) retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP301",
-      "image": "img/original/BP301E.png",
-      "rule": "Large and medium-sized square, the latter can be hidden vs. large and small-sized square, the latter can be hidden."
+      "image": "img/corrected/BP301E.png",
+      "rule": "Large and medium-sized square, the latter can be hidden vs. large and small-sized square, the latter can be hidden.",
+      "note": "Corrected from original by extending L5 and R5 with partially visible outlined squares."
     },
     "derived": {
       "rule": "Each example contains a large square and a second square that may be hidden. The second square is medium-sized on the left and small on the right."
-    },
-    "flag_reason": "OEBP omits a Foundalis left example and places one of his right examples in its undecided group."
+    }
   },
   "BP302": {
     "foundalis": {
@@ -8867,12 +8873,12 @@
     "oebp": {
       "url": "https://oebp.org/BP392",
       "image": "img/corrected/BP392E.png",
-      "rule": "Exponential increase vs. linear increase."
+      "rule": "Exponential increase vs. linear increase.",
+      "note": "Corrected from original by restoring R2."
     },
     "derived": {
       "rule": "The illustrated quantity grows exponentially on the left and linearly on the right."
-    },
-    "flag_reason": "OEBP omits one of Foundalis’s right-hand examples."
+    }
   },
   "BP393": {
     "foundalis": {

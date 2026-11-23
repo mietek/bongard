@@ -14,7 +14,8 @@ function showSelectedProblems() {
     const status = problem.dataset.flagged === "true" ? "flagged" : "unflagged";
     const difficulty = problem.dataset.difficulty;
     const matchesRating = difficulty ? difficulty === selected.dataset.difficulty : view === "unrated";
-    problem.hidden = view !== "all" && view !== status && !matchesRating;
+    const matchesCorrection = view === "corrected" && problem.dataset.corrected === "true";
+    problem.hidden = !(view === "all" || view === status || matchesRating || matchesCorrection);
     if (problem.hidden) {
       problem.querySelectorAll(".source-reveal[style]").forEach(finishDisclosure);
     }
