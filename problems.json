@@ -33,7 +33,8 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Temporary: Presence of any drawing separates the sides."
+      "image": "img/derived/BP001D.svg",
+      "rule": "Each left panel is blank. Each right panel contains a drawing."
     }
   },
   "BP002": {
