@@ -512,7 +512,7 @@
     "derived": {
       "rule": "Individual figure size and total line length provide two simple readings that agree on the displayed examples."
     },
-    "flag_reason": "Appendix A (p. 357) and Foundalis’s website compare the total line length in each panel. OEBP compares the sizes of the individual figures. Both tests fit the examples, including the grid in L4 and the single short line in R1."
+    "flag_reason": "Appendix A (p. 357) and Foundalis’s website compare total line length. OEBP compares the sizes of individual figures. Both rules fit the large connected grid in L4, the single short line in R1, and the small figures in R5. A picture made of many short dashes could have a large total line length while every figure is small."
   },
   "BP015": {
     "difficulty": "very easy",
@@ -585,7 +585,7 @@
     "derived": {
       "rule": "Spiral handedness distinguishes the drawings. Either traversal convention can name that distinction."
     },
-    "flag_reason": "Appendix A (p. 358) and Foundalis’s website call the left spirals counterclockwise, while OEBP calls them clockwise. None specifies a starting end. Tracing L1 inward gives Foundalis’s direction. Tracing it outward gives OEBP’s direction."
+    "flag_reason": "Tracing L1 from the outside inward gives a counterclockwise turn, as in Appendix A (p. 358) and on Foundalis’s website. Tracing it from the center outward gives a clockwise turn, as on OEBP. Neither source specifies where to start."
   },
   "BP017": {
     "difficulty": "hard",
@@ -1813,7 +1813,7 @@
     "derived": {
       "rule": "Either any mirror symmetry or specifically vertical mirror symmetry separates this sheet."
     },
-    "flag_reason": "Appendix A (p. 369) and Foundalis’s website allow any axis of reflection on the left. OEBP specifies a vertical axis. L1–L6 all have a vertical axis, so both rules fit."
+    "flag_reason": "Appendix A (p. 369) and Foundalis’s website allow any axis of symmetry on the left. OEBP specifies a vertical axis. All six left figures have a vertical axis, and all six right figures lack reflection symmetry. A figure with only horizontal symmetry would separate the two left rules."
   },
   "BP051": {
     "difficulty": "easy",
@@ -3995,7 +3995,7 @@
     "derived": {
       "rule": "Following successive turns gives a direct test without searching the network for a subfigure."
     },
-    "flag_reason": "Appendix A (p. 393) describes the direction of the turns. Foundalis’s website gives a rectangular loop as an alternative test, and OEBP requires both tests to agree. In L1–L6 the turns go in one direction and a loop forms. In R1–R6 the turns change direction and no loop forms."
+    "flag_reason": "Appendix A (p. 393) gives the direction of the turns as the test. Foundalis’s website offers a rectangular loop as an alternative test, and OEBP requires both tests to agree. In L1–L6 all turns go in one direction and a rectangular loop forms. In R1–R6 the turns change direction and no rectangular loop forms."
   },
   "BP121": {
     "foundalis": {
@@ -4922,7 +4922,7 @@
     "derived": {
       "rule": "A simpler visible test is whether the three internal segments start at the triangle’s vertices or at the midpoints of its sides."
     },
-    "flag_reason": "In R1–R6 on both sheets, the perpendicular bisectors meet at the triangle’s circumcenter. Appendix A (p. 410) and both websites call this point the orthocenter, where the altitudes meet."
+    "flag_reason": "The angle bisectors on the left meet at the incenter. In R1–R6 on both sheets, the perpendicular bisectors meet at the circumcenter. Appendix A (p. 410) and both websites call this point the orthocenter, where the altitudes meet."
   },
   "BP172": {
     "foundalis": {
@@ -5196,7 +5196,7 @@
     "derived": {
       "rule": "Look for a repeated motif whose parts themselves have visible parts."
     },
-    "flag_reason": "In R1 the large figure is made of groups of dots, so it also fits the left description, “object made of objects”. The rules need to specify the number of visible levels of grouping."
+    "flag_reason": "In R1 the angular figure is made of groups of dots, so it also fits the left description, “object made of objects”. The rule needs to specify exactly one visible level of grouping on the left and two on the right."
   },
   "BP187": {
     "foundalis": {
@@ -5551,7 +5551,7 @@
     "derived": {
       "rule": "Look for two pairs of like elements. The two outer squares of R6 match, but its two inner marks do not."
     },
-    "flag_reason": "In R6 each of the two squares encloses a mark, one a cross and the other a dot. This gives two spatial groups of two, as the left rule requires. The rule needs to specify what makes two elements a pair."
+    "flag_reason": "R6 on both sheets shows two squares, one enclosing a cross and the other a dot. Counting by proximity gives two pairs, as the left rule requires. The rule needs to specify what makes two elements a pair. Grouping by appearance pairs the squares and leaves the cross and dot unmatched."
   },
   "BP206": {
     "foundalis": {
@@ -5690,7 +5690,7 @@
     "derived": {
       "rule": "On the left, every dot has a nearby neighbour. On the right, at least one dot has a more distant nearest neighbour. In R1 and R2, many dots are spaced that far apart."
     },
-    "flag_reason": "Every dot on the left has a nearby neighbour. The right rule suggests an isolated dot, yet in R1 and R2 the dots are more widely spaced throughout. The rule needs to make clear what counts as far from the nearest neighbour."
+    "flag_reason": "Every dot on the left has a nearby neighbour. The right rule suggests an isolated dot, but the dots in R1 and R2 are more widely spaced throughout. Measured center to center on the OEBP sheet, every left dot has a neighbour within 8.3 pixels. Across the six right panels, the largest distance to a nearest neighbour ranges from 12.2 to 13.0 pixels, rounded. A cutoff of 10 pixels separates the panels. In R1 all seven dots exceed it, and in R2 all eighteen do. The rule needs to make clear what counts as far from the nearest neighbour."
   },
   "BP213": {
     "foundalis": {
@@ -5709,7 +5709,7 @@
     "derived": {
       "rule": "Look for a crossing in the tight curl. A crossing anywhere would also admit R6."
     },
-    "flag_reason": "Foundalis places the crossing at the point of greatest curvature. In L3 the strands cross near the base of the small loop and bend more sharply elsewhere. OEBP places the crossing within the tightest complete turn."
+    "flag_reason": "Foundalis places the crossing at the point of greatest curvature. In L3 the strands cross near the base of the small loop and bend more sharply elsewhere. OEBP places the crossing within the tightest complete turn, which fits L3."
   },
   "BP214": {
     "foundalis": {
@@ -5893,7 +5893,7 @@
     "derived": {
       "rule": "The right disks are slightly wider than they are tall. Compare their outer arcs, disregarding the cutouts."
     },
-    "flag_reason": "In L1–L6 the completed black region is a circle, which also satisfies the published right rule. The right rule should specify an ellipse that is not a circle."
+    "flag_reason": "Completing the outer boundary of the black region gives a circle in every left panel. Since every circle is an ellipse, L1–L6 also satisfy the published right rule. The completed figures on the right are slightly wider than they are tall. The right rule should specify an ellipse that is not a circle."
   },
   "BP224": {
     "foundalis": {
@@ -6182,7 +6182,7 @@
     "derived": {
       "rule": "Looking at the segment’s angle to the chord between the curve ends is sufficient."
     },
-    "flag_reason": "Foundalis’s alternative rule allows the separate segment in R1 to slide across the rounded top of the C and enclose a small cap. The intended test requires the segment to bridge the two original ends. Foundalis’s primary direction rule and OEBP’s rule both fit."
+    "flag_reason": "Foundalis’s alternative test allows the segment in R1 to slide across the rounded top of the C and enclose a small cap. To exclude R1, the segment must bridge the two original ends of the curve. Foundalis’s primary orientation test fits, as does OEBP’s rule, which retains the orientation condition."
   },
   "BP240": {
     "foundalis": {
@@ -6275,7 +6275,7 @@
     "derived": {
       "rule": "Flatten the grid into reading order and look for a regularly spaced sequence with at least one empty cell between marks."
     },
-    "flag_reason": "In R5 the five consecutive filled cells in the middle row have equal gaps of zero empty cells. The published left rule admits R5 unless it requires a positive gap."
+    "flag_reason": "R5 on both sheets has five consecutive filled cells in the middle row. All four gaps contain zero empty cells, so they are equal as the left rule requires. Every left example has a positive constant gap. Requiring at least one empty cell between successive filled cells would exclude R5."
   },
   "BP245": {
     "foundalis": {
@@ -6402,7 +6402,7 @@
     "derived": {
       "rule": "Broad versus narrow triangles distinguishes these two panels but does not explain the other solids."
     },
-    "flag_reason": "Both sources exclude projections of tetrahedra on the right, but R1’s thin triangle is such a projection. Place three vertices at its corners and the fourth directly above one corner. Viewed from above, the six edges project onto the triangle’s three sides."
+    "flag_reason": "Both sources exclude tetrahedron projections on the right, yet L3 and R1 are both triangle outlines. Place three vertices of a tetrahedron at the corners of R1’s thin triangle and the fourth directly above one corner. From above, the two vertices coincide in projection, and the projections of all six edges lie on the triangle’s three sides. The same construction works for L3, so ruling out coincident projected vertices would also exclude that left example."
   },
   "BP252": {
     "foundalis": {
@@ -6439,7 +6439,7 @@
     "derived": {
       "rule": "Prime versus composite is concise once R1 is set aside. Shape identity and grouping offer extra cues in some panels."
     },
-    "flag_reason": "Both sources put one dot on the composite side in R1. One is neither prime nor composite, and a single dot cannot satisfy Foundalis’s alternative requirement of groups of two or more."
+    "flag_reason": "R1 contains a single dot. One is neither prime nor composite, and a single dot cannot form several equal-sized groups of at least two objects, as Foundalis’s alternative rule requires. All the left counts are prime, and every other right count is composite."
   },
   "BP254": {
     "foundalis": {
@@ -6458,7 +6458,7 @@
     "derived": {
       "rule": "Ask whether the center lies on a segment joining two vertices. This excludes the R3 extension."
     },
-    "flag_reason": "Both sources exclude collinearity on the right. In R3 the circle and the two central vertices of the chevron lie on the same vertical line. The circle lies beyond both vertices. Requiring its center to lie between the vertices excludes this example."
+    "flag_reason": "Both sources exclude collinearity on the right. In R3 the circle’s center and the two central vertices of the chevron lie on one vertical line, with the center beyond both vertices. Requiring the center to lie on the segment between the vertices would exclude R3."
   },
   "BP255": {
     "foundalis": {
@@ -6531,7 +6531,7 @@
     "derived": {
       "rule": "Compare mirror orientation of the shape outlines. Displacement of the pair gives no intrinsic reflection direction for the two circles."
     },
-    "flag_reason": "L1 shows two equal circles. Either a horizontal or a vertical reflection preserves the shape of a circle, so this panel fits both side descriptions in both sources."
+    "flag_reason": "In L1 the two equal circles fit both sources’ descriptions for both sides if a shape may be translated after reflection. Reflecting a circle about either a horizontal or a vertical diameter preserves its shape. The other outlines show an orientation that the circles lack."
   },
   "BP259": {
     "foundalis": {
@@ -6586,7 +6586,7 @@
     "derived": {
       "rule": "Join the two black centers to each other and the two white centers to each other, then test those segments for a crossing. Ignore the squares."
     },
-    "flag_reason": "In L1 the two filled circles lie on one diagonal and the two outlined circles lie on the other. Pairing each filled circle with an outlined circle gives opposite sides of the rectangle. In R3 extending the segment past the upper filled center would create a crossing inside the panel. The rules need to specify both the pairing and the use of segments."
+    "flag_reason": "The rules need to specify which circles to pair and where the segments end. In L1 the two filled centers form one diagonal of a rectangle and the two outlined centers form the other. Pairing each filled circle with an outlined one gives opposite sides of the rectangle. In R3 the vertical segment ends at the center of the upper filled circle. Extending it upward would make it cross the segment between the outlined centers inside the panel."
   },
   "BP262": {
     "foundalis": {
@@ -6767,7 +6767,7 @@
     "derived": {
       "rule": "Test for a single traversal of each stroke. Retracing makes the written criterion too permissive."
     },
-    "flag_reason": "Both sources omit the restriction on retracing. The T in R5 can be drawn without lifting the pen by tracing the crossbar, retracing part of it to the junction, and drawing the stem."
+    "flag_reason": "Both sources omit a restriction on retracing. The T in R5 can be drawn without lifting the pen by tracing the crossbar, retracing it partway to the junction, and drawing the stem. The accent over the O in R4 is a separate component and does require a pen lift."
   },
   "BP272": {
     "foundalis": {
@@ -7116,7 +7116,7 @@
     "derived": {
       "rule": "Every left panel has a happy face with a nose. No right panel has one, including the happy noseless face in R6."
     },
-    "flag_reason": "Both sources’ rule holds in two right panels. R1 has no noseless faces, so the outer conditional is true. R2 has a sad noseless face and no happy face with a nose, so both sides of the biconditional are false and the biconditional is true."
+    "flag_reason": "Five right panels satisfy the conditional stated by both sources. R1, R4, and R5 have no noseless faces, so the outer conditional is vacuously true. In R2 and R3 the noseless faces are sad and there are no happy faces with noses, so both sides of the biconditional are false and the biconditional is true. Only R6 fails the conditional."
   },
   "BP291": {
     "foundalis": {
@@ -7153,7 +7153,7 @@
     "derived": {
       "rule": "The angle at the square remains the natural feature. L4 falls close to the dividing angle on its acute side."
     },
-    "flag_reason": "Both sources require a nonacute angle on the left. In L4 the angle at the center of the square, measured between the centers of the two triangles, is about 83° and therefore acute."
+    "flag_reason": "Both sources require a nonacute angle on the left. In L4 the rays from the center of the square to the centers of the two triangles form an angle of about 83°, which is acute."
   },
   "BP293": {
     "foundalis": {
@@ -7244,7 +7244,7 @@
     "derived": {
       "rule": "Square versus nonsquare rectangle expresses the visible distinction."
     },
-    "flag_reason": "The implied square in each of L1–L6 also satisfies the published right rule. The right rule should specify a rectangle that is not a square."
+    "flag_reason": "In L1–L6 the implied shape is a square, so it also satisfies the published right rule. The right rule should specify a rectangle that is not a square."
   },
   "BP298": {
     "foundalis": {
@@ -7609,7 +7609,7 @@
     "derived": {
       "rule": "A larger circle gets more dots and equal circles get equal counts on the left. The right examples violate this correspondence."
     },
-    "flag_reason": "Foundalis claims direct proportionality. In L5 the circles enclosing one, two, and three dots measure about 19, 36, and 49 pixels across. Neither their diameters nor their areas have the required ratio. OEBP’s weaker claim that size and count are correlated fits."
+    "flag_reason": "Foundalis requires direct proportionality. In L5 the circles enclosing one, two, and three dots measure about 19, 36, and 49 pixels across. Neither their diameters nor their areas are in the ratio 1 to 2 to 3. OEBP’s correlation rule fits if larger circles enclose more dots and equal circles enclose equal counts. L1, L4, and L6 show no variation in size or count within the panel."
   },
   "BP318": {
     "foundalis": {
@@ -8033,7 +8033,7 @@
     "derived": {
       "rule": "A constant step between successive outer vertices allows a regular star to have several disconnected circuits."
     },
-    "flag_reason": "Foundalis requires continuous tracing from outer vertex to outer vertex. L2 consists of two triangles and L4 of two squares. Following whole edges closes one circuit before reaching the other. OEBP’s rule fits if regular star polygons include these compound figures."
+    "flag_reason": "Foundalis requires a continuous trace from outer vertex to outer vertex. L2 consists of two triangles and L4 of two squares. Following whole edges closes one circuit before reaching the other. OEBP’s rule fits if regular star polygons include these compound figures."
   },
   "BP341": {
     "foundalis": {
@@ -8052,7 +8052,7 @@
     "derived": {
       "rule": "A border that never reverses vertical direction as one moves right explains the left staircase examples."
     },
-    "flag_reason": "Both sources require strict increase or decrease. L5 and L6 have long horizontal runs. Their borders are respectively nonincreasing and nondecreasing as one moves to the right."
+    "flag_reason": "Both sources require a strictly increasing or strictly decreasing border on the left. L5 and L6 have long horizontal runs. As one moves right, the border in L5 is nonincreasing and the border in L6 is nondecreasing. Each is monotone in the weaker sense that it never reverses direction."
   },
   "BP342": {
     "foundalis": {
@@ -8113,7 +8113,7 @@
     "derived": {
       "rule": "Forming a parallelogram and making a larger copy of the tile are different tests."
     },
-    "flag_reason": "Foundalis R3 shows an angular shape. OEBP R3 (EX4120) has a round tab and socket. Two copies interlock to form a rectangle, but smaller copies cannot tile the piece itself. This distinguishes OEBP’s self-tiling rule from Foundalis’s parallelogram rule."
+    "flag_reason": "Foundalis R3 shows an angular piece. OEBP R3 (EX4120) has a round tab and socket. Two copies of the OEBP piece interlock to form a rectangle, which satisfies Foundalis’s left rule about forming a parallelogram. Smaller copies cannot tile the piece itself, so it belongs on the right under OEBP’s rule."
   },
   "BP345": {
     "foundalis": {
@@ -8204,7 +8204,7 @@
     "derived": {
       "rule": "A panel may have a conspicuous outlier at one level of description while every object belongs to a straightforward broader class."
     },
-    "flag_reason": "OEBP redraws L1, R1, L2 and R2 in place. In L2 the small loop among the triangles becomes a square. On both sides, Foundalis panels 4, 5 and 6 reappear with altered drawings in OEBP positions 6, 4 and 5, respectively. Only L3 and R3 match exactly."
+    "flag_reason": "Only L3 and R3 match exactly. OEBP redraws the other ten panels. For example, the small loop among the triangles in Foundalis L2 becomes a square in OEBP L2. L3 also presents a rule problem on both sheets. The filled and outlined figures all belong to the category of convex polygons, so L3 also fits the right rule."
   },
   "BP350": {
     "foundalis": {
@@ -8286,7 +8286,7 @@
     "derived": {
       "rule": "A sequence need only be capable of returning, as Foundalis says. It need not show the return within the supplied frames."
     },
-    "flag_reason": "In L3, OEBP replaces Foundalis’s rotating open angles with white strokes rotating inside black squares. In R5, it replaces the sequence of U-shapes becoming bars with a sequence of solid quadrilaterals."
+    "flag_reason": "The left sequences can continue periodically. The right sequences track a quantity that changes nonperiodically. In L3, OEBP replaces Foundalis’s rotating open angles with white strokes rotating inside black squares. In R5, it replaces Foundalis’s U-shapes becoming bars with solid quadrilaterals."
   },
   "BP354": {
     "foundalis": {
@@ -8436,7 +8436,7 @@
     "derived": {
       "rule": "Following the same operation is simpler than inferring a separate category for each analogy."
     },
-    "flag_reason": "OEBP replaces all twelve analogies (L1–L6 and R1–R6). Foundalis L1 and R1 both use a three-pronged figure. OEBP L1 and R1 use only dots."
+    "flag_reason": "In each left analogy the same transformation explains both rows. In each right analogy the second row breaks the pattern of the first. Foundalis L1 and R1 use a three-pronged figure that is absent from their OEBP counterparts. The dot analogies in L3 and L5 are recognizable on both sheets. In R3 the first three cells have the same dot groupings, but the fourth contains twenty dots in Foundalis and five in OEBP. R5 redraws the analogy with black-and-white grids."
   },
   "BP362": {
     "foundalis": {
@@ -8459,7 +8459,7 @@
     "derived": {
       "rule": "Check the candidate answers against the transformation in the top row."
     },
-    "flag_reason": "Foundalis L1 uses dots and L2 uses stars. OEBP L1 uses dashed outlines around figures and L2 mixes dots and triangles. In the cross analogy, Foundalis R5 has a wavy figure in the lower-left cell, where OEBP R6 has a cross."
+    "flag_reason": "The choices include a suitable completion for each left analogy and omit it on the right. Foundalis L1 uses dots and L2 uses stars. OEBP L1 uses dashed outlines around figures and L2 mixes dots and triangles. In R5 the lower-left cell of the cross analogy contains a wavy figure in Foundalis and a cross in OEBP."
   },
   "BP363": {
     "difficulty": "easy",
@@ -8498,7 +8498,7 @@
     "derived": {
       "rule": "Counting the visible groups gives a clearer criterion than asking whether any groups are separable."
     },
-    "flag_reason": "OEBP L4 and R4 redraw the dots in Foundalis L2 and R2. The eight distinct clusters in Foundalis R2 become a loose field of dots in OEBP R4. OEBP L5 and R5 also change the dot groups in Foundalis L3 and R3. Foundalis L6 shows a grid and R6 is blank. OEBP L6 and R6 show two and three solid polygons, respectively."
+    "flag_reason": "Foundalis R2 has eight distinct groups of dots, although his right rule says there are no clearly separable groups. OEBP’s rule asks whether there are exactly two. OEBP redraws L2, R2, L3, and R3. In OEBP R2 the eight groups become a loose field of dots. Foundalis L6 shows a grid of panels forming a miniature problem sheet and R6 is blank. OEBP L6 and R6 show two and three solid polygons, respectively."
   },
   "BP365": {
     "foundalis": {
@@ -8521,7 +8521,7 @@
     "derived": {
       "rule": "Counting how many things visibly change differs from counting independent quantities."
     },
-    "flag_reason": "Both sources describe two independent quantities on the left, but in the grid sequence (Foundalis L1, OEBP L2) the height is always twice the width minus one. The OEBP sheet also omits the line-and-dot sequences from Foundalis L3 and L4 and includes new bar sequences in L5 and L6. All six right-hand sequences are represented."
+    "flag_reason": "Both rules call the two changing quantities on the left independent. In the L1 grid sequence on both sheets, height is always twice the width minus one. In R1 the black and white counts both change, but their sum stays at six. The number of independent quantities depends on which measurements the solver compares. OEBP replaces the line-and-dot sequences in Foundalis L3 and L4 with bar sequences. It retains all six right-hand sequences."
   },
   "BP366": {
     "foundalis": {
@@ -8594,7 +8594,7 @@
     "derived": {
       "rule": "Requiring one common junction removes the extra admissible pairing."
     },
-    "flag_reason": "Foundalis allows gluing marked points in pairs. In R3, gluing the four tips of the X in two separate pairs produces the figure eight beside it. OEBP requires all the marked points to be identified at one junction, which excludes R3."
+    "flag_reason": "Foundalis allows marked points to be glued in pairs. In R3, gluing the four tips of the X in two separate pairs produces the figure eight beside it, so the panel fits Foundalis’s left rule. OEBP requires all marked points to meet at one junction, which excludes R3."
   },
   "BP370": {
     "foundalis": {
@@ -8782,7 +8782,7 @@
     "derived": {
       "rule": "Completeness depends on first identifying which family the symbols denote."
     },
-    "flag_reason": "Foundalis L5 groups arrangements within four outlines and L6 shows cube nets. OEBP L5 shows tetrominoes and L6 encloses each arrangement separately. Foundalis R5 shows tiling patterns, whereas OEBP R6 shows strips of three squares. Foundalis R6 appears in OEBP R5."
+    "flag_reason": "The left collections are complete and the right collections omit members. For example, L1 shows all five regular polyhedra and R1 shows four. The sheets differ in the last row. In L5, Foundalis groups the arrangements within four outlines and OEBP encloses each arrangement separately. L6 shows cube nets in Foundalis and tetrominoes in OEBP. R5 shows tiling patterns in Foundalis and strips of three squares in OEBP. R6 matches on both sheets."
   },
   "BP380": {
     "foundalis": {
@@ -8801,7 +8801,7 @@
     "derived": {
       "rule": "Finite versus infinite applies to the implied family, since every sheet visibly contains only finitely many drawings."
     },
-    "flag_reason": "The tiling patterns in Foundalis L5 are absent from the OEBP sheet. OEBP L6 shows strips of three squares, and OEBP L5 contains the cube nets from Foundalis L6."
+    "flag_reason": "The completed left collections, including the cube nets in L6, are finite. The right collections can continue indefinitely, as in the sequence of increasing dot counts. Foundalis L5 shows tiling patterns and OEBP L5 shows strips of three squares."
   },
   "BP381": {
     "foundalis": {
@@ -8876,7 +8876,7 @@
     "derived": {
       "rule": "Counting dots distinguishes square numbers regardless of whether they form a square array."
     },
-    "flag_reason": "Foundalis R5 places four groups of nine dots (36) on the nonsquare side. OEBP places them on the square-number side in L5. Foundalis L4 (4 dots), R2 (8) and R4 (91) are absent from the OEBP sheet, which adds R1 (5), R2 (106) and R6 (26). OEBP L3 groups nine dots into triangles, while Foundalis L2 arranges them in columns."
+    "flag_reason": "Foundalis R5 contains four groups of nine dots. Their total, 36, is a square number and belongs on the left under both rules. OEBP L4 shows the same count with different spacing. Foundalis L4 (4 dots), R2 (8), and R4 (91) are absent from OEBP. OEBP adds R2 (5), R4 (106), and R5 (26). In L2, Foundalis arranges nine dots in columns and OEBP groups them into triangles."
   },
   "BP385": {
     "foundalis": {
