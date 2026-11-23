@@ -29,9 +29,6 @@
       "url": "https://oebp.org/BP1",
       "image": "img/corrected/BP001E.png",
       "rule": "Empty image vs. non-empty image."
-    },
-    "derived": {
-      "rule": "Every left panel is empty, and every right panel contains at least one mark."
     }
   },
   "BP002": {
@@ -64,9 +61,6 @@
       "url": "https://oebp.org/BP2",
       "image": "img/corrected/BP002E.png",
       "rule": "Big vs. small."
-    },
-    "derived": {
-      "rule": "The figure occupies a large part of its panel on the left and a small part on the right."
     }
   },
   "BP003": {
@@ -99,9 +93,6 @@
       "url": "https://oebp.org/BP3",
       "image": "img/corrected/BP003E.png",
       "rule": "Hollow outline vs. filled in solid."
-    },
-    "derived": {
-      "rule": "The left-hand figures are outlines, and the right-hand figures are filled solid."
     }
   },
   "BP004": {
@@ -134,9 +125,6 @@
       "url": "https://oebp.org/BP4",
       "image": "img/corrected/BP004E.png",
       "rule": "Convex vs. concave."
-    },
-    "derived": {
-      "rule": "The left-hand figures are convex, and each right-hand figure has an inward indentation."
     }
   },
   "BP005": {
@@ -169,9 +157,6 @@
       "url": "https://oebp.org/BP5",
       "image": "img/corrected/BP005E.png",
       "rule": "Is polygon vs. is smooth without straight lines or corners."
-    },
-    "derived": {
-      "rule": "Straight edges meet at corners in the left-hand outlines, while the right-hand outlines curve smoothly throughout."
     }
   },
   "BP006": {
@@ -204,9 +189,6 @@
       "url": "https://oebp.org/BP6",
       "image": "img/corrected/BP006E.png",
       "rule": "Triangle vs. quadrilateral."
-    },
-    "derived": {
-      "rule": "Each figure on the left has three sides, and each figure on the right has four."
     }
   },
   "BP007": {
@@ -239,9 +221,6 @@
       "url": "https://oebp.org/BP7",
       "image": "img/corrected/BP007E.png",
       "rule": "Taller than wide vs. wider than tall."
-    },
-    "derived": {
-      "rule": "Each figure is taller than it is wide on the left and wider than it is tall on the right."
     }
   },
   "BP008": {
@@ -274,9 +253,6 @@
       "url": "https://oebp.org/BP8",
       "image": "img/corrected/BP008E.png",
       "rule": "Positioned right vs. positioned left."
-    },
-    "derived": {
-      "rule": "Within each panel, the figure lies toward the right edge in the left group and toward the left edge in the right group."
     }
   },
   "BP009": {
@@ -309,9 +285,6 @@
       "url": "https://oebp.org/BP9",
       "image": "img/corrected/BP009E.png",
       "rule": "Non-wiggly outline vs. wiggly outline."
-    },
-    "derived": {
-      "rule": "The left-hand outlines follow simple lines or curves, while small repeated bends run around the right-hand outlines."
     }
   },
   "BP010": {
@@ -344,9 +317,6 @@
       "url": "https://oebp.org/BP10",
       "image": "img/corrected/BP010E.png",
       "rule": "Approximately triangular outline vs. approximately convex quadrilateral outline."
-    },
-    "derived": {
-      "rule": "Even when the edges are jagged, the overall outline resembles a triangle on the left and a convex quadrilateral on the right."
     }
   },
   "BP011": {
@@ -379,9 +349,6 @@
       "url": "https://oebp.org/BP11",
       "image": "img/corrected/BP011E.png",
       "rule": "Thin and elongated vs. compact."
-    },
-    "derived": {
-      "rule": "Each figure on the left is long and thin, even when it bends, while each figure on the right is compact."
     }
   },
   "BP012": {
@@ -414,9 +381,6 @@
       "url": "https://oebp.org/BP12",
       "image": "img/corrected/BP012E.png",
       "rule": "Thin elongated convex hull vs. compact convex hull."
-    },
-    "derived": {
-      "rule": "The convex hull of each figure is long and narrow on the left and compact on the right."
     }
   },
   "BP013": {
@@ -449,9 +413,6 @@
       "url": "https://oebp.org/BP13",
       "image": "img/corrected/BP013E.png",
       "rule": "Tall rectangle OR wide ellipse vs. wide rectangle OR tall ellipse."
-    },
-    "derived": {
-      "rule": "The rectangles are tall and the ellipses are wide on the left, while the rectangles are wide and the ellipses are tall on the right."
     }
   },
   "BP014": {
@@ -485,10 +446,7 @@
       "image": "img/corrected/BP014E.png",
       "rule": "All big individual figures vs. all small individual figures."
     },
-    "derived": {
-      "rule": "The left panels contain large figures with a long combined line length, while the right panels contain small figures with a shorter combined line length."
-    },
-    "flag_reason": "Appendix A (p. 357) and Foundalis’s website compare the total line length in each panel. OEBP compares the sizes of the individual figures. Both criteria fit the examples, and the derived rule includes both."
+    "flag_reason": "Appendix A (p. 357) and Foundalis’s website compare the total line length in each panel. OEBP compares the sizes of the individual figures. Both tests fit the examples, including the grid in L4 and the single short line in R1."
   },
   "BP015": {
     "foundalis": {
@@ -520,9 +478,6 @@
       "url": "https://oebp.org/BP15",
       "image": "img/corrected/BP015E.png",
       "rule": "Closed shape outline vs. non-closed curve."
-    },
-    "derived": {
-      "rule": "The line closes on itself in each left panel and has two distinct ends in each right panel."
     }
   },
   "BP016": {
@@ -556,10 +511,7 @@
       "image": "img/corrected/BP016E.png",
       "rule": "Clockwise spiraling curve vs. counter-clockwise spiraling curve."
     },
-    "derived": {
-      "rule": "Following each spiral from its inner end outward, the curve winds clockwise on the left and counterclockwise on the right."
-    },
-    "flag_reason": "Appendix A (p. 358) and Foundalis’s website call the left spirals counterclockwise, while OEBP calls them clockwise. None specifies a starting end. Tracing L1 inward gives Foundalis’s direction. Tracing it outward gives OEBP’s direction, which is the convention the derived rule specifies."
+    "flag_reason": "Appendix A (p. 358) and Foundalis’s website call the left spirals counterclockwise, while OEBP calls them clockwise. None specifies a starting end. Tracing L1 inward gives Foundalis’s direction. Tracing it outward gives OEBP’s direction."
   },
   "BP017": {
     "foundalis": {
@@ -585,17 +537,14 @@
           "count": 14,
           "mean_time_seconds": 12.9
         }
-      }
+      },
+      "note": "Incorrect rule retained from original."
     },
     "oebp": {
       "url": "https://oebp.org/BP17",
       "image": "img/corrected/BP017E.png",
       "rule": "Shape with a reflex corner vs. shape without a reflex corner."
-    },
-    "derived": {
-      "rule": "Each left outline has an inward-pointing corner, while any inward bend on the right is smooth."
-    },
-    "flag_reason": "Foundalis calls the inward notch acute, but the opening in L2 measures about 110°. OEBP’s description of a reflex interior corner fits this example."
+    }
   },
   "BP018": {
     "foundalis": {
@@ -627,9 +576,6 @@
       "url": "https://oebp.org/BP18",
       "image": "img/corrected/BP018E.png",
       "rule": "\"Pinched\" shape (drastically thinner somewhere in the middle than on the ends) vs. non-pinched shape."
-    },
-    "derived": {
-      "rule": "Each left figure narrows to a neck between two wider parts, while the right figures have no such neck."
     }
   },
   "BP019": {
@@ -662,9 +608,6 @@
       "url": "https://oebp.org/BP19",
       "image": "img/corrected/BP019E.png",
       "rule": "Horizontal pinch vs. vertical pinch."
-    },
-    "derived": {
-      "rule": "The narrow passage connecting the two wider parts runs horizontally on the left and vertically on the right."
     }
   },
   "BP020": {
@@ -697,9 +640,6 @@
       "url": "https://oebp.org/BP20",
       "image": "img/corrected/BP020E.png",
       "rule": "Both dots touching same bulb vs. dots on opposite bulbs."
-    },
-    "derived": {
-      "rule": "The two dots touch the same lobe of the figure on the left and opposite lobes on the right."
     }
   },
   "BP021": {
@@ -732,9 +672,6 @@
       "url": "https://oebp.org/BP21",
       "image": "img/corrected/BP021E.png",
       "rule": "Small shape present vs. all shapes large."
-    },
-    "derived": {
-      "rule": "Every left example contains at least one small figure, while every figure on the right is large."
     }
   },
   "BP022": {
@@ -767,9 +704,6 @@
       "url": "https://oebp.org/BP22",
       "image": "img/corrected/BP022E.png",
       "rule": "All shapes approximately the same size vs. shapes of different size."
-    },
-    "derived": {
-      "rule": "The figures in each left example enclose roughly equal areas, while each right example contains figures with markedly different areas."
     }
   },
   "BP023": {
@@ -802,9 +736,6 @@
       "url": "https://oebp.org/BP23",
       "image": "img/corrected/BP023E.png",
       "rule": "One vs. two figures."
-    },
-    "derived": {
-      "rule": "Each left example contains one figure, and each right example contains two."
     }
   },
   "BP024": {
@@ -837,9 +768,6 @@
       "url": "https://oebp.org/BP24",
       "image": "img/corrected/BP024E.png",
       "rule": "A circle vs. no circle."
-    },
-    "derived": {
-      "rule": "A circle appears in every left example and in none of the right examples."
     }
   },
   "BP025": {
@@ -872,9 +800,6 @@
       "url": "https://oebp.org/BP25",
       "image": "img/corrected/BP025E.png",
       "rule": "Black figure is a triangle vs. black figure is a circle."
-    },
-    "derived": {
-      "rule": "The single solid figure is a triangle on the left and a circle on the right."
     }
   },
   "BP026": {
@@ -907,9 +832,6 @@
       "url": "https://oebp.org/BP26",
       "image": "img/corrected/BP026E.png",
       "rule": "Solid black triangle vs. no solid black triangle."
-    },
-    "derived": {
-      "rule": "Every left example contains a solid triangle, while none of the right examples contains one."
     }
   },
   "BP027": {
@@ -942,9 +864,6 @@
       "url": "https://oebp.org/BP27",
       "image": "img/corrected/BP027E.png",
       "rule": "More solid black figures vs. more outline figures."
-    },
-    "derived": {
-      "rule": "Solid figures outnumber outline figures on the left, and outline figures outnumber solid figures on the right."
     }
   },
   "BP028": {
@@ -977,9 +896,6 @@
       "url": "https://oebp.org/BP28",
       "image": "img/corrected/BP028E.png",
       "rule": "More solid black circles vs. more outline circles."
-    },
-    "derived": {
-      "rule": "Solid circles outnumber outline circles on the left, and outline circles outnumber solid circles on the right."
     }
   },
   "BP029": {
@@ -1012,9 +928,6 @@
       "url": "https://oebp.org/BP29",
       "image": "img/corrected/BP029E.png",
       "rule": "There are more small circles inside the figure outline than outside vs. there are fewer small circles inside the figure outline than outside."
-    },
-    "derived": {
-      "rule": "More small circles lie inside the large outline than outside it on the left, and more lie outside than inside on the right."
     }
   },
   "BP030": {
@@ -1047,9 +960,6 @@
       "url": "https://oebp.org/BP30",
       "image": "img/corrected/BP030E.png",
       "rule": "A curve with one self-crossing vs. a curve without a self-crossing."
-    },
-    "derived": {
-      "rule": "The curve crosses itself once in each left example and never crosses itself in the right examples."
     }
   },
   "BP031": {
@@ -1082,9 +992,6 @@
       "url": "https://oebp.org/BP31",
       "image": "img/corrected/BP031E.png",
       "rule": "One line vs. two lines."
-    },
-    "derived": {
-      "rule": "Following a stroke from end to end gives one line on the left and two lines on the right."
     }
   },
   "BP032": {
@@ -1117,9 +1024,6 @@
       "url": "https://oebp.org/BP32",
       "image": "img/corrected/BP032E.png",
       "rule": "A sharp projection vs. no sharp projection."
-    },
-    "derived": {
-      "rule": "A sharp point projects from each left outline. The right outlines have no such projection."
     }
   },
   "BP033": {
@@ -1152,9 +1056,6 @@
       "url": "https://oebp.org/BP33",
       "image": "img/corrected/BP033E.png",
       "rule": "Acute angle vs. no acute angle."
-    },
-    "derived": {
-      "rule": "Each left outline has an acute corner. Every corner on the right is at least a right angle."
     }
   },
   "BP034": {
@@ -1187,9 +1088,6 @@
       "url": "https://oebp.org/BP34",
       "image": "img/corrected/BP034E.png",
       "rule": "A large hole vs. a small hole."
-    },
-    "derived": {
-      "rule": "The hole occupies a large part of the black figure on the left and a small part on the right."
     }
   },
   "BP035": {
@@ -1222,9 +1120,6 @@
       "url": "https://oebp.org/BP35",
       "image": "img/corrected/BP035E.png",
       "rule": "The axis of the hole is parallel to the figure axis vs. the axis of the hole is perpendicular to the figure axis."
-    },
-    "derived": {
-      "rule": "The long axis of the hole runs along the black figure on the left and across it on the right."
     }
   },
   "BP036": {
@@ -1257,9 +1152,6 @@
       "url": "https://oebp.org/BP36",
       "image": "img/corrected/BP036E.png",
       "rule": "Triangle above circle vs. circle above triangle."
-    },
-    "derived": {
-      "rule": "The triangle is higher than the circle on the left and lower on the right."
     }
   },
   "BP037": {
@@ -1292,9 +1184,6 @@
       "url": "https://oebp.org/BP37",
       "image": "img/corrected/BP037E.png",
       "rule": "Triangle above circle vs. circle above triangle."
-    },
-    "derived": {
-      "rule": "Among the three shapes, the triangle lies above the circle on the left and below it on the right."
     }
   },
   "BP038": {
@@ -1327,9 +1216,6 @@
       "url": "https://oebp.org/BP38",
       "image": "img/corrected/BP038E.png",
       "rule": "Triangle larger than circle vs. triangle smaller than circle."
-    },
-    "derived": {
-      "rule": "On the left the triangle is larger than the circle. On the right the circle is larger."
     }
   },
   "BP039": {
@@ -1362,9 +1248,6 @@
       "url": "https://oebp.org/BP39",
       "image": "img/corrected/BP039E.png",
       "rule": "Segments approximately parallel to each other vs. large angles between segments."
-    },
-    "derived": {
-      "rule": "The segments point in nearly parallel directions on the left and form large angles with one another on the right."
     }
   },
   "BP040": {
@@ -1397,9 +1280,6 @@
       "url": "https://oebp.org/BP40",
       "image": "img/corrected/BP040E.png",
       "rule": "Three points on a straight line vs. no three points on a straight line."
-    },
-    "derived": {
-      "rule": "A straight line passes through three dots on the left. Every triple on the right departs from a straight line."
     }
   },
   "BP041": {
@@ -1432,9 +1312,6 @@
       "url": "https://oebp.org/BP41",
       "image": "img/corrected/BP041E.png",
       "rule": "Outline circles on one straight line vs. outline circles not on one straight line."
-    },
-    "derived": {
-      "rule": "The hollow dots lie on one line on the left and depart from a common line on the right."
     }
   },
   "BP042": {
@@ -1467,9 +1344,6 @@
       "url": "https://oebp.org/BP42",
       "image": "img/corrected/BP042E.png",
       "rule": "Points inside the figure outline are on a straight line vs. points inside the figure outline are not on a straight line."
-    },
-    "derived": {
-      "rule": "The dots inside the boundary are collinear on the left and form a noncollinear set on the right."
     }
   },
   "BP043": {
@@ -1502,9 +1376,6 @@
       "url": "https://oebp.org/BP43",
       "image": "img/corrected/BP043E.png",
       "rule": "The vibration amplitude increases from left to right vs. the vibration amplitude decreases from left to right."
-    },
-    "derived": {
-      "rule": "Reading from left to right, the oscillations grow in amplitude in the left examples and shrink in the right examples."
     }
   },
   "BP044": {
@@ -1537,9 +1408,6 @@
       "url": "https://oebp.org/BP44",
       "image": "img/corrected/BP044E.png",
       "rule": "Small circles on different arcs vs. small circles on one arc."
-    },
-    "derived": {
-      "rule": "The small circles mark different arcs on the left and the same arc on the right."
     }
   },
   "BP045": {
@@ -1572,9 +1440,6 @@
       "url": "https://oebp.org/BP45",
       "image": "img/corrected/BP045E.png",
       "rule": "Outline figure on top of solid black figure vs. black figure on top of outline figure."
-    },
-    "derived": {
-      "rule": "The hollow shape obscures part of the solid one on the left. The solid shape obscures part of the hollow one on the right."
     }
   },
   "BP046": {
@@ -1607,9 +1472,6 @@
       "url": "https://oebp.org/BP46",
       "image": "img/corrected/BP046E.png",
       "rule": "Triangle on top of the circle vs. circle on top of the triangle."
-    },
-    "derived": {
-      "rule": "Where the shapes overlap, the triangle is in front on the left and the circle is in front on the right."
     }
   },
   "BP047": {
@@ -1642,9 +1504,6 @@
       "url": "https://oebp.org/BP47",
       "image": "img/corrected/BP047E.png",
       "rule": "Triangle inside of the circle vs. circle inside of the triangle."
-    },
-    "derived": {
-      "rule": "A circle encloses a triangle on the left, and a triangle encloses a circle on the right."
     }
   },
   "BP048": {
@@ -1677,9 +1536,6 @@
       "url": "https://oebp.org/BP48",
       "image": "img/corrected/BP048E.png",
       "rule": "Solid dark figures above the outline figures vs. outline figures above the solid dark figures."
-    },
-    "derived": {
-      "rule": "The solid shapes sit above the hollow shapes on the left. Their vertical order is reversed on the right."
     }
   },
   "BP049": {
@@ -1712,9 +1568,6 @@
       "url": "https://oebp.org/BP49",
       "image": "img/corrected/BP049E.png",
       "rule": "Points inside the figure outline are grouped more densely than outside the contour vs. points outside the figure contour are grouped more densely than inside the contour."
-    },
-    "derived": {
-      "rule": "Dots are more closely spaced inside the boundary on the left and outside it on the right."
     }
   },
   "BP050": {
@@ -1748,10 +1601,7 @@
       "image": "img/corrected/BP050E.png",
       "rule": "Vertical axis of symmetry vs. no axis of symmetry."
     },
-    "derived": {
-      "rule": "A vertical mirror would reproduce each left arrangement. The right arrangements lack mirror symmetry."
-    },
-    "flag_reason": "Appendix A (p. 369) and Foundalis’s website allow any axis of reflection on the left. OEBP and the derived rule require a vertical axis. Every left example has a vertical axis, so the drawings fit both rules."
+    "flag_reason": "Appendix A (p. 369) and Foundalis’s website allow any axis of reflection on the left. OEBP specifies a vertical axis. L1–L6 all have a vertical axis, so both rules fit."
   },
   "BP051": {
     "foundalis": {
@@ -1783,9 +1633,6 @@
       "url": "https://oebp.org/BP51",
       "image": "img/corrected/BP051E.png",
       "rule": "Two circles close to each other vs. no two circles close to each other."
-    },
-    "derived": {
-      "rule": "Each left drawing has a close pair of circles. The circles on the right are spaced apart."
     }
   },
   "BP052": {
@@ -1818,9 +1665,6 @@
       "url": "https://oebp.org/BP52",
       "image": "img/corrected/BP052E.png",
       "rule": "Arrows pointing in different directions vs. arrows pointing in the same direction."
-    },
-    "derived": {
-      "rule": "The two arrowheads point in different directions on the left and in the same direction on the right."
     }
   },
   "BP053": {
@@ -1853,9 +1697,6 @@
       "url": "https://oebp.org/BP53",
       "image": "img/corrected/BP053E.png",
       "rule": "Inside figure has fewer angles than outside figure vs. inside figure has more angles than outside figure."
-    },
-    "derived": {
-      "rule": "The enclosed figure has fewer corners than its enclosing figure on the left and more corners on the right."
     }
   },
   "BP054": {
@@ -1890,9 +1731,6 @@
       "image": "img/corrected/BP054E.png",
       "rule": "A cross, circle, and triangle arranged clockwise vs. a cross, circle, and triangle arranged counterclockwise.",
       "note": "Rule corrected from original by swapping the left and right descriptions."
-    },
-    "derived": {
-      "rule": "Visiting the cross, circle, and triangle in that order goes clockwise on the left and counterclockwise on the right."
     }
   },
   "BP055": {
@@ -1925,9 +1763,6 @@
       "url": "https://oebp.org/BP55",
       "image": "img/corrected/BP055E.png",
       "rule": "A circle is at the left of the cavity if you look from inside the figure vs. a circle is at the right of the cavity if you look from inside the figure."
-    },
-    "derived": {
-      "rule": "Looking out from the figure through its indentation, the small circle lies on the left in the left examples and on the right in the right examples."
     }
   },
   "BP056": {
@@ -1960,9 +1795,6 @@
       "url": "https://oebp.org/BP56",
       "image": "img/corrected/BP056E.png",
       "rule": "All figures of the same color vs. figures of different colors."
-    },
-    "derived": {
-      "rule": "The figures in a left example are all filled alike. Each right example mixes filled and hollow figures."
     }
   },
   "BP057": {
@@ -1995,9 +1827,6 @@
       "url": "https://oebp.org/BP57",
       "image": "img/corrected/BP057E.png",
       "rule": "Identical figures vs. figures not identical."
-    },
-    "derived": {
-      "rule": "The shapes in each left example are identical. Each right example contains a difference in size or shape."
     }
   },
   "BP058": {
@@ -2031,10 +1860,7 @@
       "image": "img/corrected/BP058E.png",
       "rule": "Solid dark quadrangles are identical vs. solid dark quadrangles are different."
     },
-    "derived": {
-      "rule": "The solid quadrilaterals match one another on the left and differ on the right."
-    },
-    "flag_reason": "Appendix A (p. 372) describes two identical filled squares on the left. Both websites and the derived rule extend the comparison to filled quadrilaterals. The examples fit both descriptions."
+    "flag_reason": "Appendix A (p. 372) describes the two identical filled squares in each of L1–L6. Both websites extend the comparison to filled quadrilaterals. The drawings fit both descriptions."
   },
   "BP059": {
     "foundalis": {
@@ -2066,9 +1892,6 @@
       "url": "https://oebp.org/BP59",
       "image": "img/corrected/BP059E.png",
       "rule": "Figures are similar vs. figures are not similar."
-    },
-    "derived": {
-      "rule": "The shapes match up to a change of scale and orientation on the left. Their forms differ on the right."
     }
   },
   "BP060": {
@@ -2101,9 +1924,6 @@
       "url": "https://oebp.org/BP60",
       "image": "img/corrected/BP060E.png",
       "rule": "Some similar figures vs. no similar figures."
-    },
-    "derived": {
-      "rule": "At least one pair of figures has the same shape up to scale on the left. Every pair differs in shape on the right."
     }
   },
   "BP061": {
@@ -2136,9 +1956,6 @@
       "url": "https://oebp.org/BP61",
       "image": "img/corrected/BP061E.png",
       "rule": "A line separates the crosses in half vs. a line does not separate the crosses in half."
-    },
-    "derived": {
-      "rule": "The line leaves equal numbers of crosses on its two sides in each left example and unequal numbers in each right example."
     }
   },
   "BP062": {
@@ -2171,9 +1988,6 @@
       "url": "https://oebp.org/BP62",
       "image": "img/corrected/BP062E.png",
       "rule": "Ends of the curve are far apart vs. ends of the curve are close together."
-    },
-    "derived": {
-      "rule": "The two ends of the curve are far apart on the left and close together on the right."
     }
   },
   "BP063": {
@@ -2206,9 +2020,6 @@
       "url": "https://oebp.org/BP63",
       "image": "img/corrected/BP063E.png",
       "rule": "Shading thicker on the right side vs. shading thicker on the left side."
-    },
-    "derived": {
-      "rule": "The outline is heavier along the right edge in the left examples and along the left edge in the right examples."
     }
   },
   "BP064": {
@@ -2241,9 +2052,6 @@
       "url": "https://oebp.org/BP64",
       "image": "img/corrected/BP064E.png",
       "rule": "A cross is located on the extension of the ellipse axis vs. a circle is located on the extension of the ellipse axis."
-    },
-    "derived": {
-      "rule": "Extending the major axis of the ellipse reaches the cross on the left and the small circle on the right."
     }
   },
   "BP065": {
@@ -2276,9 +2084,6 @@
       "url": "https://oebp.org/BP65",
       "image": "img/corrected/BP065E.png",
       "rule": "A set of triangles elongated horizontally vs. a set of triangles elongated vertically."
-    },
-    "derived": {
-      "rule": "The triangles as a group extend farther horizontally on the left and vertically on the right."
     }
   },
   "BP066": {
@@ -2311,9 +2116,6 @@
       "url": "https://oebp.org/BP66",
       "image": "img/corrected/BP066E.png",
       "rule": "Unconnected circles on a horizontal line vs. unconnected circles on a vertical line."
-    },
-    "derived": {
-      "rule": "The unconnected circles align horizontally on the left and vertically on the right."
     }
   },
   "BP067": {
@@ -2346,9 +2148,6 @@
       "url": "https://oebp.org/BP67",
       "image": "img/corrected/BP067E.png",
       "rule": "The right branch begins at a higher point than the left branch vs. the right branch begins at a lower point than the left branch."
-    },
-    "derived": {
-      "rule": "The right branch leaves the stem above the left branch on the left and below it on the right."
     }
   },
   "BP068": {
@@ -2381,9 +2180,6 @@
       "url": "https://oebp.org/BP68",
       "image": "img/corrected/BP068E.png",
       "rule": "The end of the right branch is higher than that of the left branch vs. the end of the right branch is lower than that of the left branch."
-    },
-    "derived": {
-      "rule": "The right branch ends above the left branch on the left and below it on the right."
     }
   },
   "BP069": {
@@ -2416,9 +2212,6 @@
       "url": "https://oebp.org/BP69",
       "image": "img/corrected/BP069E.png",
       "rule": "Large black dot on the main branch vs. large black dot on a side branch."
-    },
-    "derived": {
-      "rule": "The black dot marks the main branch on the left and a side branch on the right."
     }
   },
   "BP070": {
@@ -2451,9 +2244,6 @@
       "url": "https://oebp.org/BP70",
       "image": "img/corrected/BP070E.png",
       "rule": "There are no side branches of the second order vs. there are side branches of the second order."
-    },
-    "derived": {
-      "rule": "Only the stem gives rise to branches on the left. A side branch itself branches on the right."
     }
   },
   "BP071": {
@@ -2486,9 +2276,6 @@
       "url": "https://oebp.org/BP71",
       "image": "img/corrected/BP071E.png",
       "rule": "There are inside figures of the second order vs. there are no inside figures of the second order."
-    },
-    "derived": {
-      "rule": "On the left an enclosed figure encloses a further figure. On the right the nesting stops after one level."
     }
   },
   "BP072": {
@@ -2521,9 +2308,6 @@
       "url": "https://oebp.org/BP72",
       "image": "img/corrected/BP072E.png",
       "rule": "Ends of the curve are parallel vs. ends of the curve are perpendicular."
-    },
-    "derived": {
-      "rule": "The end directions of the open curve are parallel on the left and perpendicular on the right."
     }
   },
   "BP073": {
@@ -2556,9 +2340,6 @@
       "url": "https://oebp.org/BP73",
       "image": "img/corrected/BP073E.png",
       "rule": "The long axes of the ellipse and rectangle are perpendicular vs. the long axes of the ellipse and rectangle are parallel."
-    },
-    "derived": {
-      "rule": "The long axes of the ellipse and rectangle meet at a right angle on the left and are parallel on the right."
     }
   },
   "BP074": {
@@ -2591,9 +2372,6 @@
       "url": "https://oebp.org/BP74",
       "image": "img/corrected/BP074E.png",
       "rule": "A tail grows from the obtuse end vs. a tail grows from the acute end."
-    },
-    "derived": {
-      "rule": "The tail leaves the blunt end of the shape on the left and the pointed end on the right."
     }
   },
   "BP075": {
@@ -2626,9 +2404,6 @@
       "url": "https://oebp.org/BP75",
       "image": "img/corrected/BP075E.png",
       "rule": "Triangle located at the concave side of an arc vs. triangle located at the convex side of an arc."
-    },
-    "derived": {
-      "rule": "The triangle lies on the concave side of the arc on the left and the convex side on the right."
     }
   },
   "BP076": {
@@ -2661,9 +2436,6 @@
       "url": "https://oebp.org/BP76",
       "image": "img/corrected/BP076E.png",
       "rule": "Long sides concave vs. long sides convex."
-    },
-    "derived": {
-      "rule": "The long sides of the figure bow inward on the left and outward on the right."
     }
   },
   "BP077": {
@@ -2696,9 +2468,6 @@
       "url": "https://oebp.org/BP77",
       "image": "img/corrected/BP077E.png",
       "rule": "Angle divided in half vs. angle not divided in half."
-    },
-    "derived": {
-      "rule": "The inner ray bisects the angle on the left and divides it unequally on the right."
     }
   },
   "BP078": {
@@ -2731,9 +2500,6 @@
       "url": "https://oebp.org/BP78",
       "image": "img/corrected/BP078E.png",
       "rule": "Extensions of segments cross at one point vs. extensions of segments do not cross at one point."
-    },
-    "derived": {
-      "rule": "Extending all the segments gives a common intersection on the left. Their extensions lack a common intersection on the right."
     }
   },
   "BP079": {
@@ -2766,9 +2532,6 @@
       "url": "https://oebp.org/BP79",
       "image": "img/corrected/BP079E.png",
       "rule": "A dark circle is closer to the outline circle than to the triangle vs. a dark circle is closer to the triangle than to the outline circle."
-    },
-    "derived": {
-      "rule": "The solid circle is nearer the hollow circle on the left and nearer the triangle on the right."
     }
   },
   "BP080": {
@@ -2801,9 +2564,6 @@
       "url": "https://oebp.org/BP80",
       "image": "img/corrected/BP080E.png",
       "rule": "Points located at the same distances from a cross vs. points located at different distances from a cross."
-    },
-    "derived": {
-      "rule": "The dots are equally far from the cross on the left and at different distances from it on the right."
     }
   },
   "BP081": {
@@ -2836,9 +2596,6 @@
       "url": "https://oebp.org/BP81",
       "image": "img/corrected/BP081E.png",
       "rule": "Dark figures can be divided from outline figures by a straight line vs. convex hulls of filled and outlined figures overlap."
-    },
-    "derived": {
-      "rule": "A straight line can separate the filled shapes from the hollow shapes on the left. Their convex hulls overlap on the right."
     }
   },
   "BP082": {
@@ -2871,9 +2628,6 @@
       "url": "https://oebp.org/BP82",
       "image": "img/corrected/BP082E.png",
       "rule": "The convex hull of the crosses forms an equilateral triangle vs. the convex hull of the crosses does not form an equilateral triangle."
-    },
-    "derived": {
-      "rule": "The outermost crosses define an equilateral triangle on the left and a different outline on the right."
     }
   },
   "BP083": {
@@ -2906,9 +2660,6 @@
       "url": "https://oebp.org/BP83",
       "image": "img/corrected/BP083E.png",
       "rule": "A circle is inside of a figure made by crosses vs. a circle is outside of figures made by crosses."
-    },
-    "derived": {
-      "rule": "The circle lies inside the outline implied by the crosses on the left and outside it on the right."
     }
   },
   "BP084": {
@@ -2942,10 +2693,7 @@
       "image": "img/corrected/BP084E.png",
       "rule": "A quadrangle is outside of a figure made by circles vs. a quadrangle is inside of a figure made by circles."
     },
-    "derived": {
-      "rule": "The quadrilateral lies outside the boundary of small circles on the left and inside it on the right."
-    },
-    "flag_reason": "Appendix A (p. 381) calls the figure outside or inside the region marked out by circles a square. Both websites and the derived rule allow any quadrilateral in that position. The distinction between outside and inside is the same in the drawings."
+    "flag_reason": "Appendix A (p. 381) calls the four-sided figure a square. Both websites allow any quadrilateral. In L1 the square lies outside the ring of circles, and in R1 it lies inside. The same distinction holds across both sheets."
   },
   "BP085": {
     "foundalis": {
@@ -2977,9 +2725,6 @@
       "url": "https://oebp.org/BP85",
       "image": "img/corrected/BP085E.png",
       "rule": "Three parts vs. five parts."
-    },
-    "derived": {
-      "rule": "Each left drawing contains three component segments, and each right drawing contains five."
     }
   },
   "BP086": {
@@ -3014,9 +2759,6 @@
       "image": "img/corrected/BP086E.png",
       "rule": "Three arms meeting at a junction vs. five arms meeting at a junction.",
       "note": "Rule corrected from original by specifying that each part is an arm of the junction."
-    },
-    "derived": {
-      "rule": "Three arms meet at the junction on the left and five on the right."
     }
   },
   "BP087": {
@@ -3049,9 +2791,6 @@
       "url": "https://oebp.org/BP87",
       "image": "img/corrected/BP087E.png",
       "rule": "Four parts vs. five parts."
-    },
-    "derived": {
-      "rule": "Counting the component segments gives four on the left and five on the right."
     }
   },
   "BP088": {
@@ -3084,9 +2823,6 @@
       "url": "https://oebp.org/BP88",
       "image": "img/corrected/BP088E.png",
       "rule": "Three parts vs. five parts."
-    },
-    "derived": {
-      "rule": "There are three elongated pieces on the left and five on the right, whether separate or touching."
     }
   },
   "BP089": {
@@ -3121,9 +2857,6 @@
       "image": "img/corrected/BP089E.png",
       "rule": "Three connected groups of ovals vs. five connected groups of ovals.",
       "note": "Rule corrected from original by specifying that each part is a group of connected ovals."
-    },
-    "derived": {
-      "rule": "The ovals form three connected groups on the left and five on the right."
     }
   },
   "BP090": {
@@ -3158,9 +2891,6 @@
       "image": "img/corrected/BP090E.png",
       "rule": "Three connected groups of outlined ovals vs. four connected groups of outlined ovals.",
       "note": "Rule corrected from original by specifying that each part is a group of connected ovals that are outlined."
-    },
-    "derived": {
-      "rule": "The outlined ovals form three connected groups on the left and four on the right."
     }
   },
   "BP091": {
@@ -3193,9 +2923,6 @@
       "url": "https://oebp.org/BP91",
       "image": "img/corrected/BP091E.png",
       "rule": "Three identical elements vs. four identical elements."
-    },
-    "derived": {
-      "rule": "A left figure repeats an element three times. A right figure repeats it four times."
     }
   },
   "BP092": {
@@ -3228,9 +2955,6 @@
       "url": "https://oebp.org/BP92",
       "image": "img/corrected/BP092E.png",
       "rule": "The chain does not branch vs. the chain branches."
-    },
-    "derived": {
-      "rule": "The chain of small circles follows a single unbranched course on the left and forks on the right."
     }
   },
   "BP093": {
@@ -3263,9 +2987,6 @@
       "url": "https://oebp.org/BP93",
       "image": "img/corrected/BP093E.png",
       "rule": "Branches at outlined circle vs. branches at solid dark circle."
-    },
-    "derived": {
-      "rule": "A hollow circle marks the fork on the left and a solid circle marks it on the right."
     }
   },
   "BP094": {
@@ -3298,9 +3019,6 @@
       "url": "https://oebp.org/BP94",
       "image": "img/corrected/BP094E.png",
       "rule": "Solid dark circle not at end vs. solid dark circle at end."
-    },
-    "derived": {
-      "rule": "The filled circle lies within the chain on the left and at a free end on the right."
     }
   },
   "BP095": {
@@ -3333,9 +3051,6 @@
       "url": "https://oebp.org/BP95",
       "image": "img/corrected/BP095E.png",
       "rule": "Vertical hatched lines vs. horizontal hatched lines."
-    },
-    "derived": {
-      "rule": "The strokes shading the shapes run vertically on the left and horizontally on the right."
     }
   },
   "BP096": {
@@ -3368,9 +3083,6 @@
       "url": "https://oebp.org/BP96",
       "image": "img/corrected/BP096E.png",
       "rule": "Triangles vs. quadrangles."
-    },
-    "derived": {
-      "rule": "The hatched figure has three sides on the left and four on the right."
     }
   },
   "BP097": {
@@ -3403,9 +3115,6 @@
       "url": "https://oebp.org/BP97",
       "image": "img/corrected/BP097E.png",
       "rule": "Triangles vs. circles."
-    },
-    "derived": {
-      "rule": "The figure is a triangle on the left and a circle on the right, regardless of how its outline is drawn."
     }
   },
   "BP098": {
@@ -3438,9 +3147,6 @@
       "url": "https://oebp.org/BP98",
       "image": "img/corrected/BP098E.png",
       "rule": "Triangles vs. quadrangles."
-    },
-    "derived": {
-      "rule": "A triangle appears against the hatching on the left and a quadrilateral on the right."
     }
   },
   "BP099": {
@@ -3473,9 +3179,6 @@
       "url": "https://oebp.org/BP99",
       "image": "img/corrected/BP099E.png",
       "rule": "Outlines made by triangles and circles intersect vs. outlines made by triangles and circles do not intersect."
-    },
-    "derived": {
-      "rule": "The outlines suggested by the small triangles and circles cross on the left and stay separate on the right."
     }
   },
   "BP100": {
@@ -3508,9 +3211,6 @@
       "url": "https://oebp.org/BP100",
       "image": "img/corrected/BP100E.png",
       "rule": "The letter A vs. the letter Б."
-    },
-    "derived": {
-      "rule": "The left examples depict the letter А, and the right examples depict the Cyrillic letter Б."
     }
   },
   "BP101": {
@@ -3526,9 +3226,6 @@
       "url": "https://oebp.org/BP101",
       "image": "img/corrected/BP101E.png",
       "rule": "Parallel dents vs. perpendicular dents."
-    },
-    "derived": {
-      "rule": "The two indentations run parallel on the left and perpendicular to one another on the right."
     }
   },
   "BP102": {
@@ -3544,9 +3241,6 @@
       "url": "https://oebp.org/BP102",
       "image": "img/corrected/BP102E.png",
       "rule": "Internal arrows point outward vs. internal arrows point inward."
-    },
-    "derived": {
-      "rule": "The arrowheads along the interior point outward on the left and inward on the right."
     }
   },
   "BP103": {
@@ -3562,9 +3256,6 @@
       "url": "https://oebp.org/BP103",
       "image": "img/corrected/BP103E.png",
       "rule": "Isosceles triangle vs. scalene triangle."
-    },
-    "derived": {
-      "rule": "The point and the two ends of the segment form an isosceles triangle on the left and a scalene triangle on the right."
     }
   },
   "BP104": {
@@ -3580,9 +3271,6 @@
       "url": "https://oebp.org/BP104",
       "image": "img/corrected/BP104E.png",
       "rule": "One circle passes through the center of the other circle vs. no circle passes through the center of the other circle."
-    },
-    "derived": {
-      "rule": "The boundary of one circle passes through the center of the other on the left and misses it on the right."
     }
   },
   "BP105": {
@@ -3599,10 +3287,7 @@
       "image": "img/corrected/BP105E.png",
       "rule": "Ends of line point to the same direction vs. ends of line do not point to the same direction."
     },
-    "derived": {
-      "rule": "At the two ends of the line the outward directions agree on the left and differ on the right."
-    },
-    "flag_reason": "Appendix A (p. 388) and Foundalis’s website require the ends of the connector to point in opposite directions on the right. In R1 the line meets the triangle roughly horizontally and the square vertically, about 90° apart. OEBP and the derived rule require only that the directions differ, which fits R1."
+    "flag_reason": "Appendix A (p. 388) and Foundalis’s website require the ends of the connector to point in opposite directions on the right. In R1 the line meets the triangle roughly horizontally and the square vertically, about 90° apart. OEBP requires only that the directions differ, which fits R1."
   },
   "BP106": {
     "foundalis": {
@@ -3617,9 +3302,6 @@
       "url": "https://oebp.org/BP106",
       "image": "img/corrected/BP106E.png",
       "rule": "Negative slope vs. positive slope."
-    },
-    "derived": {
-      "rule": "The line joining the marks has negative slope on the left and positive slope on the right, with height measured upward."
     }
   },
   "BP107": {
@@ -3635,9 +3317,6 @@
       "url": "https://oebp.org/BP107",
       "image": "img/corrected/BP107E.png",
       "rule": "Three simple lines vs. three complex lines."
-    },
-    "derived": {
-      "rule": "Counting the unadorned and decorated sides distinguishes the groups. There are three simple sides on the left and three complex sides on the right."
     }
   },
   "BP108": {
@@ -3653,9 +3332,6 @@
       "url": "https://oebp.org/BP108",
       "image": "img/corrected/BP108E.png",
       "rule": "Petals taper off vs. petals thicken."
-    },
-    "derived": {
-      "rule": "The petals narrow toward their tips on the left and broaden toward their tips on the right."
     }
   },
   "BP109": {
@@ -3671,9 +3347,6 @@
       "url": "https://oebp.org/BP109",
       "image": "img/corrected/BP109E.png",
       "rule": "Circle on the right of the box vs. circle on the left of the box."
-    },
-    "derived": {
-      "rule": "The circle is in the right half of each left panel and the left half of each right panel."
     }
   },
   "BP110": {
@@ -3689,9 +3362,6 @@
       "url": "https://oebp.org/BP110",
       "image": "img/corrected/BP110E.png",
       "rule": "Four out of five objects are circles vs. never four out of five objects are circles."
-    },
-    "derived": {
-      "rule": "Exactly four of the five shapes are circles on the left. A different number are circles on the right."
     }
   },
   "BP111": {
@@ -3707,9 +3377,6 @@
       "url": "https://oebp.org/BP111",
       "image": "img/corrected/BP111E.png",
       "rule": "Middle shape is a triangle vs. middle shape is not a triangle."
-    },
-    "derived": {
-      "rule": "The middle of the nested shapes is triangular on the left and has a different shape on the right."
     }
   },
   "BP112": {
@@ -3725,9 +3392,6 @@
       "url": "https://oebp.org/BP112",
       "image": "img/corrected/BP112E.png",
       "rule": "X-coordinates of dots are equidistant vs. y-coordinates of dots are equidistant."
-    },
-    "derived": {
-      "rule": "The dots have evenly spaced horizontal coordinates on the left and evenly spaced vertical coordinates on the right."
     }
   },
   "BP113": {
@@ -3743,9 +3407,6 @@
       "url": "https://oebp.org/BP113",
       "image": "img/corrected/BP113E.png",
       "rule": "T-like junction vs. y-like junction."
-    },
-    "derived": {
-      "rule": "The three arms meet like a T on the left and like a Y on the right."
     }
   },
   "BP114": {
@@ -3761,9 +3422,6 @@
       "url": "https://oebp.org/BP114",
       "image": "img/corrected/BP114E.png",
       "rule": "Four X-like points vs. two X-like points."
-    },
-    "derived": {
-      "rule": "The figures have four crossings on the left and two crossings on the right."
     }
   },
   "BP115": {
@@ -3779,9 +3437,6 @@
       "url": "https://oebp.org/BP115",
       "image": "img/corrected/BP115E.png",
       "rule": "Innermost shape is reachable from the outermost one vs. innermost shape is unreachable from the outermost one."
-    },
-    "derived": {
-      "rule": "The innermost and outermost shapes are connected by a continuous route on the left and disconnected on the right."
     }
   },
   "BP116": {
@@ -3797,9 +3452,6 @@
       "url": "https://oebp.org/BP116",
       "image": "img/corrected/BP116E.png",
       "rule": "Polygon stands on side vs. polygon stands on vertex."
-    },
-    "derived": {
-      "rule": "The polygon rests on a side on the left and on a vertex on the right."
     }
   },
   "BP117": {
@@ -3815,9 +3467,6 @@
       "url": "https://oebp.org/BP117",
       "image": "img/corrected/BP117E.png",
       "rule": "Triangle points to center of circle vs. triangle does not point to center of circle."
-    },
-    "derived": {
-      "rule": "The triangle points toward the circle’s center on the left and away from that alignment on the right."
     }
   },
   "BP118": {
@@ -3833,9 +3482,6 @@
       "url": "https://oebp.org/BP118",
       "image": "img/corrected/BP118E.png",
       "rule": "No cycle vs. a cycle exists."
-    },
-    "derived": {
-      "rule": "The connections form no cycle on the left and contain a cycle on the right."
     }
   },
   "BP119": {
@@ -3851,9 +3497,6 @@
       "url": "https://oebp.org/BP119",
       "image": "img/corrected/BP119E.png",
       "rule": "A small correction will result in a single circle vs. no small correction will result in a single circle."
-    },
-    "derived": {
-      "rule": "A small local repair would leave one circle on the left. The right figures require a more substantial change."
     }
   },
   "BP120": {
@@ -3870,10 +3513,7 @@
       "image": "img/corrected/BP120E.png",
       "rule": "All turns are in one direction and rectangular loop exists vs. turns in different directions and no rectangular loop exists."
     },
-    "derived": {
-      "rule": "The left paths turn consistently in one direction and contain a rectangular loop. The right paths change turn direction and lack that loop."
-    },
-    "flag_reason": "Appendix A (p. 393) describes the direction of the turns. Foundalis’s website gives the presence of a rectangular loop as an alternative test. OEBP and the derived rule require both consistent turns and a loop on the left, and both mixed turns and the absence of a loop on the right. These tests agree on the examples."
+    "flag_reason": "Appendix A (p. 393) describes the direction of the turns. Foundalis’s website gives a rectangular loop as an alternative test, and OEBP requires both tests to agree. In L1–L6 the turns go in one direction and a loop forms. In R1–R6 the turns change direction and no loop forms."
   },
   "BP121": {
     "foundalis": {
@@ -3888,9 +3528,6 @@
       "url": "https://oebp.org/BP121",
       "image": "img/corrected/BP121E.png",
       "rule": "Objects below match their \"symbols\" above, according to one \"code\" versus objects below match their \"symbols\" above, according to another \"code.\""
-    },
-    "derived": {
-      "rule": "On the left, VV encodes a circle, VΛ a square, ΛΛ a triangle and ΛV a blank. The right code reverses each V and Λ."
     }
   },
   "BP122": {
@@ -3906,9 +3543,6 @@
       "url": "https://oebp.org/BP122",
       "image": "img/corrected/BP122E.png",
       "rule": "Line divides interior into two regions vs. not so."
-    },
-    "derived": {
-      "rule": "The added line splits the interior into two regions on the left and fails to do so on the right."
     }
   },
   "BP123": {
@@ -3924,9 +3558,6 @@
       "url": "https://oebp.org/BP123",
       "image": "img/corrected/BP123E.png",
       "rule": "Similar shapes vs. dissimilar shapes."
-    },
-    "derived": {
-      "rule": "The components have similar shapes on the left and dissimilar shapes on the right."
     }
   },
   "BP124": {
@@ -3942,9 +3573,6 @@
       "url": "https://oebp.org/BP124",
       "image": "img/corrected/BP124E.png",
       "rule": "Similar textures vs. dissimilar textures."
-    },
-    "derived": {
-      "rule": "The components share a surface treatment on the left and differ in surface treatment on the right."
     }
   },
   "BP125": {
@@ -3960,9 +3588,6 @@
       "url": "https://oebp.org/BP125",
       "image": "img/corrected/BP125E.png",
       "rule": "One protrusion and one indentation of the same shape vs. not so."
-    },
-    "derived": {
-      "rule": "A protrusion matches an indentation in shape on the left. The corresponding match is absent on the right."
     }
   },
   "BP126": {
@@ -3978,9 +3603,6 @@
       "url": "https://oebp.org/BP126",
       "image": "img/corrected/BP126E.png",
       "rule": "One large and one small object vs. not so."
-    },
-    "derived": {
-      "rule": "Each left example has one large object and one small object. The right examples depart from that combination."
     }
   },
   "BP127": {
@@ -3996,9 +3618,6 @@
       "url": "https://oebp.org/BP127",
       "image": "img/corrected/BP127E.png",
       "rule": "Exactly one circle vs. not exactly one circle."
-    },
-    "derived": {
-      "rule": "Exactly one circle occurs on the left. The right examples have either no circle or more than one."
     }
   },
   "BP128": {
@@ -4014,9 +3633,6 @@
       "url": "https://oebp.org/BP128",
       "image": "img/corrected/BP128E.png",
       "rule": "Same objects inside and outside the large shape vs. not same objects inside and outside the large shape."
-    },
-    "derived": {
-      "rule": "The same collection of small objects appears inside and outside the large shape on the left. The collections differ on the right."
     }
   },
   "BP129": {
@@ -4032,9 +3648,6 @@
       "url": "https://oebp.org/BP129",
       "image": "img/corrected/BP129E.png",
       "rule": "Indentation on protrusion vs. indentation on indentation."
-    },
-    "derived": {
-      "rule": "The small indentation cuts into a protrusion on the left and into a larger indentation on the right."
     }
   },
   "BP130": {
@@ -4050,9 +3663,6 @@
       "url": "https://oebp.org/BP130",
       "image": "img/corrected/BP130E.png",
       "rule": "Closed region is made of curves if flaws are ignored vs. closed region is a polygon if flaws are ignored."
-    },
-    "derived": {
-      "rule": "Ignoring the small flaws reveals a curved outline on the left and a polygon on the right."
     }
   },
   "BP131": {
@@ -4068,9 +3678,6 @@
       "url": "https://oebp.org/BP131",
       "image": "img/corrected/BP131E.png",
       "rule": "Dots are vertices of a parallelogram vs. dots are not vertices of a parallelogram."
-    },
-    "derived": {
-      "rule": "The four dots could be the corners of a parallelogram on the left. They do not form a parallelogram on the right."
     }
   },
   "BP132": {
@@ -4086,9 +3693,6 @@
       "url": "https://oebp.org/BP132",
       "image": "img/corrected/BP132E.png",
       "rule": "Dots are vertices of a triangle standing on a side vs. dots are vertices of a triangle standing on a vertex."
-    },
-    "derived": {
-      "rule": "Joining the three dots makes a triangle that rests on a side on the left and on a vertex on the right."
     }
   },
   "BP133": {
@@ -4104,9 +3708,6 @@
       "url": "https://oebp.org/BP133",
       "image": "img/corrected/BP133E.png",
       "rule": "Dots collinear with center of circle vs. dots not collinear with center of circle."
-    },
-    "derived": {
-      "rule": "The two dots and the circle’s center lie on one line on the left and on different lines on the right."
     }
   },
   "BP134": {
@@ -4122,9 +3723,6 @@
       "url": "https://oebp.org/BP134",
       "image": "img/corrected/BP134E.png",
       "rule": "Circle centers are collinear vs. circle centers are not collinear."
-    },
-    "derived": {
-      "rule": "One line passes through all the circle centers on the left. The centers on the right are noncollinear."
     }
   },
   "BP135": {
@@ -4140,9 +3738,6 @@
       "url": "https://oebp.org/BP135",
       "image": "img/corrected/BP135E.png",
       "rule": "Circles on same side of curve vs. circles on different sides of curves."
-    },
-    "derived": {
-      "rule": "The small circles lie on the same side of the curve on the left and on different sides on the right."
     }
   },
   "BP136": {
@@ -4158,9 +3753,6 @@
       "url": "https://oebp.org/BP136",
       "image": "img/corrected/BP136E.png",
       "rule": "Concave shape vs. convex shape."
-    },
-    "derived": {
-      "rule": "The outlined figure is concave on the left and convex on the right."
     }
   },
   "BP137": {
@@ -4176,9 +3768,6 @@
       "url": "https://oebp.org/BP137",
       "image": "img/corrected/BP137E.png",
       "rule": "Dots equal in number to the sides of the closed region vs. dots unequal in number to the sides of the closed region."
-    },
-    "derived": {
-      "rule": "The number of dots equals the number of polygon sides on the left and differs from it on the right."
     }
   },
   "BP138": {
@@ -4195,10 +3784,7 @@
       "image": "img/corrected/BP138E.png",
       "rule": "No dot well within the convex hull vs. at least one dot well within the convex hull."
     },
-    "derived": {
-      "rule": "The dots lie on or near the boundary of their convex hull on the left. At least one dot lies well inside it on the right."
-    },
-    "flag_reason": "Appendix A (p. 399) asks whether a dot lies in the convex hull. Both websites and the derived rule ask whether a dot lies well inside it. The left examples place their dots on or near the boundary, and the right examples have a dot well inside. The printed caption leaves the treatment of boundary points implicit."
+    "flag_reason": "Appendix A (p. 399) asks whether a dot lies inside the convex hull. Both websites ask whether a dot lies well inside it. In L4 the middle of the three lower dots lies nearly on the line joining the outer two. In R1 a dot lies well inside the quadrilateral formed by the other four."
   },
   "BP139": {
     "foundalis": {
@@ -4213,9 +3799,6 @@
       "url": "https://oebp.org/BP139",
       "image": "img/corrected/BP139E.png",
       "rule": "Similar components that change regularly vs. not so."
-    },
-    "derived": {
-      "rule": "Related components vary in a regular progression on the left. The right examples break that progression."
     }
   },
   "BP140": {
@@ -4231,9 +3814,6 @@
       "url": "https://oebp.org/BP140",
       "image": "img/corrected/BP140E.png",
       "rule": "One large shape and two smaller identical ones vs. not so."
-    },
-    "derived": {
-      "rule": "Each left example contains a large shape and a matching pair of smaller shapes. The right examples lack that combination."
     }
   },
   "BP141": {
@@ -4249,9 +3829,6 @@
       "url": "https://oebp.org/BP141",
       "image": "img/corrected/BP141E.png",
       "rule": "Two clusters of three and two objects each vs. one cluster of three objects and two different objects."
-    },
-    "derived": {
-      "rule": "On the left five elements fall into groups of three and two. On the right the remaining two elements do not make a pair."
     }
   },
   "BP142": {
@@ -4269,9 +3846,6 @@
       "image": "img/corrected/BP142E.png",
       "rule": "Three of one kind and two of another, with the pair adjacent vs. three of one kind and two of another, with the pair separated.",
       "note": "Rule corrected from original by specifying that adjacency concerns the positions of the two members of the pair."
-    },
-    "derived": {
-      "rule": "Each panel has three of one kind and two of another. The two members of the pair are adjacent on the left and separated on the right."
     }
   },
   "BP143": {
@@ -4287,9 +3861,6 @@
       "url": "https://oebp.org/BP143",
       "image": "img/corrected/BP143E.png",
       "rule": "Two clusters of three and two vs. two clusters of four and one."
-    },
-    "derived": {
-      "rule": "The five elements group as three and two on the left and four and one on the right."
     }
   },
   "BP144": {
@@ -4305,9 +3876,6 @@
       "url": "https://oebp.org/BP144",
       "image": "img/corrected/BP144E.png",
       "rule": "Two clusters of three and two: different features (including clustering) yield different 3-2 splits vs. two clusters of three and two: different features yield the same 3-2 split."
-    },
-    "derived": {
-      "rule": "Different features divide the five objects into different groups of three and two on the left and into the same groups on the right."
     }
   },
   "BP145": {
@@ -4323,9 +3891,6 @@
       "url": "https://oebp.org/BP145",
       "image": "img/corrected/BP145E.png",
       "rule": "Different ways of grouping yield same 4-1 split vs. different ways of grouping yield different 4-1 splits."
-    },
-    "derived": {
-      "rule": "Different features single out the same odd member of five on the left and different members on the right."
     }
   },
   "BP146": {
@@ -4341,11 +3906,7 @@
       "url": "https://oebp.org/BP146",
       "image": "img/corrected/BP146E.png",
       "rule": "A shape contains a square if and only if it is a circle vs. a shape contains a square if and only if it is a triangle."
-    },
-    "derived": {
-      "rule": "Exactly the circles enclose squares on the left, and exactly the triangles enclose squares on the right."
-    },
-    "flag_reason": "Appendix A (p. 401) describes a square inside a circle on the left and inside a triangle on the right. L5 contains only a triangle, and R2 contains two circles. Both websites and the derived rule allow these examples because they specify which shapes enclose squares without requiring a square in every panel."
+    }
   },
   "BP147": {
     "foundalis": {
@@ -4360,9 +3921,6 @@
       "url": "https://oebp.org/BP147",
       "image": "img/corrected/BP147E.png",
       "rule": "Three collinear and two others, the two are vertical vs. the two are horizontal."
-    },
-    "derived": {
-      "rule": "After setting aside three collinear elements, the other two align vertically on the left and horizontally on the right."
     }
   },
   "BP148": {
@@ -4378,9 +3936,6 @@
       "url": "https://oebp.org/BP148",
       "image": "img/corrected/BP148E.png",
       "rule": "A little less than a regular shape vs. a little more than a regular shape."
-    },
-    "derived": {
-      "rule": "Something is missing from a regular figure on the left, and something extends beyond it on the right."
     }
   },
   "BP149": {
@@ -4396,9 +3951,6 @@
       "url": "https://oebp.org/BP149",
       "image": "img/corrected/BP149E.png",
       "rule": "Lone square vs. lone circle."
-    },
-    "derived": {
-      "rule": "The unpaired figure is a square on the left and a circle on the right."
     }
   },
   "BP150": {
@@ -4414,9 +3966,6 @@
       "url": "https://oebp.org/BP150",
       "image": "img/corrected/BP150E.png",
       "rule": "Odd number of squares vs. even number of squares."
-    },
-    "derived": {
-      "rule": "The number of squares is odd on the left and even on the right."
     }
   },
   "BP151": {
@@ -4432,9 +3981,6 @@
       "url": "https://oebp.org/BP151",
       "image": "img/corrected/BP151E.png",
       "rule": "If the circle closest to the cross is removed, the rest form an equilateral triangle vs. not so."
-    },
-    "derived": {
-      "rule": "Removing the circle nearest the cross leaves an equilateral triangle of circles on the left and a different arrangement on the right."
     }
   },
   "BP152": {
@@ -4451,9 +3997,6 @@
       "image": "img/corrected/BP152E.png",
       "rule": "No vertical axis of symmetry vs. vertical axis of symmetry.",
       "note": "Rule corrected from original by adding “vertical” to the left description."
-    },
-    "derived": {
-      "rule": "The left figures lack a vertical axis of symmetry, and the right figures have one."
     }
   },
   "BP153": {
@@ -4469,9 +4012,6 @@
       "url": "https://oebp.org/BP153",
       "image": "img/corrected/BP153E.png",
       "rule": "Predominance of curves and hook-like endings vs. predominance of straight lines and staple-like endings."
-    },
-    "derived": {
-      "rule": "Curves and hooked ends predominate on the left, while straight strokes and squared-off ends predominate on the right."
     }
   },
   "BP154": {
@@ -4487,9 +4027,6 @@
       "url": "https://oebp.org/BP154",
       "image": "img/corrected/BP154E.png",
       "rule": "Wedged endings vs. rounded endings."
-    },
-    "derived": {
-      "rule": "The strokes have wedge-shaped ends on the left and rounded ends on the right."
     }
   },
   "BP155": {
@@ -4505,9 +4042,6 @@
       "url": "https://oebp.org/BP155",
       "image": "img/corrected/BP155E.png",
       "rule": "Curves are longer than straight lines vs. curves are shorter than straight lines."
-    },
-    "derived": {
-      "rule": "The curved portions are longer than the straight portions on the left and shorter on the right."
     }
   },
   "BP156": {
@@ -4523,9 +4057,6 @@
       "url": "https://oebp.org/BP156",
       "image": "img/corrected/BP156E.png",
       "rule": "Three spatially separated clusters vs. two spatially separated clusters."
-    },
-    "derived": {
-      "rule": "The shapes form three spatial clusters on the left and two on the right."
     }
   },
   "BP157": {
@@ -4541,9 +4072,6 @@
       "url": "https://oebp.org/BP157",
       "image": "img/corrected/BP157E.png",
       "rule": "White background vs. black background."
-    },
-    "derived": {
-      "rule": "The background is white on the left and black on the right."
     }
   },
   "BP158": {
@@ -4559,9 +4087,6 @@
       "url": "https://oebp.org/BP158",
       "image": "img/corrected/BP158E.png",
       "rule": "Some slope vs. another slope."
-    },
-    "derived": {
-      "rule": "Each segment rises more steeply from left to right in the left examples than in the right examples."
     }
   },
   "BP159": {
@@ -4578,10 +4103,7 @@
       "image": "img/original/BP159E.png",
       "rule": "Two clusters of 2+3, middle shape must be seen as rectangle (AND only one linelike shape) vs. two clusters of 2+3, middle shape must be seen as piece of straight line (AND more than one linelike shape)."
     },
-    "derived": {
-      "rule": "Treating the middle bar as a rectangle on the left and as a line on the right gives two groups of two and three. Only one object looks like a line on the left, while several do on the right."
-    },
-    "flag_reason": "Foundalis’s sheet shows one rectangle in each left panel and one triangle in each right panel, as described in the dissertation. The grouping rule on Foundalis’s website fits the different OEBP sheet, where two ovals in R5 enclose two and three strokes respectively."
+    "flag_reason": "Foundalis L1–L6 each show one rectangle and R1–R6 each show one triangle, as described in the dissertation. The grouping rule on Foundalis’s website fits the different OEBP sheet. In OEBP R5 one oval encloses two strokes and the other encloses three."
   },
   "BP160": {
     "foundalis": {
@@ -4596,11 +4118,7 @@
       "url": "https://oebp.org/BP160",
       "image": "img/corrected/BP160E.png",
       "rule": "Quadrilateral that is nearly a triangle vs. typical quadrilateral."
-    },
-    "derived": {
-      "rule": "The fourth corner barely interrupts the apparent triangle on the left. All four corners are distinct on the right."
-    },
-    "flag_reason": "Appendix A (p. 406) calls the figures rectangles, although several have oblique corners. Both websites describe them as quadrilaterals. The derived rule captures their nearly triangular appearance on the left and their four distinct corners on the right."
+    }
   },
   "BP161": {
     "foundalis": {
@@ -4615,9 +4133,6 @@
       "url": "https://oebp.org/BP161",
       "image": "img/corrected/BP161E.png",
       "rule": "Midpoints are collinear vs. midpoints are not collinear."
-    },
-    "derived": {
-      "rule": "The segment midpoints lie on one straight line on the left and depart from that alignment on the right."
     }
   },
   "BP162": {
@@ -4633,9 +4148,6 @@
       "url": "https://oebp.org/BP162",
       "image": "img/corrected/BP162E.png",
       "rule": "Every other side, if extended, passes through one point vs. not so."
-    },
-    "derived": {
-      "rule": "Extending alternate sides of the polygon gives a common intersection on the left and misses a common intersection on the right."
     }
   },
   "BP163": {
@@ -4651,9 +4163,6 @@
       "url": "https://oebp.org/BP163",
       "image": "img/corrected/BP163E.png",
       "rule": "Line connecting small shapes does not intersect large one vs. line connecting small shapes intersects large one."
-    },
-    "derived": {
-      "rule": "A segment joining the two small shapes clears the large shape on the left and cuts through it on the right."
     }
   },
   "BP164": {
@@ -4669,9 +4178,6 @@
       "url": "https://oebp.org/BP164",
       "image": "img/corrected/BP164E.png",
       "rule": "Number of objects is one less than sides of each object vs. number of objects is one more than sides of each object."
-    },
-    "derived": {
-      "rule": "There is one fewer object than sides per object on the left and one more object than sides on the right."
     }
   },
   "BP165": {
@@ -4687,9 +4193,6 @@
       "url": "https://oebp.org/BP165",
       "image": "img/corrected/BP165E.png",
       "rule": "Line perpendicular to one side of the object vs. line parallel to one side of the object."
-    },
-    "derived": {
-      "rule": "The separate segment is perpendicular to a side on the left and parallel to a side on the right."
     }
   },
   "BP166": {
@@ -4705,9 +4208,6 @@
       "url": "https://oebp.org/BP166",
       "image": "img/corrected/BP166E.png",
       "rule": "Two clusters vs. three clusters."
-    },
-    "derived": {
-      "rule": "The dots form two clusters on the left and three on the right."
     }
   },
   "BP167": {
@@ -4723,9 +4223,6 @@
       "url": "https://oebp.org/BP167",
       "image": "img/corrected/BP167E.png",
       "rule": "Every cluster has two clusters of dots vs. every cluster has three clusters of dots."
-    },
-    "derived": {
-      "rule": "Each cluster splits into two smaller groups of dots on the left and three on the right."
     }
   },
   "BP168": {
@@ -4741,9 +4238,6 @@
       "url": "https://oebp.org/BP168",
       "image": "img/corrected/BP168E.png",
       "rule": "Bulky interior, if closed vs. narrow interior, if closed."
-    },
-    "derived": {
-      "rule": "Closing the gap would enclose a broad interior on the left and a narrow interior on the right."
     }
   },
   "BP169": {
@@ -4759,11 +4253,7 @@
       "url": "https://oebp.org/BP169",
       "image": "img/corrected/BP169E.png",
       "rule": "Two clusters of different numbers of elements vs. two clusters of equal number of elements."
-    },
-    "derived": {
-      "rule": "The two groups contain different numbers of elements on the left and equal numbers on the right."
-    },
-    "flag_reason": "Appendix A (p. 409) says “Odd” and “Even” without naming what to count. L1 has four objects, three triangles and one square, so the total is even on the side labeled odd. Both websites and the derived rule compare the sizes of the two groups, which are unequal on the left and equal on the right."
+    }
   },
   "BP170": {
     "foundalis": {
@@ -4778,9 +4268,6 @@
       "url": "https://oebp.org/BP170",
       "image": "img/corrected/BP170E.png",
       "rule": "Pi-like shape vs. x-like shape."
-    },
-    "derived": {
-      "rule": "The overall arrangement resembles a capital Π on the left and an X on the right."
     }
   },
   "BP171": {
@@ -4797,10 +4284,7 @@
       "image": "img/original/BP171E.png",
       "rule": "Angle bisectors meet at the incenter vs. perpendicular bisectors meet at the orthocenter."
     },
-    "derived": {
-      "rule": "The left lines bisect the triangle’s angles at the incenter. The right lines bisect its sides perpendicularly at the circumcenter."
-    },
-    "flag_reason": "Appendix A (p. 410) and both websites call the intersection of a triangle’s perpendicular bisectors its orthocenter. The right drawings show the circumcenter, as the derived rule states. The orthocenter is where the altitudes meet."
+    "flag_reason": "In R1–R6 on both sheets, the perpendicular bisectors meet at the triangle’s circumcenter. Appendix A (p. 410) and both websites call this point the orthocenter, where the altitudes meet."
   },
   "BP172": {
     "foundalis": {
@@ -4815,11 +4299,7 @@
       "url": "https://oebp.org/BP172",
       "image": "img/original/BP172E.png",
       "rule": "Rotationally symmetric vs. not."
-    },
-    "derived": {
-      "rule": "A rotation through less than a full turn reproduces the left figure. Only a full turn restores the right figure."
-    },
-    "flag_reason": "In the previous redraw, R3 lost its interior strokes. The empty square had the rotational symmetry reserved for the left."
+    }
   },
   "BP173": {
     "foundalis": {
@@ -4834,9 +4314,6 @@
       "url": "https://oebp.org/BP173",
       "image": "img/corrected/BP173E.png",
       "rule": "Small variance of slopes vs. large variance of slopes."
-    },
-    "derived": {
-      "rule": "The segments have similar slopes on the left and a wider range of slopes on the right."
     }
   },
   "BP174": {
@@ -4852,9 +4329,6 @@
       "url": "https://oebp.org/BP174",
       "image": "img/corrected/BP174E.png",
       "rule": "Convex central interior vs. concave central interior."
-    },
-    "derived": {
-      "rule": "The common central region is convex on the left and concave on the right."
     }
   },
   "BP175": {
@@ -4870,9 +4344,6 @@
       "url": "https://oebp.org/BP175",
       "image": "img/corrected/BP175E.png",
       "rule": "Small object can glide in the bay vs. small object cannot glide in the bay."
-    },
-    "derived": {
-      "rule": "The small object can slide into the recess on the left. Its shape prevents it from fitting on the right."
     }
   },
   "BP176": {
@@ -4888,9 +4359,6 @@
       "url": "https://oebp.org/BP176",
       "image": "img/corrected/BP176E.png",
       "rule": "Line that connects dots avoiding obstacles is short vs. line that connects dots avoiding obstacles is long."
-    },
-    "derived": {
-      "rule": "A short route between the dots clears the obstacles on the left. Avoiding the obstacles requires a longer detour on the right."
     }
   },
   "BP177": {
@@ -4906,9 +4374,6 @@
       "url": "https://oebp.org/BP177",
       "image": "img/corrected/BP177E.png",
       "rule": "All interiors are convex vs. at least one concave interior."
-    },
-    "derived": {
-      "rule": "Every enclosed region is convex on the left, and at least one enclosed region is concave on the right."
     }
   },
   "BP178": {
@@ -4924,9 +4389,6 @@
       "url": "https://oebp.org/BP178",
       "image": "img/corrected/BP178E.png",
       "rule": "Center of circle in triangle perpendicular to the other two vs. not so."
-    },
-    "derived": {
-      "rule": "The circle’s center lies in the triangle oriented across the other two on the left and elsewhere on the right."
     }
   },
   "BP179": {
@@ -4942,9 +4404,6 @@
       "url": "https://oebp.org/BP179",
       "image": "img/corrected/BP179E.png",
       "rule": "Object thinner at top vs. object thicker at top."
-    },
-    "derived": {
-      "rule": "The figure is narrower at the top on the left and wider at the top on the right."
     }
   },
   "BP180": {
@@ -4962,9 +4421,6 @@
       "image": "img/corrected/BP180E.png",
       "rule": "Black region widens toward the boundary with white vs. black region narrows toward the boundary with white.",
       "note": "Rule corrected from original by swapping the left and right descriptions and clarifying the direction of approach."
-    },
-    "derived": {
-      "rule": "As it approaches the boundary with white, the black region widens on the left and narrows on the right."
     }
   },
   "BP181": {
@@ -4980,9 +4436,6 @@
       "url": "https://oebp.org/BP181",
       "image": "img/corrected/BP181E.png",
       "rule": "One concavity vs. two concavities."
-    },
-    "derived": {
-      "rule": "Each left shape has one inward recess, and each right shape has two."
     }
   },
   "BP182": {
@@ -4998,9 +4451,6 @@
       "url": "https://oebp.org/BP182",
       "image": "img/corrected/BP182E.png",
       "rule": "Concave if proximal border points are connected vs. convex if proximal border points are connected."
-    },
-    "derived": {
-      "rule": "Joining neighboring dots around the outside gives a concave outline on the left and a convex outline on the right."
     }
   },
   "BP183": {
@@ -5016,9 +4466,6 @@
       "url": "https://oebp.org/BP183",
       "image": "img/corrected/BP183E.png",
       "rule": "Same curvature close to the middle vs. change of curvature close to the middle."
-    },
-    "derived": {
-      "rule": "At the middle of the stroke, the curve keeps bending the same way on the left and reverses its bend on the right."
     }
   },
   "BP184": {
@@ -5034,9 +4481,6 @@
       "url": "https://oebp.org/BP184",
       "image": "img/corrected/BP184E.png",
       "rule": "Curve is smooth close to the middle vs. curve zigzags close to the middle."
-    },
-    "derived": {
-      "rule": "The middle of the curve runs smoothly on the left and zigzags on the right."
     }
   },
   "BP185": {
@@ -5052,9 +4496,6 @@
       "url": "https://oebp.org/BP185",
       "image": "img/corrected/BP185E.png",
       "rule": "Curve with two complex parts vs. curve with three complex parts."
-    },
-    "derived": {
-      "rule": "The curve has two stretches of intricate detail on the left and three on the right."
     }
   },
   "BP186": {
@@ -5070,9 +4511,6 @@
       "url": "https://oebp.org/BP186",
       "image": "img/corrected/BP186E.png",
       "rule": "Object made of objects vs. object made of objects made of objects."
-    },
-    "derived": {
-      "rule": "Smaller elements make one larger object on the left. On the right the constituent elements themselves have visible component parts."
     }
   },
   "BP187": {
@@ -5088,9 +4526,6 @@
       "url": "https://oebp.org/BP187",
       "image": "img/corrected/BP187E.png",
       "rule": "Sides of parts are one more than sides of whole vs. sides of parts are one less than sides of whole."
-    },
-    "derived": {
-      "rule": "Each small polygon has one more side than the implied overall polygon on the left and one fewer side on the right."
     }
   },
   "BP188": {
@@ -5106,9 +4541,6 @@
       "url": "https://oebp.org/BP188",
       "image": "img/corrected/BP188E.png",
       "rule": "Shape of whole different from shape of parts vs. shape of whole same as shape of parts."
-    },
-    "derived": {
-      "rule": "The overall outline differs from the shape of its components on the left and repeats their shape on the right."
     }
   },
   "BP189": {
@@ -5124,9 +4556,6 @@
       "url": "https://oebp.org/BP189",
       "image": "img/corrected/BP189E.png",
       "rule": "All clusters are made of objects of the same texture vs. not all clusters are made of objects of the same texture."
-    },
-    "derived": {
-      "rule": "Every local group has uniform fill on the left. At least one group mixes fills on the right."
     }
   },
   "BP190": {
@@ -5142,9 +4571,6 @@
       "url": "https://oebp.org/BP190",
       "image": "img/corrected/BP190E.png",
       "rule": "All connected objects have the same texture vs. some connected objects have different textures."
-    },
-    "derived": {
-      "rule": "Connected objects have the same fill on the left. A connection joins differently filled objects on the right."
     }
   },
   "BP191": {
@@ -5160,9 +4586,6 @@
       "url": "https://oebp.org/BP191",
       "image": "img/corrected/BP191E.png",
       "rule": "Orifice on the left vs. orifice on the right."
-    },
-    "derived": {
-      "rule": "The opening is in the left side of the left figures and in the right side of the right figures."
     }
   },
   "BP192": {
@@ -5178,9 +4601,6 @@
       "url": "https://oebp.org/BP192",
       "image": "img/corrected/BP192E.png",
       "rule": "Elongated vertically vs. elongated horizontally."
-    },
-    "derived": {
-      "rule": "The outline is taller than it is wide on the left and wider than it is tall on the right."
     }
   },
   "BP193": {
@@ -5196,9 +4616,6 @@
       "url": "https://oebp.org/BP193",
       "image": "img/corrected/BP193E.png",
       "rule": "Ghost triangle vs. Ghost rectangle."
-    },
-    "derived": {
-      "rule": "The visible marks suggest a triangle in the intervening space on the left and a rectangle on the right."
     }
   },
   "BP194": {
@@ -5215,10 +4632,7 @@
       "image": "img/corrected/BP194E.png",
       "rule": "Background is a parallelogram vs. background is a triangle."
     },
-    "derived": {
-      "rule": "The textured background forms a parallelogram on the left and a triangle on the right."
-    },
-    "flag_reason": "Appendix A (p. 417) specifies a quadrilateral background on the left. Both websites and the derived rule identify the more specific parallelogram seen in the left examples. All versions specify a triangular background on the right."
+    "flag_reason": "Appendix A (p. 417) calls the backgrounds in L1–L6 quadrilaterals. Both websites identify them more specifically as parallelograms. R1–R6 have triangular backgrounds under all three descriptions."
   },
   "BP195": {
     "foundalis": {
@@ -5233,9 +4647,6 @@
       "url": "https://oebp.org/BP195",
       "image": "img/corrected/BP195E.png",
       "rule": "Bottom object in front of top objects in 3-D vs. bottom object behind top objects in 3-D."
-    },
-    "derived": {
-      "rule": "In the implied depth ordering, the bottom object sits in front of the upper objects on the left and behind them on the right."
     }
   },
   "BP196": {
@@ -5251,9 +4662,6 @@
       "url": "https://oebp.org/BP196",
       "image": "img/corrected/BP196E.png",
       "rule": "Light-colored texture vs. dark-colored texture."
-    },
-    "derived": {
-      "rule": "The texture looks light overall on the left and dark overall on the right."
     }
   },
   "BP197": {
@@ -5269,11 +4677,7 @@
       "url": "https://oebp.org/BP197",
       "image": "img/original/BP197E.png",
       "rule": "Some style (font) vs. another style (font)."
-    },
-    "derived": {
-      "rule": "The same six words or phrases appear on both sides. The typeface distinguishes the left examples from the right examples."
-    },
-    "flag_reason": "Fine strokes disappeared from both typefaces in the previous redraw, so the lettering no longer showed the distinction reliably."
+    }
   },
   "BP198": {
     "foundalis": {
@@ -5288,9 +4692,6 @@
       "url": "https://oebp.org/BP198",
       "image": "img/corrected/BP198E.png",
       "rule": "Stays in vs. escapes."
-    },
-    "derived": {
-      "rule": "One end of the chain remains inside the large shape on the left. Both ends lie outside on the right."
     }
   },
   "BP199": {
@@ -5306,9 +4707,6 @@
       "url": "https://oebp.org/BP199",
       "image": "img/corrected/BP199E.png",
       "rule": "Stays put vs. tumbles."
-    },
-    "derived": {
-      "rule": "The vertical through the center of mass meets the base on the left. It misses the base on the right, so the object would tip."
     }
   },
   "BP200": {
@@ -5324,9 +4722,6 @@
       "url": "https://oebp.org/BP200",
       "image": "img/corrected/BP200E.png",
       "rule": "Bongard Problem with solution based on features vs. Bongard Problem with solution based on number."
-    },
-    "derived": {
-      "rule": "Each example is a miniature Bongard problem. A visible feature separates its two groups on the left, and a count separates them on the right."
     }
   },
   "BP201": {
@@ -5342,9 +4737,6 @@
       "url": "https://oebp.org/BP201",
       "image": "img/corrected/BP201E.png",
       "rule": "Two of the shapes make tiles along their border lines vs. not so."
-    },
-    "derived": {
-      "rule": "Two pieces have matching edges that fit together on the left. No such pair exists on the right."
     }
   },
   "BP202": {
@@ -5362,9 +4754,6 @@
       "image": "img/corrected/BP202E.png",
       "rule": "Even number vs. odd number.",
       "note": "Image corrected from original by separating the bottom-right rectangle in R4 from the other two."
-    },
-    "derived": {
-      "rule": "The number of objects is even on the left and odd on the right."
     }
   },
   "BP203": {
@@ -5382,9 +4771,6 @@
       "image": "img/corrected/BP203E.png",
       "rule": "Prime number vs. composite number.",
       "note": "Image corrected from original by drawing each pile in L1, R1, R4, and R5 as a single object, and by adding punctuation marks to L2."
-    },
-    "derived": {
-      "rule": "The object count is prime on the left and composite on the right."
     }
   },
   "BP204": {
@@ -5400,9 +4786,6 @@
       "url": "https://oebp.org/BP204",
       "image": "img/corrected/BP204E.png",
       "rule": "Five vs. four."
-    },
-    "derived": {
-      "rule": "Each left example has five elements, and each right example has four."
     }
   },
   "BP205": {
@@ -5418,9 +4801,6 @@
       "url": "https://oebp.org/BP205",
       "image": "img/corrected/BP205E.png",
       "rule": "Two clusters of two elements each vs. not so."
-    },
-    "derived": {
-      "rule": "The four elements form two pairs on the left. The right examples lack that grouping."
     }
   },
   "BP206": {
@@ -5436,9 +4816,6 @@
       "url": "https://oebp.org/BP206",
       "image": "img/corrected/BP206E.png",
       "rule": "Curve ends in a roughly up or down direction vs. curve ends in a roughly left or right direction."
-    },
-    "derived": {
-      "rule": "The tangent at the free end runs roughly vertically on the left and roughly horizontally on the right."
     }
   },
   "BP207": {
@@ -5454,9 +4831,6 @@
       "url": "https://oebp.org/BP207",
       "image": "img/corrected/BP207E.png",
       "rule": "Curve ends on the left part of the box vs. curve ends on the right part of the box."
-    },
-    "derived": {
-      "rule": "The free end of the curve lies in the left half of a left example and in the right half of a right example."
     }
   },
   "BP208": {
@@ -5472,9 +4846,6 @@
       "url": "https://oebp.org/BP208",
       "image": "img/corrected/BP208E.png",
       "rule": "All curves spiral counterclockwise, starting from maximum curvature vs. all curves spiral clockwise, starting from maximum curvature."
-    },
-    "derived": {
-      "rule": "Following each spiral outward from its tightest bend turns counterclockwise on the left and clockwise on the right."
     }
   },
   "BP209": {
@@ -5490,9 +4861,6 @@
       "url": "https://oebp.org/BP209",
       "image": "img/corrected/BP209E.png",
       "rule": "No objects are centered at the center of the box vs. one object is centered at the center of the box."
-    },
-    "derived": {
-      "rule": "The center of the panel coincides with the center of an object on the right and with no object center on the left."
     }
   },
   "BP210": {
@@ -5510,9 +4878,6 @@
       "image": "img/corrected/BP210E.png",
       "rule": "Part of at least one object is out of box vs. all objects are within the box.",
       "note": "Image corrected from original by separating the bottom oval in R1 from the edge."
-    },
-    "derived": {
-      "rule": "At least one shape extends beyond the frame on the left. The frame contains all the shapes on the right."
     }
   },
   "BP211": {
@@ -5532,11 +4897,7 @@
         "left": 6,
         "right": 6
       }
-    },
-    "derived": {
-      "rule": "Black covers more area than white on the left and less area on the right."
-    },
-    "flag_reason": "OEBP expands both collections, and its six displayed examples on each side differ from Foundalis’s selection."
+    }
   },
   "BP212": {
     "foundalis": {
@@ -5551,9 +4912,6 @@
       "url": "https://oebp.org/BP212",
       "image": "img/corrected/BP212E.png",
       "rule": "No dot is too far apart from another dot vs. at least one dot is far apart from all other dots."
-    },
-    "derived": {
-      "rule": "Every dot has a nearby neighbor on the left. At least one dot is isolated from the others on the right."
     }
   },
   "BP213": {
@@ -5569,9 +4927,6 @@
       "url": "https://oebp.org/BP213",
       "image": "img/corrected/BP213E.png",
       "rule": "The tightest-curved section, out of all sections of curve that make a complete turn (360 degrees), contains an x-crossing point vs. not so."
-    },
-    "derived": {
-      "rule": "The tightest complete turn of the curve contains a self-crossing on the left and is clear of crossings on the right."
     },
     "flag_reason": "Foundalis places the crossing at the point of greatest curvature. In L3 the strands cross near the base of the small loop and bend more sharply elsewhere. OEBP places the crossing within the tightest complete turn."
   },
@@ -5590,9 +4945,6 @@
       "image": "img/corrected/BP214E.png",
       "rule": "Smiley face vs. not a smiley face.",
       "note": "Image corrected from original by turning the mouth in R2 upside down."
-    },
-    "derived": {
-      "rule": "The marks read as a smiling face on the left and lack that arrangement on the right."
     }
   },
   "BP215": {
@@ -5608,9 +4960,6 @@
       "url": "https://oebp.org/BP215",
       "image": "img/corrected/BP215E.png",
       "rule": "Mouth concave upwards vs. Mouth convex upwards."
-    },
-    "derived": {
-      "rule": "The mouth curves upward like a smile on the left and downward like a frown on the right."
     }
   },
   "BP216": {
@@ -5626,9 +4975,6 @@
       "url": "https://oebp.org/BP216",
       "image": "img/corrected/BP216E.png",
       "rule": "Ink tip (non-homogeneous line) vs. Marker tip (homogeneous line)."
-    },
-    "derived": {
-      "rule": "Stroke width varies like a pen nib on the left and stays uniform like a marker on the right."
     }
   },
   "BP217": {
@@ -5644,9 +4990,6 @@
       "url": "https://oebp.org/BP217",
       "image": "img/corrected/BP217E.png",
       "rule": "Totally black lines vs. lines with white specks."
-    },
-    "derived": {
-      "rule": "The strokes are solid black on the left. Small white specks interrupt the strokes on the right."
     }
   },
   "BP218": {
@@ -5662,9 +5005,6 @@
       "url": "https://oebp.org/BP218",
       "image": "img/corrected/BP218E.png",
       "rule": "Something is missing vs. an extra copy of something is added."
-    },
-    "derived": {
-      "rule": "A sequence or figure is missing a part on the left. On the right an extra part repeats or extends the expected pattern."
     }
   },
   "BP219": {
@@ -5680,9 +5020,6 @@
       "url": "https://oebp.org/BP219",
       "image": "img/corrected/BP219E.png",
       "rule": "Parallel curves vs. non-parallel curves."
-    },
-    "derived": {
-      "rule": "The curves run parallel on the left and change direction relative to one another on the right."
     }
   },
   "BP220": {
@@ -5698,9 +5035,6 @@
       "url": "https://oebp.org/BP220",
       "image": "img/corrected/BP220E.png",
       "rule": "One cluster vs. two clusters."
-    },
-    "derived": {
-      "rule": "The marks make one spatial cluster on the left and two on the right."
     }
   },
   "BP221": {
@@ -5716,9 +5050,6 @@
       "url": "https://oebp.org/BP221",
       "image": "img/corrected/BP221E.png",
       "rule": "No small square at the end of any curve vs. curve ends at a small square."
-    },
-    "derived": {
-      "rule": "The ends of the curves lack square terminals on the left. A small square terminates a curve on the right."
     }
   },
   "BP222": {
@@ -5734,9 +5065,6 @@
       "url": "https://oebp.org/BP222",
       "image": "img/corrected/BP222E.png",
       "rule": "Border of black rectangle is incomplete vs. border of black rectangle is complete."
-    },
-    "derived": {
-      "rule": "A break interrupts the black rectangle’s boundary on the left. Its boundary is complete on the right."
     }
   },
   "BP223": {
@@ -5752,9 +5080,6 @@
       "url": "https://oebp.org/BP223",
       "image": "img/corrected/BP223E.png",
       "rule": "Large black region if completed is a circle vs. large black region if completed is an ellipse."
-    },
-    "derived": {
-      "rule": "Completing the partly obscured black outline gives a circle on the left and an elongated ellipse on the right."
     }
   },
   "BP224": {
@@ -5770,9 +5095,6 @@
       "url": "https://oebp.org/BP224",
       "image": "img/corrected/BP224E.png",
       "rule": "Diametrically opposite objects affect similarly the large black circular region vs. not so."
-    },
-    "derived": {
-      "rule": "Opposite positions on the black disk have matching additions or cutouts on the left and different treatments on the right."
     }
   },
   "BP225": {
@@ -5788,9 +5110,6 @@
       "url": "https://oebp.org/BP225",
       "image": "img/corrected/BP225E.png",
       "rule": "Low contrast (no fully black region) vs. high contrast (at least one fully black region)."
-    },
-    "derived": {
-      "rule": "The left textures contain no solid black patch. The right textures contain at least one, which gives them greater contrast."
     }
   },
   "BP226": {
@@ -5806,9 +5125,6 @@
       "url": "https://oebp.org/BP226",
       "image": "img/corrected/BP226E.png",
       "rule": "What comes out of black circle has a clockwise direction vs. not so."
-    },
-    "derived": {
-      "rule": "The shapes projecting from the disk suggest clockwise motion on the left. The right arrangements break that directional pattern."
     }
   },
   "BP227": {
@@ -5824,9 +5140,6 @@
       "url": "https://oebp.org/BP227",
       "image": "img/corrected/BP227E.png",
       "rule": "Dots touch each other if and only if no large region touches the edges of the box vs. dots dont touch each other if and only if no large region touches the edges of the box."
-    },
-    "derived": {
-      "rule": "On the left the dots touch exactly when the large shapes clear the frame. On the right the dots touch exactly when a large shape reaches the frame."
     }
   },
   "BP228": {
@@ -5842,9 +5155,6 @@
       "url": "https://oebp.org/BP228",
       "image": "img/corrected/BP228E.png",
       "rule": "After rotating so that the longest line is horizontal, there is a left arm raised and a weight down vs. after rotating so that the longest line is horizontal, there is a left arm down and a weight raised."
-    },
-    "derived": {
-      "rule": "Orienting the longest bar horizontally puts the left arm up and the weight down on the left. The arm and weight exchange heights on the right."
     }
   },
   "BP229": {
@@ -5860,9 +5170,6 @@
       "url": "https://oebp.org/BP229",
       "image": "img/corrected/BP229E.png",
       "rule": "When the objects are rotated and their dots are overlapped and eliminated, they form three-square-tall structures with columns of the same color vs. not so."
-    },
-    "derived": {
-      "rule": "Rotate the pieces to align their dots and remove the dots. Only on the left do the pieces make three-square-high columns of uniform color."
     }
   },
   "BP230": {
@@ -5878,9 +5185,6 @@
       "url": "https://oebp.org/BP230",
       "image": "img/corrected/BP230E.png",
       "rule": "The sum of vertices, line ends, and dots is 7 vs. not so."
-    },
-    "derived": {
-      "rule": "Adding all vertices, free line ends and isolated dots gives seven on the left and a different total on the right."
     }
   },
   "BP231": {
@@ -5896,9 +5200,6 @@
       "url": "https://oebp.org/BP231",
       "image": "img/corrected/BP231E.png",
       "rule": "Five concavities vs. not five concavities."
-    },
-    "derived": {
-      "rule": "The silhouettes have five inward recesses on the left and a different number on the right."
     }
   },
   "BP232": {
@@ -5914,9 +5215,6 @@
       "url": "https://oebp.org/BP232",
       "image": "img/corrected/BP232E.png",
       "rule": "Box divided into six areas vs. box divided into four areas."
-    },
-    "derived": {
-      "rule": "The figure divides the panel into six regions on the left and four on the right."
     }
   },
   "BP233": {
@@ -5932,11 +5230,7 @@
       "url": "https://oebp.org/BP233",
       "image": "img/original/BP233E.png",
       "rule": "Lines plus triangles equal stars vs. lines minus triangles equal stars."
-    },
-    "derived": {
-      "rule": "Adding the number of triangles to the number of lines gives the number of stars on the left. Subtracting the triangles from the lines gives it on the right."
-    },
-    "flag_reason": "The previous redraw scored below the similarity threshold because the black-ink comparison dropped most of the original’s pale strokes."
+    }
   },
   "BP234": {
     "foundalis": {
@@ -5951,11 +5245,7 @@
       "url": "https://oebp.org/BP234",
       "image": "img/original/BP234E.png",
       "rule": "Circle falls by gravity on the right of all other objects if let loose vs. circle falls by gravity on the left of all other objects if let loose."
-    },
-    "derived": {
-      "rule": "Under gravity the circle would clear the other objects on their right in a left example and on their left in a right example."
-    },
-    "flag_reason": "The previous redraw scored below the similarity threshold because the black-ink comparison dropped most of the original’s pale strokes."
+    }
   },
   "BP235": {
     "foundalis": {
@@ -5970,11 +5260,7 @@
       "url": "https://oebp.org/BP235",
       "image": "img/original/BP235E.png",
       "rule": "The rope, if extended, reaches the other ball vs. the rope, if extended, does not reach the other ball."
-    },
-    "derived": {
-      "rule": "Straightening the rope would let the attached ball reach the other ball on the left. The rope falls short on the right."
-    },
-    "flag_reason": "The previous redraw scored below the similarity threshold because the black-ink comparison dropped most of the original’s pale strokes."
+    }
   },
   "BP236": {
     "foundalis": {
@@ -5989,9 +5275,6 @@
       "url": "https://oebp.org/BP236",
       "image": "img/corrected/BP236E.png",
       "rule": "Texture with stripy squiggle vs. texture with blotchy squiggle."
-    },
-    "derived": {
-      "rule": "The marks in the textured patch form stripes on the left and blotches on the right."
     }
   },
   "BP237": {
@@ -6007,11 +5290,7 @@
       "url": "https://oebp.org/BP237",
       "image": "img/original/BP237E.png",
       "rule": "Upper central line APPEARS shorter than lower central line vs. upper central line APPEARS longer than lower central line."
-    },
-    "derived": {
-      "rule": "The upper central segment looks shorter than the lower one on the left and longer on the right."
-    },
-    "flag_reason": "The previous redraw scored below the similarity threshold because the black-ink comparison dropped most of the original’s pale strokes."
+    }
   },
   "BP238": {
     "foundalis": {
@@ -6026,9 +5305,6 @@
       "url": "https://oebp.org/BP238",
       "image": "img/corrected/BP238E.png",
       "rule": "C-like curves point to the same direction vs. c-like curves point to opposite directions."
-    },
-    "derived": {
-      "rule": "The two C-shaped curves open in the same direction on the left and in opposite directions on the right."
     }
   },
   "BP239": {
@@ -6045,9 +5321,6 @@
       "image": "img/corrected/BP239E.png",
       "rule": "Straight line parallel to line joining the ends of curve AND sliding the straight line suitably can make a closed area vs. straight line perpendicular to line joining the ends of curve."
     },
-    "derived": {
-      "rule": "The separate segment is parallel to the chord joining the curve’s ends on the left and perpendicular to that chord on the right."
-    },
     "flag_reason": "Foundalis’s alternative rule allows the separate segment in R1 to slide across the rounded top of the C and enclose a small cap. The intended test requires the segment to bridge the two original ends. Foundalis’s primary direction rule and OEBP’s rule both fit."
   },
   "BP240": {
@@ -6063,9 +5336,6 @@
       "url": "https://oebp.org/BP240",
       "image": "img/corrected/BP240E.png",
       "rule": "Straight line joining the curve ends does not cut the curve vs. straight line joining the curve ends intersects the curve."
-    },
-    "derived": {
-      "rule": "Joining the ends by a straight segment clears the rest of the curve on the left and crosses it on the right."
     }
   },
   "BP241": {
@@ -6081,9 +5351,6 @@
       "url": "https://oebp.org/BP241",
       "image": "img/corrected/BP241E.png",
       "rule": "Circumference shorter than length of everything else vs. circumference longer than length of everything else."
-    },
-    "derived": {
-      "rule": "The circumference of the circle is shorter than the combined length of the other marks on the left and longer on the right."
     }
   },
   "BP242": {
@@ -6101,9 +5368,6 @@
       "image": "img/corrected/BP242E.png",
       "rule": "Convex hull is a square vs. convex hull is not a square.",
       "note": "Image corrected from original by removing the bottom-right dot from R4."
-    },
-    "derived": {
-      "rule": "The convex hull of the figure is a square on the left and has a different shape on the right."
     }
   },
   "BP243": {
@@ -6119,9 +5383,6 @@
       "url": "https://oebp.org/BP243",
       "image": "img/corrected/BP243E.png",
       "rule": "Triangle closer to box corner than any of the circles vs. not so."
-    },
-    "derived": {
-      "rule": "On the left the triangle comes closer to a corner of the panel than any circle does. On the right a circle comes at least as close."
     }
   },
   "BP244": {
@@ -6137,11 +5398,7 @@
       "url": "https://oebp.org/BP244",
       "image": "img/original/BP244E.png",
       "rule": "Scanning left-to-right, top-to-bottom, each filled box is separated from the next filled box by the same number of empty boxes vs. not so."
-    },
-    "derived": {
-      "rule": "In reading order the black squares are equally spaced in the sequence of cells on the left. The gaps vary on the right."
-    },
-    "flag_reason": "In the previous redraw, the grid lines in L1 stopped short of the frame. Its outer cells ran together, making the spacing of the black squares ambiguous."
+    }
   },
   "BP245": {
     "foundalis": {
@@ -6156,9 +5413,6 @@
       "url": "https://oebp.org/BP245",
       "image": "img/corrected/BP245E.png",
       "rule": "Can be completed to be made into a rectangle vs. cannot be completed to be made into a rectangle."
-    },
-    "derived": {
-      "rule": "The fragments could all belong to one rectangle on the left. They cannot be completed as one rectangle on the right."
     }
   },
   "BP246": {
@@ -6174,9 +5428,6 @@
       "url": "https://oebp.org/BP246",
       "image": "img/corrected/BP246E.png",
       "rule": "Equal numbers of straight lines and continuous curves vs. unequal numbers of straight lines and continuous curves."
-    },
-    "derived": {
-      "rule": "Straight segments and continuous curves occur in equal numbers on the left and unequal numbers on the right."
     }
   },
   "BP247": {
@@ -6192,9 +5443,6 @@
       "url": "https://oebp.org/BP247",
       "image": "img/corrected/BP247E.png",
       "rule": "Five straight or curved lines vs. not five straight or curved lines."
-    },
-    "derived": {
-      "rule": "Counting straight segments and continuous curves gives five on the left and a different number on the right."
     }
   },
   "BP248": {
@@ -6210,9 +5458,6 @@
       "url": "https://oebp.org/BP248",
       "image": "img/corrected/BP248E.png",
       "rule": "Dashed lines inside solid shape make an identical but slightly smaller shape, parallel to the one outside vs. not so."
-    },
-    "derived": {
-      "rule": "The dashed boundary follows a slightly smaller parallel copy of the solid outline on the left. It departs from that pattern on the right."
     }
   },
   "BP249": {
@@ -6228,9 +5473,6 @@
       "url": "https://oebp.org/BP249",
       "image": "img/corrected/BP249E.png",
       "rule": "Dashed lines form the same shape centered inside vs. not so."
-    },
-    "derived": {
-      "rule": "The dashed figure is a centered copy of the outer shape on the left. Its shape or placement differs on the right."
     }
   },
   "BP250": {
@@ -6246,9 +5488,6 @@
       "url": "https://oebp.org/BP250",
       "image": "img/corrected/BP250E.png",
       "rule": "Tetrahedron projected on the box plane vs. not so."
-    },
-    "derived": {
-      "rule": "The lines can represent the projected edges of a tetrahedron on the left. The right drawings are incompatible with that projection."
     }
   },
   "BP251": {
@@ -6265,9 +5504,6 @@
       "image": "img/corrected/BP251E.png",
       "rule": "Tetrahedron projected on the box plane vs. not so."
     },
-    "derived": {
-      "rule": "The drawing can be a planar projection of a tetrahedron on the left and cannot be one on the right."
-    },
     "flag_reason": "Both sources exclude projections of tetrahedra on the right, but R1’s thin triangle is such a projection. Place three vertices at its corners and the fourth directly above one corner. Viewed from above, the six edges project onto the triangle’s three sides."
   },
   "BP252": {
@@ -6283,11 +5519,7 @@
       "url": "https://oebp.org/BP252",
       "image": "img/original/BP252E.png",
       "rule": "Impossible solid in 3-D vs. possible solid in 3-D."
-    },
-    "derived": {
-      "rule": "The apparent three-dimensional object is impossible to build on the left and geometrically possible on the right."
-    },
-    "flag_reason": "In L2 the previous redraw filled the two beam joints with black triangles, obscuring the connections that make the object impossible."
+    }
   },
   "BP253": {
     "foundalis": {
@@ -6302,9 +5534,6 @@
       "url": "https://oebp.org/BP253",
       "image": "img/corrected/BP253E.png",
       "rule": "Prime number vs. composite number."
-    },
-    "derived": {
-      "rule": "The number of objects is prime on the left. On the right the objects can be divided into equal groups of at least two."
     },
     "flag_reason": "Both sources put one dot on the composite side in R1. One is neither prime nor composite, and a single dot cannot satisfy Foundalis’s alternative requirement of groups of two or more."
   },
@@ -6322,9 +5551,6 @@
       "image": "img/corrected/BP254E.png",
       "rule": "Circle and two vertices are collinear vs. no two vertices and the circle are collinear."
     },
-    "derived": {
-      "rule": "A straight line through the center of the small circle passes through two vertices on the left and through no pair of vertices on the right."
-    },
     "flag_reason": "Both sources exclude collinearity on the right. In R3 the circle and the two central vertices of the chevron lie on the same vertical line. The circle lies beyond both vertices. Requiring its center to lie between the vertices excludes this example."
   },
   "BP255": {
@@ -6340,9 +5566,6 @@
       "url": "https://oebp.org/BP255",
       "image": "img/corrected/BP255E.png",
       "rule": "Three pairs of parallel and non-collinear pieces of straight lines, each pair with a different slope vs. not so."
-    },
-    "derived": {
-      "rule": "The left segments form three pairs of parallel, offset lines with a different direction for each pair. The right segments break that pattern."
     }
   },
   "BP256": {
@@ -6358,9 +5581,6 @@
       "url": "https://oebp.org/BP256",
       "image": "img/corrected/BP256E.png",
       "rule": "Each large circle closer to a small circle than a large one, and each small circle closer to a large one than a small one vs. not so."
-    },
-    "derived": {
-      "rule": "Each circle’s nearest neighbor is of the other size on the left. At least one circle has a nearest neighbor of its own size on the right."
     }
   },
   "BP257": {
@@ -6376,9 +5596,6 @@
       "url": "https://oebp.org/BP257",
       "image": "img/corrected/BP257E.png",
       "rule": "The distance from the center of the line to the bottom of the square is the same as the distance from the dot to the right edge of the square vs. not so."
-    },
-    "derived": {
-      "rule": "The segment midpoint’s distance from the bottom edge equals the dot’s distance from the right edge on the left. The distances differ on the right."
     }
   },
   "BP258": {
@@ -6395,9 +5612,6 @@
       "image": "img/corrected/BP258E.png",
       "rule": "Objects identical after mirroring horizontally vs. objects identical after mirroring vertically."
     },
-    "derived": {
-      "rule": "The two motifs are horizontal reflections on the left and vertical reflections on the right."
-    },
     "flag_reason": "L1 shows two equal circles. Either a horizontal or a vertical reflection preserves the shape of a circle, so this panel fits both side descriptions in both sources."
   },
   "BP259": {
@@ -6413,9 +5627,6 @@
       "url": "https://oebp.org/BP259",
       "image": "img/corrected/BP259E.png",
       "rule": "Two identical overlapping objects of which the top is rotated slightly clockwise vs. not so."
-    },
-    "derived": {
-      "rule": "The top shape is a small clockwise rotation of the identical shape beneath it on the left. The overlap on the right has a different relation."
     }
   },
   "BP260": {
@@ -6431,11 +5642,7 @@
       "url": "https://oebp.org/BP260",
       "image": "img/original/BP260E.png",
       "rule": "Squares are either all empty or all contain something vs. not so."
-    },
-    "derived": {
-      "rule": "The squares are either all empty or all occupied on the left. Empty and occupied squares occur together on the right."
-    },
-    "flag_reason": "Several squares in the previous redraw lost sides, including the squares in L3. The open outlines made it unclear which objects occupied squares."
+    }
   },
   "BP261": {
     "foundalis": {
@@ -6450,9 +5657,6 @@
       "url": "https://oebp.org/BP261",
       "image": "img/corrected/BP261E.png",
       "rule": "Straight lines that join filled and outlined circles intersect vs. straight lines that join filled and outlined circles do not intersect."
-    },
-    "derived": {
-      "rule": "The line through the solid circles crosses the line through the hollow circles within the two joining segments on the left. The segments are disjoint on the right."
     }
   },
   "BP262": {
@@ -6468,9 +5672,6 @@
       "url": "https://oebp.org/BP262",
       "image": "img/corrected/BP262E.png",
       "rule": "Exactly one point where lines bend at an angle vs. not exactly one point where lines bend at an angle."
-    },
-    "derived": {
-      "rule": "The line has exactly one angular bend on the left. The number of angular bends differs on the right."
     }
   },
   "BP263": {
@@ -6486,9 +5687,6 @@
       "url": "https://oebp.org/BP263",
       "image": "img/corrected/BP263E.png",
       "rule": "At least one ending edge is straight vs. all ending edges are curved."
-    },
-    "derived": {
-      "rule": "At least one terminal edge is straight on the left. All terminal edges curve on the right."
     }
   },
   "BP264": {
@@ -6504,9 +5702,6 @@
       "url": "https://oebp.org/BP264",
       "image": "img/corrected/BP264E.png",
       "rule": "Closed area vs. no closed area."
-    },
-    "derived": {
-      "rule": "The character encloses an area on the left. Its strokes enclose no area on the right."
     }
   },
   "BP265": {
@@ -6522,9 +5717,6 @@
       "url": "https://oebp.org/BP265",
       "image": "img/corrected/BP265E.png",
       "rule": "Axis of symmetry vs. no axis of symmetry."
-    },
-    "derived": {
-      "rule": "The character has a mirror axis on the left and lacks one on the right."
     }
   },
   "BP266": {
@@ -6540,9 +5732,6 @@
       "url": "https://oebp.org/BP266",
       "image": "img/corrected/BP266E.png",
       "rule": "At least one touch or cross point vs. no touch or cross point."
-    },
-    "derived": {
-      "rule": "Strokes touch or cross at a junction on the left. The right characters contain no such junction."
     }
   },
   "BP267": {
@@ -6558,9 +5747,6 @@
       "url": "https://oebp.org/BP267",
       "image": "img/corrected/BP267E.png",
       "rule": "Odd number of straight line segments vs. even number of straight line segments."
-    },
-    "derived": {
-      "rule": "The character has an odd number of straight strokes on the left and an even number on the right."
     }
   },
   "BP268": {
@@ -6576,9 +5762,6 @@
       "url": "https://oebp.org/BP268",
       "image": "img/corrected/BP268E.png",
       "rule": "Convex hull elongated vertically vs. convex hull elongated horizontally."
-    },
-    "derived": {
-      "rule": "The character or character group is taller than it is wide on the left and wider than it is tall on the right."
     }
   },
   "BP269": {
@@ -6594,9 +5777,6 @@
       "url": "https://oebp.org/BP269",
       "image": "img/corrected/BP269E.png",
       "rule": "Center of symmetry vs. no center of symmetry."
-    },
-    "derived": {
-      "rule": "A half turn preserves the character on the left and changes it on the right."
     }
   },
   "BP270": {
@@ -6612,9 +5792,6 @@
       "url": "https://oebp.org/BP270",
       "image": "img/corrected/BP270E.png",
       "rule": "Only vertical or horizontal lines vs. neither vertical nor horizontal lines."
-    },
-    "derived": {
-      "rule": "The left characters consist of horizontal or vertical strokes. The right characters have neither horizontal nor vertical straight strokes."
     }
   },
   "BP271": {
@@ -6631,9 +5808,6 @@
       "image": "img/corrected/BP271E.png",
       "rule": "Can be hand-written without raising the pen vs. cannot be hand-written without raising the pen."
     },
-    "derived": {
-      "rule": "Each character can be written in a single stroke without retracing on the left. Writing the character on the right requires lifting the pen."
-    },
     "flag_reason": "Both sources omit the restriction on retracing. The T in R5 can be drawn without lifting the pen by tracing the crossbar, retracing part of it to the junction, and drawing the stem."
   },
   "BP272": {
@@ -6649,9 +5823,6 @@
       "url": "https://oebp.org/BP272",
       "image": "img/corrected/BP272E.png",
       "rule": "Convex hull is a triangle vs. convex hull is a quadrilateral."
-    },
-    "derived": {
-      "rule": "The convex hull of the character is triangular on the left and quadrilateral on the right."
     }
   },
   "BP273": {
@@ -6667,9 +5838,6 @@
       "url": "https://oebp.org/BP273",
       "image": "img/corrected/BP273E.png",
       "rule": "Stays put (both when placed on its top and bottom) vs. tumbles (when placed on its bottom)."
-    },
-    "derived": {
-      "rule": "A left character balances when set on its top or bottom. A right character tips when set on its bottom."
     }
   },
   "BP274": {
@@ -6685,9 +5853,6 @@
       "url": "https://oebp.org/BP274",
       "image": "img/corrected/BP274E.png",
       "rule": "Notch from above (holds poured water) vs. no notch from above (does not hold poured water)."
-    },
-    "derived": {
-      "rule": "The top of each left character has a notch that could hold water. Water would run off each right character."
     }
   },
   "BP275": {
@@ -6703,9 +5868,6 @@
       "url": "https://oebp.org/BP275",
       "image": "img/corrected/BP275E.png",
       "rule": "Straight line joining the ends does not intersect the object vs. straight line joining the ends intersects the object."
-    },
-    "derived": {
-      "rule": "The segment joining the character’s two ends clears its other strokes on the left and crosses them on the right."
     }
   },
   "BP276": {
@@ -6721,9 +5883,6 @@
       "url": "https://oebp.org/BP276",
       "image": "img/corrected/BP276E.png",
       "rule": "At least one endpoint vs. no endpoints."
-    },
-    "derived": {
-      "rule": "The left characters have a free stroke end. The right characters have no free stroke ends."
     }
   },
   "BP277": {
@@ -6739,9 +5898,6 @@
       "url": "https://oebp.org/BP277",
       "image": "img/corrected/BP277E.png",
       "rule": "One object vs. two or more objects."
-    },
-    "derived": {
-      "rule": "The marks form one connected component on the left and two or more components on the right."
     }
   },
   "BP278": {
@@ -6757,9 +5913,6 @@
       "url": "https://oebp.org/BP278",
       "image": "img/corrected/BP278E.png",
       "rule": "Shorter on the left, taller on the right vs. taller on the left, shorter on the right."
-    },
-    "derived": {
-      "rule": "The second character is taller than the first on the left and shorter than the first on the right."
     }
   },
   "BP279": {
@@ -6775,9 +5928,6 @@
       "url": "https://oebp.org/BP279",
       "image": "img/corrected/BP279E.png",
       "rule": "The left part has more pixels (area) than the right part vs. the left part has fewer pixels than the right part."
-    },
-    "derived": {
-      "rule": "The first character has more ink than the second on the left and less ink than the second on the right."
     }
   },
   "BP280": {
@@ -6793,9 +5943,6 @@
       "url": "https://oebp.org/BP280",
       "image": "img/corrected/BP280E.png",
       "rule": "The left part is wider than the right part vs. the left part is narrower than the right part."
-    },
-    "derived": {
-      "rule": "The first character is wider than the second on the left and narrower than the second on the right."
     }
   },
   "BP281": {
@@ -6811,9 +5958,6 @@
       "url": "https://oebp.org/BP281",
       "image": "img/corrected/BP281E.png",
       "rule": "Equal number of horizontal and vertical lines vs. unequal number of horizontal and vertical lines."
-    },
-    "derived": {
-      "rule": "Horizontal and vertical lines occur in equal numbers on the left and unequal numbers on the right."
     }
   },
   "BP282": {
@@ -6829,9 +5973,6 @@
       "url": "https://oebp.org/BP282",
       "image": "img/corrected/BP282E.png",
       "rule": "Shape of black region has as many sides as overall object vs. shape of black region has different number of sides than overall object."
-    },
-    "derived": {
-      "rule": "The black part and the whole figure have the same number of sides on the left and different numbers of sides on the right."
     }
   },
   "BP283": {
@@ -6847,9 +5988,6 @@
       "url": "https://oebp.org/BP283",
       "image": "img/corrected/BP283E.png",
       "rule": "Rectangle left after tiling all black shapes into empty square vs. triangle left after tiling all black shapes into empty square."
-    },
-    "derived": {
-      "rule": "Fitting the black tiles inside the square leaves a rectangle on the left and a triangle on the right."
     }
   },
   "BP284": {
@@ -6869,9 +6007,6 @@
         "left": 0,
         "right": 1
       }
-    },
-    "derived": {
-      "rule": "Exactly half the square is black on the left. The black fraction differs from one half on the right."
     }
   },
   "BP285": {
@@ -6887,9 +6022,6 @@
       "url": "https://oebp.org/BP285",
       "image": "img/corrected/BP285E.png",
       "rule": "The centers (barycenters) of the objects are collinear vs. the centers (barycenters) of the objects are not collinear."
-    },
-    "derived": {
-      "rule": "The centers of all the shapes lie on a straight line on the left and depart from a common line on the right."
     }
   },
   "BP286": {
@@ -6905,9 +6037,6 @@
       "url": "https://oebp.org/BP286",
       "image": "img/corrected/BP286E.png",
       "rule": "Decreasing in size from top to bottom vs. increasing in size from top to bottom."
-    },
-    "derived": {
-      "rule": "The shapes decrease in size down the panel on the left and increase in size down the panel on the right."
     }
   },
   "BP287": {
@@ -6923,9 +6052,6 @@
       "url": "https://oebp.org/BP287",
       "image": "img/corrected/BP287E.png",
       "rule": "Rays emanating from a central point vs. not so."
-    },
-    "derived": {
-      "rule": "Extending the triangles’ axes from their tips toward their bases gives a common point on the left and misses a common point on the right."
     }
   },
   "BP288": {
@@ -6941,9 +6067,6 @@
       "url": "https://oebp.org/BP288",
       "image": "img/corrected/BP288E.png",
       "rule": "The sum of the ratios of the filled areas is 1 vs. the sum of the ratios of the filled areas is other than 1."
-    },
-    "derived": {
-      "rule": "Adding the black fraction of each shape gives one on the left and a different total on the right."
     }
   },
   "BP289": {
@@ -6959,9 +6082,6 @@
       "url": "https://oebp.org/BP289",
       "image": "img/corrected/BP289E.png",
       "rule": "Shapes, if tiled up properly, form a square vs. shapes cannot form a square no matter how they are tiled."
-    },
-    "derived": {
-      "rule": "The pieces can tile a square on the left. Every arrangement on the right leaves a gap or a nonsquare outline."
     }
   },
   "BP290": {
@@ -6978,9 +6098,6 @@
       "image": "img/corrected/BP290E.png",
       "rule": "If any non-nosed faces exist, they are happy if and only if happy nosed faces exist as well vs. not so."
     },
-    "derived": {
-      "rule": "If any faces lack noses, smiling occurs among them exactly when it also occurs among the faces with noses on the left. The right examples violate that condition."
-    },
     "flag_reason": "Both sources’ rule holds in two right panels. R1 has no noseless faces, so the outer conditional is true. R2 has a sad noseless face and no happy face with a nose, so both sides of the biconditional are false and the biconditional is true."
   },
   "BP291": {
@@ -6996,9 +6113,6 @@
       "url": "https://oebp.org/BP291",
       "image": "img/corrected/BP291E.png",
       "rule": "The shapes in the large square never appear outside of it vs. at least one shape in the large square appears outside of it."
-    },
-    "derived": {
-      "rule": "The kinds of shape inside the square are absent outside it on the left. On the right at least one kind appears in both places."
     }
   },
   "BP292": {
@@ -7015,9 +6129,6 @@
       "image": "img/corrected/BP292E.png",
       "rule": "Angle made by shapes with vertex at square is not acute vs. angle made by shapes with vertex at square is acute."
     },
-    "derived": {
-      "rule": "The two triangles subtend a right or obtuse angle at the square on the left and an acute angle on the right."
-    },
     "flag_reason": "Both sources require a nonacute angle on the left. In L4 the angle at the center of the square, measured between the centers of the two triangles, is about 83° and therefore acute."
   },
   "BP293": {
@@ -7033,11 +6144,7 @@
       "url": "https://oebp.org/BP293",
       "image": "img/original/BP293E.png",
       "rule": "Square divided into four areas of the same size and shape vs. not so."
-    },
-    "derived": {
-      "rule": "The four parts of the square are congruent on the left and differ in size or shape on the right."
-    },
-    "flag_reason": "The previous redraw lost the diagonal subdivisions in R5. Its square had only two enclosed parts, although the rule requires four."
+    }
   },
   "BP294": {
     "foundalis": {
@@ -7052,9 +6159,6 @@
       "url": "https://oebp.org/BP294",
       "image": "img/corrected/BP294E.png",
       "rule": "The two points are reachable through a path vs. the two points are unreachable by any path."
-    },
-    "derived": {
-      "rule": "A path through the maze connects the two marked points on the left. A wall separates their regions on the right."
     }
   },
   "BP295": {
@@ -7070,9 +6174,6 @@
       "url": "https://oebp.org/BP295",
       "image": "img/corrected/BP295E.png",
       "rule": "Line joins large and small square vs. line joins the two middle-sized squares."
-    },
-    "derived": {
-      "rule": "The segment connects the largest and smallest squares on the left and the two intermediate squares on the right."
     }
   },
   "BP296": {
@@ -7088,9 +6189,6 @@
       "url": "https://oebp.org/BP296",
       "image": "img/corrected/BP296E.png",
       "rule": "All three sizes are present vs. only two of the three sizes present."
-    },
-    "derived": {
-      "rule": "All three square sizes occur on the left. Only two of the three sizes occur on the right."
     }
   },
   "BP297": {
@@ -7106,9 +6204,6 @@
       "url": "https://oebp.org/BP297",
       "image": "img/corrected/BP297E.png",
       "rule": "Ghost shape is square vs. Ghost shape is rectangular."
-    },
-    "derived": {
-      "rule": "The implied white shape is a square on the left and a nonsquare rectangle on the right."
     }
   },
   "BP298": {
@@ -7124,9 +6219,6 @@
       "url": "https://oebp.org/BP298",
       "image": "img/corrected/BP298E.png",
       "rule": "One of the two small squares is near the lower-right corner vs. one of the two small squares is near the upper-right corner."
-    },
-    "derived": {
-      "rule": "A small square lies near the lower-right corner on the left and near the upper-right corner on the right."
     }
   },
   "BP299": {
@@ -7142,9 +6234,6 @@
       "url": "https://oebp.org/BP299",
       "image": "img/corrected/BP299E.png",
       "rule": "Lines if slightly extended make up a regular polygon vs. lines if slightly extended cannot make up a regular polygon."
-    },
-    "derived": {
-      "rule": "Slightly extending the segments can complete a regular polygon on the left and cannot do so on the right."
     }
   },
   "BP300": {
@@ -7160,9 +6249,6 @@
       "url": "https://oebp.org/BP300",
       "image": "img/corrected/BP300E.png",
       "rule": "Acceleration and deceleration vs. constant speed."
-    },
-    "derived": {
-      "rule": "The moving object changes speed on the left and travels at constant speed on the right."
     }
   },
   "BP301": {
@@ -7180,9 +6266,6 @@
       "image": "img/corrected/BP301E.png",
       "rule": "Large and medium-sized square, the latter can be hidden vs. large and small-sized square, the latter can be hidden.",
       "note": "Image corrected from original by adding partially hidden squares to L5 and R5."
-    },
-    "derived": {
-      "rule": "Each example contains a large square and a second square that may be hidden. The second square is medium-sized on the left and small on the right."
     }
   },
   "BP302": {
@@ -7198,9 +6281,6 @@
       "url": "https://oebp.org/BP302",
       "image": "img/corrected/BP302E.png",
       "rule": "5 collinear objects, of which the 3rd is moved elsewhere vs. 5 collinear objects, of which the 2nd/4th is moved elsewhere."
-    },
-    "derived": {
-      "rule": "Five objects would form a row. The displaced object is the middle one on the left and the second or fourth one on the right."
     }
   },
   "BP303": {
@@ -7216,9 +6296,6 @@
       "url": "https://oebp.org/BP303",
       "image": "img/corrected/BP303E.png",
       "rule": "Three objects are identical, the fourth differs vs. not so."
-    },
-    "derived": {
-      "rule": "Exactly three of the four objects match on the left. The right examples lack that three-against-one division."
     }
   },
   "BP304": {
@@ -7234,9 +6311,6 @@
       "url": "https://oebp.org/BP304",
       "image": "img/corrected/BP304E.png",
       "rule": "At least one (interior or exterior) right angle vs. no right angle (either interior or exterior)."
-    },
-    "derived": {
-      "rule": "Some pair of adjacent sides forms an interior or exterior right angle on the left. The polygon has no such angle on the right."
     }
   },
   "BP305": {
@@ -7252,9 +6326,6 @@
       "url": "https://oebp.org/BP305",
       "image": "img/corrected/BP305E.png",
       "rule": "Shapes identical after rotation vs. shapes identical after rotation and mirroring."
-    },
-    "derived": {
-      "rule": "Rotating one shape suffices to match the other on the left. Matching the shapes on the right also requires a reflection."
     }
   },
   "BP306": {
@@ -7270,9 +6341,6 @@
       "url": "https://oebp.org/BP306",
       "image": "img/corrected/BP306E.png",
       "rule": "Ratio of inside to outside identical shapes is constant vs. not so."
-    },
-    "derived": {
-      "rule": "The ratio of inside to outside counts is the same for every kind of object on the left and varies with the kind on the right."
     }
   },
   "BP307": {
@@ -7288,9 +6356,6 @@
       "url": "https://oebp.org/BP307",
       "image": "img/corrected/BP307E.png",
       "rule": "Dots are in tight clusters around convex vertices vs. dots are spread around."
-    },
-    "derived": {
-      "rule": "Dots cluster tightly around the polygon’s convex vertices on the left and spread out on the right."
     }
   },
   "BP308": {
@@ -7306,9 +6371,6 @@
       "url": "https://oebp.org/BP308",
       "image": "img/corrected/BP308E.png",
       "rule": "Three or more small clusters of dots vs. not so."
-    },
-    "derived": {
-      "rule": "The dots form at least three small, distinct clusters on the left. The right examples lack that grouping."
     }
   },
   "BP309": {
@@ -7324,9 +6386,6 @@
       "url": "https://oebp.org/BP309",
       "image": "img/corrected/BP309E.png",
       "rule": "Ball touches curve at a point of local minimum downwards vs. ball touches curve at a point of local maximum upwards."
-    },
-    "derived": {
-      "rule": "The ball touches the curve at the bottom of a trough on the left and at the top of a crest on the right."
     }
   },
   "BP310": {
@@ -7342,9 +6401,6 @@
       "url": "https://oebp.org/BP310",
       "image": "img/corrected/BP310E.png",
       "rule": "Enclosed square repelled by the outside squares, closest to the side of the enclosing square thats farthest from the common center of the outside squares. vs. enclosed square attracted by the outside squares, closest to the side of the enclosing square thats closest to the common center of the outside squares.."
-    },
-    "derived": {
-      "rule": "The inner square is nearest the wall farthest from the outside squares’ common center on the left and nearest the wall facing that center on the right."
     }
   },
   "BP311": {
@@ -7360,9 +6416,6 @@
       "url": "https://oebp.org/BP311",
       "image": "img/corrected/BP311E.png",
       "rule": "Number of sides minus number of pluses = 3 vs. number of sides minus number of pluses = 4."
-    },
-    "derived": {
-      "rule": "Subtracting the number of plus signs from the number of polygon sides gives three on the left and four on the right."
     }
   },
   "BP312": {
@@ -7378,9 +6431,6 @@
       "url": "https://oebp.org/BP312",
       "image": "img/corrected/BP312E.png",
       "rule": "Lines intersect within the box vs. lines intersect out of the box."
-    },
-    "derived": {
-      "rule": "Extending the two segments makes them intersect inside the panel on the left and outside the panel on the right."
     }
   },
   "BP313": {
@@ -7396,9 +6446,6 @@
       "url": "https://oebp.org/BP313",
       "image": "img/corrected/BP313E.png",
       "rule": "Closed curves clockwise, open curves counterclockwise vs. closed curves counterclockwise, open curves clockwise."
-    },
-    "derived": {
-      "rule": "Following the curls from their tapered ends, closed loops turn clockwise and open curls turn counterclockwise on the left. The directions reverse on the right."
     }
   },
   "BP314": {
@@ -7414,9 +6461,6 @@
       "url": "https://oebp.org/BP314",
       "image": "img/corrected/BP314E.png",
       "rule": "Long distance between the marked locations vs. short distance between the marked locations."
-    },
-    "derived": {
-      "rule": "A route through the maze between the marked places is long on the left and short on the right."
     }
   },
   "BP315": {
@@ -7432,11 +6476,7 @@
       "url": "https://oebp.org/BP315",
       "image": "img/original/BP315E.png",
       "rule": "One area unreachable by the marked locations vs. all areas reachable by the marked locations."
-    },
-    "derived": {
-      "rule": "One region of the maze is unreachable from either marked place on the left. Every region is reachable from a marked place on the right."
-    },
-    "flag_reason": "In L5 of the previous redraw, every region was reachable from a marked place. The rule requires a region that neither mark can reach."
+    }
   },
   "BP316": {
     "foundalis": {
@@ -7451,11 +6491,7 @@
       "url": "https://oebp.org/BP316",
       "image": "img/original/BP316E.png",
       "rule": "At least one path is a cycle vs. no path is a cycle."
-    },
-    "derived": {
-      "rule": "The maze contains a route that makes a circuit on the left. All routes are free of circuits on the right."
-    },
-    "flag_reason": "In R1 of the previous redraw, a gap in a maze wall created a circuit. Right examples must have no circuit."
+    }
   },
   "BP317": {
     "foundalis": {
@@ -7470,9 +6506,6 @@
       "url": "https://oebp.org/BP317",
       "image": "img/corrected/BP317E.png",
       "rule": "Number of enclosed black circles varies in correlation with enclosing circle outline size vs. not so."
-    },
-    "derived": {
-      "rule": "Larger enclosing circles go with more dots on the left. The counts on the right depart from that size relation."
     },
     "flag_reason": "Foundalis claims direct proportionality. In L5 the circles enclosing one, two, and three dots measure about 19, 36, and 49 pixels across. Neither their diameters nor their areas have the required ratio. OEBP’s weaker claim that size and count are correlated fits."
   },
@@ -7489,9 +6522,6 @@
       "url": "https://oebp.org/BP318",
       "image": "img/corrected/BP318E.png",
       "rule": "The numbers of dots can be put into a sequence of consecutive numbers vs. not so."
-    },
-    "derived": {
-      "rule": "The cluster sizes can be ordered as consecutive integers on the left. The right examples have a gap or a repetition."
     }
   },
   "BP319": {
@@ -7507,9 +6537,6 @@
       "url": "https://oebp.org/BP319",
       "image": "img/corrected/BP319E.png",
       "rule": "The number of dots in one cluster is a multiple of the other vs. not so."
-    },
-    "derived": {
-      "rule": "One cluster contains a whole-number multiple of the other cluster’s dot count on the left. Neither count divides the other on the right."
     }
   },
   "BP320": {
@@ -7525,9 +6552,6 @@
       "url": "https://oebp.org/BP320",
       "image": "img/corrected/BP320E.png",
       "rule": "The numbers of dots in the two clusters are approximately equal (log scale) vs. the numbers of dots in the two clusters differ a lot."
-    },
-    "derived": {
-      "rule": "The two dot counts are close in relative size on the left and far apart on the right."
     }
   },
   "BP321": {
@@ -7543,9 +6567,6 @@
       "url": "https://oebp.org/BP321",
       "image": "img/corrected/BP321E.png",
       "rule": "Small round object unreachable from the border of the box vs. small round object reachable from the border of the box."
-    },
-    "derived": {
-      "rule": "The small round mark is cut off from the panel boundary on the left. An unobstructed route reaches it from the boundary on the right."
     }
   },
   "BP322": {
@@ -7561,9 +6582,6 @@
       "url": "https://oebp.org/BP322",
       "image": "img/corrected/BP322E.png",
       "rule": "One outer outline vs. more than one outer outline."
-    },
-    "derived": {
-      "rule": "The figure has a single outer outline on the left and more than one outer outline on the right."
     }
   },
   "BP323": {
@@ -7579,9 +6597,6 @@
       "url": "https://oebp.org/BP323",
       "image": "img/corrected/BP323E.png",
       "rule": "Jigsaw puzzle pieces can be assembled into a square vs. jigsaw puzzle pieces cannot be assembled into a square."
-    },
-    "derived": {
-      "rule": "The jigsaw pieces fit together to make a square on the left. They cannot make a square on the right."
     }
   },
   "BP324": {
@@ -7597,9 +6612,6 @@
       "url": "https://oebp.org/BP324",
       "image": "img/corrected/BP324E.png",
       "rule": "Left shapes can be placed on top of each other to make right shape vs. not so."
-    },
-    "derived": {
-      "rule": "Superimposing the two leftmost motifs produces the motif to their right in the left examples. It produces a different result in the right examples."
     }
   },
   "BP325": {
@@ -7615,9 +6627,6 @@
       "url": "https://oebp.org/BP325",
       "image": "img/corrected/BP325E.png",
       "rule": "Left shapes can combine by symmetric difference (XOR logical operator) to make right shape vs. left shapes can combine by intersection (AND logical operator) to make right shape."
-    },
-    "derived": {
-      "rule": "The result contains the parts covered by exactly one input on the left and the parts shared by both inputs on the right."
     }
   },
   "BP326": {
@@ -7633,9 +6642,6 @@
       "url": "https://oebp.org/BP326",
       "image": "img/corrected/BP326E.png",
       "rule": "Straight line tangent to circle vs. straight line not tangent to circle."
-    },
-    "derived": {
-      "rule": "The line is tangent to the circle on the left and either cuts across it or misses it on the right."
     }
   },
   "BP327": {
@@ -7651,9 +6657,6 @@
       "url": "https://oebp.org/BP327",
       "image": "img/corrected/BP327E.png",
       "rule": "Straight line tangent to curve vs. straight line not tangent to curve."
-    },
-    "derived": {
-      "rule": "The straight line is tangent to the other curve on the left and lacks that tangency on the right."
     }
   },
   "BP328": {
@@ -7669,9 +6672,6 @@
       "url": "https://oebp.org/BP328",
       "image": "img/corrected/BP328E.png",
       "rule": "All sides are equal vs. all angles are equal."
-    },
-    "derived": {
-      "rule": "All the polygon’s sides have equal length on the left, and all its angles have equal measure on the right."
     }
   },
   "BP329": {
@@ -7687,9 +6687,6 @@
       "url": "https://oebp.org/BP329",
       "image": "img/corrected/BP329E.png",
       "rule": "Regular polygon vs. not regular polygon."
-    },
-    "derived": {
-      "rule": "The polygon is regular on the left and irregular on the right."
     }
   },
   "BP330": {
@@ -7705,9 +6702,6 @@
       "url": "https://oebp.org/BP330",
       "image": "img/corrected/BP330E.png",
       "rule": "1-D curve vs. 2-D shape."
-    },
-    "derived": {
-      "rule": "The left examples depict a one-dimensional curve, and the right examples depict a region with area."
     }
   },
   "BP331": {
@@ -7723,9 +6717,6 @@
       "url": "https://oebp.org/BP331",
       "image": "img/corrected/BP331E.png",
       "rule": "Image of something 2-D vs. image of something 3-D."
-    },
-    "derived": {
-      "rule": "The left examples depict flat figures, and the right examples depict three-dimensional objects."
     }
   },
   "BP332": {
@@ -7741,9 +6732,6 @@
       "url": "https://oebp.org/BP332",
       "image": "img/corrected/BP332E.png",
       "rule": "Wireframe drawing of solid vs. drawing of opaque solid."
-    },
-    "derived": {
-      "rule": "The solid is drawn as a wireframe showing its hidden edges on the left and as an opaque object on the right."
     }
   },
   "BP333": {
@@ -7759,9 +6747,6 @@
       "url": "https://oebp.org/BP333",
       "image": "img/corrected/BP333E.png",
       "rule": "Drawing of platonic solid (regular polyhedron) vs. drawing of non-platonic solid."
-    },
-    "derived": {
-      "rule": "Each left drawing depicts a Platonic solid. The solids on the right fall outside that family."
     }
   },
   "BP334": {
@@ -7781,9 +6766,6 @@
         "left": 4,
         "right": 4
       }
-    },
-    "derived": {
-      "rule": "The number of dots is odd on the left and even on the right."
     }
   },
   "BP335": {
@@ -7803,9 +6785,6 @@
         "left": 8,
         "right": 0
       }
-    },
-    "derived": {
-      "rule": "Copies of the shape can cover the plane without gaps or overlaps on the left. The shape on the right cannot tile the plane."
     }
   },
   "BP336": {
@@ -7821,9 +6800,6 @@
       "url": "https://oebp.org/BP336",
       "image": "img/corrected/BP336E.png",
       "rule": "Any one gear turns all vs. no gear turns all."
-    },
-    "derived": {
-      "rule": "Driving any one gear turns the whole assembly on the left. No single gear can drive the whole assembly on the right."
     }
   },
   "BP337": {
@@ -7839,9 +6815,6 @@
       "url": "https://oebp.org/BP337",
       "image": "img/corrected/BP337E.png",
       "rule": "Black is below upward slopes vs. black is below downward slopes."
-    },
-    "derived": {
-      "rule": "Where the boundary rises, black lies below it on the left. On the right, black lies below the falling portions."
     }
   },
   "BP338": {
@@ -7857,9 +6830,6 @@
       "url": "https://oebp.org/BP338",
       "image": "img/corrected/BP338E.png",
       "rule": "High approximate similarity vs. lower approximate similarity."
-    },
-    "derived": {
-      "rule": "The two shapes in each left example closely resemble one another. The corresponding pair on the right differs more strongly."
     }
   },
   "BP339": {
@@ -7875,9 +6845,6 @@
       "url": "https://oebp.org/BP339",
       "image": "img/corrected/BP339E.png",
       "rule": "Union of left sets is right set vs. intersection of left sets is right set."
-    },
-    "derived": {
-      "rule": "The result set contains every member of either input set on the left and only the members common to both inputs on the right."
     }
   },
   "BP340": {
@@ -7893,9 +6860,6 @@
       "url": "https://oebp.org/BP340",
       "image": "img/corrected/BP340E.png",
       "rule": "Regular star polygon vs. not so."
-    },
-    "derived": {
-      "rule": "The left star polygons can be traced in one circuit by repeatedly advancing the same number of vertices. The right drawings violate that construction."
     },
     "flag_reason": "Foundalis requires continuous tracing from outer vertex to outer vertex. L2 consists of two triangles and L4 of two squares. Following whole edges closes one circuit before reaching the other. OEBP’s rule fits if regular star polygons include these compound figures."
   },
@@ -7913,9 +6877,6 @@
       "image": "img/corrected/BP341E.png",
       "rule": "Strictly increasing or strictly decreasing border line vs. both increasing and decreasing border line."
     },
-    "derived": {
-      "rule": "The boundary moves consistently upward or consistently downward on the left and reverses its vertical direction on the right."
-    },
     "flag_reason": "Both sources require strict increase or decrease. L5 and L6 have long horizontal runs. Their borders are respectively nonincreasing and nondecreasing as one moves to the right."
   },
   "BP342": {
@@ -7931,9 +6892,6 @@
       "url": "https://oebp.org/BP342",
       "image": "img/corrected/BP342E.png",
       "rule": "Exactly one axis of symmetry vs. either zero or more than one axis of symmetry."
-    },
-    "derived": {
-      "rule": "Each left figure has exactly one mirror axis. Each right figure has either none or more than one."
     }
   },
   "BP343": {
@@ -7949,9 +6907,6 @@
       "url": "https://oebp.org/BP343",
       "image": "img/corrected/BP343E.png",
       "rule": "No two shapes are the same vs. at least two shapes are the same."
-    },
-    "derived": {
-      "rule": "All the shapes in a left example are distinct. At least two shapes match in a right example."
     }
   },
   "BP344": {
@@ -7972,10 +6927,7 @@
         "right": 1
       }
     },
-    "derived": {
-      "rule": "Under Foundalis’s rule, copies of a left shape can tile a parallelogram, and copies of a right shape cannot."
-    },
-    "flag_reason": "OEBP replaces a right drawing and describes self-tiling. Foundalis specifically requires a tiling that forms a parallelogram."
+    "flag_reason": "Foundalis R3 shows an angular shape. OEBP R3 (EX4120) has a round tab and socket. Two copies interlock to form a rectangle, but smaller copies cannot tile the piece itself. This distinguishes OEBP’s self-tiling rule from Foundalis’s parallelogram rule."
   },
   "BP345": {
     "foundalis": {
@@ -7990,9 +6942,6 @@
       "url": "https://oebp.org/BP345",
       "image": "img/corrected/BP345E.png",
       "rule": "Intersection of circle and square vs. union of circle and square."
-    },
-    "derived": {
-      "rule": "The black region is the common part of a circle and a square on the left and their combined area on the right."
     }
   },
   "BP346": {
@@ -8008,9 +6957,6 @@
       "url": "https://oebp.org/BP346",
       "image": "img/corrected/BP346E.png",
       "rule": "Object on the right fits in pattern on the left vs. object on the right does not fit in pattern on the left."
-    },
-    "derived": {
-      "rule": "The item beyond the divider shares the defining property of the group on the left side of the divider in left examples. It falls outside that category in right examples."
     }
   },
   "BP347": {
@@ -8026,9 +6972,6 @@
       "url": "https://oebp.org/BP347",
       "image": "img/corrected/BP347E.png",
       "rule": "No pattern (variety of shapes) vs. all shapes have something in common."
-    },
-    "derived": {
-      "rule": "The left examples collect varied shapes. In each right example a common feature unites the shapes."
     }
   },
   "BP348": {
@@ -8044,9 +6987,6 @@
       "url": "https://oebp.org/BP348",
       "image": "img/corrected/BP348E.png",
       "rule": "Shape on the right is the convex hull of shape on the left vs. not so."
-    },
-    "derived": {
-      "rule": "The second shape fills the convex hull of the first on the left. It differs from that hull on the right."
     }
   },
   "BP349": {
@@ -8063,10 +7003,7 @@
       "image": "img/original/BP349E.png",
       "rule": "One object does not belong to the pattern of the rest vs. all objects form one pattern."
     },
-    "derived": {
-      "rule": "One item breaks the common pattern on the left. All the items share the pattern on the right."
-    },
-    "flag_reason": "The sources draw several members of the sets differently on both sides."
+    "flag_reason": "OEBP redraws L1, R1, L2 and R2 in place. In L2 the small loop among the triangles becomes a square. On both sides, Foundalis panels 4, 5 and 6 reappear with altered drawings in OEBP positions 6, 4 and 5, respectively. Only L3 and R3 match exactly."
   },
   "BP350": {
     "foundalis": {
@@ -8081,9 +7018,6 @@
       "url": "https://oebp.org/BP350",
       "image": "img/corrected/BP350E.png",
       "rule": "Some quantity keeps increasing from left to right vs. not so."
-    },
-    "derived": {
-      "rule": "Reading each sequence from left to right, a quantity increases throughout the left examples and breaks that progression in the right examples."
     }
   },
   "BP351": {
@@ -8103,9 +7037,6 @@
         "left": 0,
         "right": 1
       }
-    },
-    "derived": {
-      "rule": "The changing quantity takes discrete values on the left and continuous values on the right."
     }
   },
   "BP352": {
@@ -8126,10 +7057,7 @@
         "right": 0
       }
     },
-    "derived": {
-      "rule": "The progression can extend below any proposed lower bound on the left. Its quantity has a lower bound on the right."
-    },
-    "flag_reason": "OEBP changes the markings in the second displayed left sequence."
+    "flag_reason": "In L2, OEBP draws the six diagonal lines between the dots more thinly. The positions of the dots and their open or filled centers agree."
   },
   "BP353": {
     "foundalis": {
@@ -8145,10 +7073,7 @@
       "image": "img/original/BP353E.png",
       "rule": "Increasing quantity loops back to starting value vs. increasing quantity cannot loop back to starting value."
     },
-    "derived": {
-      "rule": "The increasing quantity can cycle back to its starting value on the left. Its progression cannot return to that value on the right."
-    },
-    "flag_reason": "OEBP replaces one drawing on each side."
+    "flag_reason": "In L3, OEBP replaces Foundalis’s rotating open angles with white strokes rotating inside black squares. In R5, it replaces the sequence of U-shapes becoming bars with a sequence of solid quadrilaterals."
   },
   "BP354": {
     "foundalis": {
@@ -8163,9 +7088,6 @@
       "url": "https://oebp.org/BP354",
       "image": "img/corrected/BP354E.png",
       "rule": "Increasing quantity is angular vs. not so."
-    },
-    "derived": {
-      "rule": "The changing quantity is an angle on the left. On the right it measures a quantity that can continue increasing without wrapping around."
     },
     "flag_reason": "Foundalis requires a quantity that increases without bound on the right. In R4 the white hole grows inside a fixed black oval, which bounds its diameter. OEBP’s description of the change as nonangular fits."
   },
@@ -8182,9 +7104,6 @@
       "url": "https://oebp.org/BP355",
       "image": "img/corrected/BP355E.png",
       "rule": "Fractal iteration based on 2-D (shapes) vs. fractal iteration based on 1-D (line segments)."
-    },
-    "derived": {
-      "rule": "The repeated construction replaces regions on the left and replaces line segments on the right."
     }
   },
   "BP356": {
@@ -8204,9 +7123,6 @@
         "left": 1,
         "right": 0
       }
-    },
-    "derived": {
-      "rule": "The dot count indexes an item in the upper sequence. That item matches the candidate below on the left and differs from it on the right."
     }
   },
   "BP357": {
@@ -8222,9 +7138,6 @@
       "url": "https://oebp.org/BP357",
       "image": "img/corrected/BP357E.png",
       "rule": "Decelerating change in quantity, left-to-right vs. accelerating change in quantity, left-to-right."
-    },
-    "derived": {
-      "rule": "Reading the sequence from left to right, successive changes get smaller on the left and larger on the right."
     }
   },
   "BP358": {
@@ -8240,9 +7153,6 @@
       "url": "https://oebp.org/BP358",
       "image": "img/corrected/BP358E.png",
       "rule": "The circles will collide if the arrows are their velocities vs. the circles will not collide if the arrows are their velocities."
-    },
-    "derived": {
-      "rule": "If both circles move with the velocities shown by their arrows, they collide on the left and miss each other on the right."
     }
   },
   "BP359": {
@@ -8258,11 +7168,7 @@
       "url": "https://oebp.org/BP359",
       "image": "img/original/BP359E.png",
       "rule": "Random arrangement of pixels vs. not so."
-    },
-    "derived": {
-      "rule": "The left textures scatter dots at random. The right textures impose a pattern on their positions."
-    },
-    "flag_reason": "The previous redraw scored below the similarity threshold because its dot textures differed in the placement of individual marks."
+    }
   },
   "BP360": {
     "foundalis": {
@@ -8277,9 +7183,6 @@
       "url": "https://oebp.org/BP360",
       "image": "img/corrected/BP360E.png",
       "rule": "Order is high (low entropy) vs. order is low (high entropy)."
-    },
-    "derived": {
-      "rule": "The elements have a highly ordered arrangement on the left and a less predictable arrangement on the right."
     }
   },
   "BP361": {
@@ -8296,10 +7199,7 @@
       "image": "img/original/BP361E.png",
       "rule": "Analogy makes sense vs. analogy does not make sense."
     },
-    "derived": {
-      "rule": "The relation in the first pair also holds in the second pair on the left. The second pair breaks the analogy on the right."
-    },
-    "flag_reason": "The sources use different drawings within the analogies on both sides."
+    "flag_reason": "OEBP replaces all twelve analogies (L1–L6 and R1–R6). Foundalis L1 and R1 both use a three-pronged figure. OEBP L1 and R1 use only dots."
   },
   "BP362": {
     "foundalis": {
@@ -8319,10 +7219,7 @@
         "right": 0
       }
     },
-    "derived": {
-      "rule": "One of the available choices completes the analogy on the left. None of the choices completes it on the right."
-    },
-    "flag_reason": "The sources use different arrangements of the analogy and its possible answers."
+    "flag_reason": "Foundalis L1 uses dots and L2 uses stars. OEBP L1 uses dashed outlines around figures and L2 mixes dots and triangles. In the cross analogy, Foundalis R5 has a wavy figure in the lower-left cell, where OEBP R6 has a cross."
   },
   "BP363": {
     "foundalis": {
@@ -8337,9 +7234,6 @@
       "url": "https://oebp.org/BP363",
       "image": "img/corrected/BP363E.png",
       "rule": "Counterclockwise along the curve following the arrow vs. clockwise along the curve following the arrow."
-    },
-    "derived": {
-      "rule": "Following the arrow around the outline goes counterclockwise on the left and clockwise on the right."
     }
   },
   "BP364": {
@@ -8356,10 +7250,7 @@
       "image": "img/original/BP364E.png",
       "rule": "Two clearly separable groups vs. not so."
     },
-    "derived": {
-      "rule": "The elements divide into two clearly separated groups on the left and lack a clear two-group separation on the right."
-    },
-    "flag_reason": "The selected examples differ on both sides, including the spacing that defines the groups."
+    "flag_reason": "OEBP L4 and R4 redraw the dots in Foundalis L2 and R2. The eight distinct clusters in Foundalis R2 become a loose field of dots in OEBP R4. OEBP L5 and R5 also change the dot groups in Foundalis L3 and R3. Foundalis L6 shows a grid and R6 is blank. OEBP L6 and R6 show two and three solid polygons, respectively."
   },
   "BP365": {
     "foundalis": {
@@ -8379,10 +7270,7 @@
         "right": 0
       }
     },
-    "derived": {
-      "rule": "Two quantities vary independently on the left. One changing quantity accounts for the sequence on the right."
-    },
-    "flag_reason": "Both sources describe two independent quantities on the left. In the grid sequence in Foundalis L1 and OEBP L2, the height is always twice the width minus one, so the width determines the height. OEBP changes examples on both sides, including the final sequences."
+    "flag_reason": "Both sources describe two independent quantities on the left, but in the grid sequence (Foundalis L1, OEBP L2) the height is always twice the width minus one. The OEBP sheet also omits the line-and-dot sequences from Foundalis L3 and L4 and includes new bar sequences in L5 and L6. All six right-hand sequences are represented."
   },
   "BP366": {
     "foundalis": {
@@ -8397,9 +7285,6 @@
       "url": "https://oebp.org/BP366",
       "image": "img/corrected/BP366E.png",
       "rule": "White dot is at center of mass vs. white dot is not at center of mass."
-    },
-    "derived": {
-      "rule": "The white dot marks the black shape’s center of mass on the left and lies away from it on the right."
     }
   },
   "BP367": {
@@ -8415,9 +7300,6 @@
       "url": "https://oebp.org/BP367",
       "image": "img/corrected/BP367E.png",
       "rule": "Center of mass within the black area of the shape vs. center of mass out of the black area of the shape."
-    },
-    "derived": {
-      "rule": "The center of mass falls within the black material on the left and outside the black material on the right."
     }
   },
   "BP368": {
@@ -8433,9 +7315,6 @@
       "url": "https://oebp.org/BP368",
       "image": "img/corrected/BP368E.png",
       "rule": "There is a point that can see (in straight lines) all points vs. there is no point that can see (in straight lines) all points."
-    },
-    "derived": {
-      "rule": "On the left one point in the shape can see every other point along a segment inside the shape. No such viewpoint exists on the right."
     }
   },
   "BP369": {
@@ -8452,9 +7331,6 @@
       "image": "img/corrected/BP369E.png",
       "rule": "All points (small white circles) on one figure can be glued together to make the other figure vs. not so."
     },
-    "derived": {
-      "rule": "Identifying the marked points of one figure produces the other figure on the left. The corresponding identification fails on the right."
-    },
     "flag_reason": "Foundalis allows gluing marked points in pairs. In R3, gluing the four tips of the X in two separate pairs produces the figure eight beside it. OEBP requires all the marked points to be identified at one junction, which excludes R3."
   },
   "BP370": {
@@ -8470,9 +7346,6 @@
       "url": "https://oebp.org/BP370",
       "image": "img/corrected/BP370E.png",
       "rule": "Gluing sides with the same symbols makes a sphere vs. gluing sides with the same symbols makes a torus."
-    },
-    "derived": {
-      "rule": "Gluing the labeled boundary edges as indicated gives a sphere on the left and a torus on the right."
     }
   },
   "BP371": {
@@ -8488,11 +7361,7 @@
       "url": "https://oebp.org/BP371",
       "image": "img/original/BP371E.png",
       "rule": "Net (folding along edges can make a 3D solid) vs. not a net."
-    },
-    "derived": {
-      "rule": "Folding along the indicated edges can produce a solid on the left. The crease pattern on the right cannot form a solid."
-    },
-    "flag_reason": "OEBP adds a subdivision to the tall column of one right-hand figure. The crease changes the proposed net."
+    }
   },
   "BP372": {
     "foundalis": {
@@ -8507,9 +7376,6 @@
       "url": "https://oebp.org/BP372",
       "image": "img/corrected/BP372E.png",
       "rule": "Shape below fits on the left vs. shape below fits on the right."
-    },
-    "derived": {
-      "rule": "The candidate below the divider fits the upper-left category on the left and the upper-right category on the right."
     }
   },
   "BP373": {
@@ -8525,9 +7391,6 @@
       "url": "https://oebp.org/BP373",
       "image": "img/corrected/BP373E.png",
       "rule": "Intersection (AND) vs. union (OR)."
-    },
-    "derived": {
-      "rule": "Combining the inputs by intersection gives the result on the left. Combining them by union gives it on the right."
     }
   },
   "BP374": {
@@ -8543,9 +7406,6 @@
       "url": "https://oebp.org/BP374",
       "image": "img/corrected/BP374E.png",
       "rule": "Simple object vs. complex object."
-    },
-    "derived": {
-      "rule": "The left examples have little internal structure. The right examples contain intricate arrangements of parts."
     }
   },
   "BP375": {
@@ -8561,9 +7421,6 @@
       "url": "https://oebp.org/BP375",
       "image": "img/corrected/BP375E.png",
       "rule": "Representationally uniform vs. representationally non-uniform."
-    },
-    "derived": {
-      "rule": "The whole figure uses one mode of representation on the left. The right examples combine different modes of representation."
     }
   },
   "BP376": {
@@ -8579,9 +7436,6 @@
       "url": "https://oebp.org/BP376",
       "image": "img/corrected/BP376E.png",
       "rule": "A \"chess piece\" that moves as shown may reach every square vs. not so."
-    },
-    "derived": {
-      "rule": "Repeating the illustrated move can reach every square of the board on the left and only a subset of the squares on the right."
     }
   },
   "BP377": {
@@ -8597,9 +7451,6 @@
       "url": "https://oebp.org/BP377",
       "image": "img/corrected/BP377E.png",
       "rule": "The two objects have similar representations vs. the two objects have dissimilar representations."
-    },
-    "derived": {
-      "rule": "The two objects use similar forms of representation on the left and different forms on the right."
     }
   },
   "BP378": {
@@ -8615,9 +7466,6 @@
       "url": "https://oebp.org/BP378",
       "image": "img/corrected/BP378E.png",
       "rule": "The two objects are conceptually related vs. the two objects are conceptually unrelated."
-    },
-    "derived": {
-      "rule": "The pair of objects illustrates related concepts on the left and unrelated concepts on the right."
     }
   },
   "BP379": {
@@ -8638,10 +7486,7 @@
         "right": 0
       }
     },
-    "derived": {
-      "rule": "The displayed objects exhaust their finite collection on the left. Some members of the collection are missing on the right."
-    },
-    "flag_reason": "The two presentations show different members of the collections on both sides."
+    "flag_reason": "Foundalis L5 groups arrangements within four outlines and L6 shows cube nets. OEBP L5 shows tetrominoes and L6 encloses each arrangement separately. Foundalis R5 shows tiling patterns, whereas OEBP R6 shows strips of three squares. Foundalis R6 appears in OEBP R5."
   },
   "BP380": {
     "foundalis": {
@@ -8657,10 +7502,7 @@
       "image": "img/original/BP380E.png",
       "rule": "The completed version of the collection is finite vs. the completed version of the collection is infinite."
     },
-    "derived": {
-      "rule": "Completing the illustrated collection gives a finite set on the left and an infinite set on the right."
-    },
-    "flag_reason": "OEBP replaces one of the left collections."
+    "flag_reason": "The tiling patterns in Foundalis L5 are absent from the OEBP sheet. OEBP L6 shows strips of three squares, and OEBP L5 contains the cube nets from Foundalis L6."
   },
   "BP381": {
     "foundalis": {
@@ -8675,9 +7517,6 @@
       "url": "https://oebp.org/BP381",
       "image": "img/corrected/BP381E.png",
       "rule": "Adding the top two waves yields the bottom wave vs. not so."
-    },
-    "derived": {
-      "rule": "Adding the heights of the top two waves point by point gives the bottom wave on the left and a different wave on the right."
     }
   },
   "BP382": {
@@ -8693,9 +7532,6 @@
       "url": "https://oebp.org/BP382",
       "image": "img/corrected/BP382E.png",
       "rule": "No knot (unknot) vs. knot."
-    },
-    "derived": {
-      "rule": "The closed strand can be deformed into a simple loop on the left and forms a nontrivial knot on the right."
     }
   },
   "BP383": {
@@ -8711,9 +7547,6 @@
       "url": "https://oebp.org/BP383",
       "image": "img/corrected/BP383E.png",
       "rule": "When the shape is removed from the dots, the dots give enough information to place the shape back where it was (up to symmetry) vs. not so."
-    },
-    "derived": {
-      "rule": "The dots alone fix the figure’s original placement up to its symmetries on the left and admit genuinely different placements on the right."
     }
   },
   "BP384": {
@@ -8730,10 +7563,7 @@
       "image": "img/original/BP384E.png",
       "rule": "Square number of dots vs. non-square number of dots."
     },
-    "derived": {
-      "rule": "The number of dots is a perfect square on the left and lies between consecutive perfect squares on the right."
-    },
-    "flag_reason": "Foundalis R5 contains four groups of nine dots, placing 36, a perfect square, on the nonsquare side. OEBP places this arrangement on the square-number side in L5. The two presentations use different dot configurations in several examples."
+    "flag_reason": "Foundalis R5 places four groups of nine dots (36) on the nonsquare side. OEBP places them on the square-number side in L5. Foundalis L4 (4 dots), R2 (8) and R4 (91) are absent from the OEBP sheet, which adds R1 (5), R2 (106) and R6 (26). OEBP L3 groups nine dots into triangles, while Foundalis L2 arranges them in columns."
   },
   "BP385": {
     "foundalis": {
@@ -8748,9 +7578,6 @@
       "url": "https://oebp.org/BP385",
       "image": "img/corrected/BP385E.png",
       "rule": "Nets of cubes vs. not nets of cubes."
-    },
-    "derived": {
-      "rule": "Folding the six squares gives a cube on the left. The right arrangements cannot fold into a cube."
     }
   },
   "BP386": {
@@ -8766,9 +7593,6 @@
       "url": "https://oebp.org/BP386",
       "image": "img/corrected/BP386E.png",
       "rule": "Lower shape can be used as a tile to build the upper one vs. not so."
-    },
-    "derived": {
-      "rule": "Copies of the smaller shape can tile the larger shape on the left. They cannot tile it on the right."
     }
   },
   "BP387": {
@@ -8784,9 +7608,6 @@
       "url": "https://oebp.org/BP387",
       "image": "img/corrected/BP387E.png",
       "rule": "Dots can be shared equally between figures vs. dots cannot be shared equally between figures."
-    },
-    "derived": {
-      "rule": "The dots divide evenly among the figures on the left and leave a remainder on the right."
     }
   },
   "BP388": {
@@ -8802,9 +7623,6 @@
       "url": "https://oebp.org/BP388",
       "image": "img/corrected/BP388E.png",
       "rule": "White dot can see (in straight lines) all black points vs. white dot cannot see (in straight lines) all black points."
-    },
-    "derived": {
-      "rule": "The white dot has an unobstructed straight segment to every black point on the left. At least one black point is hidden from it on the right."
     }
   },
   "BP389": {
@@ -8820,9 +7638,6 @@
       "url": "https://oebp.org/BP389",
       "image": "img/corrected/BP389E.png",
       "rule": "Loops are entangled (in 3-D) vs. loops can be separated (in 3-D)."
-    },
-    "derived": {
-      "rule": "The closed strands are linked on the left and can be separated without cutting on the right."
     }
   },
   "BP390": {
@@ -8838,9 +7653,6 @@
       "url": "https://oebp.org/BP390",
       "image": "img/corrected/BP390E.png",
       "rule": "Each graph vertex is uniquely defined by its connections (the graph does not admit nontrivial automorphisms) vs. the graph admits nontrivial automorphisms."
-    },
-    "derived": {
-      "rule": "Only the identity permutation of vertices preserves adjacency on the left. The right graphs have a nonidentity permutation that preserves adjacency."
     }
   },
   "BP391": {
@@ -8856,9 +7668,6 @@
       "url": "https://oebp.org/BP391",
       "image": "img/corrected/BP391E.png",
       "rule": "There exists an edge such that removing it yields two disconnected graphs (i.e., the minimum number of edges whose removal results in two disconnected graphs is 1) vs. the minimum number of edges whose removal results in two disconnected graphs is 2."
-    },
-    "derived": {
-      "rule": "Removing one suitable edge disconnects the graph on the left. On the right it takes at least two edges, and a suitable pair suffices."
     }
   },
   "BP392": {
@@ -8875,9 +7684,6 @@
       "image": "img/corrected/BP392E.png",
       "rule": "Exponential increase vs. linear increase.",
       "note": "Image corrected from original by restoring R2."
-    },
-    "derived": {
-      "rule": "The illustrated quantity grows exponentially on the left and linearly on the right."
     }
   },
   "BP393": {
@@ -8893,9 +7699,6 @@
       "url": "https://oebp.org/BP393",
       "image": "img/corrected/BP393E.png",
       "rule": "Correct vs. incorrect."
-    },
-    "derived": {
-      "rule": "The indicated operation or inference gives the pictured result on the left. The proposed result is incorrect on the right."
     }
   },
   "BP394": {
@@ -8911,9 +7714,6 @@
       "url": "https://oebp.org/BP394",
       "image": "img/corrected/BP394E.png",
       "rule": "For each colored square only, there exists a path starting on it that covers each square of the figure exactly once vs. there is no path that starts on a colored square and covers each square of the figure exactly once."
-    },
-    "derived": {
-      "rule": "Exactly the marked squares admit a path visiting every square once on the left. No marked square admits such a path on the right."
     }
   },
   "BP395": {
@@ -8929,9 +7729,6 @@
       "url": "https://oebp.org/BP395",
       "image": "img/corrected/BP395E.png",
       "rule": "Objects share a feature inside & outside of a closed curve vs. not so."
-    },
-    "derived": {
-      "rule": "The closed outline separates the objects by a feature on the left. On the right the same feature occurs on both sides of the outline."
     }
   },
   "BP396": {
@@ -8947,9 +7744,6 @@
       "url": "https://oebp.org/BP396",
       "image": "img/corrected/BP396E.png",
       "rule": "Objects share a feature in two regions of an open curve vs. not so."
-    },
-    "derived": {
-      "rule": "An open curve separates the objects by a feature on the left. On the right the same feature occurs on both sides of the curve."
     }
   },
   "BP397": {
@@ -8965,9 +7759,6 @@
       "url": "https://oebp.org/BP397",
       "image": "img/corrected/BP397E.png",
       "rule": "Objects share a feature in & out of dot-made closed curve vs. not so."
-    },
-    "derived": {
-      "rule": "The dotted boundary separates the objects by a feature on the left. On the right the same feature occurs both inside and outside."
     }
   },
   "BP398": {
@@ -8983,9 +7774,6 @@
       "url": "https://oebp.org/BP398",
       "image": "img/corrected/BP398E.png",
       "rule": "Objects share a feature in spatially separated groups vs. not so."
-    },
-    "derived": {
-      "rule": "Each spatial group on the left has a feature that distinguishes its members from the other group. On the right the groups mix these features."
     }
   },
   "BP399": {
@@ -9001,9 +7789,6 @@
       "url": "https://oebp.org/BP399",
       "image": "img/corrected/BP399E.png",
       "rule": "Objects connected by dots share a feature vs. not so"
-    },
-    "derived": {
-      "rule": "The dotted links join objects with a common feature on the left. On the right a link joins objects that differ in that feature."
     }
   },
   "BP400": {
@@ -9019,9 +7804,6 @@
       "url": "https://oebp.org/BP400",
       "image": "img/corrected/BP400E.png",
       "rule": "Inner objects from red to yellow; outer from green to violet vs. inner objects from green to violet; outer from red to yellow."
-    },
-    "derived": {
-      "rule": "Warm-colored objects lie inside the boundary and cool-colored objects outside on the left. The color ranges exchange places on the right."
     }
   },
   "BP401": {
@@ -9037,9 +7819,6 @@
       "url": "https://oebp.org/BP401",
       "image": "img/corrected/BP401E.png",
       "rule": "Branches form right angles with stem vs. branches form acute angles with stem."
-    },
-    "derived": {
-      "rule": "Side branches meet the stem at roughly right angles on the left and acute angles on the right."
     }
   },
   "BP402": {
@@ -9055,9 +7834,6 @@
       "url": "https://oebp.org/BP402",
       "image": "img/corrected/BP402E.png",
       "rule": "Branches have small curvature vs. branches have large curvature"
-    },
-    "derived": {
-      "rule": "The side branches bend gently on the left and more sharply on the right."
     }
   },
   "BP403": {
@@ -9073,9 +7849,6 @@
       "url": "https://oebp.org/BP403",
       "image": "img/corrected/BP403E.png",
       "rule": "Straight stems vs. curved stems"
-    },
-    "derived": {
-      "rule": "The main stem is straight on the left and bends on the right."
     }
   },
   "BP405": {
@@ -9091,9 +7864,6 @@
       "url": "https://oebp.org/BP405",
       "image": "img/corrected/BP405E.png",
       "rule": "Branches and stems point rightward (\"wind\" from left) vs. branches and stems point leftward (\"wind\" from right)"
-    },
-    "derived": {
-      "rule": "The stem and branches sweep toward the right in the left examples and toward the left in the right examples."
     },
     "flag_reason": "Both sources say the branches on the right point leftward. In R4 the lower side branch points up and right even at its tip. It bends left relative to its initial direction, which fits the wind interpretation."
   },
@@ -9111,9 +7881,6 @@
       "image": "img/corrected/BP406E.png",
       "rule": "Stem grows upward (against \"gravity\") vs. stem grows downward (\"gravity\" wins)."
     },
-    "derived": {
-      "rule": "The main stem grows upward on the left and downward on the right."
-    },
     "flag_reason": "Both sources say the stem grows downward on the right. In R2 it rises from the lower left toward the upper right throughout. It bends toward the horizontal as it rises, which fits the gravity interpretation."
   },
   "BP407": {
@@ -9129,9 +7896,6 @@
       "url": "https://oebp.org/BP407",
       "image": "img/corrected/BP407E.png",
       "rule": "Branches grow away from the stem vs. branches turn toward the stem"
-    },
-    "derived": {
-      "rule": "The side branches turn away from the stem on the left and curl back toward it on the right."
     }
   },
   "BP408": {
@@ -9147,9 +7911,6 @@
       "url": "https://oebp.org/BP408",
       "image": "img/corrected/BP408E.png",
       "rule": "Branches follow the curve of the stem vs. branches grow against the curve of the stem"
-    },
-    "derived": {
-      "rule": "The side branches follow the bend of the stem on the left and curve against it on the right."
     }
   },
   "BP409": {
@@ -9165,9 +7926,6 @@
       "url": "https://oebp.org/BP409",
       "image": "img/corrected/BP409E.png",
       "rule": "Stem curves left vs. stem curves right"
-    },
-    "derived": {
-      "rule": "Following the stem from its base, it bends to the left in the left examples and to the right in the right examples."
     }
   }
 }

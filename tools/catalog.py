@@ -98,13 +98,14 @@ def problem_section(key, problem, difficulty, corrected):
     source_row(rows, problem.get("foundalis"), key + "F", "Foundalis")
     source_row(rows, problem.get("oebp"), key + "E", "OEBP")
 
-    image_cell, rule_cell = disclosure_row(rows, "Derived", initially_open=True)
-    derived = problem["derived"]
-    if path := derived.get("image"):
-        image_link(image_cell, path)
-    if reason:
-        ET.SubElement(image_cell, "p").text = reason
-    rule_cell.text = derived["rule"]
+    derived = problem.get("derived", {})
+    if derived or reason:
+        image_cell, rule_cell = disclosure_row(rows, "Derived", initially_open=True)
+        if path := derived.get("image"):
+            image_link(image_cell, path)
+        if reason:
+            ET.SubElement(image_cell, "p").text = reason
+        rule_cell.text = derived.get("rule")
     return section
 
 
