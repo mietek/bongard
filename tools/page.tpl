@@ -29,16 +29,17 @@ td p { margin: 0; }
 .filters a.active { color: inherit; font-weight: 700; }
 .record { overflow-x: auto; --image-width: 67%; --cell-inset: clamp(.25rem, 1vw, .85rem); }
 .record * + p { margin-top: .5rem; }
-.foundalis { padding: 0; }
-.foundalis details { position: relative; min-height: 2.8rem; }
-.foundalis summary { position: absolute; top: .65rem; left: var(--cell-inset); display: grid; place-items: center; width: 1.5rem; height: 1.5rem; cursor: pointer; list-style: none; }
-.foundalis summary::-webkit-details-marker { display: none; }
-.foundalis summary span { display: block; line-height: 1; transform: rotate(-90deg); transition: transform 160ms ease-in-out; }
-.foundalis details[open] > summary span { transform: rotate(0deg); }
+.source-row { padding: 0; }
+.source-row details { --duration: 200ms; }
+.source-row summary { display: flex; align-items: center; width: max-content; gap: .35rem; padding: .65rem var(--cell-inset); cursor: pointer; list-style: none; }
+.source-row summary::-webkit-details-marker { display: none; }
+.triangle { display: inline-block; line-height: 1; transform: rotate(-90deg); transition: transform var(--duration) ease-in-out; }
+.source-row details[open]:not(.closing) .triangle { transform: rotate(0deg); }
+.source-reveal { overflow: hidden; transition: height var(--duration) ease-in-out, opacity var(--duration) ease-in-out; }
+.source-row .closing .source-reveal { opacity: 0; }
 .source-columns { display: grid; grid-template-columns: var(--image-width) minmax(0, 1fr); }
-.source-columns > :first-child { padding-left: calc(var(--cell-inset) + 1.75rem); }
 @media (prefers-reduced-motion: reduce) {
-  .foundalis summary span { transition: none; }
+  .source-row .triangle, .source-reveal { transition: none; }
 }
 </style>
 </head>

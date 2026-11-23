@@ -3,6 +3,7 @@
 from collections import Counter
 from pathlib import Path
 import json
+import struct
 from xml.etree import ElementTree as ET
 
 TITLE = "Bongard Problems"
@@ -28,27 +29,32 @@ def filter_menu(counts):
 
 def image_link(cell, path):
     link = ET.SubElement(cell, "a", href=path)
-    ET.SubElement(link, "img", src=path, loading="lazy", decoding="async")
+    image = ET.SubElement(link, "img", src=path, loading="lazy", decoding="async")
+    # Reserve space for the disclosure animation while the image loads.
+    if Path(path).suffix.lower() == ".png":
+        with Path(path).open("rb") as file:
+            file.seek(16)  # Width and height in the PNG header.
+            width, height = struct.unpack(">II", file.read(8))
+        image.set("width", str(width))
+        image.set("height", str(height))
 
 
-def source_row(table, source, label, foundalis=False):
+def source_row(table, source, label, name):
     if source is None:
         return
     row = ET.SubElement(table, "tr")
+    cell = ET.SubElement(row, "td", {"class": "source-row", "colspan": "2"})
+    details = ET.SubElement(cell, "details", {"open": ""} if name == "OEBP" else {})
+    summary = ET.SubElement(details, "summary")
+    arrow = ET.SubElement(summary, "span", {"class": "triangle"})
+    arrow.text = "▼"
+    arrow.tail = " " + name
+    reveal = ET.SubElement(details, "div", {"class": "source-reveal"})
+    columns = ET.SubElement(reveal, "div", {"class": "source-columns"})
+    image_cell = ET.SubElement(columns, "div")
+    rule_cell = ET.SubElement(columns, "div")
     rule = source["rule"]
-    if foundalis:
-        cell = ET.SubElement(row, "td", {"class": "foundalis", "colspan": "2"})
-        details = ET.SubElement(cell, "details")
-        summary = ET.SubElement(details, "summary", title=f"Foundalis · {label}")
-        ET.SubElement(summary, "span").text = "▼"
-        columns = ET.SubElement(details, "div", {"class": "source-columns"})
-        image_cell = ET.SubElement(columns, "div")
-        rule_cell = ET.SubElement(columns, "div")
-        quote = f'“{rule["left"]}” / “{rule["right"]}”'
-    else:
-        image_cell = ET.SubElement(row, "td")
-        rule_cell = ET.SubElement(row, "td")
-        quote = f'“{rule}”'
+    quote = f'“{rule["left"]}” / “{rule["right"]}”' if name == "Foundalis" else f'“{rule}”'
     if path := source.get("image"):
         image_link(image_cell, path)
     ET.SubElement(rule_cell, "p").text = quote
@@ -80,8 +86,8 @@ def problem_section(key, problem, difficulty):
     ET.SubElement(columns, "col")
     ET.SubElement(columns, "col")
     rows = ET.SubElement(table, "tbody")
-    source_row(rows, problem.get("foundalis"), key + "F", foundalis=True)
-    source_row(rows, problem.get("oebp"), key + "E")
+    source_row(rows, problem.get("foundalis"), key + "F", "Foundalis")
+    source_row(rows, problem.get("oebp"), key + "E", "OEBP")
 
     row = ET.SubElement(rows, "tr")
     image_cell = ET.SubElement(row, "td")
