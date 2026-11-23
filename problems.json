@@ -511,8 +511,7 @@
     },
     "derived": {
       "rule": "Individual figure size and total line length provide two simple readings that agree on the displayed examples."
-    },
-    "flag_reason": "Appendix A (p. 357) and Foundalis’s website compare total line length. OEBP compares the sizes of individual figures. Both rules fit the large connected grid in L4, the single short line in R1, and the small figures in R5. A picture made of many short dashes could have a large total line length while every figure is small."
+    }
   },
   "BP015": {
     "difficulty": "very easy",
@@ -1812,8 +1811,7 @@
     },
     "derived": {
       "rule": "Either any mirror symmetry or specifically vertical mirror symmetry separates this sheet."
-    },
-    "flag_reason": "Appendix A (p. 369) and Foundalis’s website allow any axis of symmetry on the left. OEBP specifies a vertical axis. All six left figures have a vertical axis, and all six right figures lack reflection symmetry. A figure with only horizontal symmetry would separate the two left rules."
+    }
   },
   "BP051": {
     "difficulty": "easy",
@@ -3990,12 +3988,12 @@
     "oebp": {
       "url": "https://oebp.org/BP120",
       "image": "img/original/BP120E.png",
-      "rule": "All turns are in one direction and rectangular loop exists vs. turns in different directions and no rectangular loop exists."
+      "rule": "All turns are in one direction; alternatively: rectangular loop exists vs. turns are not all in one direction; alternatively: no rectangular loop.",
+      "note": "Rule restored to Foundalis original."
     },
     "derived": {
       "rule": "Following successive turns gives a direct test without searching the network for a subfigure."
-    },
-    "flag_reason": "Appendix A (p. 393) gives the direction of the turns as the test. Foundalis’s website offers a rectangular loop as an alternative test, and OEBP requires both tests to agree. In L1–L6 all turns go in one direction and a rectangular loop forms. In R1–R6 the turns change direction and no rectangular loop forms."
+    }
   },
   "BP121": {
     "foundalis": {
@@ -4009,7 +4007,7 @@
     "oebp": {
       "url": "https://oebp.org/BP121",
       "image": "img/original/BP121E.png",
-      "rule": "Objects below match their \"symbols\" above, according to one \"code\" versus objects below match their \"symbols\" above, according to another \"code.\""
+      "rule": "Objects below match their \"symbols\" above, according to one \"code\" vs. objects below match their \"symbols\" above, according to another \"code.\""
     },
     "derived": {
       "rule": "Decode each diagram with Foundalis's four-pair key. The right-hand key inverts both V marks in every left-hand symbol."
@@ -5137,7 +5135,8 @@
     "oebp": {
       "url": "https://oebp.org/BP183",
       "image": "img/original/BP183E.png",
-      "rule": "Same curvature close to the middle vs. change of curvature close to the middle."
+      "rule": "Same curvature close to the middle; alternatively: tangent near the middle leaves curve on the same side vs. change of curvature close to the middle; alternatively: tangent near the middle leaves curve on opposite sides.",
+      "note": "Rule restored to Foundalis original."
     },
     "derived": {
       "rule": "At the middle, the left curves keep bending the same way and the right curves reverse their bend, forming an inflection."
@@ -5925,7 +5924,7 @@
     "oebp": {
       "url": "https://oebp.org/BP225",
       "image": "img/original/BP225E.png",
-      "rule": "Low contrast (no fully black region) vs. high contrast (at least one fully black region)."
+      "rule": "Low contrast; alternatively: no fully black region vs. high contrast; alternatively: at least one fully black region."
     },
     "derived": {
       "rule": "Dark patches and contrast are visible at the scale of the whole panel."
@@ -6177,7 +6176,7 @@
     "oebp": {
       "url": "https://oebp.org/BP239",
       "image": "img/original/BP239E.png",
-      "rule": "Straight line parallel to line joining the ends of curve AND sliding the straight line suitably can make a closed area vs. straight line perpendicular to line joining the ends of curve."
+      "rule": "Straight line parallel to line joining the ends of curve and sliding the straight line suitably can make a closed area vs. straight line perpendicular to line joining the ends of curve."
     },
     "derived": {
       "rule": "Looking at the segment’s angle to the chord between the curve ends is sufficient."
