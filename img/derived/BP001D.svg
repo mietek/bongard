@@ -18,7 +18,7 @@
     <circle cx="50" cy="45.5" r="19.3"/>
   </g>
   <g transform="translate(408 5)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="47" y="41" width="30" height="30" transform="rotate(20 62 56)"/>
+    <rect rx="1.4" x="48" y="40" width="28" height="32" transform="rotate(20 62 56)"/>
   </g>
   <g transform="translate(300 113)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <path d="M 25.5 71.5
@@ -43,11 +43,24 @@
     <circle cx="73" cy="73" r="2.1"/>
   </g>
   <g transform="translate(300 221)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <polygon points="51.7822,21.5336 56.3893,38.7273 74.1652,39.6589 59.2366,49.3537 63.8437,66.5474 50.0102,55.3453 35.0817,65.0401 41.4607,48.4221 27.6273,37.2200 45.4032,38.1516"/>
+    <path d="M 45.768 37.202
+             L 50.506 24.857 A 1.157 1.157 0 0 1 52.704 24.972
+             L 56.126 37.745 A 1.4 1.4 0 0 0 57.405 38.781
+             L 70.61 39.473 A 1.157 1.157 0 0 1 71.179 41.598
+             L 60.09 48.8 A 1.4 1.4 0 0 0 59.5 50.336
+             L 62.922 63.109 A 1.157 1.157 0 0 1 61.077 64.307
+             L 50.801 55.985 A 1.4 1.4 0 0 0 49.157 55.899
+             L 38.067 63.101 A 1.157 1.157 0 0 1 36.357 61.717
+             L 41.096 49.372 A 1.4 1.4 0 0 0 40.67 47.782
+             L 30.394 39.46 A 1.157 1.157 0 0 1 31.182 37.406
+             L 44.387 38.098 A 1.4 1.4 0 0 0 45.768 37.202 Z"/>
   </g>
   <g transform="translate(408 221)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="33" cy="30" r="7.1"/>
-    <rect x="62" y="31" width="12" height="12"/>
-    <polygon points="44.5,57.5 36.5,71.36 52.5,71.36"/>
+    <rect rx="1.08" x="62" y="31" width="12" height="12"/>
+    <path d="M 51.72 70.009
+             L 45.28 58.852 A 0.901 0.901 0 0 0 43.72 58.852
+             L 37.28 70.009 A 0.901 0.901 0 0 0 38.06 71.36
+             H 50.94 A 0.901 0.901 0 0 0 51.72 70.009 Z"/>
   </g>
 </svg>

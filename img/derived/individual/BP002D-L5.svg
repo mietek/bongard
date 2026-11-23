@@ -2,8 +2,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
   <rect width="100" height="100" fill="white"/>
   <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 21 69
-             C 24 36 52 12 87.5 30.5
-             L 70 70 Z"/>
+    <path d="M 21.12 67.8
+             C 24.32 36.1 51.8 12.5 86.43 29.96
+             Q 87.5 30.5 87.01 31.6
+             L 70.48 68.92 Q 70 70 68.8 69.98
+             L 22.2 69.02 Q 21 69 21.12 67.8 Z"/>
   </g>
 </svg>

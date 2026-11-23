@@ -29,22 +29,39 @@
              C 29.2 87.1 20.6 81.4 18.8 68 Z"/>
   </g>
   <g transform="translate(115 5)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <polygon points="51,24 79,57 36,57.5"/>
+    <path d="M 36.894 55.503
+             L 50.092 26.028 A 1.4 1.4 0 0 1 52.437 25.694
+             L 77.073 54.729 A 1.4 1.4 0 0 1 76.022 57.035
+             L 38.188 57.475 A 1.4 1.4 0 0 1 36.894 55.503 Z"/>
   </g>
   <g transform="translate(7 113)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <circle cx="28" cy="49" r="5.9"/>
   </g>
   <g transform="translate(115 113)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="48" y="43" width="9" height="9"/>
+    <rect rx="0.81" x="48" y="43" width="9" height="9"/>
   </g>
   <g transform="translate(7 221)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <polygon points="26,74 38,30 48.5,48.5 85,33.5 81,54 68,59.5 77.5,67.5 75.5,83.5"/>
+    <path d="M 74.032 83.218
+             L 27.485 74.285 A 1.4 1.4 0 0 1 26.398 72.542
+             L 37.107 33.274 A 1.4 1.4 0 0 1 39.675 32.952
+             L 47.891 47.427 A 1.4 1.4 0 0 0 49.641 48.031
+             L 82.596 34.488 A 1.4 1.4 0 0 1 84.502 36.051
+             L 81.143 53.269 A 1.4 1.4 0 0 1 80.314 54.29
+             L 70.103 58.61 A 1.4 1.4 0 0 0 69.746 60.971
+             L 76.918 67.01 A 1.4 1.4 0 0 1 77.406 68.255
+             L 75.685 82.017 A 1.4 1.4 0 0 1 74.032 83.218 Z"/>
   </g>
   <g transform="translate(115 221)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <polygon points="82,80 93,82.5 84.5,95.5"/>
+    <path d="M 84.206 93.677
+             L 82.169 81.046 A 0.715 0.715 0 0 1 83.033 80.235
+             L 91.997 82.272 A 0.715 0.715 0 0 1 92.437 83.361
+             L 85.51 93.955 A 0.715 0.715 0 0 1 84.206 93.677 Z"/>
   </g>
   <g transform="translate(300 5)" fill="black">
-    <polygon points="49.5,13 72,71 20,70"/>
+    <path d="M 21.035 68
+             L 48.074 15.756 A 1.4 1.4 0 0 1 50.622 15.893
+             L 71.245 69.054 A 1.4 1.4 0 0 1 69.913 70.96
+             L 22.251 70.043 A 1.4 1.4 0 0 1 21.035 68 Z"/>
   </g>
   <g transform="translate(408 5)" fill="black">
     <path d="M 53.4 20
@@ -56,15 +73,21 @@
              C 59.8 32 51.9 27.4 53.4 20 Z"/>
   </g>
   <g transform="translate(300 113)" fill="black">
-    <rect x="77" y="74" width="11.5" height="11.5"/>
+    <rect rx="1.035" x="77" y="74" width="11.5" height="11.5"/>
   </g>
   <g transform="translate(408 113)" fill="black">
     <circle cx="19" cy="18.3" r="7.1"/>
   </g>
   <g transform="translate(300 221)" fill="black">
-    <polygon points="12.5,66 33.5,66 26.6,76 33.5,86.5 12.5,86.5 19.4,76"/>
+    <path d="M 18.89 75.261
+             L 13.88 68 A 1.276 1.276 0 0 1 14.93 66
+             H 31.07 A 1.276 1.276 0 0 1 32.12 68
+             L 27.11 75.261 A 1.333 1.333 0 0 0 27.093 76.75
+             L 32.143 84.436 A 1.333 1.333 0 0 1 31.03 86.5
+             H 14.97 A 1.333 1.333 0 0 1 13.857 84.436
+             L 18.907 76.75 A 1.333 1.333 0 0 0 18.89 75.261 Z"/>
   </g>
   <g transform="translate(408 221)" fill="black">
-    <rect x="29.5" y="25.5" width="47" height="47" transform="rotate(28 53 49)"/>
+    <rect rx="1.4" x="30" y="24.5" width="46" height="49" transform="rotate(28 53 49)"/>
   </g>
 </svg>

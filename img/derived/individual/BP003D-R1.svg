@@ -2,6 +2,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
   <rect width="100" height="100" fill="white"/>
   <g fill="black">
-    <polygon points="49.5,13 72,71 20,70"/>
+    <path d="M 21.035 68
+             L 48.074 15.756 A 1.4 1.4 0 0 1 50.622 15.893
+             L 71.245 69.054 A 1.4 1.4 0 0 1 69.913 70.96
+             L 22.251 70.043 A 1.4 1.4 0 0 1 21.035 68 Z"/>
   </g>
 </svg>
