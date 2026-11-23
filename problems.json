@@ -5358,7 +5358,7 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP202",
-      "image": "img/original/BP202E.png",
+      "image": "img/corrected/BP202E.png",
       "rule": "Even number vs. odd number."
     },
     "derived": {
@@ -5504,7 +5504,7 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP210",
-      "image": "img/original/BP210E.png",
+      "image": "img/corrected/BP210E.png",
       "rule": "Part of at least one object is out of box vs. all objects are within the box."
     },
     "derived": {
@@ -5583,7 +5583,7 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP214",
-      "image": "img/original/BP214E.png",
+      "image": "img/corrected/BP214E.png",
       "rule": "Smiley face vs. not a smiley face."
     },
     "derived": {
@@ -8000,13 +8000,12 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP346",
-      "image": "img/original/BP346E.png",
+      "image": "img/corrected/BP346E.png",
       "rule": "Object on the right fits in pattern on the left vs. object on the right does not fit in pattern on the left."
     },
     "derived": {
       "rule": "The item beyond the divider shares the defining property of the group on the left side of the divider in left examples. It falls outside that category in right examples."
-    },
-    "flag_reason": "Foundalis leaves a gap at each end of the internal divider. OEBP extends the divider to the edges of the example."
+    }
   },
   "BP347": {
     "foundalis": {
@@ -8193,7 +8192,7 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP356",
-      "image": "img/original/BP356E.png",
+      "image": "img/corrected/BP356E.png",
       "rule": "Object at lower-right fits as n-th item in the top row of objects, where n is the number of dots at lower-left vs. not so.",
       "extra": {
         "left": 1,
@@ -8202,8 +8201,7 @@
     },
     "derived": {
       "rule": "The dot count indexes an item in the upper sequence. That item matches the candidate below on the left and differs from it on the right."
-    },
-    "flag_reason": "The internal dividers separating the sequence, index and candidate differ between the two presentations."
+    }
   },
   "BP357": {
     "foundalis": {
@@ -8501,13 +8499,12 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP372",
-      "image": "img/original/BP372E.png",
+      "image": "img/corrected/BP372E.png",
       "rule": "Shape below fits on the left vs. shape below fits on the right."
     },
     "derived": {
       "rule": "The candidate below the divider fits the upper-left category on the left and the upper-right category on the right."
-    },
-    "flag_reason": "The sources draw the separators between the two categories and the candidate differently."
+    }
   },
   "BP373": {
     "foundalis": {
@@ -8574,13 +8571,12 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP376",
-      "image": "img/original/BP376E.png",
+      "image": "img/corrected/BP376E.png",
       "rule": "A \"chess piece\" that moves as shown may reach every square vs. not so."
     },
     "derived": {
       "rule": "Repeating the illustrated move can reach every square of the board on the left and only a subset of the squares on the right."
-    },
-    "flag_reason": "Foundalis marks the starting square with hatching and gives the board a heavy border. OEBP shows an empty starting square and a thin border."
+    }
   },
   "BP377": {
     "foundalis": {
@@ -8870,7 +8866,7 @@
     },
     "oebp": {
       "url": "https://oebp.org/BP392",
-      "image": "img/original/BP392E.png",
+      "image": "img/corrected/BP392E.png",
       "rule": "Exponential increase vs. linear increase."
     },
     "derived": {
