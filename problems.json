@@ -487,7 +487,8 @@
     },
     "derived": {
       "rule": "The left panels contain large figures with a long combined line length, while the right panels contain small figures with a shorter combined line length."
-    }
+    },
+    "flag_reason": "Appendix A (p. 357) and Foundalis’s website compare the total line length in each panel. OEBP compares the sizes of the individual figures. Both criteria fit the examples, and the derived rule includes both."
   },
   "BP015": {
     "foundalis": {
@@ -558,7 +559,7 @@
     "derived": {
       "rule": "Following each spiral from its inner end outward, the curve winds clockwise on the left and counterclockwise on the right."
     },
-    "flag_reason": "Foundalis and OEBP give opposite directions for the same spirals. Tracing L1 from the center outward gives OEBP’s clockwise turn. Tracing it inward gives Foundalis’s counterclockwise turn. Neither source specifies where to start."
+    "flag_reason": "Appendix A (p. 358) and Foundalis’s website call the left spirals counterclockwise, while OEBP calls them clockwise. None specifies a starting end. Tracing L1 inward gives Foundalis’s direction. Tracing it outward gives OEBP’s direction, which is the convention the derived rule specifies."
   },
   "BP017": {
     "foundalis": {
@@ -1749,7 +1750,8 @@
     },
     "derived": {
       "rule": "A vertical mirror would reproduce each left arrangement. The right arrangements lack mirror symmetry."
-    }
+    },
+    "flag_reason": "Appendix A (p. 369) and Foundalis’s website allow any axis of reflection on the left. OEBP and the derived rule require a vertical axis. Every left example has a vertical axis, so the drawings fit both rules."
   },
   "BP051": {
     "foundalis": {
@@ -1890,7 +1892,7 @@
     "derived": {
       "rule": "Visiting the cross, circle and triangle in that order goes counterclockwise on the left and clockwise on the right."
     },
-    "flag_reason": "Both sources reverse the directions for the order they give. Visiting the cross, circle, and triangle in that order goes clockwise on the left and counterclockwise on the right. The dissertation gives the reverse order of shapes, for which its directions are correct."
+    "flag_reason": "Appendix A (p. 371) visits the triangle, circle, and cross in that order, counterclockwise on the left and clockwise on the right. In L1 the triangle is on the left, the circle at lower right, and the cross at upper right. Both websites and the derived rule visit the shapes in reverse order but keep the same directions. Their order actually runs clockwise on the left and counterclockwise on the right."
   },
   "BP055": {
     "foundalis": {
@@ -2030,7 +2032,8 @@
     },
     "derived": {
       "rule": "The solid quadrilaterals match one another on the left and differ on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 372) describes two identical filled squares on the left. Both websites and the derived rule extend the comparison to filled quadrilaterals. The examples fit both descriptions."
   },
   "BP059": {
     "foundalis": {
@@ -2940,7 +2943,8 @@
     },
     "derived": {
       "rule": "The quadrilateral lies outside the boundary of small circles on the left and inside it on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 381) calls the figure outside or inside the region marked out by circles a square. Both websites and the derived rule allow any quadrilateral in that position. The distinction between outside and inside is the same in the drawings."
   },
   "BP085": {
     "foundalis": {
@@ -3010,7 +3014,8 @@
     },
     "derived": {
       "rule": "The figure is made from three segments on the left and five on the right."
-    }
+    },
+    "flag_reason": "The derived rule counts straight segments. Appendix A (p. 381) counts the arms meeting at a junction, three on the left and five on the right. The bends in L2 divide its three arms into five straight segments."
   },
   "BP087": {
     "foundalis": {
@@ -3115,7 +3120,8 @@
     },
     "derived": {
       "rule": "Counting all the elongated pieces, including those that touch, gives three on the left and five on the right."
-    }
+    },
+    "flag_reason": "The derived rule counts individual ovals. Appendix A (p. 382) counts groups of touching ovals, three on the left and five on the right. L2 has seven ovals in three groups of three, two, and two."
   },
   "BP090": {
     "foundalis": {
@@ -3150,7 +3156,8 @@
     },
     "derived": {
       "rule": "Each arrangement contains three elongated pieces on the left and four on the right."
-    }
+    },
+    "flag_reason": "The derived rule counts individual pieces. Appendix A (p. 383) counts connected groups of outlined ovals, three on the left and four on the right. In L2 two solid ovals separate a single row into three runs of outlined ovals. Figure 2.10 (p. 29) explains which ovals to count."
   },
   "BP091": {
     "foundalis": {
@@ -3591,7 +3598,7 @@
     "derived": {
       "rule": "At the two ends of the line the outward directions agree on the left and differ on the right."
     },
-    "flag_reason": "Foundalis requires the two ends of the connector to point in opposite directions on the right. In R1 it meets the triangle horizontally and the square vertically, a difference of 90°. OEBP’s rule allows this."
+    "flag_reason": "Appendix A (p. 388) and Foundalis’s website require the ends of the connector to point in opposite directions on the right. In R1 the line meets the triangle roughly horizontally and the square vertically, about 90° apart. OEBP and the derived rule require only that the directions differ, which fits R1."
   },
   "BP106": {
     "foundalis": {
@@ -3861,7 +3868,8 @@
     },
     "derived": {
       "rule": "The left paths turn consistently in one direction and contain a rectangular loop. The right paths change turn direction and lack that loop."
-    }
+    },
+    "flag_reason": "Appendix A (p. 393) describes the direction of the turns. Foundalis’s website gives the presence of a rectangular loop as an alternative test. OEBP and the derived rule require both consistent turns and a loop on the left, and both mixed turns and the absence of a loop on the right. These tests agree on the examples."
   },
   "BP121": {
     "foundalis": {
@@ -4185,7 +4193,8 @@
     },
     "derived": {
       "rule": "The dots lie on or near the boundary of their convex hull on the left. At least one dot lies well inside it on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 399) asks whether a dot lies in the convex hull. Both websites and the derived rule ask whether a dot lies well inside it. The left examples place their dots on or near the boundary, and the right examples have a dot well inside. The printed caption leaves the treatment of boundary points implicit."
   },
   "BP139": {
     "foundalis": {
@@ -4257,7 +4266,8 @@
     },
     "derived": {
       "rule": "The groups of three and two are adjacent on the left and separated from each other on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 400) says the two members of the pair stay together on the left. The derived rule instead says the groups of two and three are adjacent. In L2 the two inverted hooks occupy positions 3 and 4, while the three upright hooks occupy positions 1, 2, and 5, on both sides of the pair."
   },
   "BP143": {
     "foundalis": {
@@ -4329,7 +4339,8 @@
     },
     "derived": {
       "rule": "Exactly the circles enclose squares on the left, and exactly the triangles enclose squares on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 401) describes a square inside a circle on the left and inside a triangle on the right. L5 contains only a triangle, and R2 contains two circles. Both websites and the derived rule allow these examples because they specify which shapes enclose squares without requiring a square in every panel."
   },
   "BP147": {
     "foundalis": {
@@ -4438,7 +4449,7 @@
     "derived": {
       "rule": "The left figures lack mirror symmetry. Each right figure has a vertical mirror axis."
     },
-    "flag_reason": "OEBP excludes every axis of symmetry on the left, but the tilted oval in L1 has oblique mirror axes. Foundalis correctly specifies that the left figures lack a vertical axis of symmetry."
+    "flag_reason": "Appendix A (p. 403) and Foundalis’s website specify vertical mirror symmetry. OEBP and the derived rule exclude every mirror axis on the left. The tilted oval in L1 has oblique mirror axes and lacks a vertical one."
   },
   "BP153": {
     "foundalis": {
@@ -4583,7 +4594,8 @@
     },
     "derived": {
       "rule": "The fourth corner barely interrupts the apparent triangle on the left. All four corners are distinct on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 406) calls the figures rectangles, although several have oblique corners. Both websites describe them as quadrilaterals. The derived rule captures their nearly triangular appearance on the left and their four distinct corners on the right."
   },
   "BP161": {
     "foundalis": {
@@ -4745,7 +4757,8 @@
     },
     "derived": {
       "rule": "The two groups contain different numbers of elements on the left and equal numbers on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 409) says “Odd” and “Even” without naming what to count. L1 has four objects, three triangles and one square, so the total is even on the side labeled odd. Both websites and the derived rule compare the sizes of the two groups, which are unequal on the left and equal on the right."
   },
   "BP170": {
     "foundalis": {
@@ -4782,7 +4795,7 @@
     "derived": {
       "rule": "The left lines bisect the triangle’s angles at the incenter. The right lines bisect its sides perpendicularly at the circumcenter."
     },
-    "flag_reason": "Both sources call the intersection of the perpendicular bisectors the orthocenter. The right drawings show the circumcenter, where the perpendicular bisectors of the sides meet. The orthocenter is where the altitudes meet."
+    "flag_reason": "Appendix A (p. 410) and both websites call the intersection of a triangle’s perpendicular bisectors its orthocenter. The right drawings show the circumcenter, as the derived rule states. The orthocenter is where the altitudes meet."
   },
   "BP172": {
     "foundalis": {
@@ -4946,7 +4959,7 @@
     "derived": {
       "rule": "Toward the boundary with the white region, the black part narrows on the left and widens on the right."
     },
-    "flag_reason": "Both sources reverse the change in width. Approaching the black–white boundary through black, the black cap in L2 widens and the black region in R2 narrows. The dissertation gives the directions seen in the drawings."
+    "flag_reason": "Approaching the boundary with white through the black region, the small black cap in L2 widens and the larger black region in R2 narrows. Both websites and the derived rule reverse these changes. Appendix A (p. 413) describes the change toward the center and gives the directions seen in the drawings. Figure 1.15 (p. 17) shows the same sheet."
   },
   "BP181": {
     "foundalis": {
@@ -5198,7 +5211,8 @@
     },
     "derived": {
       "rule": "The textured background forms a parallelogram on the left and a triangle on the right."
-    }
+    },
+    "flag_reason": "Appendix A (p. 417) specifies a quadrilateral background on the left. Both websites and the derived rule identify the more specific parallelogram seen in the left examples. All versions specify a triangular background on the right."
   },
   "BP195": {
     "foundalis": {
