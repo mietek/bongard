@@ -59,10 +59,11 @@ def source_row(table, source, label, name):
         return
     image_cell, rule_cell = disclosure_row(table, name, initially_open=(name == "OEBP"))
     rule = source["rule"]
-    quote = f'“{rule["left"]}” / “{rule["right"]}”' if name == "Foundalis" else f'“{rule}”'
+    if name == "Foundalis":
+        rule = f'{rule["left"]} / {rule["right"]}'
     if path := source.get("image"):
         image_link(image_cell, path)
-    ET.SubElement(rule_cell, "p").text = quote
+    ET.SubElement(rule_cell, "p").text = rule
     if note := source.get("note"):
         ET.SubElement(ET.SubElement(rule_cell, "p"), "em").text = note
     if extra := source.get("extra"):
