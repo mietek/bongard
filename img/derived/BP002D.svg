@@ -21,7 +21,7 @@
              L 80.799 59.223 A 1.4 1.4 0 0 1 79.889 61.384 Z"/>
   </g>
   <g transform="translate(115 5)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="51" cy="47.5" r="21.7"/>
+    <ellipse cx="51" cy="47.5" rx="21.2" ry="22.7"/>
   </g>
   <g transform="translate(7 113)" fill="black">
     <path d="M 25 47

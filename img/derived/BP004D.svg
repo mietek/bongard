@@ -15,7 +15,7 @@
   <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
   <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
   <g transform="translate(7 5)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="57" cy="51" r="16.5"/>
+    <ellipse cx="57" cy="51" rx="16.2" ry="17.3"/>
   </g>
   <g transform="translate(115 5)" fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
     <path d="M 51.128 61.841

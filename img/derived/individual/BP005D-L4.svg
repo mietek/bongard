@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 24 60.787
+             V 23.719 A 1.2 1.2 0 0 1 25.817 22.69
+             L 44.243 33.746 A 1.2 1.2 0 0 0 45.659 33.612
+             L 60.601 20.283 A 1.2 1.2 0 0 1 62.6 21.179
+             V 48.829 A 1.2 1.2 0 0 1 62.279 49.645
+             L 46.596 66.528 A 1.2 1.2 0 0 1 44.744 66.414
+             L 35.548 53.675 A 1.2 1.2 0 0 0 33.704 53.552
+             L 26.071 61.613 A 1.2 1.2 0 0 1 24 60.787 Z"/>
+  </g>
+</svg>

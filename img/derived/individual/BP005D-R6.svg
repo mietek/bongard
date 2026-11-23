@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path transform="translate(30.6 60) rotate(-24.5)"
+          d="M 0 -23.7
+             C 1 -23.7 2 -22.1 2.9 -20.6
+             C 10.25 -8.35 10.25 8.35 2.9 20.6
+             C 2 22.1 1 23.7 0 23.7
+             C -1 23.7 -2 22.1 -2.9 20.6
+             C -10.25 8.35 -10.25 -8.35 -2.9 -20.6
+             C -2 -22.1 -1 -23.7 0 -23.7 Z"/>
+  </g>
+</svg>

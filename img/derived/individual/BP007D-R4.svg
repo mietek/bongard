@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 19.8 55.3 V 42 H 90 V 55.3
+             M 24.48 42 V 55.3
+             M 29.16 42 V 55.3
+             M 33.84 42 V 55.3
+             M 38.52 42 V 55.3
+             M 43.20 42 V 55.3
+             M 47.88 42 V 55.3
+             M 52.56 42 V 55.3
+             M 57.24 42 V 55.3
+             M 61.92 42 V 55.3
+             M 66.60 42 V 55.3
+             M 71.28 42 V 55.3
+             M 75.96 42 V 55.3
+             M 80.64 42 V 55.3
+             M 85.32 42 V 55.3"/>
+  </g>
+</svg>

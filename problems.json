@@ -185,7 +185,8 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Temporary: Straight-sided versus curved-sided is enough. Calling the joins smooth requires judging the tips of R6. Compare the sharper lens in BP033 L2."
+      "image": "img/derived/BP005D.svg",
+      "rule": "Each left figure is a polygon. Each right figure has a smoothly curved outline."
     }
   },
   "BP006": {
@@ -222,7 +223,8 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Temporary: Counting corners works regardless of orientation, concavity, and fill."
+      "image": "img/derived/BP006D.svg",
+      "rule": "Each left figure is a triangle. Each right figure is a quadrilateral."
     }
   },
   "BP007": {
@@ -259,7 +261,8 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Temporary: Horizontal versus vertical elongation is visible even in the zigzags and combs."
+      "image": "img/derived/BP007D.svg",
+      "rule": "Each left figure is taller than it is wide. Each right figure is wider than it is tall."
     }
   },
   "BP008": {
@@ -296,7 +299,8 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Temporary: Its location alone determines the side."
+      "image": "img/derived/BP008D.svg",
+      "rule": "Each left panel contains a figure in its right half. Each right panel contains a figure in its left half."
     }
   },
   "BP009": {
@@ -333,7 +337,8 @@
       "difficulty": "easy"
     },
     "derived": {
-      "rule": "Temporary: The texture of the outline is more consistent across the sheet than its overall geometry."
+      "image": "img/derived/BP009D.svg",
+      "rule": "Each left figure has an outline without wiggles. Each right figure has a wiggly outline."
     }
   },
   "BP010": {
