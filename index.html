@@ -38,6 +38,28 @@ td p { margin: 0; }
 .source-reveal { overflow: hidden; transition: height var(--duration) ease-in-out, opacity var(--duration) ease-in-out; }
 .source-row .closing .source-reveal { opacity: 0; }
 .source-columns { display: grid; grid-template-columns: var(--image-width) minmax(0, 1fr); }
+.panel-comparison { display: block; position: relative; }
+@media screen and (any-hover: hover) {
+  .panel-comparison > span {
+    position: absolute;
+    left: calc(var(--x) * 100% / 515);
+    top: calc(var(--y) * 100% / 326);
+    width: calc(100% * 100 / 515);
+    height: calc(100% * 100 / 326);
+    overflow: hidden;
+  }
+  .panel-comparison > span:hover::after {
+    content: "";
+    position: absolute;
+    /* Each panel is 100 units square, so 1% of it is one sheet unit. */
+    left: calc(-1% * var(--x));
+    top: calc(-1% * var(--y));
+    width: 515%;
+    height: 326%;
+    background: var(--derived-sheet) 0 0 / 100% 100% no-repeat;
+    pointer-events: none;
+  }
+}
 @media (prefers-reduced-motion: reduce) {
   .source-row .triangle, .source-reveal { transition: none; }
 }
@@ -122,8 +144,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP001E.png">
+                    <a href="img/original/BP001E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP001D.svg')">
                       <img src="img/original/BP001E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -201,8 +235,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP002E.png">
+                    <a href="img/original/BP002E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP002D.svg')">
                       <img src="img/original/BP002E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -280,8 +326,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP003E.png">
+                    <a href="img/original/BP003E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP003D.svg')">
                       <img src="img/original/BP003E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -359,8 +417,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP004E.png">
+                    <a href="img/original/BP004E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP004D.svg')">
                       <img src="img/original/BP004E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -438,8 +508,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP005E.png">
+                    <a href="img/original/BP005E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP005D.svg')">
                       <img src="img/original/BP005E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -517,8 +599,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP006E.png">
+                    <a href="img/original/BP006E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP006D.svg')">
                       <img src="img/original/BP006E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -596,8 +690,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP007E.png">
+                    <a href="img/original/BP007E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP007D.svg')">
                       <img src="img/original/BP007E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -675,8 +781,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP008E.png">
+                    <a href="img/original/BP008E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP008D.svg')">
                       <img src="img/original/BP008E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -754,8 +872,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP009E.png">
+                    <a href="img/original/BP009E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP009D.svg')">
                       <img src="img/original/BP009E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -833,8 +963,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP010E.png">
+                    <a href="img/original/BP010E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP010D.svg')">
                       <img src="img/original/BP010E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -912,8 +1054,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP011E.png">
+                    <a href="img/original/BP011E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP011D.svg')">
                       <img src="img/original/BP011E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -991,8 +1145,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP012E.png">
+                    <a href="img/original/BP012E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP012D.svg')">
                       <img src="img/original/BP012E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1070,8 +1236,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP013E.png">
+                    <a href="img/original/BP013E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP013D.svg')">
                       <img src="img/original/BP013E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1149,8 +1327,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP014E.png">
+                    <a href="img/original/BP014E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP014D.svg')">
                       <img src="img/original/BP014E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1228,8 +1418,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP015E.png">
+                    <a href="img/original/BP015E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP015D.svg')">
                       <img src="img/original/BP015E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1310,8 +1512,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP016E.png">
+                    <a href="img/original/BP016E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP016D.svg')">
                       <img src="img/original/BP016E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1395,8 +1609,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP017E.png">
+                    <a href="img/original/BP017E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP017D.svg')">
                       <img src="img/original/BP017E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1474,8 +1700,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP018E.png">
+                    <a href="img/original/BP018E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP018D.svg')">
                       <img src="img/original/BP018E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1553,8 +1791,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP019E.png">
+                    <a href="img/original/BP019E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP019D.svg')">
                       <img src="img/original/BP019E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1632,8 +1882,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP020E.png">
+                    <a href="img/original/BP020E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP020D.svg')">
                       <img src="img/original/BP020E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1711,8 +1973,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP021E.png">
+                    <a href="img/original/BP021E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP021D.svg')">
                       <img src="img/original/BP021E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1790,8 +2064,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP022E.png">
+                    <a href="img/original/BP022E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP022D.svg')">
                       <img src="img/original/BP022E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1869,8 +2155,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP023E.png">
+                    <a href="img/original/BP023E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP023D.svg')">
                       <img src="img/original/BP023E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -1948,8 +2246,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP024E.png">
+                    <a href="img/original/BP024E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP024D.svg')">
                       <img src="img/original/BP024E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2027,8 +2337,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP025E.png">
+                    <a href="img/original/BP025E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP025D.svg')">
                       <img src="img/original/BP025E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2106,8 +2428,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP026E.png">
+                    <a href="img/original/BP026E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP026D.svg')">
                       <img src="img/original/BP026E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2185,8 +2519,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP027E.png">
+                    <a href="img/original/BP027E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP027D.svg')">
                       <img src="img/original/BP027E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2264,8 +2610,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP028E.png">
+                    <a href="img/original/BP028E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP028D.svg')">
                       <img src="img/original/BP028E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2343,8 +2701,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP029E.png">
+                    <a href="img/original/BP029E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP029D.svg')">
                       <img src="img/original/BP029E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2422,8 +2792,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP030E.png">
+                    <a href="img/original/BP030E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP030D.svg')">
                       <img src="img/original/BP030E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2501,8 +2883,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP031E.png">
+                    <a href="img/original/BP031E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP031D.svg')">
                       <img src="img/original/BP031E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2580,8 +2974,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP032E.png">
+                    <a href="img/original/BP032E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP032D.svg')">
                       <img src="img/original/BP032E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2659,8 +3065,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP033E.png">
+                    <a href="img/original/BP033E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP033D.svg')">
                       <img src="img/original/BP033E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2738,8 +3156,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP034E.png">
+                    <a href="img/original/BP034E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP034D.svg')">
                       <img src="img/original/BP034E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2817,8 +3247,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP035E.png">
+                    <a href="img/original/BP035E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP035D.svg')">
                       <img src="img/original/BP035E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2896,8 +3338,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP036E.png">
+                    <a href="img/original/BP036E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP036D.svg')">
                       <img src="img/original/BP036E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -2975,8 +3429,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP037E.png">
+                    <a href="img/original/BP037E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP037D.svg')">
                       <img src="img/original/BP037E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3054,8 +3520,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP038E.png">
+                    <a href="img/original/BP038E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP038D.svg')">
                       <img src="img/original/BP038E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3133,8 +3611,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP039E.png">
+                    <a href="img/original/BP039E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP039D.svg')">
                       <img src="img/original/BP039E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3212,8 +3702,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP040E.png">
+                    <a href="img/original/BP040E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP040D.svg')">
                       <img src="img/original/BP040E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3291,8 +3793,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP041E.png">
+                    <a href="img/original/BP041E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP041D.svg')">
                       <img src="img/original/BP041E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3370,8 +3884,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP042E.png">
+                    <a href="img/original/BP042E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP042D.svg')">
                       <img src="img/original/BP042E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3449,8 +3975,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP043E.png">
+                    <a href="img/original/BP043E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP043D.svg')">
                       <img src="img/original/BP043E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3528,8 +4066,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP044E.png">
+                    <a href="img/original/BP044E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP044D.svg')">
                       <img src="img/original/BP044E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3607,8 +4157,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP045E.png">
+                    <a href="img/original/BP045E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP045D.svg')">
                       <img src="img/original/BP045E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3686,8 +4248,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP046E.png">
+                    <a href="img/original/BP046E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP046D.svg')">
                       <img src="img/original/BP046E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3765,8 +4339,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP047E.png">
+                    <a href="img/original/BP047E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP047D.svg')">
                       <img src="img/original/BP047E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3844,8 +4430,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP048E.png">
+                    <a href="img/original/BP048E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP048D.svg')">
                       <img src="img/original/BP048E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -3923,8 +4521,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP049E.png">
+                    <a href="img/original/BP049E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP049D.svg')">
                       <img src="img/original/BP049E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4002,8 +4612,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP050E.png">
+                    <a href="img/original/BP050E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP050D.svg')">
                       <img src="img/original/BP050E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4081,8 +4703,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP051E.png">
+                    <a href="img/original/BP051E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP051D.svg')">
                       <img src="img/original/BP051E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4163,8 +4797,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP052E.png">
+                    <a href="img/original/BP052E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP052D.svg')">
                       <img src="img/original/BP052E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4245,8 +4891,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP053E.png">
+                    <a href="img/original/BP053E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP053D.svg')">
                       <img src="img/original/BP053E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4327,8 +4985,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP054E.png">
+                    <a href="img/original/BP054E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP054D.svg')">
                       <img src="img/original/BP054E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4409,8 +5079,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP055E.png">
+                    <a href="img/original/BP055E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP055D.svg')">
                       <img src="img/original/BP055E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4488,8 +5170,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP056E.png">
+                    <a href="img/original/BP056E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP056D.svg')">
                       <img src="img/original/BP056E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4567,8 +5261,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP057E.png">
+                    <a href="img/original/BP057E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP057D.svg')">
                       <img src="img/original/BP057E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4646,8 +5352,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP058E.png">
+                    <a href="img/original/BP058E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP058D.svg')">
                       <img src="img/original/BP058E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4725,8 +5443,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP059E.png">
+                    <a href="img/original/BP059E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP059D.svg')">
                       <img src="img/original/BP059E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4804,8 +5534,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP060E.png">
+                    <a href="img/original/BP060E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP060D.svg')">
                       <img src="img/original/BP060E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4883,8 +5625,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP061E.png">
+                    <a href="img/original/BP061E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP061D.svg')">
                       <img src="img/original/BP061E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -4962,8 +5716,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP062E.png">
+                    <a href="img/original/BP062E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP062D.svg')">
                       <img src="img/original/BP062E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5041,8 +5807,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP063E.png">
+                    <a href="img/original/BP063E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP063D.svg')">
                       <img src="img/original/BP063E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5123,8 +5901,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP064E.png">
+                    <a href="img/original/BP064E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP064D.svg')">
                       <img src="img/original/BP064E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5205,8 +5995,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP065E.png">
+                    <a href="img/original/BP065E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP065D.svg')">
                       <img src="img/original/BP065E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5284,8 +6086,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP066E.png">
+                    <a href="img/original/BP066E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP066D.svg')">
                       <img src="img/original/BP066E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5363,8 +6177,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP067E.png">
+                    <a href="img/original/BP067E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP067D.svg')">
                       <img src="img/original/BP067E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5442,8 +6268,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP068E.png">
+                    <a href="img/original/BP068E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP068D.svg')">
                       <img src="img/original/BP068E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5521,8 +6359,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP069E.png">
+                    <a href="img/original/BP069E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP069D.svg')">
                       <img src="img/original/BP069E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5600,8 +6450,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP070E.png">
+                    <a href="img/original/BP070E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP070D.svg')">
                       <img src="img/original/BP070E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5679,8 +6541,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP071E.png">
+                    <a href="img/original/BP071E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP071D.svg')">
                       <img src="img/original/BP071E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5758,8 +6632,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP072E.png">
+                    <a href="img/original/BP072E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP072D.svg')">
                       <img src="img/original/BP072E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5837,8 +6723,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP073E.png">
+                    <a href="img/original/BP073E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP073D.svg')">
                       <img src="img/original/BP073E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5916,8 +6814,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP074E.png">
+                    <a href="img/original/BP074E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP074D.svg')">
                       <img src="img/original/BP074E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -5995,8 +6905,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP075E.png">
+                    <a href="img/original/BP075E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP075D.svg')">
                       <img src="img/original/BP075E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6074,8 +6996,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP076E.png">
+                    <a href="img/original/BP076E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP076D.svg')">
                       <img src="img/original/BP076E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6153,8 +7087,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP077E.png">
+                    <a href="img/original/BP077E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP077D.svg')">
                       <img src="img/original/BP077E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6232,8 +7178,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP078E.png">
+                    <a href="img/original/BP078E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP078D.svg')">
                       <img src="img/original/BP078E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6311,8 +7269,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP079E.png">
+                    <a href="img/original/BP079E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP079D.svg')">
                       <img src="img/original/BP079E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6390,8 +7360,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP080E.png">
+                    <a href="img/original/BP080E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP080D.svg')">
                       <img src="img/original/BP080E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6469,8 +7451,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP081E.png">
+                    <a href="img/original/BP081E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP081D.svg')">
                       <img src="img/original/BP081E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6548,8 +7542,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP082E.png">
+                    <a href="img/original/BP082E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP082D.svg')">
                       <img src="img/original/BP082E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6627,8 +7633,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP083E.png">
+                    <a href="img/original/BP083E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP083D.svg')">
                       <img src="img/original/BP083E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6706,8 +7724,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP084E.png">
+                    <a href="img/original/BP084E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP084D.svg')">
                       <img src="img/original/BP084E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6785,8 +7815,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP085E.png">
+                    <a href="img/original/BP085E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP085D.svg')">
                       <img src="img/original/BP085E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6867,8 +7909,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP086E.png">
+                    <a href="img/original/BP086E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP086D.svg')">
                       <img src="img/original/BP086E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -6949,8 +8003,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP087E.png">
+                    <a href="img/original/BP087E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP087D.svg')">
                       <img src="img/original/BP087E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7028,8 +8094,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP088E.png">
+                    <a href="img/original/BP088E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP088D.svg')">
                       <img src="img/original/BP088E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7110,8 +8188,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP089E.png">
+                    <a href="img/original/BP089E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP089D.svg')">
                       <img src="img/original/BP089E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7195,8 +8285,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP090E.png">
+                    <a href="img/original/BP090E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP090D.svg')">
                       <img src="img/original/BP090E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7277,8 +8379,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP091E.png">
+                    <a href="img/original/BP091E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP091D.svg')">
                       <img src="img/original/BP091E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7356,8 +8470,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP092E.png">
+                    <a href="img/original/BP092E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP092D.svg')">
                       <img src="img/original/BP092E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7435,8 +8561,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP093E.png">
+                    <a href="img/original/BP093E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP093D.svg')">
                       <img src="img/original/BP093E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7514,8 +8652,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP094E.png">
+                    <a href="img/original/BP094E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP094D.svg')">
                       <img src="img/original/BP094E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7593,8 +8743,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP095E.png">
+                    <a href="img/original/BP095E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP095D.svg')">
                       <img src="img/original/BP095E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7672,8 +8834,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP096E.png">
+                    <a href="img/original/BP096E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP096D.svg')">
                       <img src="img/original/BP096E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7751,8 +8925,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP097E.png">
+                    <a href="img/original/BP097E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP097D.svg')">
                       <img src="img/original/BP097E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7830,8 +9016,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP098E.png">
+                    <a href="img/original/BP098E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP098D.svg')">
                       <img src="img/original/BP098E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7909,8 +9107,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP099E.png">
+                    <a href="img/original/BP099E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP099D.svg')">
                       <img src="img/original/BP099E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>
@@ -7988,8 +9198,20 @@ td p { margin: 0; }
               <div class="source-reveal">
                 <div class="source-columns">
                   <div>
-                    <a href="img/original/BP100E.png">
+                    <a href="img/original/BP100E.png" class="panel-comparison" style="--derived-sheet: url('img/derived/BP100D.svg')">
                       <img src="img/original/BP100E.png" loading="lazy" decoding="async" width="515" height="326">
+                      <span style="--x: 7; --y: 5"></span>
+                      <span style="--x: 115; --y: 5"></span>
+                      <span style="--x: 300; --y: 5"></span>
+                      <span style="--x: 408; --y: 5"></span>
+                      <span style="--x: 7; --y: 113"></span>
+                      <span style="--x: 115; --y: 113"></span>
+                      <span style="--x: 300; --y: 113"></span>
+                      <span style="--x: 408; --y: 113"></span>
+                      <span style="--x: 7; --y: 221"></span>
+                      <span style="--x: 115; --y: 221"></span>
+                      <span style="--x: 300; --y: 221"></span>
+                      <span style="--x: 408; --y: 221"></span>
                     </a>
                   </div>
                   <div>

@@ -27,7 +27,7 @@ def filter_menu(counts):
     return nav
 
 
-def image_link(cell, path):
+def image_link(cell, path, *, compare_with=None):
     link = ET.SubElement(cell, "a", href=path)
     image = ET.SubElement(link, "img", src=path, loading="lazy", decoding="async")
     # Reserve space for the disclosure animation while the image loads.
@@ -37,6 +37,14 @@ def image_link(cell, path):
             width, height = struct.unpack(">II", file.read(8))
         image.set("width", str(width))
         image.set("height", str(height))
+
+    if compare_with:
+        link.set("class", "panel-comparison")
+        link.set("style", f"--derived-sheet: url('{compare_with}')")
+        # Use the 100 × 100 panel frames in the 515 × 326 OEBP and derived sheets.
+        for y in (5, 113, 221):
+            for x in (7, 115, 300, 408):
+                ET.SubElement(link, "span", style=f"--x: {x}; --y: {y}")
 
 
 def disclosure_row(table, name, *, initially_open):
@@ -54,7 +62,7 @@ def disclosure_row(table, name, *, initially_open):
     return image_cell, rule_cell
 
 
-def source_row(table, source, label, name):
+def source_row(table, source, label, name, *, compare_with=None):
     if source is None:
         return
     image_cell, rule_cell = disclosure_row(table, name, initially_open=(name == "OEBP"))
@@ -62,7 +70,7 @@ def source_row(table, source, label, name):
     if name == "Foundalis":
         rule = f'{rule["left"]} / {rule["right"]}'
     if path := source.get("image"):
-        image_link(image_cell, path)
+        image_link(image_cell, path, compare_with=compare_with)
     ET.SubElement(rule_cell, "p").text = rule
     if note := source.get("note"):
         ET.SubElement(ET.SubElement(rule_cell, "p"), "em").text = note
@@ -96,10 +104,10 @@ def problem_section(key, problem, difficulty, corrected):
     ET.SubElement(columns, "col")
     ET.SubElement(columns, "col")
     rows = ET.SubElement(table, "tbody")
-    source_row(rows, problem.get("foundalis"), key + "F", "Foundalis")
-    source_row(rows, problem.get("oebp"), key + "E", "OEBP")
-
     derived = problem.get("derived", {})
+    source_row(rows, problem.get("foundalis"), key + "F", "Foundalis")
+    source_row(rows, problem.get("oebp"), key + "E", "OEBP", compare_with=derived.get("image"))
+
     if derived or reason:
         image_cell, rule_cell = disclosure_row(rows, "Derived", initially_open=True)
         if path := derived.get("image"):

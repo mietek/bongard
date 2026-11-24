@@ -38,6 +38,28 @@ td p { margin: 0; }
 .source-reveal { overflow: hidden; transition: height var(--duration) ease-in-out, opacity var(--duration) ease-in-out; }
 .source-row .closing .source-reveal { opacity: 0; }
 .source-columns { display: grid; grid-template-columns: var(--image-width) minmax(0, 1fr); }
+.panel-comparison { display: block; position: relative; }
+@media screen and (any-hover: hover) {
+  .panel-comparison > span {
+    position: absolute;
+    left: calc(var(--x) * 100% / 515);
+    top: calc(var(--y) * 100% / 326);
+    width: calc(100% * 100 / 515);
+    height: calc(100% * 100 / 326);
+    overflow: hidden;
+  }
+  .panel-comparison > span:hover::after {
+    content: "";
+    position: absolute;
+    /* Each panel is 100 units square, so 1% of it is one sheet unit. */
+    left: calc(-1% * var(--x));
+    top: calc(-1% * var(--y));
+    width: 515%;
+    height: 326%;
+    background: var(--derived-sheet) 0 0 / 100% 100% no-repeat;
+    pointer-events: none;
+  }
+}
 @media (prefers-reduced-motion: reduce) {
   .source-row .triangle, .source-reveal { transition: none; }
 }
