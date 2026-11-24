@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="29.51" cy="22.41" r="5.85"/>
+    <circle cx="37.67" cy="30.87" r="5.85"/>
+    <circle cx="73.33" cy="34.55" r="5.85"/>
+    <circle cx="63.64" cy="41.2" r="5.85"/>
+    <circle cx="53.95" cy="47.84" r="5.85"/>
+    <circle cx="43.93" cy="53.99" r="5.85"/>
+    <circle cx="61.6" cy="56.76" r="5.85"/>
+    <circle cx="33.91" cy="60.13" r="5.85"/>
+    <circle cx="23.88" cy="66.24" r="5.85"/>
+    <circle cx="69.25" cy="65.68" r="5.85"/>
+    <circle cx="45.83" cy="39.34" r="6.65" fill="black" stroke="none"/>
+  </g>
+</svg>

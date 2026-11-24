@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+<defs><clipPath id="BP095D-R1-bounds"><path d="M 12.5 22.5 L 71.5 22.5 L 89 70.6 L 33.8 70.6 Z" fill="black" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/></clipPath></defs>
+    <path d="M -1 -5 L 101 -5 M -1 1.9 L 101 1.9 M -1 8.8 L 101 8.8 M -1 15.7 L 101 15.7 M -1 22.6 L 101 22.6 M -1 29.5 L 101 29.5 M -1 36.4 L 101 36.4 M -1 43.3 L 101 43.3 M -1 50.2 L 101 50.2 M -1 57.1 L 101 57.1 M -1 64 L 101 64 M -1 70.9 L 101 70.9 M -1 77.8 L 101 77.8 M -1 84.7 L 101 84.7 M -1 91.6 L 101 91.6 M -1 98.5 L 101 98.5 M -1 105.4 L 101 105.4" fill="none" stroke="black" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#BP095D-R1-bounds)"/>
+    <path d="M 12.5 22.5 L 71.5 22.5 L 89 70.6 L 33.8 70.6 Z" fill="none" stroke="black" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

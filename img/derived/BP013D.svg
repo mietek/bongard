@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="28.75" y="22.75" width="16.5" height="47.5" rx="0.85"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="51.0" cy="45.5" rx="31.25" ry="17.75" />
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="70.0" cy="75.0" rx="13.25" ry="7.25" />
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="37.5" cy="22.0" rx="21.75" ry="8.25" />
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="60.75" y="19.75" width="26.5" height="53.5" rx="0.85"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="48.75" y="27.75" width="15.5" height="42.5" rx="0.85"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="42.5" cy="49.0" rx="8.75" ry="23.25" />
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="34.75" y="14.75" width="50.5" height="18.5" rx="0.85"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="49.75" y="72.75" width="36.5" height="9.5" rx="0.85"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="76.5" cy="49.0" rx="8.75" ry="23.25" />
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="15.5" cy="75.0" rx="6.75" ry="14.25" />
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="11.75" y="28.75" width="45.5" height="17.5" rx="0.85"/>
+  </g>
+  </g>
+</svg>

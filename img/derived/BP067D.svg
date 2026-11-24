@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 53.17 32.17 C 51.88 38.06 50.55 43.82 49.5 49.5"/>
+    <path d="M 52.5 23.5 C 52.25 26.48 52.47 29.37 53.17 32.17"/>
+    <path d="M 61.5 20.5 C 60.05 26.09 57.27 29.97 53.17 32.17"/>
+    <path d="M 41.5 69.5 C 45.67 63.15 48.21 56.46 49.5 49.5"/>
+    <path d="M 37.5 24.5 C 38.31 35.92 42.31 44.25 49.5 49.5"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 46.5 53.5 C 47.91 65.08 55.57 71.31 67.5 72.5"/>
+    <path d="M 46.5 53.5 C 35.74 48.23 31.41 37.56 33.5 21.5"/>
+    <path d="M 46.5 53.5 C 45.77 47.48 46.44 41.12 47.5 34.5"/>
+    <path d="M 47.5 34.5 C 46.02 30.86 46.02 27.2 47.5 23.5"/>
+    <path d="M 47.5 34.5 C 53.98 32.2 57.98 27.87 59.5 21.5"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 50.5 20.5 C 50.82 27.1 50.17 33.39 49.5 39.5"/>
+    <path d="M 36.5 45.5 C 37.88 53.23 41.88 58.9 48.5 62.5"/>
+    <path d="M 68.5 20.5 C 63.95 28.83 57.61 35.16 49.5 39.5"/>
+    <path d="M 49.5 39.5 C 48.67 47.09 49.69 54.88 48.5 62.5"/>
+    <path d="M 48.5 62.5 C 48.05 65.38 47.36 68.3 47.5 71.5"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 49.5 19.5 C 47.34 27.39 48.56 34.11 51.5 40.5"/>
+    <path d="M 36.5 24.5 C 38.01 41.67 44.34 53.67 55.5 60.5"/>
+    <path d="M 51.5 40.5 C 54.64 47.34 55.31 54.26 55.5 60.5"/>
+    <path d="M 51.5 40.5 C 56.17 36.51 59.17 31.51 60.5 25.5"/>
+    <path d="M 54.5 73.5 C 55.34 69.38 55.64 65.04 55.5 60.5"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 59.5 30.5 C 58.39 35.82 55.39 39.49 50.5 41.5"/>
+    <path d="M 49.5 27.5 C 49.05 32.49 49.86 37.06 50.5 41.5"/>
+    <path d="M 53.5 63.5 C 50.87 56.76 51.58 49.07 50.5 41.5"/>
+    <path d="M 53.5 63.5 C 39.27 54.84 33.94 40.17 37.5 19.5"/>
+    <path d="M 53.5 63.5 C 55.51 68.66 59.48 72.69 63.5 76.5"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 47.5 76.5 C 48.93 74.17 49.93 71.17 50.5 67.5"/>
+    <path d="M 58.5 42.5 C 57.9 37.56 56.07 33.06 55.5 28.5"/>
+    <path d="M 58.5 42.5 C 59.8 53.21 55.29 61.61 50.5 67.5"/>
+    <path d="M 58.5 42.5 C 64.7 36.52 69.37 28.18 72.5 17.5"/>
+    <path d="M 34.5 21.5 C 33.6 41.04 38.93 56.37 50.5 67.5"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 47.5 72.5 C 48.2 70.46 49.19 69.1 50.5 68.5"/>
+    <path d="M 68.5 47.5 C 65.9 57.35 59.83 64.19 50.5 68.5"/>
+    <path d="M 43.5 39.5 C 42.94 49.15 45.6 55.82 51.5 59.5"/>
+    <path d="M 51.5 59.5 C 50.64 62.29 50.36 65.3 50.5 68.5"/>
+    <path d="M 51.5 59.5 C 55.07 47.91 56.94 34.64 56.5 19.5"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 52.5 35.5 C 53.73 31.06 54.35 26.48 53.5 21.5"/>
+    <path d="M 52.5 35.5 C 50.14 44.03 50.12 53.03 46.5 60.5"/>
+    <path d="M 52.5 35.5 C 45.16 33.19 40.5 28.52 38.5 21.5"/>
+    <path d="M 46.5 60.5 C 62.14 54.31 71.81 41.97 75.5 23.5"/>
+    <path d="M 46.5 60.5 C 43.88 65.91 40.61 70.01 39.5 74.5"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 68.5 36.5 C 64.07 44.77 58.4 51.44 51.5 56.5"/>
+    <path d="M 33.5 26.5 C 34.57 36.04 39.23 41.71 47.5 43.5"/>
+    <path d="M 51.5 56.5 C 48.83 53.15 47.53 48.82 47.5 43.5"/>
+    <path d="M 51.5 56.5 C 52.31 62.36 53.97 67.36 56.5 71.5"/>
+    <path d="M 48.5 26.5 C 47.76 32 47.47 37.67 47.5 43.5"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 59.5 21.5 C 64.2 33.92 65.87 46.92 64.5 60.5"/>
+    <path d="M 77.5 70.5 C 72.05 68.09 67.72 64.75 64.5 60.5"/>
+    <path d="M 26.5 28.5 C 27.15 43.72 35.82 51.72 52.5 52.5"/>
+    <path d="M 52.5 52.5 C 55.68 55.94 60.11 58.16 64.5 60.5"/>
+    <path d="M 52.5 52.5 C 44.84 44.2 43 31.26 43.5 16.5"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 47.5 65.5 C 59.17 57.07 63.51 41.74 60.5 19.5"/>
+    <path d="M 47.5 65.5 C 47.28 68.16 47.5 70.83 47.5 73.5"/>
+    <path d="M 47.5 65.5 C 47.7 63.07 47.74 61.19 46.5 60.5"/>
+    <path d="M 43.5 19.5 C 44.42 33.2 45.42 46.87 46.5 60.5"/>
+    <path d="M 46.5 60.5 C 41.95 57.98 38.19 56.31 36.5 52.5"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 42.5 17.5 C 38.92 26.54 39.92 34.54 45.5 41.5"/>
+    <path d="M 42.5 79.5 C 40.9 71.23 42.41 63.5 44.5 55.5"/>
+    <path d="M 54.5 23.5 C 52.24 30 49.24 36 45.5 41.5"/>
+    <path d="M 45.5 41.5 C 45.59 45.81 45.79 50.58 44.5 55.5"/>
+    <path d="M 66.5 36.5 C 63.05 45.52 55.72 51.86 44.5 55.5"/>
+  </g>
+  </g>
+</svg>

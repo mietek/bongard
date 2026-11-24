@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 46.5 43.5 L 48.99 9.07"/>
+    <path d="M 46.5 43.5 L 22.09 67.91"/>
+    <path d="M 46.5 43.5 L 74.3 63.96"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 36.12 31.31 L 72.27 24.49 L 60.1 59.2 Z"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="24.5" y="14.5" width="21" height="21" rx="0.5"/>
+    <rect x="67" y="28.5" width="21" height="21" rx="0.5"/>
+    <rect x="31.5" y="54.5" width="21" height="21" rx="0.5" transform="rotate(-35 42 65)"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 44.35 16.57 L 44.35 28.97 L 53.65 28.97 L 53.65 16.57 A 29.8 29.8 0 0 1 76.82 56.69 L 66.08 50.49 L 61.43 58.54 L 72.17 64.74 A 29.8 29.8 0 0 1 25.83 64.74 L 36.57 58.54 L 31.92 50.49 L 21.18 56.69 A 29.8 29.8 0 0 1 44.35 16.57 Z"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 8 51 L 92 51"/>
+    <path d="M 26 51 L 26 26"/>
+    <path d="M 54 51 L 54 26"/>
+    <path d="M 82 51 L 82 26"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 37 10 C 27 14 21 20 21 29 C 20 40 25 50 39 51 C 50 51.5 64 50.5 75 53.5 C 85 58 89 72 80.5 82"/>
+    <circle cx="21.6" cy="26" r="5.1" fill="black" stroke="none"/>
+    <circle cx="38.7" cy="51" r="5.1" fill="black" stroke="none"/>
+    <circle cx="75" cy="53.5" r="5.1" fill="black" stroke="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="28.5" y="26" width="38" height="38" rx="0.5"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 45.9 27.49 L 45.9 18.59 L 55.1 18.59 L 55.1 27.49 A 22 22 0 0 1 72.01 44.4 L 80.91 44.4 L 80.91 53.6 L 72.01 53.6 A 22 22 0 0 1 55.1 70.51 L 55.1 79.41 L 45.9 79.41 L 45.9 70.51 A 22 22 0 0 1 28.99 53.6 L 20.09 53.6 L 20.09 44.4 L 28.99 44.4 A 22 22 0 0 1 45.9 27.49 Z"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="35.2" cy="27.5" r="9.45"/>
+    <circle cx="74.3" cy="39.5" r="9.45"/>
+    <circle cx="28" cy="65.5" r="9.45"/>
+    <circle cx="66" cy="79.3" r="9.45"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 9 71 C 24 78 42 79 55 73 C 66 67 68 51 71 39 C 74 26 81 16 91 18"/>
+    <path d="M 24 70 L 22.5 83"/>
+    <path d="M 48.5 68 L 58 79.5"/>
+    <path d="M 64.8 50.5 L 79 55"/>
+    <path d="M 73.5 27.5 L 84 32.8"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 48 49.5 L 22.26 25.19"/>
+    <path d="M 48 49.5 L 56.22 15.06"/>
+    <path d="M 48 49.5 L 80.25 64.11"/>
+    <path d="M 48 49.5 L 30.76 80.43"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 27.7 28 Q 43.1 47.5 27.7 67 Q 12.3 47.5 27.7 28 Z"/>
+    <path d="M 43.1 28 Q 58.5 47.5 43.1 67 Q 27.7 47.5 43.1 28 Z"/>
+    <path d="M 58.5 28 Q 73.9 47.5 58.5 67 Q 43.1 47.5 58.5 28 Z"/>
+    <path d="M 73.9 28 Q 89.3 47.5 73.9 67 Q 58.5 47.5 73.9 28 Z"/>
+  </g>
+  </g>
+</svg>

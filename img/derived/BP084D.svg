@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12.25" y="69.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="32.75" cy="31.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="40.51" cy="21.92" r="2.56" stroke-width="1.35"/>
+    <circle cx="51.5" cy="16.32" r="2.56" stroke-width="1.35"/>
+    <circle cx="63.81" cy="15.68" r="2.56" stroke-width="1.35"/>
+    <circle cx="75.32" cy="20.1" r="2.56" stroke-width="1.35"/>
+    <circle cx="84.04" cy="28.82" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.45" cy="40.33" r="2.56" stroke-width="1.35"/>
+    <circle cx="87.81" cy="52.64" r="2.56" stroke-width="1.35"/>
+    <circle cx="82.21" cy="63.63" r="2.56" stroke-width="1.35"/>
+    <circle cx="72.63" cy="71.39" r="2.56" stroke-width="1.35"/>
+    <circle cx="60.71" cy="74.58" r="2.56" stroke-width="1.35"/>
+    <circle cx="48.54" cy="72.65" r="2.56" stroke-width="1.35"/>
+    <circle cx="38.2" cy="65.93" r="2.56" stroke-width="1.35"/>
+    <circle cx="31.48" cy="55.59" r="2.56" stroke-width="1.35"/>
+    <circle cx="29.55" cy="43.41" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="31.75" y="45.25" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="42.5" cy="16.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="53.5" cy="17.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="64.5" cy="21.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="32.5" cy="22.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="25.5" cy="28.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="74.5" cy="28.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="33.5" cy="33.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="43.5" cy="36.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="81" cy="36.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="51" cy="42" r="2.56" stroke-width="1.35"/>
+    <circle cx="87.5" cy="44.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="90" cy="52.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="52.5" cy="53" r="2.56" stroke-width="1.35"/>
+    <circle cx="49" cy="62.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="64.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="41" cy="68.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="30.5" cy="71.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="74" r="2.56" stroke-width="1.35"/>
+    <circle cx="25.5" cy="81.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="78" cy="82" r="2.56" stroke-width="1.35"/>
+    <circle cx="37.5" cy="83.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="47.5" cy="84.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="57" cy="84.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="67" cy="85" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6.25" y="10.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="30" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="30" cy="80.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="41.9" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="41.9" cy="80.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="53.8" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="53.8" cy="80.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="65.7" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="65.7" cy="80.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="77.6" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="77.6" cy="80.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="80.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="30" cy="32.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="30" cy="44.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="30" cy="56.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="30" cy="68.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="32.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="44.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="56.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="68.5" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="18.75" y="65.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="12.5" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="23.5" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="34.5" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="44.5" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="57" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="68.5" cy="19" r="2.56" stroke-width="1.35"/>
+    <circle cx="79" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="18" r="2.56" stroke-width="1.35"/>
+    <circle cx="90" cy="29.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="12.5" cy="30" r="2.56" stroke-width="1.35"/>
+    <circle cx="19.5" cy="40" r="2.56" stroke-width="1.35"/>
+    <circle cx="88" cy="41.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="28.5" cy="48.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88" cy="53.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="37.5" cy="56.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="46.5" cy="63.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="64" r="2.56" stroke-width="1.35"/>
+    <circle cx="54.5" cy="70" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="74" r="2.56" stroke-width="1.35"/>
+    <circle cx="66.5" cy="75.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="79.5" cy="78.5" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="49.75" y="25.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="16.5" cy="17.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="27.5" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="79.5" cy="20" r="2.56" stroke-width="1.35"/>
+    <circle cx="90.5" cy="21" r="2.56" stroke-width="1.35"/>
+    <circle cx="31.5" cy="29" r="2.56" stroke-width="1.35"/>
+    <circle cx="16" cy="30" r="2.56" stroke-width="1.35"/>
+    <circle cx="77.5" cy="30" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="32" r="2.56" stroke-width="1.35"/>
+    <circle cx="36.5" cy="40" r="2.56" stroke-width="1.35"/>
+    <circle cx="74.5" cy="41" r="2.56" stroke-width="1.35"/>
+    <circle cx="15.5" cy="42.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="90" cy="43" r="2.56" stroke-width="1.35"/>
+    <circle cx="46" cy="48" r="2.56" stroke-width="1.35"/>
+    <circle cx="66.5" cy="48.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="57.5" cy="52.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="15.5" cy="56" r="2.56" stroke-width="1.35"/>
+    <circle cx="91" cy="56" r="2.56" stroke-width="1.35"/>
+    <circle cx="91" cy="69" r="2.56" stroke-width="1.35"/>
+    <circle cx="15.5" cy="71" r="2.56" stroke-width="1.35"/>
+    <circle cx="15" cy="82.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="90.5" cy="83" r="2.56" stroke-width="1.35"/>
+    <circle cx="27.5" cy="83" r="2.56" stroke-width="1.35"/>
+    <circle cx="40.5" cy="83.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="53.5" cy="83" r="2.56" stroke-width="1.35"/>
+    <circle cx="64.5" cy="83.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="78.5" cy="83.5" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="79.75" y="73.25" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="62" cy="12" r="2.56" stroke-width="1.35"/>
+    <circle cx="73.5" cy="12" r="2.56" stroke-width="1.35"/>
+    <circle cx="51.5" cy="15.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="42.5" cy="19" r="2.56" stroke-width="1.35"/>
+    <circle cx="83.5" cy="19" r="2.56" stroke-width="1.35"/>
+    <circle cx="32" cy="27.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="31" r="2.56" stroke-width="1.35"/>
+    <circle cx="24" cy="35.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="43" r="2.56" stroke-width="1.35"/>
+    <circle cx="17" cy="45.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="85" cy="55" r="2.56" stroke-width="1.35"/>
+    <circle cx="11.5" cy="58.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="78.5" cy="63" r="2.56" stroke-width="1.35"/>
+    <circle cx="11" cy="71.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="70.5" cy="72" r="2.56" stroke-width="1.35"/>
+    <circle cx="61" cy="81" r="2.56" stroke-width="1.35"/>
+    <circle cx="15.5" cy="82" r="2.56" stroke-width="1.35"/>
+    <circle cx="51.5" cy="85" r="2.56" stroke-width="1.35"/>
+    <circle cx="27.5" cy="88" r="2.56" stroke-width="1.35"/>
+    <circle cx="39.5" cy="88" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="52.75" y="30.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="59.5" cy="11.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="46.5" cy="13.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="71" cy="13.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="37.5" cy="19.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="79.5" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="28.5" cy="27.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="84.5" cy="30.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="22" cy="34.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="40.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="18" cy="45" r="2.56" stroke-width="1.35"/>
+    <circle cx="89.5" cy="50.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="17.5" cy="57.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="61" r="2.56" stroke-width="1.35"/>
+    <circle cx="19.5" cy="68.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="83" cy="71.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="26" cy="76.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="76.5" cy="79.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="35.5" cy="81.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="45.5" cy="84.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="67.5" cy="85.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="56.5" cy="86.5" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="61.25" y="56.25" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="56.5" cy="13" r="2.56" stroke-width="1.35"/>
+    <circle cx="61.43" cy="22.43" r="2.56" stroke-width="1.35"/>
+    <circle cx="66.36" cy="31.86" r="2.56" stroke-width="1.35"/>
+    <circle cx="71.29" cy="41.29" r="2.56" stroke-width="1.35"/>
+    <circle cx="76.21" cy="50.71" r="2.56" stroke-width="1.35"/>
+    <circle cx="81.14" cy="60.14" r="2.56" stroke-width="1.35"/>
+    <circle cx="86.07" cy="69.57" r="2.56" stroke-width="1.35"/>
+    <circle cx="91" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="81" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="71" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="61" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="51" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="41" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="31" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="21" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="11" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="16.69" cy="70.75" r="2.56" stroke-width="1.35"/>
+    <circle cx="22.38" cy="62.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="28.06" cy="54.25" r="2.56" stroke-width="1.35"/>
+    <circle cx="33.75" cy="46" r="2.56" stroke-width="1.35"/>
+    <circle cx="39.44" cy="37.75" r="2.56" stroke-width="1.35"/>
+    <circle cx="45.12" cy="29.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="50.81" cy="21.25" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="55.75" y="27.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="47.5" cy="12" r="2.56" stroke-width="1.35"/>
+    <circle cx="58.5" cy="12.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="39" cy="16" r="2.56" stroke-width="1.35"/>
+    <circle cx="68.5" cy="16.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="30.5" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="79" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="22.5" cy="30" r="2.56" stroke-width="1.35"/>
+    <circle cx="83" cy="31" r="2.56" stroke-width="1.35"/>
+    <circle cx="18.5" cy="40" r="2.56" stroke-width="1.35"/>
+    <circle cx="83" cy="41" r="2.56" stroke-width="1.35"/>
+    <circle cx="74.5" cy="46.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="65.5" cy="49" r="2.56" stroke-width="1.35"/>
+    <circle cx="15.5" cy="50.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="57" cy="51.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="49.5" cy="58.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="14.5" cy="62" r="2.56" stroke-width="1.35"/>
+    <circle cx="56.5" cy="66.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="65.5" cy="71.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="15.5" cy="73" r="2.56" stroke-width="1.35"/>
+    <circle cx="75" cy="75.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="85" cy="79" r="2.56" stroke-width="1.35"/>
+    <circle cx="20.5" cy="82" r="2.56" stroke-width="1.35"/>
+    <circle cx="29" cy="86.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="39" cy="87.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="49.5" cy="87.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="71" cy="87.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="80.5" cy="87" r="2.56" stroke-width="1.35"/>
+    <circle cx="61" cy="88" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="35.75" y="52.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="23.5" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="23.5" cy="78.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="33.83" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="33.83" cy="78.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="44.17" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="44.17" cy="78.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="54.5" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="54.5" cy="78.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="64.83" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="64.83" cy="78.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="75.17" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="75.17" cy="78.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="78.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="23.5" cy="33.3" r="2.56" stroke-width="1.35"/>
+    <circle cx="23.5" cy="44.6" r="2.56" stroke-width="1.35"/>
+    <circle cx="23.5" cy="55.9" r="2.56" stroke-width="1.35"/>
+    <circle cx="23.5" cy="67.2" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="33.3" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="44.6" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="55.9" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="67.2" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="64.75" y="39.25" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="40.5" cy="13" r="2.56" stroke-width="1.35"/>
+    <circle cx="54.5" cy="13" r="2.56" stroke-width="1.35"/>
+    <circle cx="28.5" cy="14.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="18.5" cy="18.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="66" cy="19.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="75.5" cy="27.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="10.5" cy="28.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="86" cy="37" r="2.56" stroke-width="1.35"/>
+    <circle cx="11.5" cy="41" r="2.56" stroke-width="1.35"/>
+    <circle cx="91" cy="50" r="2.56" stroke-width="1.35"/>
+    <circle cx="16.5" cy="53" r="2.56" stroke-width="1.35"/>
+    <circle cx="24.5" cy="62.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="91.5" cy="62" r="2.56" stroke-width="1.35"/>
+    <circle cx="34" cy="70.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="88.5" cy="74" r="2.56" stroke-width="1.35"/>
+    <circle cx="44.5" cy="77.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="56" cy="82.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="80.5" cy="82.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="69.5" cy="84" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="29.25" y="38.75" width="11.5" height="11.5" rx="0.45"/>
+    <circle cx="49.5" cy="14.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="37" cy="15.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="63.5" cy="16" r="2.56" stroke-width="1.35"/>
+    <circle cx="75.5" cy="20.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="25.5" cy="22" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="29.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="17.5" cy="30.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="85.5" cy="40.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="14.5" cy="42.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="82" cy="52.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="16.5" cy="55.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="76.5" cy="62.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="21" cy="67.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="70.5" cy="72.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="27.5" cy="77.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="59.5" cy="80.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="38.5" cy="82.5" r="2.56" stroke-width="1.35"/>
+    <circle cx="50.5" cy="84.5" r="2.56" stroke-width="1.35"/>
+  </g>
+  </g>
+</svg>

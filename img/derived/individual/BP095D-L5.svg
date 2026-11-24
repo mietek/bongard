@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+<defs><clipPath id="BP095D-L5-bounds"><ellipse cx="50.7" cy="48" rx="38.6" ry="21.1" fill="black" stroke="none" stroke-width="0" transform="rotate(-44.5 50.7 48)"/></clipPath></defs>
+    <path d="M 100.55 -1 L 100.55 101 M 93.75 -1 L 93.75 101 M 86.95 -1 L 86.95 101 M 80.15 -1 L 80.15 101 M 73.35 -1 L 73.35 101 M 66.55 -1 L 66.55 101 M 59.75 -1 L 59.75 101 M 52.95 -1 L 52.95 101 M 46.15 -1 L 46.15 101 M 39.35 -1 L 39.35 101 M 32.55 -1 L 32.55 101 M 25.75 -1 L 25.75 101 M 18.95 -1 L 18.95 101 M 12.15 -1 L 12.15 101 M 5.35 -1 L 5.35 101 M -1.45 -1 L -1.45 101" fill="none" stroke="black" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#BP095D-L5-bounds)"/>
+    <ellipse cx="50.7" cy="48" rx="38.6" ry="21.1" fill="none" stroke="black" stroke-width="1.9" transform="rotate(-44.5 50.7 48)"/>
+</svg>

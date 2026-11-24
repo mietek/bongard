@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="51" cy="64" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="47.5,16.84 57.5,34.16 37.5,34.16" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="71" cy="63.5" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="28,36.16 38,18.84 18,18.84" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="21.5" cy="65" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="32.5,29.66 42.5,12.34 22.5,12.34" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="29.5" cy="77.5" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="69,47.34 79,64.66 59,64.66" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="43" cy="34" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="68,27.16 78,9.84 58,9.84" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="25" cy="74" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="77,35.16 87,17.84 67,17.84" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="52" cy="19.5" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="47,57.34 57,74.66 37,74.66" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="61" cy="58" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="42.5,65.34 52.5,82.66 32.5,82.66" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="33.5" cy="14" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="61,18.34 71,35.66 51,35.66" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="50.5" cy="41" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="23,62.84 33,80.16 13,80.16" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="25" cy="27" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="72,75.66 82,58.34 62,58.34" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="77.5" cy="49" r="9.15" fill="white" stroke="black" stroke-width="1.7"/>
+    <polygon points="24,82.66 34,65.34 14,65.34" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+</svg>

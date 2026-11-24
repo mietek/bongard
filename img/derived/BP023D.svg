@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 58.57 39.71 L 77.94 62.14 L 52.45 68.25 Z" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="57" cy="54" r="25.6" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="35.5" cy="33" r="7.85" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M -5 -16 H 4 V -5 H 15 V 3 H 4 V 15 H -4 V 4 H -16 V -4 H -5 Z" fill="none" transform="translate(45.5 44) rotate(-5)"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="26.75" y="25.41" width="46.02" height="46.02" rx=".3" fill="none" transform="rotate(41.19 49.76 48.42)"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="18.92" y="22.99" width="69.39" height="26.3" rx=".3" fill="none" transform="rotate(24.9 53.61 36.14)"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="64.78" y="22.77" width="18.45" height="16.45" rx=".3" fill="none"/>
+    <circle cx="27" cy="65.5" r="7.35" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="34.5" cy="37" rx="17.6" ry="19.1" fill="none"/>
+    <path d="M 66.88 29.09 L 87.5 72.39 L 45.23 73.42 Z" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="46.77" y="19.77" width="33.45" height="40.45" rx=".3" fill="none"/>
+    <circle cx="27.5" cy="70" r="5.85" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="21.07" y="10.32" width="25.4" height="61.83" rx=".3" fill="none" transform="rotate(17.53 33.77 41.24)"/>
+    <path d="M 62.69 67.9 L 68.61 49.14 L 83.42 67.9 Z" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 20.25 18.1 L 40.8 18.1 L 30.53 35.57 Z" fill="none"/>
+    <circle cx="58.5" cy="66" r="5.85" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="42" cy="30" r="22.6" fill="none"/>
+    <circle cx="36.5" cy="66.5" r="5.6" fill="none"/>
+  </g>
+  </g>
+</svg>

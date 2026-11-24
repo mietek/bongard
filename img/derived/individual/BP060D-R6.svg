@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="66.5" cy="38" rx="18.6" ry="20.1"/>
+    <path d="M 20.9 40.1 L 20.9 21.9 L 37.1 21.9 Z"/>
+    <path d="M 20.9 55.9 L 20.9 72.1 L 57.1 72.1 Z"/>
+  </g>
+</svg>

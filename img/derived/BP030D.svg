@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 60 22 L 33 70 L 79 55 L 19 27" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 50 39 C 45 44 42 48 44 55 C 45 64 57 64 57 53 C 57 46 54 42 48 37 C 39 30 25 34 24 47 C 21 64 34 75 48 75 C 64 75 74 64 74 49 C 74 33 62 30 54 36 C 52 37 51 38 50 39 Z" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 60 25 C 48 21 36 27 32 37 C 28 48 38 52 48 53 C 57 53 67 53 67 63 C 68 75 56 81 47 72 C 38 65 34 52 42 46 C 49 41 57 41 68 39" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 30 75 L 70 48 L 67 17 L 39 33 L 54 78 L 77 75 L 83 39" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 67 82 C 54 82 43 82 32 79 C 22 77 28 69 28 64 C 29 61 26 59 23 56 C 13 47 24 33 34 33 C 40 32 46 33 49 37 C 53 43 54 52 46 52 C 40 52 41 44 42 40 C 44 32 51 29 59 29 C 71 28 78 34 77 44 C 77 55 67 57 57 58 C 48 59 40 61 39 69 C 38 80 62 75 79 61" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 17 59 C 14 49 13 38 13 31 C 13 21 25 19 39 18 C 54 17 69 14 80 22 C 88 28 88 42 86 52 C 84 64 75 63 63 60 L 45 54 C 31 50 21 45 22 35 C 22 24 33 24 39 30 C 43 34 43 39 48 39 C 56 39 56 24 65 24 C 78 21 85 39 79 48 C 74 55 67 57 58 60 C 49 63 41 63 41 71 C 40 77 49 77 58 77 C 69 77 78 76 81 74" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 27 65 L 55 21 L 70 68" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 49 38 C 44 21 26 25 20 34 C 11 47 27 74 44 75 C 56 77 77 67 79 49 C 84 29 75 18 64 20 C 55 21 51 28 49 38 Z" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 43 23 C 32 30 27 36 24 43 C 17 66 32 81 54 78 C 75 76 91 60 80 41 C 73 26 59 45 49 49 C 43 53 33 53 33 45 C 32 38 39 30 46 26" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 30 72 L 30 37 L 45 23 L 69 36 L 71 71 Z" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 29 24 L 76 22 L 28 49 L 75 47 L 28 74 L 75 73" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 23 21 C 40 12 60 11 73 16 C 82 18 84 21 83 27 C 82 34 66 30 57 29 C 49 28 46 29 47 34 C 48 40 62 40 71 44 C 88 51 81 70 68 76 C 50 84 27 83 24 70 C 18 53 30 51 44 51 L 57 51 C 64 51 64 45 57 43 C 51 42 40 41 34 40 C 27 39 27 34 30 29 C 36 20 48 18 65 19" fill="none"/>
+  </g>
+  </g>
+</svg>

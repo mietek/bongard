@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="52" cy="14" r="2.45" stroke-width="1.45"/>
+    <circle cx="83" cy="17.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="52.5" cy="24" r="2.45" stroke-width="1.45"/>
+    <circle cx="83" cy="27.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="43" cy="32.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="53" cy="32.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="32" cy="34.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="82" cy="38" r="2.45" stroke-width="1.45"/>
+    <circle cx="23" cy="39.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="53" cy="43" r="2.45" stroke-width="1.45"/>
+    <circle cx="19" cy="48" r="3.05" fill="black" stroke="none"/>
+    <circle cx="80" cy="48.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="53" cy="54.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="71" cy="54.5" r="3.05" fill="black" stroke="none"/>
+    <circle cx="61" cy="55.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="16.5" cy="57.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="53" cy="65" r="2.45" stroke-width="1.45"/>
+    <circle cx="15" cy="66" r="2.45" stroke-width="1.45"/>
+    <circle cx="13.5" cy="76" r="2.45" stroke-width="1.45"/>
+    <circle cx="52.5" cy="76.5" r="2.45" stroke-width="1.45"/>
+    <circle cx="63" cy="77.5" r="3.05" fill="black" stroke="none"/>
+    <circle cx="72" cy="77" r="2.45" stroke-width="1.45"/>
+  </g>
+</svg>

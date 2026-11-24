@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="75.67" cy="27.67" r="4.35" fill="black" stroke="none" stroke-width="0"/>
+    <circle cx="37.05" cy="36.74" r="3.35" fill="white" stroke="black" stroke-width="1.75"/>
+    <circle cx="55.48" cy="48.42" r="4.35" fill="black" stroke="none" stroke-width="0"/>
+    <circle cx="78.21" cy="54.92" r="3.35" fill="white" stroke="black" stroke-width="1.75"/>
+    <circle cx="15" cy="57" r="3.35" fill="white" stroke="black" stroke-width="1.75"/>
+    <circle cx="35.55" cy="70.2" r="4.35" fill="black" stroke="none" stroke-width="0"/>
+  </g>
+</svg>

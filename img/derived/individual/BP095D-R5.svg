@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+<defs><clipPath id="BP095D-R5-bounds"><path d="M 15.1 47.5 C 15.1 35.5 19.2 29.1 26.4 29.1 C 34.2 29.1 40.4 40.4 50.9 40.8 C 61.5 41.2 66.9 27 76.2 26.9 C 85.2 26.8 89.2 34.5 89.2 47.4 C 89.2 68.4 73.3 86.4 51.4 86.4 C 29.2 86.4 15.1 70.3 15.1 47.5 Z" fill="black" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/></clipPath></defs>
+    <path d="M -1 -5.75 L 101 -5.75 M -1 1.1 L 101 1.1 M -1 7.95 L 101 7.95 M -1 14.8 L 101 14.8 M -1 21.65 L 101 21.65 M -1 28.5 L 101 28.5 M -1 35.35 L 101 35.35 M -1 42.2 L 101 42.2 M -1 49.05 L 101 49.05 M -1 55.9 L 101 55.9 M -1 62.75 L 101 62.75 M -1 69.6 L 101 69.6 M -1 76.45 L 101 76.45 M -1 83.3 L 101 83.3 M -1 90.15 L 101 90.15 M -1 97 L 101 97 M -1 103.85 L 101 103.85" fill="none" stroke="black" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#BP095D-R5-bounds)"/>
+    <path d="M 15.1 47.5 C 15.1 35.5 19.2 29.1 26.4 29.1 C 34.2 29.1 40.4 40.4 50.9 40.8 C 61.5 41.2 66.9 27 76.2 26.9 C 85.2 26.8 89.2 34.5 89.2 47.4 C 89.2 68.4 73.3 86.4 51.4 86.4 C 29.2 86.4 15.1 70.3 15.1 47.5 Z" fill="none" stroke="black" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

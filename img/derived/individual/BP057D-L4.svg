@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 19.5,40.56 C 19.5,31.98 25.9,26.92 33.9,31.76 C 38.7,35.06 42.7,35.72 47.5,32.86 C 61.1,24.72 66.7,41.44 51.1,48.7 C 38.3,55.3 21.5,52 19.5,40.56" fill="black"/>
+    <path d="M 42.5,71.06 C 42.5,62.48 48.9,57.42 56.9,62.26 C 61.7,65.56 65.7,66.22 70.5,63.36 C 84.1,55.22 89.7,71.94 74.1,79.2 C 61.3,85.8 44.5,82.5 42.5,71.06" fill="black"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+<defs><clipPath id="BP095D-R3-bounds"><path d="M 28.6 54 C 28.8 41.9 36.1 30.1 46.4 29.8 C 50.9 29.7 52 32 57.6 32 C 63 32 65.7 28.7 69.6 29.7 C 79.3 32.2 86.1 44 85.9 55.4 C 85.7 71.7 73 83.5 57 83.5 C 40.7 83.5 28.3 71.8 28.6 54 Z" fill="black" stroke="none" stroke-width="0" stroke-linejoin="round" stroke-linecap="round"/></clipPath></defs>
+    <path d="M -1 -4.1 L 101 -4.1 M -1 2.6 L 101 2.6 M -1 9.3 L 101 9.3 M -1 16 L 101 16 M -1 22.7 L 101 22.7 M -1 29.4 L 101 29.4 M -1 36.1 L 101 36.1 M -1 42.8 L 101 42.8 M -1 49.5 L 101 49.5 M -1 56.2 L 101 56.2 M -1 62.9 L 101 62.9 M -1 69.6 L 101 69.6 M -1 76.3 L 101 76.3 M -1 83 L 101 83 M -1 89.7 L 101 89.7 M -1 96.4 L 101 96.4 M -1 103.1 L 101 103.1" fill="none" stroke="black" stroke-width="0.9" stroke-linejoin="round" stroke-linecap="round" clip-path="url(#BP095D-R3-bounds)"/>
+    <path d="M 28.6 54 C 28.8 41.9 36.1 30.1 46.4 29.8 C 50.9 29.7 52 32 57.6 32 C 63 32 65.7 28.7 69.6 29.7 C 79.3 32.2 86.1 44 85.9 55.4 C 85.7 71.7 73 83.5 57 83.5 C 40.7 83.5 28.3 71.8 28.6 54 Z" fill="none" stroke="black" stroke-width="1.9" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

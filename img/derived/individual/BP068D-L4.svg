@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 43.5 35.5 C 41.18 46.7 40.85 58.03 42.5 69.5"/>
+    <path d="M 58.5 37.5 C 57.82 51.08 48.36 60.33 42.5 69.5"/>
+    <path d="M 58.5 37.5 C 58.85 30.42 57.03 23.17 57.5 15.5"/>
+    <path d="M 58.5 37.5 C 65.23 32.09 70.23 25.42 73.5 17.5"/>
+    <path d="M 42.5 69.5 C 39.76 73.79 37.09 77.82 32.5 80.5"/>
+  </g>
+</svg>

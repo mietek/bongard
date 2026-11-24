@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 17 29 C 15 48 38 61 50.5 43 C 48 61 64 79 82 68" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="29.75" cy="54.03" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="61.87" cy="72.62" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 19.5 31.5 C 35 31 46 51 42 70 C 51 53 69 39 84.5 33" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="30.96" cy="39.62" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="70.52" cy="44.22" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 15 43.4 C 33 40.6 43 52 45 67 C 65 72 83 51 74 26.5" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="38.99" cy="46.72" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="77.23" cy="52.48" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 22 35.7 C 38 35 61 46 70.5 63.5 C 77 57 81.4 44 81.1 35.8" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="77.37" cy="41.07" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="42.86" cy="43.63" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 11.8 18.7 C 22 9 38 19 33.5 33 C 26 48 43 64 57.5 50 C 49 65 59.2 78.8 70 75.5 C 78 72 85.5 78 90.6 86" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="39.27" cy="49.7" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="57.67" cy="76.06" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 15.5 40.5 C 28 20 51 29 51.5 51.5 C 64 24.5 93 36.5 82.2 67.2" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="38.85" cy="33.88" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="65.3" cy="40.9" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 19.8 32.8 C 18.6 46 25 60.5 35.5 66.5 C 49 47 68.7 36 87.7 42.5" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="75.92" cy="43.98" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="43.27" cy="52.21" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 16.6 60.7 C 53.2 77 49.5 20.5 72.8 26.5 C 64.1 45.5 67.6 63.5 82.5 66.5" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="58.9" cy="27.18" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="39.91" cy="63.89" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 19.5 66.5 C 22 52 38 43.5 54.4 52.8 C 56 33 71 24 86 32.4" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="43.84" cy="45.75" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="17.11" cy="62.26" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 15.3 58 C 23.2 54.5 30.5 47 36.5 40.8 C 40.8 68.4 61 86 89.5 78.5" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="44.39" cy="55.55" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="69.48" cy="83" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 27 20.5 C 18.8 40 28.1 55.5 40.7 63.4 C 48.7 44.1 61 29.6 79 30.3" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="73.24" cy="34" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="49.32" cy="53.48" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 18 52.9 C 36.5 74 60.5 67.8 53.1 39.5 C 70.6 51.4 82.2 33.9 81 11.4" fill="none" stroke="black" stroke-width="1.8"/>
+    <circle cx="77.47" cy="19.83" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="66.19" cy="46.53" r="3.25" fill="white" stroke="black" stroke-width="1.7"/>
+  </g>
+  </g>
+</svg>

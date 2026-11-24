@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 21.5 62 L 37.5 61.5"/>
+    <path d="M 27.5 24.5 L 54 29.5"/>
+    <path d="M 37.5 61.5 L 41 77"/>
+    <path d="M 37.5 61.5 L 54 29.5"/>
+    <path d="M 37.5 61.5 L 54.5 61"/>
+    <path d="M 41.5 17.5 L 58.5 14.5"/>
+    <path d="M 54 29.5 L 58.5 14.5"/>
+    <path d="M 54.5 61 L 66 73.5"/>
+    <path d="M 54.5 61 L 81.5 53.5"/>
+    <path d="M 76.5 17.5 L 81.5 53.5"/>
+    <path d="M 81.5 53.5 L 84 74"/>
+    <circle cx="13" cy="41.25" r="3.5" fill="white"/>
+    <circle cx="21.5" cy="62" r="3.5" fill="white"/>
+    <circle cx="25.5" cy="41.25" r="3.5" fill="white"/>
+    <circle cx="27.5" cy="24.5" r="3.5" fill="white"/>
+    <circle cx="37.5" cy="61.5" r="3.5" fill="white"/>
+    <circle cx="38.5" cy="41.25" r="3.5" fill="white"/>
+    <circle cx="41" cy="77" r="3.5" fill="white"/>
+    <circle cx="41.5" cy="17.5" r="3.5" fill="white"/>
+    <circle cx="54" cy="29.5" r="3.5" fill="white"/>
+    <circle cx="54.5" cy="61" r="3.5" fill="white"/>
+    <circle cx="56" cy="41.25" r="3.5" fill="white"/>
+    <circle cx="58.5" cy="14.5" r="3.5" fill="white"/>
+    <circle cx="66" cy="73.5" r="3.5" fill="white"/>
+    <circle cx="70.5" cy="41.25" r="3.5" fill="white"/>
+    <circle cx="76.5" cy="17.5" r="3.5" fill="white"/>
+    <circle cx="81.5" cy="53.5" r="3.5" fill="white"/>
+    <circle cx="84" cy="74" r="3.5" fill="white"/>
+    <circle cx="88" cy="41.25" r="3.5" fill="white"/>
+  </g>
+</svg>

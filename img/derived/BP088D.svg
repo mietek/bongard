@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="19.75" y="15" width="11.5" height="21" rx="5.75" fill="black"/>
+    <rect x="68.75" y="27" width="11.5" height="21" rx="5.75" fill="black"/>
+    <rect x="36.25" y="58.5" width="11.5" height="21" rx="5.75" fill="black"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="33.75" y="37.5" width="10.5" height="21" rx="5.25"/>
+    <rect x="44.25" y="37.5" width="10.5" height="21" rx="5.25"/>
+    <rect x="54.75" y="37.5" width="10.5" height="21" rx="5.25"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="31" y="17" width="11" height="21" rx="5.5"/>
+    <rect x="42" y="17" width="11" height="21" rx="5.5" fill="black"/>
+    <rect x="72" y="45.5" width="11" height="21" rx="5.5"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="37" y="23" width="12" height="21" rx="6"/>
+    <rect x="49" y="23" width="12" height="21" rx="6"/>
+    <rect x="20" y="58" width="12" height="21" rx="6" fill="black"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="32.88" y="30" width="10.75" height="21" rx="5.38"/>
+    <rect x="43.62" y="30" width="10.75" height="21" rx="5.38" fill="black"/>
+    <rect x="54.38" y="30" width="10.75" height="21" rx="5.38"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="37.88" y="60.5" width="10.75" height="21" rx="5.38" fill="black"/>
+    <rect x="48.62" y="60.5" width="10.75" height="21" rx="5.38"/>
+    <rect x="59.38" y="60.5" width="10.75" height="21" rx="5.38" fill="black"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="10.5" y="11" width="11" height="21" rx="5.5"/>
+    <rect x="58" y="15" width="11" height="21" rx="5.5"/>
+    <rect x="80.5" y="21.5" width="11" height="21" rx="5.5" fill="black"/>
+    <rect x="36.5" y="44.5" width="11" height="21" rx="5.5"/>
+    <rect x="70" y="60" width="11" height="21" rx="5.5"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="20.75" y="33.5" width="10.5" height="21" rx="5.25"/>
+    <rect x="31.25" y="33.5" width="10.5" height="21" rx="5.25" fill="black"/>
+    <rect x="41.75" y="33.5" width="10.5" height="21" rx="5.25"/>
+    <rect x="52.25" y="33.5" width="10.5" height="21" rx="5.25"/>
+    <rect x="62.75" y="33.5" width="10.5" height="21" rx="5.25"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="15" y="22.5" width="10" height="21" rx="5"/>
+    <rect x="25" y="22.5" width="10" height="21" rx="5" fill="black"/>
+    <rect x="35" y="22.5" width="10" height="21" rx="5"/>
+    <rect x="58" y="64.5" width="10" height="21" rx="5"/>
+    <rect x="68" y="64.5" width="10" height="21" rx="5" fill="black"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12.75" y="19" width="10.5" height="21" rx="5.25"/>
+    <rect x="52.5" y="19" width="10.5" height="21" rx="5.25"/>
+    <rect x="63" y="19" width="10.5" height="21" rx="5.25"/>
+    <rect x="23.5" y="64" width="10.5" height="21" rx="5.25"/>
+    <rect x="34" y="64" width="10.5" height="21" rx="5.25"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12.12" y="13.5" width="10.75" height="21" rx="5.38" fill="black"/>
+    <rect x="74.62" y="13" width="10.75" height="21" rx="5.38" fill="black"/>
+    <rect x="30.25" y="35" width="10.75" height="21" rx="5.38"/>
+    <rect x="41" y="35" width="10.75" height="21" rx="5.38" fill="black"/>
+    <rect x="69.62" y="63" width="10.75" height="21" rx="5.38" fill="black"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="22.88" y="34.5" width="10.25" height="21" rx="5.12" fill="black"/>
+    <rect x="33.12" y="34.5" width="10.25" height="21" rx="5.12"/>
+    <rect x="43.38" y="34.5" width="10.25" height="21" rx="5.12"/>
+    <rect x="53.62" y="34.5" width="10.25" height="21" rx="5.12"/>
+    <rect x="63.88" y="34.5" width="10.25" height="21" rx="5.12" fill="black"/>
+  </g>
+  </g>
+</svg>

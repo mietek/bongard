@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 26.667 31.333 C 28 20.667 37.333 16.667 51.333 16 C 65.333 14 72.667 18 74.667 26 Q 76.667 34 71.333 41.333 Q 70 50.667 72.667 58 L 84.667 78.667 L 22.667 78.667 Q 14 73.333 22.667 65.333 L 29.333 60 L 66 59.333 L 65.333 41.333 Q 64 38.667 57.333 39.333 C 50.667 40 39.333 46 30.667 44 Q 24 43.333 26.667 31.333 Z"/>
+  </g>
+</svg>

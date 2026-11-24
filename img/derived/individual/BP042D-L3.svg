@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="24.5,22.5 60,23.6 56.5,75 20,73.5" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="79.5" cy="28.5" r="4.35" fill="black" stroke="none" stroke-width="0"/>
+    <circle cx="32.24" cy="35.65" r="4.35" fill="black" stroke="none" stroke-width="0"/>
+    <circle cx="40" cy="49.21" r="4.35" fill="black" stroke="none" stroke-width="0"/>
+    <circle cx="48.26" cy="63.64" r="4.35" fill="black" stroke="none" stroke-width="0"/>
+  </g>
+</svg>

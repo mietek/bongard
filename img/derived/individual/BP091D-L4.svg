@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 44.35 16.57 L 44.35 28.97 L 53.65 28.97 L 53.65 16.57 A 29.8 29.8 0 0 1 76.82 56.69 L 66.08 50.49 L 61.43 58.54 L 72.17 64.74 A 29.8 29.8 0 0 1 25.83 64.74 L 36.57 58.54 L 31.92 50.49 L 21.18 56.69 A 29.8 29.8 0 0 1 44.35 16.57 Z"/>
+  </g>
+</svg>

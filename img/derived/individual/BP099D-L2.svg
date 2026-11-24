@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+<ellipse cx="44.5" cy="35.5" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="61" cy="36" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="82" cy="41" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="22" cy="42.5" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="11.5" cy="48" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="91" cy="50.5" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="11" cy="59" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="91.5" cy="63.5" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="21.5" cy="69.5" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="83" cy="70" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="35.5" cy="73" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="54.5" cy="73" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <ellipse cx="70" cy="73" rx="3.21" ry="3.21" fill="none" stroke="black" stroke-width="1.65"/>
+    <path d="M 57.5 10.75 L 52.4 18.8 L 62.6 18.8 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 43.5 13.75 L 38.4 21.8 L 48.6 21.8 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 68 17.75 L 62.9 25.8 L 73.1 25.8 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 32 28.25 L 26.9 36.3 L 37.1 36.3 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 70 36.75 L 64.9 44.8 L 75.1 44.8 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 32.5 45.25 L 27.4 53.3 L 37.6 53.3 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 70 52.25 L 64.9 60.3 L 75.1 60.3 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 40 57.25 L 34.9 65.3 L 45.1 65.3 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 70 78.05 L 64.9 86.1 L 75.1 86.1 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 46 74.25 L 40.9 82.3 L 51.1 82.3 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M 56.5 80.75 L 51.4 88.8 L 61.6 88.8 Z" fill="none" stroke="black" stroke-width="1.55" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="42.94" cy="49.09" rx="25.52" ry="24.26" transform="rotate(93.57 42.94 49.09)" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="65" cy="20.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="45.5" cy="46.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="78.5" cy="47" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="36" cy="47.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="39.5" cy="56" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="58" cy="76" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="69.55" cy="60.63" rx="14.32" ry="13.47" transform="rotate(92.08 69.55 60.63)" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="25.5" cy="30" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="78" cy="30" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="70" cy="55.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="67" cy="64" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="73" cy="68" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="14.5" cy="76.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="47,31.99 80.07,30.05 82.98,66.03 49.92,69.94" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="34" cy="19.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="18.5" cy="48" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="74.5" cy="48.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="66.5" cy="53.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="74" cy="57" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="37.5" cy="78" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="51.12" cy="47.74" rx="23.93" ry="9.29" transform="rotate(129.05 51.12 47.74)" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="83" cy="18.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="14.5" cy="33" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="56" cy="41" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="50" cy="48.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="45" cy="55" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="27.5" cy="80" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="26.06,73.08 47.58,15.2 82.9,72.14" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="81" cy="23" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="20" cy="29.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="57" cy="49" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="49" cy="51" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="53.5" cy="57" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="56.5" cy="79.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="46.26" cy="51.79" rx="26.01" ry="24.16" transform="rotate(88.07 46.26 51.79)" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="20" cy="23" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="49.5" cy="43" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="82" cy="45" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="42.5" cy="49" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="51.5" cy="51" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="80" cy="62" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="34.32" cy="56.23" rx="25.09" ry="9.5" transform="rotate(71.98 34.32 56.23)" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="71" cy="34" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="78.5" cy="38.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="69" cy="43" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="29" cy="45.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="39" cy="58" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="38" cy="70.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="16.2,43.55 39.55,14.2 63.81,41.61 47.39,81.81" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="46" cy="36" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="29" cy="46.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="82" cy="64.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="71" cy="66" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="45.5" cy="70" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="78" cy="74" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="50.98" cy="34.14" rx="32.23" ry="18.81" transform="rotate(0.69 50.98 34.14)" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="50.5" cy="27" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="71.5" cy="36" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="33.5" cy="38" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="48" cy="61" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="48" cy="70" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="48" cy="78" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="54.6,12.19 79.86,50.21 41.96,59.97" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="58" cy="29.5" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="29" cy="34" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="21" cy="37" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="27" cy="43" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="69" cy="46" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="50.5" cy="50" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="63.65" cy="41.05" rx="26" ry="23.85" transform="rotate(91.76 63.65 41.05)" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="77" cy="34" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="55" cy="35" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="62" cy="59" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="19" cy="66" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="13" cy="73" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="26.5" cy="75" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g stroke-linecap="round" stroke-linejoin="round">
+    <polygon points="58.12,19.09 55.14,75.9 23.82,78.87 18.91,21.07" fill="white" stroke="black" stroke-width="1.7"/>
+    <circle cx="39" cy="29" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="83" cy="33" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="74.5" cy="44" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="85" cy="45" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="37.5" cy="51" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+    <circle cx="38.5" cy="69" r="1.9" fill="white" stroke="black" stroke-width="1.45"/>
+  </g>
+  </g>
+</svg>

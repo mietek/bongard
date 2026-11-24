@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g fill="none" stroke="black" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="83.56" cy="23.39" r="5.85"/>
+    <circle cx="78.33" cy="33.92" r="5.85"/>
+    <circle cx="73.25" cy="44.54" r="5.85"/>
+    <circle cx="20.05" cy="47.23" r="5.85"/>
+    <circle cx="67.37" cy="54.74" r="5.85"/>
+    <circle cx="59.33" cy="63.33" r="5.85"/>
+    <circle cx="36.36" cy="63.93" r="5.85"/>
+    <circle cx="47.91" cy="66.16" r="5.85"/>
+    <circle cx="27.16" cy="56.6" r="6.65" fill="black" stroke="none"/>
+  </g>
+</svg>

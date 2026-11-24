@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515 326" width="515" height="326">
+  <rect width="515" height="326" fill="white"/>
+  <rect x="257" y="0" width="1" height="326" fill="black"/>
+  <rect x="7.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="7.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="115.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="5.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="113.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="300.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <rect x="408.5" y="221.5" width="99" height="99" fill="white" stroke="black"/>
+  <g transform="translate(7 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 34 18 Q 40 15 45 20 Q 47 23 48 27 Q 50 29 53 27 C 58 23 62 29 62 35 L 63 45 Q 63 50 65 52 Q 66 57 61 61 L 54 67 Q 52 69 47 70 Q 42 71 39 75 Q 34 79 30 72 L 23 63 Q 18 58 21 50 Q 20 45 24 40 L 29 31 Q 33 29 32 24 Q 32 20 34 18 Z" fill="none"/>
+    <circle cx="41.5" cy="40" r="4.45" fill="none"/>
+    <circle cx="54" cy="49" r="4.45" fill="none"/>
+    <circle cx="39" cy="61" r="4.45" fill="none"/>
+    <circle cx="80" cy="62" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 36 21 L 81 20 L 83 51 L 36 57 Z" fill="none"/>
+    <circle cx="70" cy="28.5" r="4.45" fill="none"/>
+    <circle cx="45.5" cy="29.5" r="4.45" fill="none"/>
+    <circle cx="56" cy="41.5" r="4.45" fill="none"/>
+    <circle cx="71" cy="42.5" r="4.45" fill="none"/>
+    <circle cx="24.5" cy="65.5" r="4.45" fill="none"/>
+    <circle cx="50.5" cy="75" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(7 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 33 21 L 66 64 L 21 71 Z" fill="none"/>
+    <circle cx="75" cy="34.5" r="4.45" fill="none"/>
+    <circle cx="38" cy="46" r="4.45" fill="none"/>
+    <circle cx="39.5" cy="59.5" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 59 20 C 71 20 72 46 64 60 C 60 68 55 73 49 71 C 35 69 33 50 39 35 C 43 25 51 21 57 20 Q 58 20 59 20 Z" fill="none"/>
+    <circle cx="79.5" cy="21.5" r="4.45" fill="none"/>
+    <circle cx="17.5" cy="27.5" r="4.45" fill="none"/>
+    <circle cx="48" cy="33.5" r="4.45" fill="none"/>
+    <circle cx="59" cy="37.5" r="4.45" fill="none"/>
+    <circle cx="43.5" cy="47.5" r="4.45" fill="none"/>
+    <circle cx="79" cy="48.5" r="4.45" fill="none"/>
+    <circle cx="58" cy="49.5" r="4.45" fill="none"/>
+    <circle cx="48" cy="61.5" r="4.45" fill="none"/>
+    <circle cx="78" cy="71.5" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(7 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 61 23 C 64 18 73 19 79 26 C 84 31 89 40 88 47 C 89 58 82 64 74 61 C 64 58 58 49 58 39 C 58 33 58 27 61 23 Z" fill="none"/>
+    <circle cx="73" cy="39.5" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(115 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 36 39 L 84 35 L 86 71 L 36 78 Z" fill="none"/>
+    <circle cx="75.5" cy="18.5" r="4.45" fill="none"/>
+    <circle cx="21.5" cy="27" r="4.45" fill="none"/>
+    <circle cx="74" cy="45.5" r="4.45" fill="none"/>
+    <circle cx="47.5" cy="49" r="4.45" fill="none"/>
+    <circle cx="63.5" cy="56.5" r="4.45" fill="none"/>
+    <circle cx="76" cy="62" r="4.45" fill="none"/>
+    <circle cx="48" cy="65" r="4.45" fill="none"/>
+    <circle cx="20" cy="73.5" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 28 19 L 54 67 L 15 69 Z" fill="none"/>
+    <circle cx="49" cy="19.5" r="4.45" fill="none"/>
+    <circle cx="74" cy="30" r="4.45" fill="none"/>
+    <circle cx="31.5" cy="43.5" r="4.45" fill="none"/>
+    <circle cx="64" cy="57.5" r="4.45" fill="none"/>
+    <circle cx="33" cy="59" r="4.45" fill="none"/>
+    <circle cx="78" cy="71" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 5)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 22 41 Q 20 37 24 34 L 28 32 Q 29 29 34 30 Q 40 25 44 28 Q 47 30 50 29 Q 53 28 54 32 Q 56 35 59 36 Q 56.8 40 60 44 Q 62 46 60 49 Q 59.5 52 61 56 Q 63 61 60 65 Q 61 69 56 70 Q 55 73 52 74 Q 49 74 49 78 Q 47 81 43 80 Q 40 78 37 81 Q 34 83 31 78 Q 29 74 29 71 Q 26 68 26 64 Q 23 61 23 57 Q 23 55 21.2 53 Q 19.7 50 21 45 Z" fill="none"/>
+    <circle cx="26" cy="19.5" r="4.45" fill="none"/>
+    <circle cx="84" cy="52.5" r="4.45" fill="none"/>
+    <circle cx="42" cy="56" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 41 35 L 72 35 L 74 65 L 43 66 Z" fill="none"/>
+    <circle cx="73" cy="19" r="4.45" fill="none"/>
+    <circle cx="30.5" cy="25.5" r="4.45" fill="none"/>
+    <circle cx="65" cy="43" r="4.45" fill="none"/>
+    <circle cx="51" cy="47" r="4.45" fill="none"/>
+    <circle cx="22" cy="50.5" r="4.45" fill="none"/>
+    <circle cx="62" cy="56" r="4.45" fill="none"/>
+    <circle cx="79.5" cy="76.5" r="4.45" fill="none"/>
+    <circle cx="53.5" cy="79" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 113)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 75 26 C 83 26 87 35 86 49 C 85 60 81 66 75 66 C 66 65 63 56 63 46 C 62 35 67 28 75 26 Z" fill="none"/>
+    <circle cx="49" cy="23.5" r="4.45" fill="none"/>
+    <circle cx="75" cy="38.5" r="4.45" fill="none"/>
+    <circle cx="21" cy="53" r="4.45" fill="none"/>
+    <circle cx="76" cy="53" r="4.45" fill="none"/>
+    <circle cx="49" cy="73.5" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(300 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 51 25 C 65 25 74 38 73 53 C 72 67 63 78 49 77 C 35 77 24 68 24 51 C 23 38 34 25 48 25 Q 50 25 51 25 Z" fill="none"/>
+    <circle cx="68" cy="18" r="4.45" fill="none"/>
+    <circle cx="20.5" cy="22" r="4.45" fill="none"/>
+    <circle cx="82" cy="30.5" r="4.45" fill="none"/>
+    <circle cx="60" cy="41.5" r="4.45" fill="none"/>
+    <circle cx="41.5" cy="44" r="4.45" fill="none"/>
+    <circle cx="49" cy="58.5" r="4.45" fill="none"/>
+    <circle cx="85" cy="60" r="4.45" fill="none"/>
+    <circle cx="61.5" cy="63" r="4.45" fill="none"/>
+    <circle cx="18.5" cy="69.5" r="4.45" fill="none"/>
+  </g>
+  </g>
+  <g transform="translate(408 221)">
+<g stroke="black" stroke-width="1.85" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 40 28 L 65 64 L 28 69 Z" fill="none"/>
+    <circle cx="69" cy="28" r="4.45" fill="none"/>
+    <circle cx="73" cy="49" r="4.45" fill="none"/>
+  </g>
+  </g>
+</svg>

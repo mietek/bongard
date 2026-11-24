@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="10cm" height="10cm" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="white"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="52.71" cy="47.49" rx="42" ry="25.71" transform="rotate(133.59 52.71 47.49)" fill="black" stroke="none" stroke-width="0"/>
+    <ellipse cx="53.43" cy="48.24" rx="10.91" ry="5.17" transform="rotate(43.59 53.43 48.24)" fill="white" stroke="none" stroke-width="0"/>
+  </g>
+</svg>
