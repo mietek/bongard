@@ -375,6 +375,7 @@
       "difficulty": "easy"
     },
     "derived": {
+      "image": "img/derived/BP010D.svg",
       "rule": "Each left outline is triangular when small teeth along its sides are ignored. Each right outline is a convex quadrilateral when viewed the same way."
     }
   },
