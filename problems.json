@@ -338,7 +338,7 @@
     },
     "derived": {
       "image": "img/derived/BP009D.svg",
-      "rule": "Each left figure has an outline without wiggles. Each right figure has a wiggly outline."
+      "rule": "Each left figure has an outline without repeated waves or spikes. Each right figure has repeated waves or spikes along its outline."
     }
   },
   "BP010": {
